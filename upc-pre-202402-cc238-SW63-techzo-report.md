@@ -74,6 +74,8 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 
 
+## 1.2 Solution Profile
+La propuesta se basa en una aplicación móvil llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación móvil conectará a usuarios de distintas partes a través de sus dispositivos y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
 
 </div>
 

@@ -37,16 +37,16 @@
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-**Nombre:**  TechZo
+**Nombre:**  MaCo
 
 **Área:**  Innovación tecnológica y Reutilización
 
-TechZo es una startup que está conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. La compañía pretende abordar y contribuir con el crecimiento del desarrollo sostenible del país, alentando a la cultura de consumo responsable y una economía circular. Es por ello que se ha propuesto como medida de solución la creación de la aplicación movil CambiaZo.
+MaCo es una startup que está conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. La compañía pretende abordar y contribuir con el crecimiento del desarrollo sostenible del país, alentando a la cultura de consumo responsable y una economía circular. Es por ello que se ha propuesto como medida de solución la creación de la aplicación movil CambiaZo.
 
-* **Misión:**  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, facilitando el intercambio de bienes y artículos entre usuarios de manera segura y justa sin necesidad de realizar transacciones monetarias. Buscamos presentar un concepto sólido y alineado con las tendencias de consumo responsable y economía circular, permitiendo a los usuarios intercambiar objetos que ya no desean por otros que necesitan o les interesan actualmente.<br><br>Entendemos la importancia de la seguridad y veracidad en el proceso del intercambio de artículos, de modo que sea justo y beneficioso para ambas partes. Por lo tanto, nos esforzamos para asegurar que los usuarios puedan visualizar todos los detalles de los productos ofrecidos para intercambiar, y que puedan despejar todas sus dudas antes de realizar el intercambio, para que de este modo no haya ninguna insatisfacción por parte de los usuarios. Además, con la aplicación movil CambiaZo, queremos apoyar a la comunidad agregando una opción para que los usuarios puedan realizar donaciones de artículos a personas de escasos recursos económicos.
+* **Misión:**  La misión de MaCo como empresa es promover un estilo de vida sostenible y consciente, facilitando el intercambio de bienes y artículos entre usuarios de manera segura y justa sin necesidad de realizar transacciones monetarias. Buscamos presentar un concepto sólido y alineado con las tendencias de consumo responsable y economía circular, permitiendo a los usuarios intercambiar objetos que ya no desean por otros que necesitan o les interesan actualmente.<br><br>Entendemos la importancia de la seguridad y veracidad en el proceso del intercambio de artículos, de modo que sea justo y beneficioso para ambas partes. Por lo tanto, nos esforzamos para asegurar que los usuarios puedan visualizar todos los detalles de los productos ofrecidos para intercambiar, y que puedan despejar todas sus dudas antes de realizar el intercambio, para que de este modo no haya ninguna insatisfacción por parte de los usuarios. Además, con la aplicación movil CambiaZo, queremos apoyar a la comunidad agregando una opción para que los usuarios puedan realizar donaciones de artículos a personas de escasos recursos económicos.
 
 
-* **Visión:**  La visión de Techzo es convertirse en la principal plataforma digital de intercambio de productos básicos que promueva una vida sostenible y consciente a nivel mundial. Nos esforzamos por ser líderes en el cambio hacia una economía circular, donde cada acto de comunicación coopere a reducir nuestro impacto en el medio ambiente y a construir una comunidad más solidaria y conectada.
+* **Visión:**  La visión de MaCo es convertirse en la principal plataforma digital de intercambio de productos básicos que promueva una vida sostenible y consciente a nivel mundial. Nos esforzamos por ser líderes en el cambio hacia una economía circular, donde cada acto de comunicación coopere a reducir nuestro impacto en el medio ambiente y a construir una comunidad más solidaria y conectada.
 
 * **Valores:**  
 
@@ -227,7 +227,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 </div>
 
 ## 1.3 Segmentos Objetivo
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, MaCo se enfocará en los siguientes segmentos de la población:
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los productos que ya no desean tener y adquirir nuevos artículos de su interés.
     + **Características demográficas:** Personas entre 18 y 55 años de edad que poseen artículos que ya no utilizan ni desean, y están interesados en intercambiarlos por otros que sí les interesen o necesiten.
@@ -310,7 +310,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.png?raw=true"alt="Trueques.com logo" /></div>
+		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
 		</td>
     <td>
 		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>

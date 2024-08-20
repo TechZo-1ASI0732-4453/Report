@@ -74,6 +74,41 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 
 
+## 1.2 Solution Profile
+La propuesta se basa en una aplicación móvil llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación móvil conectará a usuarios de distintas partes a través de sus dispositivos y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
+
+
+### 1.2.1 Antecedentes y problemática
+Se sabe que la cultura de desarrollo sostenible está tomando impulso en los últimos años. Es por ello que diversas empresas del mundo están empezando a implementar este pensamiento en sus trabajadores y políticas. A continuación, se explicará con más detalle el desafío al cual se enfrenta este nuevo estilo de vida.
+
+Según un reporte del portal INFOBAE del presente año 2024, se menciona sobre las estimaciones realizadas de la ONU sobre el crecimiento de la población mundial. De acuerdo a ello, se espera que la población mundial aumente en 2000 millones de personas en los próximos 30 años, llegando a una cifra total de 9700 millones de personas para el año 2050. Cada una de estas personas generará sus propios residuos, que multiplicados por toda la población mundial se convierten en una cifra gigantesca. Es frente a este futuro escenario en donde entra nuestra propuesta de solución, CambiaZo.
+
+Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
+
+**5W's y 2H's**
+
+* **What?**
+La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.<br><br>
+
+
+* **Why?**
+Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.<br><br>
+
+* **Who?**
+Público en general y personas que más necesitan de apoyo de recursos.<br><br>
+
+* **When?**
+Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
+
+* **Where?**
+Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.<br><br>
+
+* **How?**
+Se implementará una propuesta de solución mediante el desarrollo de una aplicación móvil que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+
+* **How much?**
+El presupuesto varía dependiendo de cuanta información se
+requiera para el desarrollo del aplicativo web. Sin embargo se considera un aproximado de s/. 7 000.
 
 </div>
 

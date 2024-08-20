@@ -254,11 +254,16 @@ Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los p
     + **Características geográficas:** Personas que residen en Perú.<br><br>
 
 
+---
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+
 ## 2.1 Competidores
 
 En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
 
-Según la investigación, se descubrieron apps webs y/o aplicaciones móviles similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
+Según la investigación, se descubrieron aplicaciones móviles y/o apps webs similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
 
 * **Trueques.com**<br>
 Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.
@@ -405,6 +410,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 </tbody>
 </table>
 
+
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechas las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
@@ -433,3 +439,97 @@ Para ambos segmentos, implementaremos una estrategia de marketing centrada en la
 - Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir nuestra base de usuarios.
 - Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
 - Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
+
+
+## 2.2 Entrevistas
+
+En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
+
+
+### 2.2.1 Diseño de entrevistas
+
+**Preguntas sobre información personal**
+
+*	¿Cuál es su nombre completo?
+*	¿Qué edad tienes?
+*	¿A qué te dedicas?
+*	¿Cuál es tu estado civil?
+*	¿En qué ciudad resides?
+*	¿Eres extrovertido o calmado?
+*	¿Eres una persona que toma decisiones analizando los hechos o te dejas llevar por tus sentimientos?
+*	¿Qué smartphone posee? ¿Android o IOS?
+*	¿Usas aplicaciones o programas en especial? ¿Cuáles?<br><br>
+
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta obtener nuevos objetos a través del intercambio.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma se contacta con otras personas al momento de querer intercambiar alguno de los objetos que ya no usa?
+2. ¿Cómo ha sido su experiencia previa con aplicaciones de intercambio de productos?
+3. ¿Qué tipo de productos considera más viables para intercambiar a través de una aplicación movil?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones o dudas que tendría al utilizar una aplicación de intercambio de productos por primera vez?
+5. ¿Qué características o funciones consideraría primordiales para sentirse seguro y cómodo al realizar intercambios en línea?
+6. ¿Cómo cree usted que una aplicación movil de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
+7. ¿Qué tipo de productos considera que tendrían mayor demanda por parte de personas de su edad y ubicación geográfica?
+
+**Verificación:**
+
+8. ¿Qué medidas tomaría para estar seguro de que los productos que está intercambiando cumplen con sus expectativas?
+9. ¿Cómo cree que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la aplicación?
+10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una aplicación movil de intercambios en línea como CambiaZo?
+
+**Medición:**
+
+11. ¿Qué beneficios espera obtener al utilizar una aplicación como CambiaZo en comparación con otros métodos de adquisición de productos?
+12. ¿Cómo considera que las personas pueden contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad?
+13. ¿Cuál considera que es el mayor desafío que enfrenta la sociedad en Lima en la actualidad para mantener un consumo consciente, y cómo cree que podría tratarse?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta realizar donaciones a personas de escasos recursos.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma ha realizado donaciones a personas con escasos recursos económicos?
+2. ¿Cómo ha sido su experiencia previa con la donación de artículos a personas necesitadas o a organizaciones benéficas?
+3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una aplicación movil como CambiaZo?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones que tendría al utilizar una aplicación como CambiaZo por primera vez?
+5. ¿Qué funciones o características buscaría en una aplicación movil al momento de querer realizar una donación en línea?
+6. ¿Cómo cree que una aplicación movil como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
+
+**Verificación:**
+
+7. ¿Cómo podría una aplicación como CambiaZo garantizar la transparencia y autenticidad de las donaciones realizadas?
+8. ¿Qué importancia le otorgaría a la posibilidad de seguir el destino de sus donaciones y conocer el impacto que tienen en la comunidad receptora?
+9. ¿Qué criterios utilizaría para verificar la confiabilidad y legitimidad de una plataforma de donaciones en línea como CambiaZo?
+
+**Medición:**
+
+10. ¿Qué beneficios espera obtener al realizar donaciones utilizando CambiaZo en comparación con otros métodos de donación tradicionales?
+11. ¿Cómo mediría el impacto de sus donaciones a través de una aplicación movil como CambiaZo en términos de ayudar a personas necesitadas?
+12. ¿Qué cambios o mejoras le gustaría ver en la funcionalidad de CambiaZo para que se convierta en una herramienta más efectiva para donar artículos?
+13. ¿Cómo cree que el uso de aplicaciones en las que puede donar, como CambiaZo, podría contribuir al desarrollo de una comunidad más solidaria y conectada en Lima?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>

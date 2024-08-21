@@ -1142,3 +1142,144 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
 </tbody>
 </table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Javier Adolfo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rodríguez Armas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surquillo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Ayudar a personas de escasos recursos económicos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre el destino de las donaciones</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Joel Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/javierrodriguez_interview.png?raw=true" alt="Entrevista Javier Rodríguez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>39:02 min - 44:01 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Javier Adolfo Rodríguez Armas, un estudiante de Derecho de 20 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con la donación de artículos a personas necesitadas y organizaciones benéficas, señalando que si bien ha realizado este tipo de donaciones en el pasado, no siempre ha tenido la certeza de que sus contribuciones lleguen efectivamente a quienes más lo necesitan. Para Javier, una aplicación móvil como CambiaZo podría representar una oportunidad de donar de manera más transparente, con la posibilidad de hacer seguimiento del destino de sus donaciones y conocer su impacto en la comunidad receptora, siendo los artículos más apropiados para donar a través de esta plataforma la ropa, calzado, útiles escolares, juguetes y pequeños electrodomésticos en buen estado; no obstante, Javier también manifiesta preocupaciones relacionadas con la confiabilidad y legitimidad de la aplicación, por lo que valora la posibilidad de verificar su trayectoria y credenciales antes de utilizarla, esperando que el uso de CambiaZo le permita contribuir de manera más efectiva y transparente al desarrollo de una comunidad más solidaria y conectada en Lima.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Andrea Milagros</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cabanillas Gora</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Contribuir con los mas necesitados, donando alimentos y ropa</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupaciones sobre el destino de las donaciones.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>44:02 min - 48:30 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Andrea Cabanillas nos menciona que ha realizado donaciones mediante transferencias y recolección local, y ha encontrado la experiencia gratificante, especialmente al colaborar con organizaciones confiables. Prefiere donar artículos de primera necesidad, ropa y material educativo a través de plataformas como CambiaZo. Sus principales preocupaciones al usar CambiaZo son la seguridad de sus datos y la eficacia del sistema, por lo que considera esenciales una interfaz fácil de usar, seguimiento de donaciones y opciones detalladas para seleccionar proyectos o beneficiarios. Valora la transparencia y los informes sobre el uso de fondos como cruciales para verificar la confiabilidad de CambiaZo. Aprecia la facilidad y rapidez en el proceso de donación, así como la posibilidad de ver el impacto directo de sus contribuciones. Además, cree que una mejor personalización de las donaciones y opciones de interacción con los beneficiarios en CambiaZo mejorarían la cohesión social y aumentarían la conciencia sobre las necesidades locales.
+</td>
+  </tr>
+</tbody>
+</table>
+<br>

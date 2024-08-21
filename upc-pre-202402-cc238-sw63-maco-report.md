@@ -32,6 +32,45 @@
 <br><div align="center"><h3>Agosto 2024</h3></div><br>
 ---
 <div style="text-align: justify;">
+
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
+**ABET – EAC - Student Outcome 7**<br>
+**Criterio:** Capacidad de comunicarse efectivamente con una variedad de audiencias.<br><br>
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones enunciadas por el grupo, que permiten sustentar el logro del ABET – EAC - Student Outcome 7.<br><br>
+
+<table >
+  <thead>
+    <tr>
+      <th colspan="3"><b>Criterio específico</b></th>
+      <th colspan="3"><b>Acciones realizadas</b></th>
+      <th colspan="3"><b>Conclusiones</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td colspan="3">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
+      <td colspan="3" align = "justify">
+      <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>   </p>
+      <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>   </p>
+      <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>  </p>
+      <h3>Jeremy Joel Quispe Andia</h3><b>TB1</b><p>He trabajado intensamente en la definición de User Stories claras y efectivas que reflejan las necesidades identificadas de nuestros usuarios, garantizando que todos los requisitos del usuario estén adecuadamente representados en nuestro desarrollo de producto. Esta actividad fue complementada por la creación de una propuesta de valor diferenciada, que establece claramente el alcance y los objetivos de nuestro proyecto. Estos elementos no solo demuestran mi habilidad para pensar innovadoramente, sino que también aseguran que nuestro producto final sea tanto funcional como disruptivo en el mercado.</p><br></td>
+      <td colspan="3"> <b>TB1</b> <p>Al concluir el primer hito de nuestro proyecto, nuestro equipo ha demostrado un crecimiento significativo en el ámbito de soluciones de software, fundamental para nuestro desarrollo profesional continuo. Hemos completado con éxito la definición del problema, realizado una investigación exhaustiva de competidores, y llevado a cabo entrevistas detalladas que han enriquecido considerablemente nuestra comprensión del mercado y las necesidades de los usuarios. Estas actividades nos han permitido formular una propuesta de valor innovadora y diferenciada, reflejada en User Stories bien definidas y un diseño de producto adaptado a las demandas actuales. La comunicación efectiva y la colaboración dentro del equipo han sido claves para integrar diversas perspectivas y habilidades, fortaleciendo nuestro enfoque y asegurando que todos los aspectos del proyecto estén alineados y optimizados para las siguientes etapas del desarrollo. Este progreso inicial no solo ha mejorado nuestras capacidades técnicas, sino que también ha solidificado nuestra cohesión como equipo, preparándonos para enfrentar con confianza los desafíos futuros del proyecto.</p></td>
+    </tr>
+    <tr>
+      <td colspan="3">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
+      <td colspan="3" align = "justify">
+      <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>  </p>
+      <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>   </p>
+      <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>  </p>
+      <h3>Jeremy Joel Quispe Andia</h3><b>TB1</b><p>La tarea de analizar respuestas de entrevistas y construir fichas de Personas me ha permitido aplicar teorías de comportamiento del usuario y psicología de consumo de manera práctica. Este ejercicio ha reforzado la necesidad de un aprendizaje permanente en áreas interdisciplinarias que complementan el desarrollo de software. Entender profundamente a los usuarios y adaptar nuestras soluciones a sus necesidades es un recordatorio constante de cómo el aprendizaje continuo puede influir directamente en la relevancia y el impacto de nuestros proyectos.</p></td>
+      <td colspan="3"><b>TB1</b> <p>Al concluir este primer hito, nuestro equipo ha consolidado la importancia del aprendizaje continuo como piedra angular de nuestro desarrollo profesional y éxito en proyectos de soluciones de software. Cada miembro ha demostrado un compromiso ejemplar con la actualización y aplicación de conocimientos en diversas áreas, desde la definición precisa de problemas hasta el análisis profundo del comportamiento del usuario. Hemos reconocido que mantenerse al día con las últimas tendencias y tecnologías no solo enriquece nuestras propuestas de valor, sino que también refina nuestras habilidades comunicativas y de análisis. Este enfoque proactivo hacia el aprendizaje nos ha permitido crear soluciones innovadoras y efectivas que responden con precisión a las necesidades de nuestros usuarios. La experiencia acumulada en este hito subraya nuestra convicción de que el aprendizaje permanente es fundamental para adaptarse a los desafíos emergentes y para liderar en el dinámico campo del desarrollo de software.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+---
   
 # Capítulo I: Introducción
 ## 1.1 Startup Profile

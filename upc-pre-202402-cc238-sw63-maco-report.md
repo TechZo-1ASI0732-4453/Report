@@ -722,6 +722,145 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table>
 
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Erick Maycol</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Huallullo Cirineo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Relizar intercambios seguros</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>No obtener lo que busca al realizar intercambios a través de Facebook.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>9:56 min - 14:50 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Erick Huallullo nos menciona que al contactar a otros usuarios para intercambiar objetos, utiliza el sistema de mensajería de CambiaZo, lo que ha facilitado una experiencia generalmente positiva y segura. Considera que productos como ropa, libros y pequeños dispositivos electrónicos son los más viables para intercambiar a través de CambiaZo, aunque sus principales preocupaciones al usar la plataforma son la seguridad de la transacción y la autenticidad de los productos. Funciones como la verificación de identidad y un sistema de calificaciones en CambiaZo son esenciales para fomentar la confianza entre los usuarios. Para verificar la confiabilidad de CambiaZo, revisa opiniones en tiendas de aplicaciones y foros. Además, cree que el uso de CambiaZo puede promover un consumo más sostenible, abordando desafíos como la cultura de consumo desmedido en Lima mediante la promoción del reciclaje y la reutilización de productos.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Gonzalo David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Espino Rojas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Promover los modelos de vida con desarrollo sostenible, para impulsar una economía cíclica</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Que sus productos publicados no tengan la relevancia necesaria</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>14:51 min - 19:56 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Gonzalo David Espino Rojas, un estudiante de marketing de 21 años que reside en Lima y posee un smartphone Android, comparte su experiencia personal en el ámbito de los intercambios. Gonzalo señala que en sus intentos previos de realizar este tipo de transacciones, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos y la fiabilidad de los usuarios involucrados, lo cual ha generado incertidumbre y preocupación. Para abordar estas inquietudes, Gonzalo destaca la necesidad de contar con una aplicación móvil que ofrezca diversas funciones y características, como un sistema de calificación y reseñas de los usuarios, un riguroso proceso de verificación de identidad y una sólida política de privacidad y seguridad de datos. Asimismo, Gonzalo enfatiza la importancia de tener una comunidad activa dentro de la plataforma, ya que esto le permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos antes de concretar cualquier intercambio. En general, Gonzalo se muestra interesado en probar una aplicación como CambiaZo, ya que espera obtener beneficios como ahorrar dinero, contribuir al cuidado del medio ambiente y formar parte de una comunidad que promueve un consumo más consciente y sostenible.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+
 
 
 ### **Segmento Donadores**<br>

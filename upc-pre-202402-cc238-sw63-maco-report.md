@@ -572,3 +572,15 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 **Cierre:**
 
 Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+### 2.2.2 Registro de entrevistas
+
+En esta sección presentamos los registros de las entrevistas que realizamos para cada segmento objetivo de nuestra aplicación movil.
+
+
+### **Segmento Intercambiadores**<br>
+
+
+
+### **Segmento Donadores**<br>

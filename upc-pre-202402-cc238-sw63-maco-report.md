@@ -861,6 +861,145 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table><br>
 
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Luis Junior</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valero Medina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Mala experiencia realizando intercambios</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>19:57 min - 25:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Luis Valero, se discutieron sus hábitos y opiniones sobre el intercambio de productos. Luis utiliza grupos de WhatsApp y Facebook para intercambiar objetos, aunque ha tenido experiencias mixtas, con algunos intercambios exitosos y otros problemáticos.Él considera que los productos más viables para intercambiar a través de una aplicación móvil son libros, ropa, gadgets pequeños y artículos para el hogar. Mencionó que, en su entorno, hay una alta demanda de cartas de colección, videojuegos, dispositivos electrónicos y artículos deportivos.Sus principales preocupaciones al usar una nueva aplicación de intercambio incluyen la seguridad y la confiabilidad de los usuarios. Destaca la importancia de contar con calificaciones, verificación de identidad y un chat seguro para sentirse cómodo al realizar intercambios.Luis cree que CambiaZo podría ofrecer una plataforma más segura y confiable para estos intercambios, permitiéndole también ahorrar dinero y acceder a una variedad de productos. Para garantizar la calidad de los artículos, recomendaría pedir imágenes detalladas y revisar la reputación del usuario. Además, cree que la comunidad puede ayudar con reseñas honestas y reportando irregularidades.
+</td>
+  </tr>
+</tbody>
+</table><br>
 
 
 ### **Segmento Donadores**<br>
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ian Joaquin</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Sanchez Alva</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Ayudar a las personas más necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>No saber qué necesitan las ONG’s para realizar su donación</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>25:01 min - 29:57 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Ian Joaquin Sanchez Alva ha realizado donaciones directas a personas y contribuciones a organizaciones benéficas, describiendo su experiencia como positiva y gratificante. Considera que ropa, alimentos no perecederos y artículos de higiene personal son los más adecuados para donar a través de CambiaZo. Sus principales preocupaciones al usar la aplicación por primera vez son la seguridad y privacidad de sus datos. Busca una aplicación fácil de usar, con opciones de seguimiento de donaciones y robusta en seguridad. Cree que CambiaZo puede aumentar las donaciones en Perú facilitando el proceso y visibilizando necesidades urgentes. Valora la transparencia y autenticidad en las donaciones, y considera esencial la posibilidad de seguir el destino de sus contribuciones. Para verificar la confiabilidad de CambiaZo, confía en evaluaciones de usuarios y certificaciones de seguridad. Espera que CambiaZo ofrezca mayor eficiencia y comodidad, permitiendo rastrear el impacto de sus donaciones, y sugiere una mejor integración con redes sociales para ampliar el alcance. Considera que CambiaZo puede contribuir al desarrollo de una comunidad más solidaria y conectada en Lima al fomentar la colaboración y el apoyo mutuo entre los ciudadanos.
+</td>
+  </tr>
+</tbody>
+</table>

@@ -934,7 +934,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 ### **Segmento Donadores**<br>
 
 
-
 <table>
 <colgroup>
 </colgroup>
@@ -999,6 +998,146 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   <tr>
     <td>Resumen</td>
     <td>Ian Joaquin Sanchez Alva ha realizado donaciones directas a personas y contribuciones a organizaciones benéficas, describiendo su experiencia como positiva y gratificante. Considera que ropa, alimentos no perecederos y artículos de higiene personal son los más adecuados para donar a través de CambiaZo. Sus principales preocupaciones al usar la aplicación por primera vez son la seguridad y privacidad de sus datos. Busca una aplicación fácil de usar, con opciones de seguimiento de donaciones y robusta en seguridad. Cree que CambiaZo puede aumentar las donaciones en Perú facilitando el proceso y visibilizando necesidades urgentes. Valora la transparencia y autenticidad en las donaciones, y considera esencial la posibilidad de seguir el destino de sus contribuciones. Para verificar la confiabilidad de CambiaZo, confía en evaluaciones de usuarios y certificaciones de seguridad. Espera que CambiaZo ofrezca mayor eficiencia y comodidad, permitiendo rastrear el impacto de sus donaciones, y sugiere una mejor integración con redes sociales para ampliar el alcance. Considera que CambiaZo puede contribuir al desarrollo de una comunidad más solidaria y conectada en Lima al fomentar la colaboración y el apoyo mutuo entre los ciudadanos.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Hidalgo Lopez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Sanntiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar su ropa a personas necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de tiempo para buscar alguna ong</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>29:58 min - 33:46 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Mathias Hidalgo ha participado en donaciones a través de centros de caridad y páginas web, aunque siempre ha tenido cierta inseguridad debido a la posibilidad de estafas y a la falta de confianza que le generaban algunos lugares. A pesar de estas preocupaciones, Mathias está profundamente comprometido con causas benéficas y tiene la intención de seguir donando, específicamente ropa, recursos alimenticios y juguetes para ayudar a quienes lo necesitan. Para la aplicación Cambiazo, Mathias busca una mayor confiabilidad en todo el proceso de donación. Considera esencial que la aplicación ofrezca funcionalidades de seguridad robustas, como un sistema de mapeo o seguimiento en tiempo real de los productos donados, así como la certificación de las donaciones para garantizar su transparencia y autenticidad. Estas medidas no solo le darían mayor tranquilidad, sino que también incrementarían la confianza en la plataforma. Además, espera que Cambiazo le permita ahorrar tiempo en los trámites burocráticos y el papeleo, haciendo que el proceso sea más eficiente y fácil de manejar para cualquier usuario, independientemente de su nivel de experiencia con la tecnología. Mathias cree firmemente que, aunque el impacto de la aplicación podría no ser masivo, sí tiene el potencial de generar un cambio positivo y significativo en la vida de muchas personas, contribuyendo de manera valiosa al desarrollo social y económico del país. Considera que una plataforma como Cambiazo, con las características adecuadas, podría convertirse en una herramienta poderosa para canalizar la generosidad de la gente y facilitar el acceso a bienes esenciales para quienes más lo necesitan.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Beth Shantal</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Oneglio De Paz</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Borja</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar a lo mas necesitados a traves de la iglesias</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone IOS, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>33:47 min - 39:01 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donantes con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
 </td>
   </tr>
 </tbody>

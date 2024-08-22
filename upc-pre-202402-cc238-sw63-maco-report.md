@@ -1321,3 +1321,31 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table>
 <br>
+
+## 2.3 Needfinding
+
+Para crear un producto que cumpla con las necesidades específicas de un cliente, Cambiazo se dedicará a identificar los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+
+### 2.3.1 User Personas
+
+Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea es definir el perfil del usuario ideal con el que estamos tratando. Hemos elaborado los perfiles de usuario teniendo en cuenta las personalidades y cualidades identificadas en cada entrevista. A continuación, se presentan las user personas resultantes de la investigación:
+
+<b>Usuario Intercambiador</b><br>
+
+<div align="center">
+
+[![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/NeedFinding/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
+</div>
+
+Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
+<br><br>
+
+<b>Usuario Donador</b><br>
+
+<div align="center">
+
+[![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/NeedFinding/user-persona-2.PNG?raw=true)](https://uxpressia.com/w/5DZd7/p/C7wKs)
+</div>
+
+Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
+<br><br>

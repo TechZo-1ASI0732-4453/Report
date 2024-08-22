@@ -1334,7 +1334,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-[![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/NeedFinding/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
+[![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
 </div>
 
 Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
@@ -1344,7 +1344,7 @@ Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 
 <div align="center">
 
-[![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/NeedFinding/user-persona-2.PNG?raw=true)](https://uxpressia.com/w/5DZd7/p/C7wKs)
+[![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
 </div>
 
 Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)

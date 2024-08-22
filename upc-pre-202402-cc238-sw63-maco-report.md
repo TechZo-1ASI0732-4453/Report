@@ -109,6 +109,59 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
 </table>
 
 ---
+
+# Objetivos SMART
+Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados
+
+### Mathias Andre Mendoza Carrión
+| **Campo**                         | **Descripción**                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**      | Realizar y analizar 10 entrevistas con usuarios potenciales para informar el desarrollo de CambiaZo.                                                 |
+| **Fecha de inicio**               | 8/11/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
+| **S - Specific: ¿Qué se va a lograr?** | Mathias diseñará y ejecutará entrevistas centradas en entender las necesidades de los usuarios sobre intercambio y donación.                         |
+| **M - Measurable: ¿Tiene KPI o métrica clara?** | Completa 10 entrevistas y produce un informe con los resultados y análisis.                                                                         |
+| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Recursos y contactos disponibles para identificar y acceder a los entrevistados.                                                                    |
+| **R - Relevant: ¿Está alineado a la estrategia?** | Las entrevistas son esenciales para validar las hipótesis del usuario de CambiaZo.                                                                  |
+| **T - Time-bound: ¿Cuándo se cumplirá?** | Finaliza antes del 27/08/2024.                                                                                                                       |
+
+### Joseph Alexis Huamani Mandujano
+| **Campo**                         | **Descripción**                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**      | Desarrollar y validar la segmentación de usuarios para CambiaZo, documentando al menos tres segmentos objetivo por el fin de TB1.                    |
+| **Fecha de inicio**               | 8/12/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
+| **S - Specific: ¿Qué se va a lograr?** | Joseph identificará y documentará segmentos de usuario basados en el análisis de entrevistas y needfinding.                                          |
+| **M - Measurable: ¿Tiene KPI o métrica clara?** | Entrega de descripciones detalladas para al menos tres segmentos de usuario.                                                                         |
+| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Joseph posee las habilidades de análisis de datos necesarias y acceso a la información de las entrevistas.                                           |
+| **R - Relevant: ¿Está alineado a la estrategia?** | La segmentación informa directamente la estrategia de marketing y desarrollo de producto.                                                            |
+| **T - Time-bound: ¿Cuándo se cumplirá?** | Completo antes del 27/08/2024.                                                                                                                       |
+### Jeremy Joel Quispe Andia
+| **Campo**                         | **Descripción**                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**      | Desarrollar el análisis competitivo y completar el Lean UX Canvas para CambiaZo por el fin de TB1.                                                   |
+| **Fecha de inicio**               | 8/13/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
+| **S - Specific: ¿Qué se va a lograr?** | Jeremy identificará competidores clave y desarrollará el Lean UX Canvas incluyendo Problem Statements, Assumptions, y Hypothesis que guiarán el desarrollo de CambiaZo. |
+| **M - Measurable: ¿Tiene KPI o métrica clara?** | Se medirá por la entrega de un análisis competitivo documentado y un Lean UX Canvas completo.                                                        |
+| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Jeremy tiene acceso a los recursos de investigación de mercado y soporte de equipo necesario para completar estas tareas.                            |
+| **R - Relevant: ¿Está alineado a la estrategia?** | Fundamental para la estrategia de posicionamiento y desarrollo de producto de CambiaZo.                                                             |
+| **T - Time-bound: ¿Cuándo se cumplirá?** | Completo antes del 27/08/2024.                                                                                                                       |
+
+
+### Ian Haziel Donato Santisteban Palomino
+| **Campo**                         | **Descripción**                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**      | Contribuir al desarrollo y refinamiento del Product Backlog de CambiaZo utilizando insights de needfinding y user journey mapping por el fin de TB1. |
+| **Fecha de inicio**               | 8/13/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
+| **S - Specific: ¿Qué se va a lograr?** | Ian integrará los resultados del needfinding y user journey mapping en el Product Backlog.                                                          |
+| **M - Measurable: ¿Tiene KPI o métrica clara?** | Actualización y refinamiento del Product Backlog con al menos 10 nuevas user stories basadas en los insights.                                       |
+| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Ian trabajará con el equipo para sintetizar los datos y actualizar el backlog.                                                                      |
+| **R - Relevant: ¿Está alineado a la estrategia?** | El backlog refinado dirigirá el desarrollo futuro y asegurará que el producto cumpla con las expectativas del usuario.                               |
+| **T - Time-bound: ¿Cuándo se cumplirá?** | Finaliza antes del 26/08/2024.                                                                                                                       |
+
+---
   
 # Capítulo I: Presentación
 ## 1.1 Startup Profile

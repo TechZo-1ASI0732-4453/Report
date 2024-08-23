@@ -1249,19 +1249,19 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Javier Adolfo</td>
+    <td>Daniella Alexandra Crysti</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Rodríguez Armas</td>
+    <td>Vargas Saldaña</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20 años</td>
+    <td>19 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Surquillo</td>
+    <td>Santa Anita</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -1285,11 +1285,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Joseph Joel Huamani Mandujano</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/javierrodriguez_interview.png?raw=true" alt="Entrevista Javier Rodríguez"></div></td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1301,7 +1301,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Javier Adolfo Rodríguez Armas, un estudiante de Derecho de 20 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con la donación de artículos a personas necesitadas y organizaciones benéficas, señalando que si bien ha realizado este tipo de donaciones en el pasado, no siempre ha tenido la certeza de que sus contribuciones lleguen efectivamente a quienes más lo necesitan. Para Javier, una aplicación móvil como CambiaZo podría representar una oportunidad de donar de manera más transparente, con la posibilidad de hacer seguimiento del destino de sus donaciones y conocer su impacto en la comunidad receptora, siendo los artículos más apropiados para donar a través de esta plataforma la ropa, calzado, útiles escolares, juguetes y pequeños electrodomésticos en buen estado; no obstante, Javier también manifiesta preocupaciones relacionadas con la confiabilidad y legitimidad de la aplicación, por lo que valora la posibilidad de verificar su trayectoria y credenciales antes de utilizarla, esperando que el uso de CambiaZo le permita contribuir de manera más efectiva y transparente al desarrollo de una comunidad más solidaria y conectada en Lima.
+    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con la donación de artículos a personas necesitadas y organizaciones benéficas, señalando que si bien ha realizado este tipo de donaciones en el pasado, no siempre ha tenido la certeza de que sus contribuciones lleguen efectivamente a quienes más lo necesitan. Para Javier, una aplicación móvil como CambiaZo podría representar una oportunidad de donar de manera más transparente, con la posibilidad de hacer seguimiento del destino de sus donaciones y conocer su impacto en la comunidad receptora, siendo los artículos más apropiados para donar a través de esta plataforma la ropa, calzado, útiles escolares, juguetes y pequeños electrodomésticos en buen estado; no obstante, Javier también manifiesta preocupaciones relacionadas con la confiabilidad y legitimidad de la aplicación, por lo que valora la posibilidad de verificar su trayectoria y credenciales antes de utilizarla, esperando que el uso de CambiaZo le permita contribuir de manera más efectiva y transparente al desarrollo de una comunidad más solidaria y conectada en Lima.
 </td>
   </tr>
 </tbody>

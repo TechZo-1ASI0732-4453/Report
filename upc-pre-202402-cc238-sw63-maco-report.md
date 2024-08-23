@@ -108,6 +108,8 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
   </tbody>
 </table>
 
+
+
 ---
 
 # Objetivos SMART
@@ -116,50 +118,51 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 ### Mathias Andre Mendoza Carrión
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Realizar y analizar 10 entrevistas con usuarios potenciales para informar el desarrollo de CambiaZo.                                                 |
+| **Descripción del objetivo**      | Desarrollar habilidades de investigación y análisis de datos aplicables en cualquier entorno profesional.                                             |
 | **Fecha de inicio**               | 8/11/24                                                                                                                                              |
 | **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific: ¿Qué se va a lograr?** | Mathias diseñará y ejecutará entrevistas centradas en entender las necesidades de los usuarios sobre intercambio y donación.                         |
-| **M - Measurable: ¿Tiene KPI o métrica clara?** | Completa 10 entrevistas y produce un informe con los resultados y análisis.                                                                         |
-| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Recursos y contactos disponibles para identificar y acceder a los entrevistados.                                                                    |
-| **R - Relevant: ¿Está alineado a la estrategia?** | Las entrevistas son esenciales para validar las hipótesis del usuario de CambiaZo.                                                                  |
-| **T - Time-bound: ¿Cuándo se cumplirá?** | Finaliza antes del 27/08/2024.                                                                                                                       |
+| **S - Specific** | Mathias mejorará sus habilidades de investigación al ejecutar entrevistas centradas en comprender las necesidades de los usuarios, lo cual es crucial para identificar problemas y oportunidades en el mercado.                    |
+| **M - Measurable** | Realizar y analizar 10 entrevistas, usando los hallazgos para informar mejoras en productos o servicios, asegurando que cada entrevista proporcione datos cuantificables y accionables.                                               |
+| **A - Ambitious** | Implementará técnicas avanzadas de recolección y análisis de datos, como análisis cualitativo y cuantitativo, extendiendo sus competencias analíticas más allá de su área actual de expertise y abriendo nuevas oportunidades de carrera en campos como análisis de datos y consultoría.    |
+| **R - Relevant** | El desarrollo de habilidades analíticas es fundamental para su crecimiento en roles como analista de mercado o de productos, permitiéndole participar más efectivamente en proyectos que requieren interpretación de grandes volúmenes de datos.                           |
+| **T - Time-bound** | Desarrollar y documentar estas habilidades a través de entrevistas completadas dentro de dos semanas, con reportes semanales para medir el progreso y ajustar estrategias según sea necesario.                                                  |
 
 ### Joseph Alexis Huamani Mandujano
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar y validar la segmentación de usuarios para CambiaZo, documentando al menos tres segmentos objetivo por el fin de TB1.                    |
+| **Descripción del objetivo**      | Mejorar habilidades analíticas y de segmentación de mercado aplicables en roles de marketing y gestión de productos.                                  |
 | **Fecha de inicio**               | 8/12/24                                                                                                                                              |
 | **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific: ¿Qué se va a lograr?** | Joseph identificará y documentará segmentos de usuario basados en el análisis de entrevistas y needfinding.                                          |
-| **M - Measurable: ¿Tiene KPI o métrica clara?** | Entrega de descripciones detalladas para al menos tres segmentos de usuario.                                                                         |
-| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Joseph posee las habilidades de análisis de datos necesarias y acceso a la información de las entrevistas.                                           |
-| **R - Relevant: ¿Está alineado a la estrategia?** | La segmentación informa directamente la estrategia de marketing y desarrollo de producto.                                                            |
-| **T - Time-bound: ¿Cuándo se cumplirá?** | Completo antes del 27/08/2024.                                                                                                                       |
+| **S - Specific** | Joseph desarrollará su capacidad de análisis de datos mediante la identificación de segmentos de mercado, utilizando herramientas como software de análisis estadístico y aprendizaje automático para descubrir patrones de consumo.                                             |
+| **M - Measurable** | Documentar tres segmentos de mercado con recomendaciones estratégicas para abordarlos, utilizando métricas específicas como el tamaño del mercado potencial y la tasa de crecimiento esperada.                                                               |
+| **A - Ambitious** | Usará técnicas avanzadas de análisis de datos para profundizar en las tendencias del mercado y comportamiento del consumidor, lo cual le permitirá no solo mejorar sus habilidades técnicas sino también su comprensión de las dinámicas del mercado global.                          |
+| **R - Relevant** | La capacidad de realizar segmentación de mercado efectiva es crucial para roles en estrategia de negocios y desarrollo de productos, lo que facilita la toma de decisiones estratégicas basadas en datos y mejora la eficiencia y efectividad de las campañas de marketing.                   |
+| **T - Time-bound** | Finalizar la segmentación y presentar un informe detallado antes del final del mes, con revisiones quincenales para evaluar el progreso y realizar ajustes según sea necesario.                                                                   |
+
 ### Jeremy Joel Quispe Andia
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar el análisis competitivo y completar el Lean UX Canvas para CambiaZo por el fin de TB1.                                                   |
+| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en análisis competitivo y planificación estratégica, aplicables en liderazgo de proyectos tecnológicos.           |
 | **Fecha de inicio**               | 8/13/24                                                                                                                                              |
 | **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific: ¿Qué se va a lograr?** | Jeremy identificará competidores clave y desarrollará el Lean UX Canvas incluyendo Problem Statements, Assumptions, y Hypothesis que guiarán el desarrollo de CambiaZo. |
-| **M - Measurable: ¿Tiene KPI o métrica clara?** | Se medirá por la entrega de un análisis competitivo documentado y un Lean UX Canvas completo.                                                        |
-| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Jeremy tiene acceso a los recursos de investigación de mercado y soporte de equipo necesario para completar estas tareas.                            |
-| **R - Relevant: ¿Está alineado a la estrategia?** | Fundamental para la estrategia de posicionamiento y desarrollo de producto de CambiaZo.                                                             |
-| **T - Time-bound: ¿Cuándo se cumplirá?** | Completo antes del 27/08/2024.                                                                                                                       |
-
+| **S - Specific** | Jeremy aprenderá a realizar análisis competitivos detallados y a aplicar estos insights en la planificación de proyectos, utilizando técnicas como el análisis SWOT y evaluación de cinco fuerzas de Porter para comprender mejor el entorno competitivo.                            |
+| **M - Measurable** | Completar un análisis competitivo y un Lean UX Canvas con evaluaciones aplicables a múltiples proyectos, documentando cada paso y su impacto en la estrategia del proyecto.                                             |
+| **A - Ambitious** | Aprenderá técnicas avanzadas de análisis y planificación que son esenciales para roles de liderazgo en tecnología, buscando oportunidades para aplicar estos métodos en situaciones reales de mercado.                                    |
+| **R - Relevant** | Estas habilidades son fundamentales para su carrera como líder de proyectos en el campo de la tecnología, donde la capacidad para anticipar cambios del mercado y ajustar estrategias es crucial.                                            |
+| **T - Time-bound** | Desarrollar y documentar estas habilidades antes del 27/08/2024, con revisiones mensuales para asegurar que se mantenga en camino hacia el logro de estos objetivos.                                                                                     |
 
 ### Ian Haziel Donato Santisteban Palomino
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Contribuir al desarrollo y refinamiento del Product Backlog de CambiaZo utilizando insights de needfinding y user journey mapping por el fin de TB1. |
+| **Descripción del objetivo**      | Adquirir habilidades en gestión de proyectos ágiles y análisis de necesidades del usuario, esenciales para roles de liderazgo en gestión de producto.|
 | **Fecha de inicio**               | 8/13/24                                                                                                                                              |
 | **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific: ¿Qué se va a lograr?** | Ian integrará los resultados del needfinding y user journey mapping en el Product Backlog.                                                          |
-| **M - Measurable: ¿Tiene KPI o métrica clara?** | Actualización y refinamiento del Product Backlog con al menos 10 nuevas user stories basadas en los insights.                                       |
-| **A - Ambitious: ¿Es retador y va más allá de sus funciones?** | Ian trabajará con el equipo para sintetizar los datos y actualizar el backlog.                                                                      |
-| **R - Relevant: ¿Está alineado a la estrategia?** | El backlog refinado dirigirá el desarrollo futuro y asegurará que el producto cumpla con las expectativas del usuario.                               |
-| **T - Time-bound: ¿Cuándo se cumplirá?** | Finaliza antes del 26/08/2024.                                                                                                                       |
+| **S - Specific** | Ian utilizará técnicas de needfinding y user journey mapping para optimizar la gestión de productos, aplicando metodologías ágiles como Scrum y Kanban para mejorar la colaboración y eficiencia del equipo.                                                  |
+| **M - Measurable** | Incorporar 10 nuevas user stories en el Product Backlog que reflejen una comprensión profunda de las necesidades del usuario, utilizando métricas como el tiempo de desarrollo reducido y la satisfacción del cliente para medir el impacto.                         |
+| **A - Ambitious** | Colaborará con equipos multidisciplinarios para implementar estos insights, mejorando su capacidad de liderazgo y gestión, y explorando nuevas áreas como la psicología del usuario y el diseño centrado en el usuario para profundizar su comprensión de las necesidades del cliente.                            |
+| **R - Relevant** | La habilidad para integrar needfinding y user journey insights es crucial para la eficiencia en la gestión de productos y proyectos, permitiendo que los productos desarrollados cumplan mejor con las expectativas del mercado y del cliente.                     |
+| **T - Time-bound** | Completar la actualización del backlog y la capacitación correspondiente antes del 26/08/2024, con revisiones semanales para monitorizar el progreso y ajustar la estrategia de implementación según sea necesario.                                                        |
+
 
 ---
   

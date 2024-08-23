@@ -1507,3 +1507,32 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 </tbody>
 </table>
 </div>
+
+### 2.3.3 User Journey Mapping
+
+En esta sección, se desarrollan los User Journey Maps para cada User Persona, proporcionando una visión completa del recorrido del usuario desde el inicio hasta el final. Estos mapas representan la situación actual (As-Is) de cada segmento, sin ofrecer soluciones. 
+
+<b>Segmento Intercambiadores</b><br>
+
+Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Cliente realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
+
+<div align="center">
+
+[![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)](https://uxpressia.com/w/ODLU6/m/85V7e)
+</div>
+
+
+Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)
+
+
+<b>Segmento Donadores</b><br>
+
+Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
+
+<div align="center">
+
+[![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)](https://uxpressia.com/w/ODLU6/m/ZJfdG)
+</div>
+
+
+Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)

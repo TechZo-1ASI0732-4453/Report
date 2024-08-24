@@ -1582,3 +1582,21 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 
 
 Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)<br><br>
+
+
+---
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.
+
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.jpg?raw=true)](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
+</div>
+
+Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
+<br>

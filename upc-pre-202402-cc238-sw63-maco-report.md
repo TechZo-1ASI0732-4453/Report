@@ -1024,6 +1024,76 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table><br>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Daniella Alexandra Crysti</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Vargas Saldaña</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santa Anita</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre posibles estafas</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZL0taru9t5Gh_o3LvOPjtQBdUtvHauLzUII-EXg54Xb4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LmgbIr" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>45:38 min - 55:46 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con el intercambio de artículos con personas de su entorno, señalando que si bien ha realizado este tipo de intercambios en el pasado, no ha encontrado un lugar el cual le sirve especificamente para poder intercambios su objetos de manera segura. Para Daniella, una aplicación móvil como CambiaZo podría ser un excelente intermediario al momento de querer intercambiar con otro usuario, ya que fomenta la confianza para ambas partes. Además, Daniella agrega que los artículos con mayor demanda son los articulos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado; no obstante, Daniella también manifiesta preocupaciones relacionadas con la confiabilidad de la aplicación, por lo que valora la posibilidad de verificar la legitimidad de los objetos mediante la inclusión de fotos y una sección de reseñas, esperando que el uso de CambiaZo le permita sentirse seguro y poder empezar a intercambio de manera más segura y efectiva promiviendo el desarrollo de una comunidad más sostenible y conectada en Lima.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+
 
 ### **Segmento Donadores**<br>
 
@@ -1238,82 +1308,13 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table>
 
 
+
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Daniella Alexandra Crysti</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Vargas Saldaña</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santa Anita</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Ayudar a personas de escasos recursos económicos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupación sobre el destino de las donaciones</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Computadora Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZL0taru9t5Gh_o3LvOPjtQBdUtvHauLzUII-EXg54Xb4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LmgbIr" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>45:38 min - 55:46 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con la donación de artículos a personas necesitadas y organizaciones benéficas, señalando que si bien ha realizado este tipo de donaciones en el pasado, no siempre ha tenido la certeza de que sus contribuciones lleguen efectivamente a quienes más lo necesitan. Para Javier, una aplicación móvil como CambiaZo podría representar una oportunidad de donar de manera más transparente, con la posibilidad de hacer seguimiento del destino de sus donaciones y conocer su impacto en la comunidad receptora, siendo los artículos más apropiados para donar a través de esta plataforma la ropa, calzado, útiles escolares, juguetes y pequeños electrodomésticos en buen estado; no obstante, Javier también manifiesta preocupaciones relacionadas con la confiabilidad y legitimidad de la aplicación, por lo que valora la posibilidad de verificar su trayectoria y credenciales antes de utilizarla, esperando que el uso de CambiaZo le permita contribuir de manera más efectiva y transparente al desarrollo de una comunidad más solidaria y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>

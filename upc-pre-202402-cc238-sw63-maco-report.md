@@ -204,7 +204,7 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas. | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />                |
 | **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
-| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
+| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 
 
 ## 1.2 Solution Profile
@@ -1390,23 +1390,19 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-[![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
+![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 <br><br>
 
 <b>Usuario Donador</b><br>
 
 <div align="center">
 
-[![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/WUMVh)
+![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 <br><br>
-
-
 
 ### 2.3.2 User Task Matrix
 
@@ -1518,11 +1514,9 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-[![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)](https://uxpressia.com/w/ODLU6/m/85V7e)
+![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
-
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)
 
 
 <b>Segmento Donadores</b><br>
@@ -1531,11 +1525,9 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-[![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)](https://uxpressia.com/w/ODLU6/m/ZJfdG)
+![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
 </div>
 
-
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)
 
 ### 2.3.4 Empathy Mapping
 
@@ -1545,18 +1537,17 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <div align="center">
 
-[![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/lPmO3)
+![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
 
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 <br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-[![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/p/pKfKi)
+![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
 </div>
 
 ### 2.3.5 As-Is Scenario Mapping
@@ -1567,27 +1558,24 @@ En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-[![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)
+![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)
 <br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-[![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)
+![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
+<br><br>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=453144500996)<br><br>
 
+## 2.4 Requirements Specification
 
----
-# Capítulo III: Requirements Specification
-
-## 3.1. To-Be Scenario Mapping
+###  2.4.1. To-Be Scenario Mapping
 En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.
 
 
@@ -1595,18 +1583,17 @@ En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-[![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.jpg?raw=true)](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
+![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.jpg?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
+
 <br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-[![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
+![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=867992439188)
 

@@ -1602,6 +1602,14 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 ### EPICS
 
+|**Epic ID**|**Título**|**Descripción**|
+| - | - | - |
+|**EP01**|**Gestión de Cuenta de Usuario**|**Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades.**|
+|**EP02**|**Funcionalidades de Intercambio**|**Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio.**|
+|**EP03**|**Funcionalidades de Donación**|**Como usuario de la aplicación, quiero acceder a funcionalidades específicas relacionadas con la donación de objetos, para facilitar la búsqueda, selección y contacto con organizaciones no gubernamentales (ONGs) para donar objetos.**|
+|**EP04**|**Gestión de Suscripciones y Soporte**|**Como usuario de la aplicación, quiero tener control sobre mi suscripción y acceso a soporte técnico para gestionar mi experiencia en la plataforma de manera efectiva y resolver cualquier problema que pueda surgir.**|
+|**EP05**|**Información y Navegación de la Landing Page**|**Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación.**|
+|**EP06**|**Desarrollo de Funcionalidades de la API de CambiaZo**|**Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma.**|
 
 
 <br><br>

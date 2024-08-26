@@ -7,7 +7,7 @@
 
 **Ciclo:** 2024-2
 
-**Curso:** Aplicaciones para Dispositivos Móviles
+**Curso:** Aplicaciones para Dispositivos Móviles (CC238)
 
 **Sección:** SW63
 
@@ -15,9 +15,9 @@
 
 ----
 ## Informe de Trabajo Final
-### MaCo
+### Startup: MaCo
 
-### CambiaZo
+### Producto: CambiaZo
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|

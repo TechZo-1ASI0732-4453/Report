@@ -1769,6 +1769,17 @@ https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
 
 # Anexos
 
-+ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/MaCo-CC238-SW63)<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/MaCo-CC238-SW63)<br><br>
 
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/MaCo-CC238-SW63/report)<br><br>
+
+
+## Needfinding Interviews
+
+  <div align="center">
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true">
+ </div>
+
+
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz)
+

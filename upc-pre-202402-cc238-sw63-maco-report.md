@@ -1742,4 +1742,27 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 </div>
 
 
-Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+Enlace: [Product Backlog en Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+
+
+# Bibliografía
+  <br>
+
++  Conventional Commits. (2023). A specification for adding human and machine readable meaning to commit messages. Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ <br><br>
+
++ CPI Research. (2022). *Perú: Población 2022*. CPI.
+https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
+
++ Georgiou, M. (2024). The importance of mobile app maintenance cost. Imaginovation. https://imaginovation.net/blog/importance-mobile-app-maintenance-cost/ <br><br>
+
++ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. Semestre Económico, 11(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
+
++ Indeed. (2024). How to write SMART goals. Indeed. https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals <br><br>
+
++ Pivotal Tracker. (2024). Quick start guide. Pivotal Tracker. https://www.pivotaltracker.com/help/articles/quick_start/ <br><br>
+
+</div>
+
+<br><br>
+
+---

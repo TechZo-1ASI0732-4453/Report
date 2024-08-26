@@ -1446,7 +1446,7 @@ Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una
 
 Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
 
-**Hallazgos Claves:**´
+**Hallazgos Claves:**
 
 - Los donadores enfrentan dificultades significativas en el proceso de donación. Estos problemas incluyen la necesidad de transportar los artículos a ubicaciones distantes y la ausencia de evidencia de recepción, lo que hace que el proceso sea tedioso y poco satisfactorio.
 

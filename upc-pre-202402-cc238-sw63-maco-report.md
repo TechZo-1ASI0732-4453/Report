@@ -241,7 +241,7 @@ Se implementará una propuesta de solución mediante el desarrollo de una aplica
 
 * **How much?**
 El presupuesto varía dependiendo de cuanta información se
-requiera para el desarrollo del aplicativo movil. Sin embargo se considera un aproximado de s/. 7 000.
+requiera para el desarrollo del aplicativo movil. Sin embargo se considera que podría oscilar entre S/. 20,000 y S/. 50,000.
 
 <br><br>
 

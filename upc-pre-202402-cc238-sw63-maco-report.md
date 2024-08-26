@@ -63,11 +63,11 @@
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Requirements Specification](#24-requirements-specification)
-    - [2.4.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [2.4.2. User Stories](#32-user-stories)
-    - [2.4.3. Impact Mapping](#33-impact-mapping)
-    - [2.4.4. Product Backlog](#33-product-backlog)
-
+    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+    - [2.4.2. User Stories](#242-user-stories)
+    - [2.4.3. Impact Mapping](#243-impact-mapping)
+    - [2.4.4. Product Backlog](#244-product-backlog)
+    
 ---
 <div style="text-align: justify;">
 
@@ -1738,7 +1738,7 @@ En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, do
 ![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)
 </div>
 
-## 3.2. User Stories
+## 2.4.2 User Stories
 
 En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
@@ -1828,7 +1828,7 @@ Enlace: [Impact Mappping en UXPRESSIA]()
 
 Enlace: [Impact Mapping en UXPRESSIA]()
 
-## 3.4. Product Backlog
+## 2.4.4 Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
 <br><br>
 Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar

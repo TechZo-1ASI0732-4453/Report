@@ -1676,6 +1676,17 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 
 Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
 
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+</div>
+
+
+Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
+
 ## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
 <br><br>

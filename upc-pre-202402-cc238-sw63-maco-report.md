@@ -1731,3 +1731,15 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 |33|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|1|
 |34|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.|1|
 |35|**US25**|Visualización de la Historia de la Startup|Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.|1|
+
+<br><br>
+
+A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
+
+<div align="center">
+
+[![Product Backlog.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+</div>
+
+
+Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>

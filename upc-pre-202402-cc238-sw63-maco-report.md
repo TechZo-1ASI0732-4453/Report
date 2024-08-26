@@ -1442,6 +1442,61 @@ La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores
 Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
 
 
+### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes).<br>
+
+Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
+
+**Hallazgos Claves:**´
+
+- Los donadores enfrentan dificultades significativas en el proceso de donación. Estos problemas incluyen la necesidad de transportar los artículos a ubicaciones distantes y la ausencia de evidencia de recepción, lo que hace que el proceso sea tedioso y poco satisfactorio.
+
+
+- Todos los donadores consideran que CambiaZo podría simplificar el proceso de donación. Proponen funcionalidades como el rastreo de donaciones, la confirmación de recepción y la opción de programar la recolección de artículos. Estas características ayudarían a superar las dificultades actuales y mejorar la experiencia de donación.
+
+
+- Los donadores sugieren la realización de campañas de sensibilización y colaboraciones con influencers para aumentar la participación y la frecuencia de las donaciones. Estas estrategias podrían amplificar el alcance de la plataforma y fomentar un mayor compromiso con la causa de la donación.<br><br>
+
+**Análisis por medio de herramientas estadísticas:**
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7"><br><br>
+</div>
+
+El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
+
+<div align="center">
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8"><br><br>
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9"><br><br>
+</div>
+
+El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10"><br><br>
+</div>
+
+La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11"><br><br>
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12"><br><br>
+</div>
+
+Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
+
+**Estrategias para Abordar las Necesidades de los Donadores:**
+
+Para atender las necesidades de los donadores, CambiaZo debe enfocarse en simplificar el proceso de donación mediante la implementación de funcionalidades esenciales como la confirmación de recepción de artículos. Esta característica no solo proporciona tranquilidad a los donadores, sino que también cierra el ciclo de la donación de manera satisfactoria.
+
+Además, el rastreo de donaciones es fundamental para asegurar que los artículos lleguen a sus destinatarios y para proporcionar a los donadores visibilidad sobre el impacto de sus contribuciones. La programación de recolección de artículos es otra funcionalidad crucial que facilita el proceso logístico y elimina la necesidad de desplazamientos complicados.
+
+Garantizar la transparencia en el destino de las donaciones es vital para mantener la confianza de los donadores, permitiéndoles ver claramente cómo y a quién se destinan los artículos donados. Igualmente importante es la protección de los datos personales, que asegura la seguridad y privacidad de la información de los usuarios.
+
+La aplicación móvil debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
+
+Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
+
+
 ## 2.3 Needfinding
 
 Para crear un producto que cumpla con las necesidades específicas de un cliente, Cambiazo se dedicará a identificar los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.

@@ -1766,3 +1766,9 @@ https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
 <br><br>
 
 ---
+
+# Anexos
+
++ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/MaCo-CC238-SW63)<br><br>
+
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/MaCo-CC238-SW63/report)<br><br>

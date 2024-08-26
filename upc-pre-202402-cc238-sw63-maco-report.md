@@ -1497,6 +1497,29 @@ La aplicación móvil debe ser intuitiva y fácil de usar para no agregar barrer
 Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
 
 
+### Análisis General para Ambos Segmentos
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS"><br><br>
+</div>
+
+Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
+
+Este alto porcentaje subraya la necesidad crítica de que CambiaZo sea completamente compatible con Android. La plataforma debe estar optimizada para aprovechar al máximo las características y capacidades de este sistema operativo, garantizando un rendimiento fluido y una experiencia de usuario sin interrupciones para la mayoría de los usuarios.
+
+En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción es menor, sigue siendo significativa y no debe ser pasada por alto. Para asegurar que la plataforma sea accesible para todos, CambiaZo debe desarrollar y mantener una versión optimizada para dispositivos Apple. Esta atención a ambos sistemas operativos es crucial para proporcionar una experiencia uniforme y satisfactoria a todos los usuarios.
+
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
+</div>
+
+Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
+
+Además, la interfaz de CambiaZo debe ser intuitiva y fácil de usar. La simplicidad en el diseño y una navegación fluida son cruciales para garantizar que todos los usuarios, independientemente de su nivel de experiencia tecnológica, puedan utilizar la plataforma de manera efectiva. Al ofrecer una experiencia de usuario accesible y libre de complicaciones, CambiaZo podrá satisfacer las necesidades y expectativas de todos los entrevistados.<br><br>
+
+
+
 ## 2.3 Needfinding
 
 Para crear un producto que cumpla con las necesidades específicas de un cliente, Cambiazo se dedicará a identificar los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.

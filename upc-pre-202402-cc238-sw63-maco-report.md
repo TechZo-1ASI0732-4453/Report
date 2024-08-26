@@ -1663,6 +1663,18 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP06**|
 
 
+## 2.4.3. Impact Mapping
+En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+</div>
+
+
+Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
 
 ## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).

@@ -99,7 +99,7 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
     <tr>
       <td colspan="3">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
       <td colspan="3" align = "justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>En este primer hito, he logrado una comprensión más profunda de la definición de problemas y la formulación de suposiciones, elementos cruciales en el desarrollo de proyectos de software. Al delinear claramente el Problem Statement y establecer Asumptions fundamentados, he reforzado mi capacidad para abordar problemas complejos de manera sistemática. Esta tarea ha reafirmado mi convicción sobre la importancia del aprendizaje continuo en la adaptación y aplicación de conocimientos técnicos a situaciones reales, lo cual es indispensable para mi desarrollo profesional.</p>
+      <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>  </p>
       <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>Durante la realización de una investigación exhaustiva de competidores y la conducción de entrevistas dirigidas, he reconocido la necesidad de mantenerme actualizado sobre las tendencias del mercado y las tecnologías emergentes. Este proceso no solo ha enriquecido mi entendimiento del entorno competitivo sino que también ha mejorado mis habilidades de comunicación y análisis crítico. Aprender de manera continua sobre nuevas metodologías y prácticas del sector me ha permitido formular preguntas más incisivas y recopilar datos más relevantes, fundamentales para el éxito del proyecto.</p>
       <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>Como líder del equipo, difini una propuesta de valor innovadora y al identificar User Stories detalladas, he aplicado efectivamente mi aprendizaje en diseño de soluciones a las necesidades específicas del usuario final. Este proceso ha demostrado la importancia de actualizar continuamente mis habilidades en la creación de soluciones efectivas y centradas en el usuario. A través de la práctica constante y la evaluación crítica, he mejorado mi capacidad para desarrollar productos que no solo cumplen sino que superan las expectativas del mercado.</p>
       <h3>Jeremy Joel Quispe Andia</h3><b>TB1</b><p>La tarea de analizar respuestas de entrevistas y construir fichas de Personas me ha permitido aplicar teorías de comportamiento del usuario y psicología de consumo de manera práctica. Este ejercicio ha reforzado la necesidad de un aprendizaje permanente en áreas interdisciplinarias que complementan el desarrollo de software. Entender profundamente a los usuarios y adaptar nuestras soluciones a sus necesidades es un recordatorio constante de cómo el aprendizaje continuo puede influir directamente en la relevancia y el impacto de nuestros proyectos.</p></td>
@@ -201,7 +201,7 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y móvil, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript, Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />                |
+| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas. | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />                |
 | **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
@@ -1378,6 +1378,69 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table>
 <br>
+
+### 2.2.3 Análisis de entrevistas
+
+En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
+
+### **Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores).<br>
+
+Las personas que realizan intercambios de objetos tienen edades comprendidas entre 18 y 55 años y residen mayoritariamente en Lima, Perú. Los usuarios recurren a redes sociales como WhatsApp y Facebook para llevar a cabo este tipo de intercambios, pero su experiencia ha sido, en la mayoría de los casos, negativa debido a problemas de calidad con los productos intercambiados y a la falta de seguridad en el uso de dichos métodos.
+
+**Hallazgos Claves:**
+
+- El 100% de los entrevistados ha tenido malas experiencias al realizar intercambios a través de redes sociales. Esto se debe principalmente a problemas con la calidad de los productos y a la falta de garantías. La falta de confianza en estos métodos resalta la necesidad urgente de una plataforma más segura y confiable para intercambiar objetos.
+
+
+- La mayoría de los intercambiadores realiza intercambios de manera regular, lo cual indica una alta demanda de una plataforma que facilite el proceso de manera más organizada y segura.
+
+
+- Todos los entrevistados creen que CambiaZo podría resolver sus problemas actuales. Las principales funcionalidades deseadas incluyen un sistema de calificaciones robusto, un chat seguro, y herramientas para la verificación de identidad y la calidad de los productos intercambiados.<br><br>
+
+
+**Análisis por medio de herramientas estadísticas:**
+
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1">
+</div>
+
+
+Las respuestas de nuestros entrevistados evidencian que sería beneficioso y útil para una gran cantidad de la población, lo cual también se comprueba con un estudio realizado del año 2015 al 2017 por la Universidad Nacional del Altiplano, Puno, en el cuál se obtuvo que el motivo principal por el cual las personas realizan trueques es por la falta de dinero.
+
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2"><br><br>
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3"><br><br>
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4"><br><br>
+</div>
+
+El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
+
+
+<div align="center">
+	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5"><br><br>
+</div>
+
+La mayoría de los intercambiadores realiza trueques con regularidad. Este dato subraya la demanda existente de una plataforma que pueda gestionar estos intercambios de manera más eficiente.
+
+<div align="center">
+    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6"><br><br>
+</div>
+
+
+Finalmente, todos los entrevistados expresan su disposición a usar CambiaZo como su principal medio para realizar intercambios. Este dato destaca el potencial de la plataforma para satisfacer una necesidad significativa en el mercado.<br><br>
+
+**Estrategias para Abordar las Necesidades de los Intercambiadores:**
+
+Para satisfacer las necesidades de los intercambiadores, CambiaZo debe enfocarse en proporcionar una plataforma segura y confiable que aborde los problemas que los usuarios han experimentado con las redes sociales. Implementar un sistema de calificaciones robusto es crucial, ya que permitirá a los usuarios evaluar y confiar en la calidad de los productos y en la reputación de los intercambiadores.
+
+Es fundamental incorporar un chat seguro para facilitar las negociaciones y coordinar intercambios sin comprometer la privacidad. Además, ofrecer herramientas efectivas para la verificación de identidad y la calidad de los productos ayudará a minimizar el riesgo de fraudes y garantizar la integridad de los intercambios.
+
+La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores puedan gestionar sus productos y realizar intercambios con eficiencia. El análisis muestra que la mayoría de los usuarios realiza intercambios con regularidad y que todos están dispuestos a adoptar una nueva plataforma que resuelva sus actuales problemas. Por lo tanto, CambiaZo debe diseñar una experiencia de usuario que no solo resuelva los inconvenientes actuales, sino que también se adapte a la alta demanda y expectativas del segmento.
+
+Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
+
 
 ## 2.3 Needfinding
 

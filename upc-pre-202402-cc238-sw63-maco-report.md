@@ -33,6 +33,8 @@
 
 ---
 
+<div align="justify">
+
 # Registro de Versiones
 <br>
 
@@ -104,7 +106,7 @@
 ### [Anexos](#anexos)
 
 ---
-<div style="text-align: justify;">
+<div align="justify">
 
 # Student Outcome
 

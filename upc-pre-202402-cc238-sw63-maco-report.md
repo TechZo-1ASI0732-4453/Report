@@ -32,6 +32,35 @@
 <br><div align="center"><h3>Agosto 2024</h3></div><br>
 
 ---
+
+# Registro de Versiones
+<br>
+
+|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+| - | - | - | - |
+|1\.0|15/08/24|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
+|1\.1|15/08/24|Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
+|1\.1.1|19/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Solution Profile|
+|1\.1.2|19/08/24|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano </p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1\.1.3|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
+|1\.2|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
+|1\.2.1|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con las Entrevistas|
+|1\.2.2|<p>21/08/24</p><p> </p>|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia |Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1\.2.3|22/08/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
+|1\.2.4|22/08/24|Jeremy Joel Quispe Andia |Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
+|1\.2.5|24/08/24|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el As-is Scenario Mapping|
+|1\.2.6|24/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al To-be|
+|1\.2.7|25/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Epics, User Stories y Technical Stories|
+|1\.2.8|25/04/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Impact Mapping|
+|1\.2.9|25/04/24|<p>Mathias Andre Mendoza Carrion</p>|Se agregó contenido relacionado con el Product Backlog|
+|1\.3|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Objetivos SMART|
+|1\.4|26/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregaron las conclusiones y la bibliografía|
+|1\.5|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome y la Tabla de Contenido|
+
+<br><br>
+
+---
+
 # Contenido
 
 ## Tabla de Contenidos
@@ -73,6 +102,7 @@
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
+
 ---
 <div style="text-align: justify;">
 

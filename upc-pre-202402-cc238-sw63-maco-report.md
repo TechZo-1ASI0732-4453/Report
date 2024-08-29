@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/UPC_logo.png?raw=true" alt="Logo-UPC" width="150">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/UPC_logo.png?raw=true" alt="Logo-UPC" width="150">
 
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -15,9 +15,9 @@
 
 ----
 ## Informe de Trabajo Final
-### Startup: MaCo
+### Nombre del Startup: TechZo
 
-### Producto: CambiaZo
+### Nombre del Producto: CambiaZo
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
@@ -207,16 +207,16 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-**Nombre:**  MaCo
+**Nombre:**  TechZo
 
 **Área:**  Innovación tecnológica y Reutilización
 
-MaCo es una startup que está conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. La compañía pretende abordar y contribuir con el crecimiento del desarrollo sostenible del país, alentando a la cultura de consumo responsable y una economía circular. Es por ello que se ha propuesto como medida de solución la creación de la aplicación movil CambiaZo.
+TechZo es una startup que está conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. La compañía pretende abordar y contribuir con el crecimiento del desarrollo sostenible del país, alentando a la cultura de consumo responsable y una economía circular. Es por ello que se ha propuesto como medida de solución la creación de la aplicación movil CambiaZo.
 
-* **Misión:**  La misión de MaCo como empresa es promover un estilo de vida sostenible y consciente, facilitando el intercambio de bienes y artículos entre usuarios de manera segura y justa sin necesidad de realizar transacciones monetarias. Buscamos presentar un concepto sólido y alineado con las tendencias de consumo responsable y economía circular, permitiendo a los usuarios intercambiar objetos que ya no desean por otros que necesitan o les interesan actualmente.<br><br>Entendemos la importancia de la seguridad y veracidad en el proceso del intercambio de artículos, de modo que sea justo y beneficioso para ambas partes. Por lo tanto, nos esforzamos para asegurar que los usuarios puedan visualizar todos los detalles de los productos ofrecidos para intercambiar, y que puedan despejar todas sus dudas antes de realizar el intercambio, para que de este modo no haya ninguna insatisfacción por parte de los usuarios. Además, con la aplicación movil CambiaZo, queremos apoyar a la comunidad agregando una opción para que los usuarios puedan realizar donaciones de artículos a personas de escasos recursos económicos.
+* **Misión:**  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, facilitando el intercambio de bienes y artículos entre usuarios de manera segura y justa sin necesidad de realizar transacciones monetarias. Buscamos presentar un concepto sólido y alineado con las tendencias de consumo responsable y economía circular, permitiendo a los usuarios intercambiar objetos que ya no desean por otros que necesitan o les interesan actualmente.<br><br>Entendemos la importancia de la seguridad y veracidad en el proceso del intercambio de artículos, de modo que sea justo y beneficioso para ambas partes. Por lo tanto, nos esforzamos para asegurar que los usuarios puedan visualizar todos los detalles de los productos ofrecidos para intercambiar, y que puedan despejar todas sus dudas antes de realizar el intercambio, para que de este modo no haya ninguna insatisfacción por parte de los usuarios. Además, con la aplicación movil CambiaZo, queremos apoyar a la comunidad agregando una opción para que los usuarios puedan realizar donaciones de artículos a personas de escasos recursos económicos.
 
 
-* **Visión:**  La visión de MaCo es convertirse en la principal plataforma digital de intercambio de productos básicos que promueva una vida sostenible y consciente a nivel mundial. Nos esforzamos por ser líderes en el cambio hacia una economía circular, donde cada acto de comunicación coopere a reducir nuestro impacto en el medio ambiente y a construir una comunidad más solidaria y conectada.
+* **Visión:**  La visión de TechZo es convertirse en la principal plataforma digital de intercambio de productos básicos que promueva una vida sostenible y consciente a nivel mundial. Nos esforzamos por ser líderes en el cambio hacia una economía circular, donde cada acto de comunicación coopere a reducir nuestro impacto en el medio ambiente y a construir una comunidad más solidaria y conectada.
 
 * **Valores:**  
 
@@ -238,49 +238,50 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y móvil, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
-| **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
-| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
-| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
+| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y móvil, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
+| **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
+| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
+| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 
 
 ## 1.2 Solution Profile
-La propuesta se basa en una aplicación móvil llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación móvil conectará a usuarios de distintas partes a través de sus dispositivos y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
-
 
 ### 1.2.1 Antecedentes y problemática
-Se sabe que la cultura de desarrollo sostenible está tomando impulso en los últimos años. Es por ello que diversas empresas del mundo están empezando a implementar este pensamiento en sus trabajadores y políticas. A continuación, se explicará con más detalle el desafío al cual se enfrenta este nuevo estilo de vida.
 
-Según un reporte del portal INFOBAE del presente año 2024, se menciona sobre las estimaciones realizadas de la ONU sobre el crecimiento de la población mundial. De acuerdo a ello, se espera que la población mundial aumente en 2000 millones de personas en los próximos 30 años, llegando a una cifra total de 9700 millones de personas para el año 2050. Cada una de estas personas generará sus propios residuos, que multiplicados por toda la población mundial se convierten en una cifra gigantesca. Es frente a este futuro escenario en donde entra nuestra propuesta de solución, CambiaZo.
+La economía lineal actual, caracterizada por el modelo de producir, usar y desechar, está generando un aumento preocupante en la acumulación de residuos y el uso insostenible de recursos naturales. Morseletto (2023) destaca que esta estructura económica predominante contribuye significativamente al aumento de residuos y la degradación ambiental. 
+
+Esta forma de consumo no solo incrementa la cantidad de desechos sólidos, contamina los océanos y provoca la pérdida de biodiversidad, sino que también intensifica el cambio climático debido a las emisiones significativas de gases de efecto invernadero asociadas con la fabricación, transporte y eliminación de productos (Madaan et al., 2024). 
+
+Según Liu y Zhong (2023), la extracción intensiva de materias primas para la producción de nuevos bienes está agotando los recursos naturales a un ritmo alarmante, lo que agrava aún más la situación ambiental. A esto se suma el crecimiento continuo de la población mundial, que se espera que aumente en 2000 millones de personas para el año 2050, multiplicando aún más la generación de residuos (Kruse-Andersen, 2023). 
+
+Frente a esta problemática, nuestra aplicación propone una solución basada en la economía circular, que busca mantener los productos, materiales y recursos en uso durante el mayor tiempo posible.
 
 Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
 
+
 **5W's y 2H's**
 
-* **What?**
-La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.<br><br>
+* **WHAT?** <br>
+La acumulación diaria de residuos a nivel global está generando un impacto negativo en el medio ambiente y en la conservación de los recursos naturales del planeta. Este problema se debe a la falta de iniciativas para dar una segunda vida a los objetos en lugar de desecharlos, lo que contribuye a la sobrecarga de vertederos y al agotamiento de recursos.<br><br>
 
 
-* **Why?**
-Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.<br><br>
+* **WHY?**<br>
+Muchas personas no toman la iniciativa de reutilizar o intercambiar objetos que ya no necesitan, y en lugar de eso, optan por desecharlos. Esta falta de conciencia sobre las consecuencias ambientales a largo plazo resulta en un aumento de desechos y en el agotamiento de recursos naturales..<br><br>
 
-* **Who?**
-Público en general y personas que más necesitan de apoyo de recursos.<br><br>
+* **WHO?**<br>
+El problema afecta al público en general, pero en particular a aquellos que más necesitan apoyo en términos de recursos y asistencia. La aplicación está dirigida a usuarios interesados en adoptar prácticas de reutilización y sostenibilidad.<br><br>
 
-* **When?**
+* **WHEN?**<br>
 Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
 
-* **Where?**
-Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.<br><br>
+* **WHERE?**<br>
+Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
 
-* **How?**
+* **HOW?**<br>
 Se implementará una propuesta de solución mediante el desarrollo de una aplicación móvil que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
 
-* **How much?**
-El presupuesto varía dependiendo de cuanta información se
-requiera para el desarrollo del aplicativo movil. Sin embargo se considera que podría oscilar entre S/. 20,000 y S/. 50,000.
-
-<br><br>
+* **HOW MUCH?**<br>
+El presupuesto para el desarrollo de la aplicación móvil varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
@@ -294,16 +295,15 @@ Sin embargo, hemos notado que hay una gran dificultad al que este sector de la p
 
 Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
 
-¿Cómo implementamos una funcionalidad que permita realizar aportes benéficos de una forma sencilla e intuitiva?
-
+¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre donantes y organizaciones?
 
 #### 1.2.2.2 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Nuestros usuarios son todo el público que esté interesado en darle un nuevo uso a sus pertenencias, intercambiandolas por otras con alguien que sí las necesite. Además de ello, va dirigido a personas que deseen donar a ciertas organizaciones benéficas registradas en la plataforma.<br><br>
+    + **¿Quién es el usuario?** <br>Nuestros usuarios son personas interesadas en dar un nuevo uso a sus pertenencias mediante el intercambio o donación. Esto incluye tanto a individuos que desean intercambiar objetos como a aquellos que buscan apoyar a organizaciones benéficas registradas en la plataforma.<br><br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> Nuestro producto encaja en el estilo de vida de nuestros usuarios, al querer impulsar una forma de vida sostenible y una economía cíclica respecto a los bienes de las personas<br><br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> El producto se integra en la vida de los usuarios como una herramienta para fomentar un estilo de vida sostenible, permitiéndoles participar activamente en la economía circular y contribuir a la reducción de residuos.<br><br>
 
     + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
 
@@ -356,72 +356,80 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 
 <table>
     <tr>
-        <td valign="top" >
-            <div align="center"> <br><b>Problema de negocios</b> </div><br>
-            <p>El mayor factor de todo esto es la falta de accesibilidad y sencillez a la hora de buscar la forma de intercambiar bienes.<br><br>¿Cómo podemos crear una forma sencilla de encontrar personas que deseen intercambiar bienes?</p><br>
+        <td valign="top">
+            <div align="center"><br><b>Problema de Negocios</b></div><br>
+            <p>El modelo de economía lineal actual, caracterizado por la producción, el uso y el descarte, está generando una acumulación alarmante de residuos y un uso insostenible de recursos naturales. <br><br>A pesar del creciente interés en prácticas sostenibles, aún existe una falta de soluciones accesibles y prácticas para el intercambio de bienes. <br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
         </td>
         <td rowspan="2" valign="top">
-            <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
-            <p>Una aplicación con la cual se pueda realizar intercambios de productos. Además de tener un apartado donde los usuarios puedan registrar los objetos que deseen donar.<br><br> En caso el usuario no considere conveniente el intercambio, tiene la opción de cancelarlo y seguir buscando a otros usuarios.
-            </p><br>
-        </td>
-            <td valign="top">
-            <div align="center"> <br><b>Resultados Comerciales</b> </div><br>
-            <p>Priorizar que los usuarios estén conformes con los intercambios realizados.<br><br>Obtener un financiamiento adicional para el crecimiento de la empresa.<br><br>Aumentar el alcance de la aplicación a través de las redes sociales.</p><br>
-            </td>
-        </tr>
-    <tr>
-        <td valign="top">
-            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
-            <p>Personas que desean intercambiar objetos que ya no usan.</p><br>
+            <div align="center"><br><b>Ideas de Soluciones</b></div><br>
+            <p>Desarrollar una aplicación móvil que facilite el intercambio de objetos entre usuarios y permita la donación a organizaciones benéficas.<br><br> La aplicación debe ser intuitiva y ofrecer opciones de búsqueda y comunicación entre usuarios para coordinar intercambios. <br><br>Además, debe incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</p><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>Beneficios del usuario</b></div><br>
-            <p>Ahorro de dinero.<br><br>Deshacerse de objetos que ya no desean<br><br>Obtención de nuevos artículos.</p><br>
+            <div align="center"><br><b>Resultados Comerciales</b></div><br>
+            <p>Asegurar la satisfacción de los usuarios con el proceso de intercambio y donación.<br><br>Obtener financiamiento adicional para expandir y mejorar la aplicación.<br><br>Incrementar la visibilidad y el alcance de la aplicación mediante estrategias de marketing en redes sociales.</p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"> <br><b>Hipótesis</b> </div><br>
-            <p>Creemos que con nuestra aplicación, ayudaremos a promover la metodología de economía cíclica y un estilo de vida sostenible.<br><br>Creemos que al utilizar nuestra aplicación, las personas podrán realizar fácilmente el intercambio de sus objetos que ya no desean.</p> <br>
+            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
+            <p>Personas que buscan intercambiar bienes que ya no necesitan y aquellos interesados en donar a organizaciones benéficas.</p><br>
         </td>
         <td valign="top">
-            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p>Conocer las preguntas más comunes de los usuarios.<br><br>Conocer las características más importantes de los productos.<br><br>Implementar medidas de seguridad sólidas para proteger los datos de los usuarios.</p> <br>
+            <div align="center"><br><b>Beneficios del Usuario</b></div><br>
+            <p>Ahorro de dinero al obtener productos sin costo.<br><br>Deshacerse de objetos no deseados de manera útil.<br><br>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</p><br>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <div align="center"><br><b>Hipótesis</b></div><br>
+            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en donaciones mensuales.</p><br>
         </td>
         <td valign="top">
-            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p>Dejar una opción para que los usuarios puedan dejar sus comentarios en general sobre el uso de la aplicación e ideas de cómo mejorarla.<br><br>Realizar encuestas mensualmente para conocer el nivel de satisfacción de nuestros usuarios con la aplicación.</p> <br>
+            <div align="center"><br><b>¿Qué es lo más importante que necesitamos aprender primero?</b></div><br>
+            <p>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.<br><br>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.<br><br>Recopilar feedback sobre las funcionalidades y posibles mejoras.</p><br>
+        </td>
+        <td valign="top">
+            <div align="center"><br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b></div><br>
+            <p>Incorporar una función para que los usuarios puedan dejar comentarios y sugerencias sobre la aplicación.<br><br>Realizar encuestas regulares para evaluar la satisfacción de los usuarios y ajustar la aplicación según los comentarios recibidos.</p><br>
         </td>
     </tr>
 </table>
 
+
 </div>
 
 ## 1.3 Segmentos Objetivo
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, MaCo se enfocará en los siguientes segmentos de la población:
+
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
+
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
-Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los productos que ya no desean tener y adquirir nuevos artículos de su interés.
-    + **Características demográficas:** Personas entre 18 y 55 años de edad que poseen artículos que ya no utilizan ni desean, y están interesados en intercambiarlos por otros que sí les interesen o necesiten.
-    <br>
-    Hemos seleccionado a este rango de edad, ya que según un estudio realizado por CPI Research, en 2022 la población de este rango de edad resultó ser el 53.9% de la población total del país.
-    <br><br>
+Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
+  + **Características demográficas:** Personas entre 18 y 55 años, con artículos no deseados que están interesados en intercambiarlos por otros que necesitan. Este rango de edad fue seleccionado porque, según un estudio realizado por CPI Research en 2022, representa el 53.9% de la población total del país.<br><br>
     <div align="center">	
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos">
-    <br><br>
-    Y según un estudio realizado por la Universidad Nacional del Altiplano, en Puno, los motivos por los que realizan trueques mayormente es por la falta de dinero.
-    <br><br>
-    </div>
-    <div align="center">	
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2">
-    <br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 300px; height: auto;"><br><br>
     </div>
 
-    + **Características geográficas:** Personas que residen en Perú.<br><br>
+  + **Características geográficas:** Personas que residen en Perú.<br>
+  + **Motivaciones y Comportamientos:** A menudo motivados por la necesidad de actualizar sus pertenencias o por la falta de recursos para comprar nuevos artículos. En un estudio realizado por la Universidad Nacional del Altiplano en Puno, se identificó que una de las principales razones para realizar trueques es la falta de dinero.<br><br>
+    <div align="center">	
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 300px; height: auto;">
+    <br><br>
+    </div>
+  + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
 
 
 + **Personas adultas que desean donar artículos que ya no utilizan (Donantes):**<br>
 “Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
+
     + **Características demográficas:** Personas entre 15 y 60 años de edad con la voluntad de donar objetos propios que ya no utilizan a personas de escasos recursos económicos.
-    + **Características geográficas:** Personas que residen en Perú.<br><br>
+
+    + **Características geográficas:** Personas que residen en Perú.
+
+    + **Motivaciones y Comportamientos:** Buscan contribuir a la comunidad y ayudar a quienes están en situación de necesidad. Valoran plataformas que les permitan realizar donaciones de manera sencilla y eficiente.
+
+    + **Preferencias de Uso:** Prefieren una aplicación que facilite el proceso de donación, ofreciendo una lista de organizaciones benéficas y un sistema fácil de utilizar para coordinar las donaciones.
+
+<br><br>
 
 
 ---
@@ -436,14 +444,14 @@ En esta sección se identificarán los mejores referentes para posteriormente re
 Según la investigación, se descubrieron aplicaciones móviles y/o apps webs similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
 
 * **Trueques.com**<br>
-Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.
+Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.<br><br>
 
 * **HazTruequing**<br>
-Plataforma en línea que permite a los usuarios intercambiar servicios y artículos de segunda mano de manera fácil y segura. Los usuarios pueden publicar lo que tienen disponible para el intercambio y buscar lo que necesitan, creando así una comunidad de intercambio activa y diversa.
+Plataforma en línea que permite a los usuarios intercambiar servicios y artículos de segunda mano de manera fácil y segura. Los usuarios pueden publicar lo que tienen disponible para el intercambio y buscar lo que necesitan, creando así una comunidad de intercambio activa y diversa.<br><br>
 
 
 * **Me Sirve**<br>
-Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.
+Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.<br><br>
 
 ### 2.1.1 Análisis Competitivo
 
@@ -482,16 +490,16 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <div align="center">Logo</div>
     </td>
     <td>
-		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
 		</td>
   </tr>
   <tr>
@@ -763,7 +771,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -834,7 +842,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/edugutierrez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/edugutierrez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -904,7 +912,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -973,7 +981,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1043,7 +1051,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1112,7 +1120,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1186,7 +1194,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1256,7 +1264,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1326,7 +1334,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1397,7 +1405,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1439,7 +1447,7 @@ Las personas que realizan intercambios de objetos tienen edades comprendidas ent
 
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1">
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 450px; height: auto;">
 </div>
 
 
@@ -1447,22 +1455,22 @@ Las respuestas de nuestros entrevistados evidencian que sería beneficioso y út
 
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2"><br><br>
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3"><br><br>
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 450px; height: auto;"><br><br>
 </div>
 
 El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
 
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 450px; height: auto;"><br><br>
 </div>
 
 La mayoría de los intercambiadores realiza trueques con regularidad. Este dato subraya la demanda existente de una plataforma que pueda gestionar estos intercambios de manera más eficiente.
 
 <div align="center">
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 450px; height: auto;"><br><br>
 </div>
 
 
@@ -1496,27 +1504,27 @@ Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Per
 **Análisis por medio de herramientas estadísticas:**
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 450px; height: auto;"><br><br>
 </div>
 
 El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
 
 <div align="center">
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8"><br><br>
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 450px; height: auto;"><br><br>
 </div>
 
 El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 450px; height: auto;"><br><br>
 </div>
 
 La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11"><br><br>
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 450px; height: auto;"><br><br>
 </div>
 
 Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
@@ -1537,7 +1545,7 @@ Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donació
 ### Análisis General para Ambos Segmentos
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 450px; height: auto;"><br><br>
 </div>
 
 Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
@@ -1548,7 +1556,7 @@ En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción e
 
 
 <div align="center">
-	<img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
 </div>
 
 Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
@@ -1569,7 +1577,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-![User Persona 1](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
+![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
 <br><br>
@@ -1578,7 +1586,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-![User Persona 2](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
+![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
 </div>
 
 <br><br>
@@ -1693,7 +1701,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
+![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
 
@@ -1704,7 +1712,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-![User Journey Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
+![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
 </div>
 
 
@@ -1716,7 +1724,7 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <div align="center">
 
-![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
+![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
 
@@ -1726,7 +1734,7 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <div align="center">
 
-![Empathy Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
+![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
 </div>
 
 ### 2.3.5 As-Is Scenario Mapping
@@ -1737,7 +1745,7 @@ En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
+![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
 <br>
@@ -1746,7 +1754,7 @@ En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-![As-Is Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
+![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
 <br><br>
@@ -1762,7 +1770,7 @@ En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.jpg?raw=true)
+![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.jpg?raw=true)
 </div>
 
 
@@ -1772,7 +1780,7 @@ En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-![To-Be Scenario Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)
+![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)
 </div>
 
 ## 2.4.2 User Stories
@@ -1821,7 +1829,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
 |**US23**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.|**Escenario 1: Acceso a configuración**<br><br>**Dado que** me encuentro en la pestaña principal de CambiaZo<br><br>**Cuando** me desplace hacia el footer de la página<br><br>**Entonces** se mostrará el apartado de configuración con sus opciones disponibles.<br><br>**Escenario 2: Ingresar al “Centro de ayuda”**<br><br>**Dado que** me encuentro en el footer de la página<br><br>**Cuando** pulsa a la opción “Ayuda”<br><br>**Entonces** seré redirigido al centro de ayuda.<br><br>**Escenario 3: Problemas técnicos**<br><br>**Dado que** me encuentro en la sección de “Ayuda”<br><br>**Cuando** pulsa en “Problemas técnicos”<br><br>**Entonces** se mostrará una lista con los problemas técnicos más frecuentes y sus soluciones.<br><br>**Escenario 4: Chatear con soporte**<br><br>**Dado que** me encuentro en la sección de “Ayuda”<br><br>**Cuando** pulsa en “Chatear con soporte”<br><br>**Entonces** se mostrará un formulario en el cual podemos enviar nuestro problema para chatear con soporte.|**EP04**|
 |**US24**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios|Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|**Escenario 1: Acceso a configuración**<br><br>**Dado que** me encuentro en la pantalla principal de la aplicación<br><br>**Cuando** pulsa a la sección de configuración<br><br>**Entonces** se mostrará el apartado con los botones de configuración.<br><br>**Escenario 2: Preguntas frecuentes**<br><br>**Dado que** me encuentro en la sección de configuración de la aplicación<br><br>**Cuando** pulsa en la sección de “Preguntas frecuentes”<br><br>**Entonces** se mostrará un apartado con las preguntas más frecuentes realizadas por los usuarios de la aplicación y sus respectivas respuestas.<br><br>**Escenario 2: Comentarios de CambiaZo**<br><br>**Dado que** me encuentro en la sección de configuración de la aplicación<br><br>**Cuando** pulsa en la sección de “Comentarios de CambiaZo”<br><br>**Entonces** se mostrará un apartado con los comentarios realizados por los usuarios de la aplicación, enseñando los comentarios más recientes.|**EP04**|
-|**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de MaCo.</p><p></p>|**Escenario 1: Acceso a la historia de MaCo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de MaCo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de MaCo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@maco.pe”.|**EP05**|
+|**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP05**|
 |**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|**Escenario 1: Conocer las secciones principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Puedes elegir entre…”</p><p>**Entonces** la landing page le muestra lo que puede realizar dentro de CambiaZo.</p><p></p><p>**Escenario 2: Conocer lo que puede intercambiar**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Si decides intercambiar, podrás encontrar una gran variedad de objetos”</p><p>**Entonces** la landing page muestra los diferentes tipos de artículos que puede intercambiar con CambiaZo.</p><p></p><p>**Escenario 3: Conocer las características principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “En CambiaZo te ofrecemos…”</p><p>**Entonces** la landing page le muestra las características principales de CambiaZo.</p>|**EP05**|
 |**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Información en el formulario**</p><p>**Dado que** soy un usuario interesado en CambiaZo que desea llenar el formulario de contacto</p><p>**Cuando** navegue por la Landing page</p><p>**Entonces** encontraré una sección que contendrá un formulario</p><p>**Y** en esa sección, debo colocar mi nombre, apellido y correo electrónico de contacto.</p><p></p><p>**Escenario 2: Envío de formulario con datos completos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  termine de completar mi información de contacto</p><p>**Entonces** debo darle click al botón de “ENVIAR”</p><p>**Y** si he llenado todos los campos correspondientes, me saldrá un mensaje de registro exitoso.</p><p></p><p>**Escenario 3: Envío de formulario con datos incompletos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  desee enviar el formulario con casillas en blanco</p><p>**Entonces** me saldrá un mensaje indicando que hay casillas que faltan completar.</p>|**EP05**|
 |**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo móvil.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo móvil.</p><p></p>|**EP05**|
@@ -1848,7 +1856,7 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
 </div>
 
 
@@ -1859,7 +1867,7 @@ Enlace: [Impact Mappping en UXPRESSIA]()
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
 </div>
 
 
@@ -1916,7 +1924,7 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 <div align="center">
 
-[![Product Backlog.](https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
 </div>
 
 
@@ -1941,36 +1949,46 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 # Bibliografía
   <br>
 
-+  Conventional Commits. (2023). A specification for adding human and machine readable meaning to commit messages. Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ <br><br>
++ Conventional Commits. (2023). *A specification for adding human and machine readable meaning to commit messages*. Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/  <br><br>
 
-+ CPI Research. (2022). *Perú: Población 2022*. CPI.
-https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
++ CPI Research. (2022). *Perú: Población 2022*. CPI. https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
 
-+ Georgiou, M. (2024). The importance of mobile app maintenance cost. Imaginovation. https://imaginovation.net/blog/importance-mobile-app-maintenance-cost/ <br><br>
++ Georgiou, M. (2024). *The importance of mobile app maintenance cost*. Imaginovation. https://imaginovation.net/blog/importance-mobile-app-maintenance-cost/ <br><br>
 
-+ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. Semestre Económico, 11(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
++ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. *Semestre Económico, 11*(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
 
-+ Indeed. (2024). How to write SMART goals. Indeed. https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals <br><br>
++ Indeed. (2024). *How to write SMART goals*. Indeed. https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals <br><br>
 
-+ Pivotal Tracker. (2024). Quick start guide. Pivotal Tracker. https://www.pivotaltracker.com/help/articles/quick_start/ <br><br>
++ Kruse-Andersen, P. K. (2023). Directed technical change, environmental sustainability, and population growth. *Journal of Environmental Economics and Management, 122*, 102885. https://doi.org/10.1016/j.jeem.2023.102885 <br><br>
+
++ Liu, S., & Zhong, C. (2023). Green growth: Intellectual property conflicts and prospects in the extraction of natural resources for sustainable development. *Resources Policy, 80*, 104588. https://doi.org/10.1016/j.resourpol.2023.104588 <br><br>
+
++ Madaan, G., Singh, A., Mittal, A., & Shahare, P. (2024). Reduce, reuse, recycle: Circular economic principles, sustainability and entrepreneurship in developing ecosystems. *Journal of Small Business and Enterprise Development, ahead-of-print*. https://doi.org/10.1108/JSBED-01-2023-0009 <br><br>
+
++ Morseletto, P. (2023). Sometimes linear, sometimes circular: States of the economy and transitions to the future. *Journal of Cleaner Production, 390*, 136138. https://doi.org/10.1016/j.jclepro.2023.136138 <br><br>
+
++ Pivotal Tracker. (2024). *Quick start guide*. Pivotal Tracker. https://www.pivotaltracker.com/help/articles/quick_start/ <br><br>
+
++ Wang, F., Nan, N., & Zhao, J. (2024). Configuring mobile app update strategy for growth: An empirical analysis of a landscape search model. *Industrial Management & Data Systems, 124*(3), 1155-1178. https://doi.org/10.1108/IMDS-03-2023-0181 <br><br>
+
++ Zhao, S., Chen, S. H., Wang, F., Wei, Z. L., Zhong, J. C., & Liang, J. B. (2024). A large-scale mobile traffic dataset for mobile application identification. *Computer Journal, 67*(4), 1501-1513. https://doi.org/10.1093/comjnl/bxad076 <br><br>
+
 
 </div>
-
-<br><br>
 
 ---
 
 # Anexos
 
-+ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/MaCo-CC238-SW63)<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-CC238-SW63)<br><br>
 
-+ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/MaCo-CC238-SW63/report)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/report)<br><br>
 
 
 ## Needfinding Interviews
 
   <div align="center">
-    <img src="https://github.com/MaCo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true">
  </div>
 
 

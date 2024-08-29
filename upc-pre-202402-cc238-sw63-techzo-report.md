@@ -1917,43 +1917,281 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 
 <br>
 
-|# Orden|User Story Id|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|Epic|
-|-|-|-|-|-|-| 
-|1|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|3|EP01|
-|2|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.|3|EP01|
-|3|**US11**|Configuración de notificaciones|Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.|3|EP01|
-|4|**US02**|Editar perfil del usuario|Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|2|EP01|
-|5|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|2|EP01|
-|6|**US10**|Actualización de Correo Electrónico|Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante.|2|EP01|
-|7|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|1|EP01|
-|8|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.|1|EP01|
-|9|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|5|EP02|
-|10|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.|5|EP02|
-|11|**US16**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|5|EP02|
-|12|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.|3|EP02|
-|13|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|3|EP02|
-|14|**US15**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|3|EP02|
-|15|**US17**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|3|EP02|
-|16|**US18**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|3|EP02|
-|17|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|2|EP02|
-|18|**US07**|Filtrado de ONGs|Como usuario Donante, quiero la capacidad de filtrar las ONGs disponibles de donación para encontrar la opción que mejor se adapte a los objetos que tengo para donar.|5|EP03|
-|19|**US19**|Ponerse en contacto para poder realizar una donación|Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.|5|EP03|
-|20|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|3|EP03|
-|21|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|8|EP04|
-|22|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad.|3|EP04|
-|23|**US23**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.|3|EP04|
-|24|**US24**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios.|Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|3|EP04|
-|25|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|5|EP05|
-|26|**US30**|Navegación en la Landing Page|Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|3|EP05|
-|27|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de acceder a la página web principal.|3|EP05|
-|28|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|2|EP05|
-|29|**US28**|Acceder a la página principal de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la página web principal de Cambiazo, para poder realizar acciones como registrarme, intercambiar o donar artículos una vez que haya obtenido la información necesaria en la landing page.|2|EP05|
-|30|**US25**|Visualización de la Historia de la Startup|Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.|1|EP05|
-|31|**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|3|EP06|
-|32|**TS02**|API Review|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|3|EP06|
-|33|**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|3|EP06|
-|34|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|3|EP06|
-|35|**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|3|EP06|
+<table>
+  <tr>
+    <th># Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    <th>EPIC ID</th>
+  </tr>
+  
+  <!-- EPIC ID: EP01 -->
+  <tr>
+    <td>1</td>
+    <td><strong>US01</strong></td>
+    <td>Registro de usuario</td>
+    <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
+    <td>3</td>
+    <td rowspan="8"><strong>EP01</strong></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><strong>US09</strong></td>
+    <td>Eliminación de cuenta</td>
+    <td>Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.</td>
+    <td>3</td>
+    
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><strong>US11</strong></td>
+    <td>Configuración de notificaciones</td>
+    <td>Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><strong>US02</strong></td>
+    <td>Editar perfil del usuario</td>
+    <td>Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><strong>US04</strong></td>
+    <td>Cambiar Contraseña</td>
+    <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>US10</strong></td>
+    <td>Actualización de Correo Electrónico</td>
+    <td>Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><strong>US03</strong></td>
+    <td>Iniciar sesión en la aplicación</td>
+    <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><strong>US05</strong></td>
+    <td>Cerrar Sesión</td>
+    <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</td>
+    <td>1</td>
+  </tr>
+
+  <!-- EPIC ID: EP02 -->
+  <tr>
+    <td>9</td>
+    <td><strong>US06</strong></td>
+    <td>Filtrado de Objetos</td>
+    <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
+    <td>5</td>
+    <td rowspan="9"><strong>EP02</strong></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><strong>US12</strong></td>
+    <td>Crear publicación de intercambio</td>
+    <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><strong>US16</strong></td>
+    <td>Ampliar slots de publicación de intercambio</td>
+    <td>Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><strong>US08</strong></td>
+    <td>Brindar reseña sobre el Intercambiador</td>
+    <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><strong>US13</strong></td>
+    <td>Editar publicación de intercambio</td>
+    <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><strong>US15</strong></td>
+    <td>Destacar publicación de intercambio</td>
+    <td>Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><strong>US17</strong></td>
+    <td>Visualizar el perfil del usuario que publique un intercambio</td>
+    <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><strong>US18</strong></td>
+    <td>Ponerse en contacto para pactar el intercambio</td>
+    <td>Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td><strong>US14</strong></td>
+    <td>Eliminar publicación de intercambio</td>
+    <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
+    <td>2</td>
+  </tr>
+
+  <!-- EPIC ID: EP03 -->
+  <tr>
+    <td>18</td>
+    <td><strong>US07</strong></td>
+    <td>Filtrado de ONGs</td>
+    <td>Como usuario Donante, quiero la capacidad de filtrar las ONGs disponibles de donación para encontrar la opción que mejor se adapte a los objetos que tengo para donar.</td>
+    <td>5</td>
+    <td rowspan="3"><strong>EP03</strong></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><strong>US19</strong></td>
+    <td>Ponerse en contacto para poder realizar una donación</td>
+    <td>Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td><strong>US22</strong></td>
+    <td>Visualizar el perfil de las ONG’S registradas</td>
+    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- EPIC ID: EP04 -->
+  <tr>
+    <td>21</td>
+    <td><strong>US20</strong></td>
+    <td>Adquirir la suscripción premium</td>
+    <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
+    <td>8</td>
+    <td rowspan="4"><strong>EP04</strong></td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td><strong>US21</strong></td>
+    <td>Cancelar una suscripción</td>
+    <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td><strong>US23</strong></td>
+    <td>Acceder al centro de soporte para resolver cualquier problema técnico que se presente.</td>
+    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><strong>US24</strong></td>
+    <td>Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios.</td>
+    <td>Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.</td>
+    <td>3</td>
+  </tr>
+
+  <!-- EPIC ID: EP05 -->
+  <tr>
+    <td>25</td>
+    <td><strong>US27</strong></td>
+    <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.</td>
+    <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
+    <td>5</td>
+    <td rowspan="6"><strong>EP05</strong></td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td><strong>US30</strong></td>
+    <td>Navegación en la Landing Page</td>
+    <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td><strong>US29</strong></td>
+    <td>Ver los planes y precios</td>
+    <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de acceder a la página web principal.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td><strong>US26</strong></td>
+    <td>Visualizar las características clave de la aplicación</td>
+    <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><strong>US28</strong></td>
+    <td>Acceder a la página principal de CambiaZo</td>
+    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la página web principal de Cambiazo, para poder realizar acciones como registrarme, intercambiar o donar artículos una vez que haya obtenido la información necesaria en la landing page.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td><strong>US25</strong></td>
+    <td>Visualización de la Historia de la Startup</td>
+    <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
+    <td>1</td>
+  </tr>
+
+  <!-- EPIC ID: EP06 -->
+  <tr>
+    <td>31</td>
+    <td><strong>TS01</strong></td>
+    <td>API User</td>
+    <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
+    <td>3</td>
+    <td rowspan="5"><strong>EP06</strong></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><strong>TS02</strong></td>
+    <td>API Review</td>
+    <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><strong>TS03</strong></td>
+    <td>API ONGs</td>
+    <td>Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><strong>TS04</strong></td>
+    <td>API Memberships</td>
+    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><strong>TS05</strong></td>
+    <td>API Object</td>
+    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.</td>
+    <td>3</td>
+  </tr>
+</table>
+
 
 <br>
 

@@ -406,13 +406,13 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
   + **Características demográficas:** Personas entre 18 y 55 años, con artículos no deseados que están interesados en intercambiarlos por otros que necesitan. Este rango de edad fue seleccionado porque, según un estudio realizado por CPI Research en 2022, representa el 53.9% de la población total del país.<br><br>
     <div align="center">	
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 300px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
     </div>
 
   + **Características geográficas:** Personas que residen en Perú.<br>
   + **Motivaciones y Comportamientos:** A menudo motivados por la necesidad de actualizar sus pertenencias o por la falta de recursos para comprar nuevos artículos. En un estudio realizado por la Universidad Nacional del Altiplano en Puno, se identificó que una de las principales razones para realizar trueques es la falta de dinero.<br><br>
     <div align="center">	
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 300px; height: auto;">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 500px; height: auto;">
     <br><br>
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
@@ -1447,7 +1447,7 @@ Las personas que realizan intercambios de objetos tienen edades comprendidas ent
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 450px; height: auto;">
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 600px; height: auto;">
 </div>
 
 
@@ -1455,22 +1455,22 @@ Las respuestas de nuestros entrevistados evidencian que sería beneficioso y út
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 450px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 450px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 600px; height: auto;"><br><br>
 </div>
 
 La mayoría de los intercambiadores realiza trueques con regularidad. Este dato subraya la demanda existente de una plataforma que pueda gestionar estos intercambios de manera más eficiente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -1504,27 +1504,27 @@ Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Per
 **Análisis por medio de herramientas estadísticas:**
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 450px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 450px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
 </div>
 
 La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 450px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
@@ -1545,7 +1545,7 @@ Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donació
 ### Análisis General para Ambos Segmentos
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 450px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 

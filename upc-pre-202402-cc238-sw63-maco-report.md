@@ -1780,7 +1780,7 @@ En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, do
 
 <div align="center">
 
-![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be%20scenario-2.jpg?raw=true)
+![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.jpg?raw=true)
 </div>
 
 ## 2.4.2 User Stories

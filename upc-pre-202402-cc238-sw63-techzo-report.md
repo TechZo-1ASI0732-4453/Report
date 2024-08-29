@@ -2213,9 +2213,18 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>3</td>
   </tr>
 </table>
-
-
 <br>
+
+
+A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
+
+<div align="center">
+
+[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+</div>
+
+
+Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 
 # Bibliografía

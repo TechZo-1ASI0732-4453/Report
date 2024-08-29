@@ -1917,68 +1917,43 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 
 <br>
 
-|# Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8)|
-| - | - | - | - | - |
-|1|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|8|
-|2|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|5|
-|3|**US07**|Filtrado de ONGs|Como usuario Donante, quiero la capacidad de filtrar las ONGs disponibles de donación para encontrar la opción que mejor se adapte a los objetos que tengo para donar|5|
-|4|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|5|
-|5|**US16**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|5|
-|6|**US19**|Ponerse en contacto para poder realizar una donación|Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.|5|
-|7|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|5|
-|8|**US30**|Navegación en la Landing Page|Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|3|
-|9|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|3|
-|10|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|3|
-|11|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|3|
-|12|**US11**|Configuración de notificaciones|Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.|3|
-|13|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|3|
-|14|**US15**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|3|
-|15|**US17**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|3|
-|16|**US18**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|3|
-|17|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad|3|
-|18|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|3|
-|19|**US23**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.|3|
-|20|**US24**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios|Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|3|
-|21|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de acceder a la página web principal.|3|
-|22|**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|3|
-|23|**TS02**|API Review|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|3|
-|24|**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|3|
-|25|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|3|
-|26|**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|3|
-|27|**US02**|Editar perfil del usuario|Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|2|
-|28|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|2|
-|29|**US10**|Actualización de Correo Electrónico|Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante|2|
-|30|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|2|
-|31|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|2|
-|32|**US28**|Acceder a la página principal de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la página web principal de Cambiazo, para poder realizar acciones como registrarme, intercambiar o donar artículos una vez que haya obtenido la información necesaria en la landing page.|2|
-|33|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|1|
-|34|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.|1|
-|35|**US25**|Visualización de la Historia de la Startup|Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.|1|
-
-<br><br>
-
-A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
-
-<div align="center">
-
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
-</div>
-
-
-Enlace: [Product Backlog en Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
-
-
----
-
-<div style="text-align: justify;">
-
-# Conclusiones
-
-En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
-
-En el segundo capítulo, nos centramos en el proceso de Needfinding, donde identificamos las necesidades del mercado. Realizamos un análisis competitivo, comparando nuestra startup con los principales competidores, y definimos estrategias y tácticas para diferenciarnos en el mercado. También llevamos a cabo entrevistas y observaciones con usuarios potenciales, lo que nos permitió comprender a fondo los problemas y expectativas de nuestros clientes, garantizando que nuestra solución no solo sea viable, sino también altamente deseada por el mercado objetivo.
-
-En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores.
+|# Orden|User Story Id|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|Epic|
+|-|-|-|-|-|-| 
+|1|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|3|EP01|
+|2|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.|3|EP01|
+|3|**US11**|Configuración de notificaciones|Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.|3|EP01|
+|4|**US02**|Editar perfil del usuario|Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|2|EP01|
+|5|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|2|EP01|
+|6|**US10**|Actualización de Correo Electrónico|Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante.|2|EP01|
+|7|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|1|EP01|
+|8|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.|1|EP01|
+|9|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|5|EP02|
+|10|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.|5|EP02|
+|11|**US16**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|5|EP02|
+|12|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.|3|EP02|
+|13|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|3|EP02|
+|14|**US15**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|3|EP02|
+|15|**US17**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|3|EP02|
+|16|**US18**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|3|EP02|
+|17|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|2|EP02|
+|18|**US07**|Filtrado de ONGs|Como usuario Donante, quiero la capacidad de filtrar las ONGs disponibles de donación para encontrar la opción que mejor se adapte a los objetos que tengo para donar.|5|EP03|
+|19|**US19**|Ponerse en contacto para poder realizar una donación|Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.|5|EP03|
+|20|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|3|EP03|
+|21|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|8|EP04|
+|22|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad.|3|EP04|
+|23|**US23**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.|3|EP04|
+|24|**US24**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios.|Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|3|EP04|
+|25|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|5|EP05|
+|26|**US30**|Navegación en la Landing Page|Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|3|EP05|
+|27|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de acceder a la página web principal.|3|EP05|
+|28|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|2|EP05|
+|29|**US28**|Acceder a la página principal de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la página web principal de Cambiazo, para poder realizar acciones como registrarme, intercambiar o donar artículos una vez que haya obtenido la información necesaria en la landing page.|2|EP05|
+|30|**US25**|Visualización de la Historia de la Startup|Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.|1|EP05|
+|31|**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|3|EP06|
+|32|**TS02**|API Review|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|3|EP06|
+|33|**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|3|EP06|
+|34|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|3|EP06|
+|35|**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|3|EP06|
 
 <br>
 

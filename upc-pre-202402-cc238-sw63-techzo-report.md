@@ -1811,68 +1811,74 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 ### EPICS
 
-| **EP01 (Gestión de Cuenta de Usuario)** | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. |
-| :-: | :-: |
-| **US01** | Registro de usuario |
-| **US02** | Editar perfil del usuario |
-| **US03** | Iniciar sesión en la aplicación |
-| **US04** | Cambiar Contraseña |
-| **US05** | Cerrar Sesión |
-| **US09** | Eliminación de cuenta |
-| **US10** | Actualización de Correo Electrónico |
-| **US11** | Configuración de notificaciones |
+| **EP01: Gestión de Cuenta de Usuario** | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+|US01 | Registro de usuario |
+|US02 | Editar perfil del usuario |
+|US03 | Iniciar sesión en la aplicación |
+|US04 | Cambiar Contraseña |
+|US05| Cerrar Sesión |
+|US09| Eliminación de cuenta |
+|US10 | Actualización de Correo Electrónico |
+|US11 | Configuración de notificaciones |
 
 <br>
 
-| **EP02 (Funcionalidades de Intercambio)** | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. |
-| :-: | :-: |
-| **US06** | Filtrado de Objetos |
-| **US08** | Brindar reseña sobre el Intercambiador |
-| **US12** | Crear publicación de intercambio |
-| **US13** | Editar publicación de intercambio |
-| **US14** | Eliminar publicación de intercambio |
-| **US15** | Destacar publicación de intercambio |
-| **US16** | Ampliar slots de publicación de intercambio |
-| **US17** | Visualizar el perfil del usuario que publique un intercambio |
-| **US18** | Ponerse en contacto para pactar el intercambio |
+| **EP02: Funcionalidades de Intercambio** | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US06 | Filtrado de Objetos |
+| US08 | Brindar reseña sobre el Intercambiador |
+| US12 | Crear publicación de intercambio |
+| US13 | Editar publicación de intercambio |
+| US14 | Eliminar publicación de intercambio |
+| US15 | Destacar publicación de intercambio |
+| US16 | Ampliar slots de publicación de intercambio |
+| US17 | Visualizar el perfil del usuario que publique un intercambio |
+| US18 | Ponerse en contacto para pactar el intercambio |
 
 <br>
 
-| **EP03 (Funcionalidades de Donación)** | Como usuario de la aplicación, quiero acceder a funcionalidades específicas relacionadas con la donación de objetos, para facilitar la búsqueda, selección y contacto con organizaciones no gubernamentales (ONGs) para donar objetos. |
-| :-: | :-: |
-| **US07** | Filtrado de ONGs |
-| **US19** | Ponerse en contacto para poder realizar una donación |
-| **US22** | Visualizar el perfil de las ONG’S registradas |
+| **EP03: Funcionalidades de Donación** | Como usuario de la aplicación, quiero acceder a funcionalidades específicas relacionadas con la donación de objetos, para facilitar la búsqueda, selección y contacto con organizaciones no gubernamentales (ONGs) para donar objetos. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US07 | Filtrado de ONGs |
+| US19 | Ponerse en contacto para poder realizar una donación |
+| US22 | Visualizar el perfil de las ONG’S registradas |
 
 <br>
 
-| **EP04 (Gestión de Suscripciones y Soporte)** | Como usuario de la aplicación, quiero tener control sobre mi suscripción y acceso a soporte técnico para gestionar mi experiencia en la plataforma de manera efectiva y resolver cualquier problema que pueda surgir. |
-| :-: | :-: |
-| **US20** | Adquirir la suscripción premium |
-| **US21** | Cancelar una suscripción |
-| **US23** | Acceder al centro de soporte para resolver cualquier problema técnico que se presente. |
-| **US24** | Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios |
+| **EP04: Gestión de Suscripciones y Soporte** | Como usuario de la aplicación, quiero tener control sobre mi suscripción y acceso a soporte técnico para gestionar mi experiencia en la plataforma de manera efectiva y resolver cualquier problema que pueda surgir. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US20 | Adquirir la suscripción premium |
+| US21 | Cancelar una suscripción |
+| US23 | Acceder al centro de soporte para resolver cualquier problema técnico que se presente. |
+| US24 | Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios |
 
 <br>
 
-| **EP05 (Información y Navegación de la Landing Page)** | Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
-| :-: | :-: |
-| **US25** | Visualización de la Historia de la Startup |
-| **US26** | Visualizar las características clave de la aplicación |
-| **US27** | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo. |
-| **US28** | Descargar la aplicación de CambiaZo |
-| **US29** | Ver los planes y precios |
-| **US30** | Navegación en la Landing Page |
+| **EP05: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US25 | Visualización de la Historia de la Startup |
+| US26 | Visualizar las características clave de la aplicación |
+| US27 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo. |
+| US28 | Descargar la aplicación de CambiaZo |
+| US29 | Ver los planes y precios |
+| US30 | Navegación en la Landing Page |
 
 <br>
 
-| **EP06 (Desarrollo de Funcionalidades de la API de CambiaZo)** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
-| :-: | :-: |
-| **TS01** | API User |
-| **TS02** | API Review |
-| **TS03** | API ONGs |
-| **TS04** | API Memberships |
-| **TS05** | API Object |
+| **EP06: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| TS01 | API User |
+| TS02 | API Review |
+| TS03 | API ONGs |
+| TS04 | API Memberships |
+| TS05 | API Object |
 
 
 <br><br>

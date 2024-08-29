@@ -357,40 +357,62 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 <table>
     <tr>
         <td valign="top">
-            <div align="center"><br><b>Problema de Negocios</b></div><br>
-            <p>El modelo de economía lineal actual, caracterizado por la producción, el uso y el descarte, está generando una acumulación alarmante de residuos y un uso insostenible de recursos naturales. <br><br>A pesar del creciente interés en prácticas sostenibles, aún existe una falta de soluciones accesibles y prácticas para el intercambio de bienes. <br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
+            <div align="center"><br><b>Business Problem</b></div><br>
+            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible para el intercambio y donación de bienes.<br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
         </td>
         <td rowspan="2" valign="top">
-            <div align="center"><br><b>Ideas de Soluciones</b></div><br>
-            <p>Desarrollar una aplicación móvil que facilite el intercambio de objetos entre usuarios y permita la donación a organizaciones benéficas.<br><br> La aplicación debe ser intuitiva y ofrecer opciones de búsqueda y comunicación entre usuarios para coordinar intercambios. <br><br>Además, debe incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</p><br>
+            <div align="center"><br><b>Solutions</b></div><br>
+            <ul>
+            <li>Desarrollar una aplicación móvil para facilitar el intercambio de objetos entre usuarios.</li><br>
+            <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
+            <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
+            <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
+            </ul><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>Resultados Comerciales</b></div><br>
-            <p>Asegurar la satisfacción de los usuarios con el proceso de intercambio y donación.<br><br>Obtener financiamiento adicional para expandir y mejorar la aplicación.<br><br>Incrementar la visibilidad y el alcance de la aplicación mediante estrategias de marketing en redes sociales.</p><br>
+            <div align="center"><br><b>Business Outcomes</b></div><br>
+            <ul>
+              <li>Satisfacción del usuario en intercambios y donaciones.</li><br>
+              <li>Obtener financiamiento para expandir la app.</li><br>
+              <li>Aumentar la visibilidad y alcance con marketing en redes sociales.</li>
+            </ul><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
-            <p>Personas que buscan intercambiar bienes que ya no necesitan y aquellos interesados en donar a organizaciones benéficas.</p><br>
+            <div align="center"><br><b>Users</b></div><br>
+            <ul>
+              <li>Personas interesadas en intercambiar bienes no necesarios</li><br>
+              <li>Personas interesadas en donar a organizaciones benéficas.</li>
+            </ul><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>Beneficios del Usuario</b></div><br>
-            <p>Ahorro de dinero al obtener productos sin costo.<br><br>Deshacerse de objetos no deseados de manera útil.<br><br>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</p><br>
+            <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
+            <ul><li>Ahorro de dinero al obtener productos sin costo</li><br>
+            <li>Deshacerse de objetos no deseados de manera útil.</li><br>
+            <li>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</li>
+            </ul><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"><br><b>Hipótesis</b></div><br>
+            <div align="center"><br><b>Hypotheses</b></div><br>
             <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en donaciones mensuales.</p><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>¿Qué es lo más importante que necesitamos aprender primero?</b></div><br>
-            <p>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.<br><br>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.<br><br>Recopilar feedback sobre las funcionalidades y posibles mejoras.</p><br>
+            <div align="center"><br><b>What's the most important thing we need to learn first?</b></div><br>
+            <ul>
+            <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.</li><br>
+            <li>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.</li>
+            <br>
+            <li>Recopilar feedback sobre las funcionalidades y posibles mejoras.</li>
+            </ul><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b></div><br>
-            <p>Incorporar una función para que los usuarios puedan dejar comentarios y sugerencias sobre la aplicación.<br><br>Realizar encuestas regulares para evaluar la satisfacción de los usuarios y ajustar la aplicación según los comentarios recibidos.</p><br>
+            <div align="center"><br><b>What's the least amount of work we need to do to learn the next most important thing?</b></div><br>
+            <ul><li>Incorporar una función de comentarios y sugerencias. </li><br>
+            <li>Realizar encuestas regulares para ajustar la app según el feedback.</li>
+            </ul><br>
         </td>
     </tr>
 </table>

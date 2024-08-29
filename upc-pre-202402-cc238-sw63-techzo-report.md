@@ -1948,7 +1948,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>3</td>
     <td><strong>US11</strong></td>
     <td>Configuración de notificaciones</td>
-    <td>Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.</td>
+    <td>Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
@@ -2128,7 +2128,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>27</td>
     <td><strong>US29</strong></td>
     <td>Ver los planes y precios</td>
-    <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de acceder a la página web principal.</td>
+    <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
@@ -2142,7 +2142,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>29</td>
     <td><strong>US28</strong></td>
     <td>Acceder a la página principal de CambiaZo</td>
-    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la página web principal de Cambiazo, para poder realizar acciones como registrarme, intercambiar o donar artículos una vez que haya obtenido la información necesaria en la landing page.</td>
+    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo móvil.</td>
     <td>2</td>
   </tr>
   <tr>

@@ -1789,14 +1789,51 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 ### EPICS
 
-|**Epic ID**|**Título**|**Descripción**|
-| - | - | - |
-|**EP01**|**Gestión de Cuenta de Usuario**|**Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades.**|
-|**EP02**|**Funcionalidades de Intercambio**|**Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio.**|
-|**EP03**|**Funcionalidades de Donación**|**Como usuario de la aplicación, quiero acceder a funcionalidades específicas relacionadas con la donación de objetos, para facilitar la búsqueda, selección y contacto con organizaciones no gubernamentales (ONGs) para donar objetos.**|
-|**EP04**|**Gestión de Suscripciones y Soporte**|**Como usuario de la aplicación, quiero tener control sobre mi suscripción y acceso a soporte técnico para gestionar mi experiencia en la plataforma de manera efectiva y resolver cualquier problema que pueda surgir.**|
-|**EP05**|**Información y Navegación de la Landing Page**|**Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación.**|
-|**EP06**|**Desarrollo de Funcionalidades de la API de CambiaZo**|**Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma.**|
+### EPIC 1: Gestión de Cuenta de Usuario
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con US**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP01**    | Gestión de Cuenta de Usuario       | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. | • **US01** Registro de usuario <br> • **US02** Editar perfil del usuario <br> • **US03** Iniciar sesión en la aplicación <br> • **US04** Cambiar Contraseña <br> • **US05** Cerrar Sesión <br> • **US09** Eliminación de cuenta <br> • **US10** Actualización de Correo Electrónico <br> • **US11** Configuración de notificaciones |
+
+---
+
+### EPIC 2: Funcionalidades de Intercambio
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con US**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP02**    | Funcionalidades de Intercambio    | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. | • **US06** Filtrado de Objetos <br> • **US08** Brindar reseña sobre el Intercambiador <br> • **US12** Crear publicación de intercambio <br> • **US13** Editar publicación de intercambio <br> • **US14** Eliminar publicación de intercambio <br> • **US15** Destacar publicación de intercambio <br> • **US16** Ampliar slots de publicación de intercambio <br> • **US17** Visualizar el perfil del usuario que publique un intercambio <br> • **US18** Ponerse en contacto para pactar el intercambio |
+
+---
+
+### EPIC 3: Funcionalidades de Donación
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con US**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP03**    | Funcionalidades de Donación       | Como usuario de la aplicación, quiero acceder a funcionalidades específicas relacionadas con la donación de objetos, para facilitar la búsqueda, selección y contacto con organizaciones no gubernamentales (ONGs) para donar objetos. | • **US07** Filtrado de ONGs <br> • **US19** Ponerse en contacto para poder realizar una donación <br> • **US22** Visualizar el perfil de las ONG’S registradas |
+
+---
+
+### EPIC 4: Gestión de Suscripciones y Soporte
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con US**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP04**    | Gestión de Suscripciones y Soporte | Como usuario de la aplicación, quiero tener control sobre mi suscripción y acceso a soporte técnico para gestionar mi experiencia en la plataforma de manera efectiva y resolver cualquier problema que pueda surgir. | • **US20** Adquirir la suscripción premium <br> • **US21** Cancelar una suscripción <br> • **US23** Acceder al centro de soporte para resolver cualquier problema técnico que se presente. <br> • **US24** Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios |
+
+---
+
+### EPIC 5: Información y Navegación de la Landing Page
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con US**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP05**    | Información y Navegación de la Landing Page | Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. | • **US25** Visualización de la Historia de la Startup <br> • **US26** Visualizar las características clave de la aplicación <br> • **US27** Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo. <br> • **US28** Descargar la aplicación de CambiaZo <br> • **US29** Ver los planes y precios <br> • **US30** Navegación en la Landing Page |
+
+---
+
+### EPIC 6: Desarrollo de Funcionalidades de la API de CambiaZo
+
+| **Epic ID** | **Título**                        | **Descripción**                                                                          | **Relación con Technical Stories**                                                                                                      |
+|-------------|-----------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **EP06**    | Desarrollo de Funcionalidades de la API de CambiaZo | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. | • **TS01** API User <br> • **TS02** API Review <br> • **TS03** API ONGs <br> • **TS04** API Memberships <br> • **TS05** API Object |
 
 
 <br><br>

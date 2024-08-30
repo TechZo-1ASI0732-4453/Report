@@ -2286,6 +2286,16 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 
+
+# Conclusiones
+
+En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
+
+En el segundo capítulo, nos centramos en el proceso de Needfinding, donde identificamos las necesidades del mercado. Realizamos un análisis competitivo, comparando nuestra startup con los principales competidores, y definimos estrategias y tácticas para diferenciarnos en el mercado. También llevamos a cabo entrevistas y observaciones con usuarios potenciales, lo que nos permitió comprender a fondo los problemas y expectativas de nuestros clientes, garantizando que nuestra solución no solo sea viable, sino también altamente deseada por el mercado objetivo.
+
+En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores.
+
+
 # Bibliografía
   <br>
 

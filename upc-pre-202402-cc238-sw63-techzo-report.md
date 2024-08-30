@@ -433,8 +433,9 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
   + **Características demográficas:** Personas entre 18 y 55 años, con artículos no deseados que están interesados en intercambiarlos por otros que necesitan. Este rango de edad fue seleccionado porque, según la distribución de la población por segmentos de edad mostrada en la [Imagen 1](#imagen-1), representa el 53.9% de la población total del país, equivalente a 18,037,900 personas (CPI Research, 2022).
+
     <div align="center">
-	    <strong id="imagen-1">Imagen 1: Distribución de la población en Perú por segmentos de edad en 2022 (CPI Research, 2022)</strong><br><br>
+	    <strong id="imagen-1">Imagen 1: Distribución de la población en Perú por segmentos de edad en 2022 (CPI Research, 2022)</strong><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 500px; height: auto;">
     </div><br><br>
 
@@ -442,7 +443,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
   + **Motivaciones y Comportamientos:** A menudo motivados por la necesidad de actualizar sus pertenencias o por la falta de recursos para comprar nuevos artículos. En un estudio realizado por la Universidad Nacional del Altiplano en Puno, se identificó que una de las principales razones para realizar trueques es la falta de dinero. Este rango de edad fue seleccionado porque, según la información provista en la [Imagen 2](#imagen-2), se destacan diversas razones por las cuales las personas adultas participan en intercambios de artículos. La principal razón es la "Falta de dinero", representando el 56% de las respuestas, seguida de otros motivos como "Falta de trabajo" y "Por costumbre", entre otros.
 
      <div align="center">	
-	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
+	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
 	
     </div>
@@ -1615,6 +1616,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 ![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
+Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 <br><br>
 
 <b>Usuario Donador</b><br>
@@ -1624,6 +1626,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 ![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
 </div>
 
+Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 <br><br>
 
 ### 2.3.2 User Task Matrix
@@ -1741,7 +1744,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
-
+Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1752,6 +1755,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
 </div>
 
+Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -1764,8 +1768,9 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
+Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 
-<br>
+<br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1773,6 +1778,10 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
 </div>
+
+Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
+
+<br><br>
 
 ### 2.3.5 As-Is Scenario Mapping
 
@@ -1786,7 +1795,8 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-<br>
+Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+<br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1795,6 +1805,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
+Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
 
 
@@ -1812,8 +1823,8 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-
-<br>
+Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+<br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1821,6 +1832,11 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
 </div>
+
+Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+<br><br>
+
+
 
 ## 2.4.2 User Stories
 

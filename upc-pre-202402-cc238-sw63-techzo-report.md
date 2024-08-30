@@ -163,7 +163,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **A - Ambitious** | Usará técnicas avanzadas de análisis de datos para profundizar en las tendencias del mercado y comportamiento del consumidor, lo cual le permitirá no solo mejorar sus habilidades técnicas sino también su comprensión de las dinámicas del mercado global.                          |
 | **R - Relevant** | La capacidad de realizar segmentación de mercado efectiva es crucial para roles en estrategia de negocios y desarrollo de productos, lo que facilita la toma de decisiones estratégicas basadas en datos y mejora la eficiencia y efectividad de las campañas de marketing.                   |
 | **T - Time-bound** | Finalizar la segmentación y presentar un informe detallado antes del final del mes, con revisiones quincenales para evaluar el progreso y realizar ajustes según sea necesario.                                                                   |
-
+<br>
 ### Mendoza Carrión, Mathias Andre
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -175,7 +175,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **A - Ambitious** | Implementará técnicas avanzadas de recolección y análisis de datos, como análisis cualitativo y cuantitativo, extendiendo sus competencias analíticas más allá de su área actual de expertise y abriendo nuevas oportunidades de carrera en campos como análisis de datos y consultoría.    |
 | **R - Relevant** | El desarrollo de habilidades analíticas es fundamental para su crecimiento en roles como analista de mercado o de productos, permitiéndole participar más efectivamente en proyectos que requieren interpretación de grandes volúmenes de datos.                           |
 | **T - Time-bound** | Desarrollar y documentar estas habilidades a través de entrevistas completadas dentro de dos semanas, con reportes semanales para medir el progreso y ajustar estrategias según sea necesario.                                                  |
-
+<br>
 ### Quispe Andia, Jeremy Joel
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -187,7 +187,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **A - Ambitious** | Aprenderá técnicas avanzadas de análisis y planificación que son esenciales para roles de liderazgo en tecnología, buscando oportunidades para aplicar estos métodos en situaciones reales de mercado.                                    |
 | **R - Relevant** | Estas habilidades son fundamentales para su carrera como líder de proyectos en el campo de la tecnología, donde la capacidad para anticipar cambios del mercado y ajustar estrategias es crucial.                                            |
 | **T - Time-bound** | Desarrollar y documentar estas habilidades antes del 27/08/2024, con revisiones mensuales para asegurar que se mantenga en camino hacia el logro de estos objetivos.                                                                                     |
-
+<br>
 ### Santisteban Palomino, Ian Haziel Donato 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -200,7 +200,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **R - Relevant** | La habilidad para integrar needfinding y user journey insights es crucial para la eficiencia en la gestión de productos y proyectos, permitiendo que los productos desarrollados cumplan mejor con las expectativas del mercado y del cliente.                     |
 | **T - Time-bound** | Completar la actualización del backlog y la capacitación correspondiente antes del 26/08/2024, con revisiones semanales para monitorizar el progreso y ajustar la estrategia de implementación según sea necesario.                                                        |
 
-
+<br><br>
 ---
   
 # Capítulo I: Presentación
@@ -211,12 +211,17 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 
 **Área:**  Innovación tecnológica y Reutilización
 
-TechZo es una startup que está conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. La compañía pretende abordar y contribuir con el crecimiento del desarrollo sostenible del país, alentando a la cultura de consumo responsable y una economía circular. Es por ello que se ha propuesto como medida de solución la creación de la aplicación movil CambiaZo.
+TechZo es una startup dedicada a la innovación tecnológica y la reutilización de recursos, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
 
-* **Misión:**  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, facilitando el intercambio de bienes y artículos entre usuarios de manera segura y justa sin necesidad de realizar transacciones monetarias. Buscamos presentar un concepto sólido y alineado con las tendencias de consumo responsable y economía circular, permitiendo a los usuarios intercambiar objetos que ya no desean por otros que necesitan o les interesan actualmente.<br><br>Entendemos la importancia de la seguridad y veracidad en el proceso del intercambio de artículos, de modo que sea justo y beneficioso para ambas partes. Por lo tanto, nos esforzamos para asegurar que los usuarios puedan visualizar todos los detalles de los productos ofrecidos para intercambiar, y que puedan despejar todas sus dudas antes de realizar el intercambio, para que de este modo no haya ninguna insatisfacción por parte de los usuarios. Además, con la aplicación movil CambiaZo, queremos apoyar a la comunidad agregando una opción para que los usuarios puedan realizar donaciones de artículos a personas de escasos recursos económicos.
+Nuestra principal solución, CambiaZo, es una aplicación móvil diseñada para transformar la forma en que las personas gestionan y comparten sus bienes. A través de CambiaZo, facilitamos el intercambio directo, seguro y sin transacciones monetarias de artículos entre usuarios, promoviendo la reutilización y el aprovechamiento óptimo de recursos disponibles. Además, la aplicación ofrece una funcionalidad especial que permite a los usuarios donar productos directamente a personas de bajos recursos, apoyando así a las comunidades más necesitadas.
+
+En TechZo, estamos comprometidos con la seguridad, transparencia y justicia en cada transacción. Trabajamos constantemente para garantizar que los usuarios tengan acceso a información clara y detallada sobre los productos disponibles, fomentando una experiencia de intercambio confiable y satisfactoria. Al combinar tecnología de vanguardia con un enfoque en la responsabilidad social, buscamos impulsar un cambio positivo en la forma en que consumimos y reutilizamos.
+
+* **Misión:**<br>  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, proporcionando a los usuarios una plataforma accesible y segura para intercambiar y donar bienes de manera justa y responsable. Buscamos reducir el impacto ambiental fomentando la reutilización, al tiempo que apoyamos a las comunidades más vulnerables a través de un modelo inclusivo de donaciones.<br><br>
 
 
-* **Visión:**  La visión de TechZo es convertirse en la principal plataforma digital de intercambio de productos básicos que promueva una vida sostenible y consciente a nivel mundial. Nos esforzamos por ser líderes en el cambio hacia una economía circular, donde cada acto de comunicación coopere a reducir nuestro impacto en el medio ambiente y a construir una comunidad más solidaria y conectada.
+* **Visión:** <br>
+La visión de TechZo es convertirnos en la plataforma líder de intercambio y donación de productos básicos a nivel global. Queremos ser reconocidos por nuestra capacidad de conectar a las personas y comunidades, fomentando una economía circular que minimice el desperdicio y promueva la solidaridad. Aspiramos a liderar el camino hacia un futuro más sostenible, donde cada acto de intercambio y donación contribuya a un impacto ambiental positivo.<br><br>
 
 * **Valores:**  
 
@@ -230,7 +235,7 @@ TechZo es una startup que está conformada por estudiantes de la Universidad Per
 
   * **Compromiso con el usuario:** Poner las necesidades y deseos de los usuarios en el centro de todas las decisiones, asegurando que la aplicación satisfaga sus expectativas y mejore su experiencia realizando intercambios.
 
-  * **Respeto a la diversidad:**  Valorar y respetar las diferencias culturales, étnicas, de género y de opinión, tanto en el equipo interno como en la comunidad de usuarios.
+  * **Respeto a la diversidad:**  Valorar y respetar las diferencias culturales, étnicas, de género y de opinión, tanto en el equipo interno como en la comunidad de usuarios.<br><br>
 
  ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -243,6 +248,7 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 
+<br><br>
 
 ## 1.2 Solution Profile
 
@@ -295,7 +301,7 @@ Sin embargo, hemos notado que hay una gran dificultad al que este sector de la p
 
 Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
 
-¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre donantes y organizaciones?
+¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre Donadores y organizaciones?
 
 #### 1.2.2.2 Lean UX Assumptions
 
@@ -416,7 +422,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
         </td>
     </tr>
 </table>
-
+<br>
 
 </div>
 
@@ -426,24 +432,24 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
-  + **Características demográficas:** Personas entre 18 y 55 años, con artículos no deseados que están interesados en intercambiarlos por otros que necesitan. Este rango de edad fue seleccionado porque, según la distribución de la población por segmentos de edad mostrada en la [Imagen 1](#imagen-1), la mayoría de los intercambiadores potenciales se encuentran entre los 25 y 39 años, constituyendo el 23.4% de la población total del país.<br><br>
+  + **Características demográficas:** Personas entre 18 y 55 años, con artículos no deseados que están interesados en intercambiarlos por otros que necesitan. Este rango de edad fue seleccionado porque, según la distribución de la población por segmentos de edad mostrada en la [Imagen 1](#imagen-1), representa el 53.9% de la población total del país, equivalente a 18,037,900 personas (CPI Research, 2022).
     <div align="center">
-	    <strong id="imagen-1">Imagen 1</strong><br><br>
+	    <strong id="imagen-1">Imagen 1: Distribución de la población en Perú por segmentos de edad en 2022 (CPI Research, 2022)</strong><br><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 500px; height: auto;">
-    </div>
+    </div><br><br>
 
   + **Características geográficas:** Personas que residen en Perú.<br>
-  + **Motivaciones y Comportamientos:** A menudo motivados por la necesidad de actualizar sus pertenencias o por la falta de recursos para comprar nuevos artículos. En un estudio realizado por la Universidad Nacional del Altiplano en Puno, se identificó que una de las principales razones para realizar trueques es la falta de dinero. Este rango de edad fue seleccionado porque, según la información provista en la [Imagen 2](#imagen-2), se destacan diversas razones por las cuales las personas adultas participan en intercambios de artículos. La principal razón es la "Falta de dinero", representando el 56% de las respuestas, seguida de otros motivos como "Falta de trabajo" y "Por costumbre", entre otros.<br><br>
+  + **Motivaciones y Comportamientos:** A menudo motivados por la necesidad de actualizar sus pertenencias o por la falta de recursos para comprar nuevos artículos. En un estudio realizado por la Universidad Nacional del Altiplano en Puno, se identificó que una de las principales razones para realizar trueques es la falta de dinero. Este rango de edad fue seleccionado porque, según la información provista en la [Imagen 2](#imagen-2), se destacan diversas razones por las cuales las personas adultas participan en intercambios de artículos. La principal razón es la "Falta de dinero", representando el 56% de las respuestas, seguida de otros motivos como "Falta de trabajo" y "Por costumbre", entre otros.
 
      <div align="center">	
-	     <strong id="imagen-2">Imagen 2</strong><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;">
+	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
 	
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
 
 
-+ **Personas adultas que desean donar artículos que ya no utilizan (Donantes):**<br>
++ **Personas adultas que desean donar artículos que ya no utilizan (Donadores):**<br>
 “Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
 
     + **Características demográficas:** Personas entre 15 y 60 años de edad con la voluntad de donar objetos propios que ya no utilizan a personas de escasos recursos económicos.
@@ -701,7 +707,7 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
 
 
-**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores)
 
 **Introducción:**
 
@@ -1371,7 +1377,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donantes con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
+    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donadores con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
 </td>
   </tr>
 </tbody>
@@ -1512,7 +1518,7 @@ La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores
 Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
 
 
-### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes).<br>
+### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores).<br>
 
 Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
 
@@ -1592,7 +1598,11 @@ Además, la interfaz de CambiaZo debe ser intuitiva y fácil de usar. La simplic
 
 ## 2.3 Needfinding
 
-Para crear un producto que cumpla con las necesidades específicas de un cliente, Cambiazo se dedicará a identificar los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+En CambiaZo, entendemos que para desarrollar una plataforma que realmente responda a las necesidades de nuestros usuarios, es crucial conocerlas a fondo. La sección de Needfinding refleja nuestro compromiso con este objetivo a través de una investigación detallada.
+
+Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio y donación que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
+
+A continuación, exploraremos cómo estos métodos nos ayudarán a construir una solución que satisfaga y supere las demandas de nuestros usuarios.
 
 ### 2.3.1 User Personas
 
@@ -1618,7 +1628,9 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 ### 2.3.2 User Task Matrix
 
-Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Intercambiador y Donador.
+Para diseñar una plataforma que responda eficazmente a las necesidades de nuestros usuarios, en CambiaZo hemos desarrollado una User Task Matrix. 
+
+En esta sección, presentamos un análisis detallado de las tareas que los usuarios, tanto Intercambiadores como Donadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
 
 
 
@@ -1764,7 +1776,8 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 ### 2.3.5 As-Is Scenario Mapping
 
-En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.<br><br>
+En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando cómo interactúan con los procesos y herramientas existentes. El As-Is Scenario Mapping nos permitirá entender las prácticas actuales y detectar áreas de mejora para optimizar la experiencia del usuario en nuestra plataforma.<br><br>
+
 <b>Segmento Intercambiadores</b><br>
 
 
@@ -1788,7 +1801,8 @@ En esta sección, abordaremos el As-Is Scenario Mapping para ambos segmentos, do
 ## 2.4 Requirements Specification
 
 ###  2.4.1. To-Be Scenario Mapping
-En esta sección, abordaremos el To-Be Scenario Mapping para ambos segmentos, donde describiremos cómo deben configurarse las experiencias durante cada fase.
+
+En esta sección, visualizaremos los escenarios futuros propuestos para nuestros usuarios, ilustrando cómo deberían evolucionar los procesos y herramientas para mejorar la experiencia en nuestra plataforma. El To-Be Scenario Mapping nos ayudará a diseñar soluciones optimizadas que respondan a las necesidades identificadas y faciliten un flujo de trabajo más eficiente y satisfactorio.
 
 
 <b>Segmento Intercambiadores</b><br>
@@ -1935,7 +1949,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 
 ## 2.4.3. Impact Mapping
-En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
+En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
 
 <b>Segmento Intercambiadores</b><br>
 

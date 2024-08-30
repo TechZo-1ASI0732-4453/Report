@@ -164,6 +164,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **R - Relevant** | La capacidad de realizar segmentación de mercado efectiva es crucial para roles en estrategia de negocios y desarrollo de productos, lo que facilita la toma de decisiones estratégicas basadas en datos y mejora la eficiencia y efectividad de las campañas de marketing.                   |
 | **T - Time-bound** | Finalizar la segmentación y presentar un informe detallado antes del final del mes, con revisiones quincenales para evaluar el progreso y realizar ajustes según sea necesario.                                                                   |
 <br>
+
 ### Mendoza Carrión, Mathias Andre
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -176,6 +177,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **R - Relevant** | El desarrollo de habilidades analíticas es fundamental para su crecimiento en roles como analista de mercado o de productos, permitiéndole participar más efectivamente en proyectos que requieren interpretación de grandes volúmenes de datos.                           |
 | **T - Time-bound** | Desarrollar y documentar estas habilidades a través de entrevistas completadas dentro de dos semanas, con reportes semanales para medir el progreso y ajustar estrategias según sea necesario.                                                  |
 <br>
+
 ### Quispe Andia, Jeremy Joel
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -188,6 +190,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **R - Relevant** | Estas habilidades son fundamentales para su carrera como líder de proyectos en el campo de la tecnología, donde la capacidad para anticipar cambios del mercado y ajustar estrategias es crucial.                                            |
 | **T - Time-bound** | Desarrollar y documentar estas habilidades antes del 27/08/2024, con revisiones mensuales para asegurar que se mantenga en camino hacia el logro de estos objetivos.                                                                                     |
 <br>
+
 ### Santisteban Palomino, Ian Haziel Donato 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|

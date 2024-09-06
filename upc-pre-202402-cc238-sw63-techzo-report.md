@@ -2298,7 +2298,7 @@ Para lograr identificar y representar correctamente los usuarios y sistemas exte
     <img src="" width="600px" alt="diagram context">
 </div><br>
 
-Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contexto)<br>
+Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto)<br>
 
 
 #### 3.2.1.2 Software Architecture Container Diagrams
@@ -2309,7 +2309,7 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
     <img src="" width="600px" alt="diagram container">
 </div><br>
 
-Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contenedores)<br><br>
+Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores)<br><br>
 
 
 #### 3.2.1.3 Software Architecture Components Diagrams
@@ -2323,7 +2323,7 @@ En estos diagramas de componentes mostramos la arquitectura de las principales f
     <img src="" width="600px" alt="diagram component 1">
 </div><br>
 
-Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-001)<br><br>
+Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-001)<br><br>
 
 **Componente Intercambios/Trueques**
 
@@ -2331,7 +2331,7 @@ Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share
     <img src="" width="600px" alt="diagram component 2">
 </div><br>
 
-Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-002)<br><br>
+Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-002)<br><br>
 
 **Componente Configuración y Ajustes**
 
@@ -2339,7 +2339,7 @@ Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share
     <img src="" width="600px" alt="diagram component 3">
 </div><br>
 
-Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-003)<br><br>
+Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-003)<br><br>
 
 
 **Componente Donaciones**
@@ -2347,7 +2347,7 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
     <img src="" width="600px" alt="diagram component 4">
 </div><br>
 
-Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
+Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-004)<br><br>
 
 
 ### 3.2.2 Software Object-Oriented Design

@@ -2349,7 +2349,40 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
 
 Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
 
-### 4.8.1. Database Diagram
+
+### 3.2.2 Software Object-Oriented Design
+
+En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+
+#### 3.2.2.1 Class Diagrams
+
+Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
+
+<div align="center">
+    <img src="">
+</div><br>
+
+Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d7c7576a-837e-4e4b-86dc-ae903f4fdd40/edit?viewport_loc=-2282%2C-533%2C3096%2C1287%2C0_0&invitationId=inv_b3057c2c-0d68-4932-988f-920599058855)<br><br>
+
+
+#### 3.2.2.2 Class Dictionary
+
+El diccionario de clases detalla las características y funciones de cada entidad del sistema, proporcionando una referencia completa para entender la funcionalidad del software.
+
+- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.<br><br>
+  
+- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.<br><br>
+  
+- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.<br><br>
+  
+  
+- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.<br><br>
+  
+- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.<br><br>
+  
+- **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
+
+#### 3.2.2.4 Database Diagram
 
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
 

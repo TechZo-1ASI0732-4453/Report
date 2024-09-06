@@ -2301,6 +2301,16 @@ Para lograr identificar y representar correctamente los usuarios y sistemas exte
 Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contexto)<br>
 
 
+#### 3.2.1.2 Software Architecture Container Diagrams
+
+En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cual hemos identificado diferentes contenedores. Además se logra ver la interacción que tienen y cómo se conectan con los sistemas externos.
+
+<div align="center">
+    <img src="" width="600px" alt="diagram container">
+</div><br>
+
+Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contenedores)<br><br>
+
 
 
 

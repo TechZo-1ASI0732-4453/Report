@@ -2312,6 +2312,42 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contenedores)<br><br>
 
 
+#### 3.2.1.3 Software Architecture Components Diagrams
+
+En estos diagramas de componentes mostramos la arquitectura de las principales funcionalidades de CambiaZo. Además se logra ver cómo funcionan por dentro y cómo se conectan con los sistemas externos.
+
+
+**Componente Gestión de Usuarios**
+
+<div align="center">
+    <img src="" width="600px" alt="diagram component 1">
+</div><br>
+
+Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-001)<br><br>
+
+**Componente Intercambios/Trueques**
+
+<div align="center">
+    <img src="" width="600px" alt="diagram component 2">
+</div><br>
+
+Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-002)<br><br>
+
+**Componente Configuración y Ajustes**
+
+<div align="center">
+    <img src="" width="600px" alt="diagram component 3">
+</div><br>
+
+Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-003)<br><br>
+
+
+**Componente Donaciones**
+<div align="center">
+    <img src="" width="600px" alt="diagram component 4">
+</div><br>
+
+Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
 
 
 

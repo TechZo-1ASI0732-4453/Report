@@ -2349,7 +2349,15 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
 
 Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Component-004)<br><br>
 
+### 4.8.1. Database Diagram
 
+Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram.png?raw=true">
+</div><br>
+
+Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/doc/DXuXyDjv1zPkTw2ixppYDkDilQlApCUV)<br><br>
 
 # Conclusiones
 

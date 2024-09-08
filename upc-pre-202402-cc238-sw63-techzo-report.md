@@ -2285,6 +2285,147 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
+# Capítulo III: Architecture
+
+## 3.1. Product design.
+
+### 3.1.1. Style Guidelines.
+
+En esta sección, compartimos nuestra propuesta de diseño para el landing page y la aplicación móvil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
+
+#### 3.1.1.1. General Style Guidelinea.
+
+A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.
+
+**Colors:**
+
+Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guideline/colors_pallets.png?raw=true">
+ </div><br><br><br>
+
+**Branding:**
+El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
+
+**Typography:**
+
+Elegir una fuente adecuada es esencial para lograr un diseño cohesivo y equilibrado que se alinee con la imagen e identidad de la marca. Esta elección refleja nuestro compromiso de construir una identidad visual sólida y reconocible. La tipografía, incluida la fuente, el tamaño y el ancho, contribuirá significativamente a la percepción y el reconocimiento de la marca en el mercado objetivo.<BR>
+La tipografía utilizada será Montserrat, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varió entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px).
+
++ **Montserrat - Google fonts**
+
+<div align="center">
+
+[![Montserrat - Google fonts](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guideline/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
+</div><br>
+
+
+Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
+
+## Spacing
+
+El espacio en el diseño de **aplicaciones móviles** es crucial para crear una experiencia de usuario fluida y agradable. El espaciado adecuado ayuda a que la interfaz sea más clara, fácil de navegar y visualmente atractiva. En nuestros proyectos, seguimos principios clave de **Material Design**, adaptándolos a las necesidades específicas de nuestras aplicaciones.
+
+- **Botones**: Utilizamos un **padding** de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal. Esto asegura que los botones sean cómodos de interactuar en pantallas táctiles.
+- **Márgenes entre texto**: Para mejorar la legibilidad, mantenemos un **margen de 1 rem (16 px)** entre elementos de texto, creando una separación clara y estética.
+- **Márgenes entre elementos**: Aseguramos que haya un margen de **1.5 rem (24 px)** entre distintos elementos como imágenes, botones y cuadros de texto.
+- **Márgenes entre secciones**: Para una organización más clara de la interfaz, establecemos un margen de **6 rem (72 px)** entre secciones de contenido, permitiendo una mejor separación visual.
+
+## Dimensions
+
+La forma en que nos dirigimos a los usuarios de nuestra aplicación móvil varía según sus roles y necesidades. Cada segmento de usuarios tiene un tono y estilo de comunicación específico para garantizar que el mensaje resuene de manera efectiva.
+
+- **Usuarios Intercambiadores**: Para este segmento, utilizamos un lenguaje **práctico y dinámico**, centrado en la facilidad de uso de la plataforma de intercambio. El tono es amigable y directo, destacando las ventajas de utilizar la aplicación para intercambiar artículos de manera rápida y segura. Promovemos un sentido de comunidad, invitando a los usuarios a compartir y encontrar lo que necesitan fácilmente.
+  
+- **Usuarios Donadores**: Para los donadores, adoptamos un lenguaje **cálido y empático**, resaltando el impacto positivo de sus donaciones. El tono es inspirador, motivando a los usuarios a formar parte de una causa mayor. Enfatizamos el agradecimiento y reconocimiento hacia los donadores, recordándoles que su generosidad puede marcar la diferencia en la vida de otras personas.
+
+### 3.1.2. Information Architecture
+
+En Cambiazo, la arquitectura de la información en nuestras aplicaciones móviles está diseñada para ser intuitiva y fácil de navegar. Implementamos sistemas de organización claros como la jerarquía visual y categorización por temas, lo que permite a los usuarios encontrar lo que necesitan sin esfuerzo, mejorando la experiencia de navegación móvil.
+
+#### 3.1.2.1. Organization Systems
+
+Implementamos diversos sistemas de organización de la información en la app para mejorar la experiencia móvil:
+
+**Organización visual del contenido:**
+
+- **Jerárquica (Visual Hierarchy):** Destacamos la información importante en la app móvil para guiar a los usuarios a través de diferentes niveles de contenido, mostrando productos destacados de manera prominente en la pantalla principal.
+
+- **Organización secuencial (Step-by-step):** Para el registro, creación de listados y confirmación de intercambios, implementamos un sistema paso a paso, asegurando que los usuarios completen tareas fácilmente en su dispositivo móvil.
+
+**Esquemas de categorización de contenido:**
+
+- **Por tópicos:** Los productos se organizan en categorías como electrónica, ropa, o libros, facilitando a los usuarios móviles encontrar lo que buscan rápidamente.
+
+- **Según audiencia (Grupos de usuarios):** Ofrecemos secciones específicas para diferentes grupos de usuarios, como artículos infantiles o deportivos, optimizando la experiencia en función de sus intereses.
+
+- **Cronológico:** Eventos y promociones importantes se muestran en orden cronológico para mantener a los usuarios actualizados en la app.
+
+- **Alfabético:** Secciones como productos o preguntas frecuentes se organizan alfabéticamente para una navegación más fácil.
+
+#### 3.1.2.2. Labeling Systems
+
+En nuestras aplicaciones móviles, utilizamos un sistema de etiquetado claro y conciso para facilitar la navegación:
+
+- **Inicio/Home:** Muestra una visión general de la app y sus funciones principales.
+- **Conócenos/About Us:** Presenta la misión y visión de la plataforma.
+- **Características/Features:** Expone los beneficios que la app ofrece a los usuarios.
+- **ONGs Afiliadas/Affiliated NGOs:** Lista las organizaciones asociadas a Cambiazo.
+- **Planes/Subscriptions:** Presenta los diferentes planes de suscripción disponibles.
+- **Contáctanos/Contact Us:** Ofrece información de contacto, con un formulario para consultas.
+- **Registrarse/Sign Up:** Permite a los usuarios registrarse en la app, proporcionando campos para crear una cuenta.
+
+#### 3.1.2.3. SEO Tags and Meta Tags
+
+En nuestras aplicaciones móviles, aunque el SEO es menos relevante que en la web, los meta tags aún ayudan a optimizar la visibilidad:
+
+- **Encabezado:** Proporciona un título claro que mejora la visibilidad en los motores de búsqueda.
+- **Descripción:** Ofrecemos una breve descripción del contenido que ayuda a los usuarios a entender la función de la app.
+- **Palabras clave (Keywords):** Incluimos palabras clave relevantes para facilitar la búsqueda de la app.
+- **Autor y Derechos de Autor:** Estas etiquetas identifican al creador de la app y protegen los derechos de propiedad intelectual.
+
+Con estos sistemas, aseguramos que la arquitectura de la información en nuestra app móvil sea clara y efectiva, brindando a los usuarios una experiencia optimizada y satisfactoria.
+
+
+**Landing Page:**
+- **Título:**
+```html
+<title>
+Cambiazo - Intercambia artículos de forma segura y justa
+</title>
+```
+
+- **Descripción:**
+```
+  
+ <meta name="description" content="Intercambia artículos de manera segura y justa con Cambiazo. Explora una amplia variedad de productos, garantizando transacciones transparentes y beneficiosas para todos."/>
+
+```
+
+- **Palabras clave:**
+```
+
+<meta name="keywords" content="Intercambio de artículos, plataforma de intercambio, seguridad en el intercambio, justicia en el intercambio, comunidad de intercambio, donaciones de artículos."/>
+```
+
++ **Autor:**
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- **Copyright:**
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+
+Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
+
+
 ## 3.2 Architecture Overview
 ### 3.2.1 Domain-Driven Software Architecture
 

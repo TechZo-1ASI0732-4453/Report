@@ -2501,7 +2501,7 @@ En la sección de Software Object-Oriented Design se exploran aspectos clave com
 Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
 
 <div align="center">
-    <img src="">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/class-diagram.png?raw=true">
 </div><br>
 
 Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d7c7576a-837e-4e4b-86dc-ae903f4fdd40/edit?viewport_loc=-2282%2C-533%2C3096%2C1287%2C0_0&invitationId=inv_b3057c2c-0d68-4932-988f-920599058855)<br><br>

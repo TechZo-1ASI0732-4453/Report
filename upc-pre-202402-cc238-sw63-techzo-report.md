@@ -2494,7 +2494,7 @@ Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share
 
 ### 3.2.2 Software Object-Oriented Design
 
-En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+En la sección de Software Object-Oriented Design se exploran aspectos clave como los diagramas de clase y el diccionario de clases, que representan las principales clases del sistema y sus relaciones. Además, se aborda el diseño de base de datos y su diagrama asociado, que detallan la estructura y organización de los datos, ofreciendo una visión completa de la arquitectura del software.
 
 #### 3.2.2.1 Class Diagrams
 

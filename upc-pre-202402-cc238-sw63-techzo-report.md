@@ -112,7 +112,8 @@
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
 **ABET – EAC - Student Outcome 7**<br>
-**Criterio:** Capacidad de comunicarse efectivamente con una variedad de audiencias.<br><br>
+**Criterio:** La capacidad de adquirir y aplicar nuevos conocimientos según sea
+necesario, utilizando estrategias deaprendizaje apropiadas.<br><br>
 En el siguiente cuadro se describen las acciones realizadas y las conclusiones enunciadas por el grupo, que permiten sustentar el logro del ABET – EAC - Student Outcome 7.<br><br>
 
 <table >
@@ -2323,7 +2324,7 @@ La tipografía utilizada será Montserrat, que incluye las variantes Regular, Me
 
 Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
 
-## Spacing
+**Spacing**
 
 El espacio en el diseño de **aplicaciones móviles** es crucial para crear una experiencia de usuario fluida y agradable. El espaciado adecuado ayuda a que la interfaz sea más clara, fácil de navegar y visualmente atractiva. En nuestros proyectos, seguimos principios clave de **Material Design**, adaptándolos a las necesidades específicas de nuestras aplicaciones.
 
@@ -2332,7 +2333,7 @@ El espacio en el diseño de **aplicaciones móviles** es crucial para crear una 
 - **Márgenes entre elementos**: Aseguramos que haya un margen de **1.5 rem (24 px)** entre distintos elementos como imágenes, botones y cuadros de texto.
 - **Márgenes entre secciones**: Para una organización más clara de la interfaz, establecemos un margen de **6 rem (72 px)** entre secciones de contenido, permitiendo una mejor separación visual.
 
-## Dimensions
+**Dimensions**
 
 La forma en que nos dirigimos a los usuarios de nuestra aplicación móvil varía según sus roles y necesidades. Cada segmento de usuarios tiene un tono y estilo de comunicación específico para garantizar que el mensaje resuene de manera efectiva.
 

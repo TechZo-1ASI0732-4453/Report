@@ -2692,7 +2692,8 @@ En esta sección, establecemos las convenciones de estilo y mejores prácticas p
 El uso coherente de estas convenciones también facilita la colaboración entre desarrolladores, ya que se minimizan las discrepancias en la forma en que se escribe y estructura el código. También emplearemos Gherkin para la definición de pruebas de aceptación.
 <br><br>
 
-**JAVA**<br>
+**JAVA**
+
 Java es un lenguaje de programación orientado a objetos, robusto y de propósito general. Es conocido por su portabilidad gracias a la máquina virtual de Java (JVM), que permite ejecutar el mismo código en diferentes plataformas. Su enfoque en la simplicidad, la seguridad y la escalabilidad lo convierte en una elección popular para el desarrollo de aplicaciones empresariales y sistemas distribuidos.
 
 + **Nomenclatura en Inglés y uso de Minúsculas**
@@ -2785,9 +2786,10 @@ Java es un lenguaje de programación orientado a objetos, robusto y de propósit
       return userRepository.findById(id).orElse(null);
   }
   ```
-<br><br>
+<br>
 
-**GHERKIN**<br>
+**GHERKIN**
+
 Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
 
 Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:

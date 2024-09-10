@@ -2664,6 +2664,28 @@ En esta sección se detalla la configuración del entorno de desarrollo utilizad
 
   + **Azure:** Plataforma en la nube de Microsoft que ofrece una amplia gama de servicios para el desarrollo, despliegue y gestión de aplicaciones. Se utilizará para desplegar nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube.<br>https://azure.microsoft.com/ <br><br>
 
+### 4.1.2 Source Code Management
+
+Para administrar de manera efectiva el progreso del código en el backend, hemos adoptado la metodología Git Flow. Esta estrategia se basa en el uso de ramas para facilitar la gestión del código durante el desarrollo. En resumen, Git Flow nos permite mantener una rama principal (main) que contiene una versión estable del proyecto en un punto específico. Además, utilizamos una rama de desarrollo para integrar nuevas funcionalidades al código base sin afectar la versión estable actual. Esto nos permite avanzar en el desarrollo del backend mientras realizamos pruebas de nuevas características en la rama de desarrollo.
+
+Hemos optado por utilizar GitHub como plataforma de gestión de código debido a sus características avanzadas. GitHub facilita la visualización del proyecto y la gestión del código a través de herramientas colaborativas y de integración continua.
+
+En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.
+
+
+Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
+
+<div align="center">
+    <img src=""  alt="Repositorio backend">
+</div><br>
+
+Repositorio GitHub de los archivos feature:  <br><br> 
+
+<div align="center">
+    <img src="" alt="Repositorio archivos feature">
+</div><br><br>
+
+
 
 # Conclusiones
 

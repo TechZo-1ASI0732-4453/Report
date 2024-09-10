@@ -2685,7 +2685,189 @@ Repositorio GitHub de los archivos feature:  <br><br>
     <img src="" alt="Repositorio archivos feature">
 </div><br><br>
 
+### 4.1.3 Source Code Style Guide & Conventions
 
+En esta sección, establecemos las convenciones de estilo y mejores prácticas para el desarrollo backend de nuestra aplicación CambiaZo utilizando Java y Spring Boot. Estas reglas son esenciales para garantizar la legibilidad, mantenibilidad y escalabilidad del código a lo largo del ciclo de vida del proyecto.
+
+El uso coherente de estas convenciones también facilita la colaboración entre desarrolladores, ya que se minimizan las discrepancias en la forma en que se escribe y estructura el código. También emplearemos Gherkin para la definición de pruebas de aceptación.
+<br><br>
+
+**JAVA**<br>
+Java es un lenguaje de programación orientado a objetos, robusto y de propósito general. Es conocido por su portabilidad gracias a la máquina virtual de Java (JVM), que permite ejecutar el mismo código en diferentes plataformas. Su enfoque en la simplicidad, la seguridad y la escalabilidad lo convierte en una elección popular para el desarrollo de aplicaciones empresariales y sistemas distribuidos.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+  Todas las clases, métodos, variables y constantes deben estar nombradas en inglés y de manera descriptiva, utilizando camelCase para métodos y variables, y PascalCase para las clases. Se evitarán las abreviaturas ambiguas para mejorar la claridad.
+
+
+  Ejemplo: 
+  ```
+  // Mala práctica
+  int prsnAge;
+
+  // Buena práctica
+  int personAge;
+  ```
+
++ **Identación o Sangría**
+
+  En Java, la indentación es crucial para la legibilidad. Utilizaremos 4 espacios para la sangría, y se evitará el uso de tabulaciones. Además, todos los bloques de código deben estar debidamente indentados y alineados.
+
+
+  Ejemplos:
+
+  ```
+  public class UserService {
+     public void createUser(User user) {
+          if (user != null) {
+              userRepository.save(user);
+          }
+     }
+  }
+  ```
+
++ **Llaves y Estructura de Código**
+
+  En Java, las llaves deben abrirse en la misma línea que la declaración correspondiente y cerrarse alineadas con el inicio de dicha declaración. Esto mantiene una estructura clara y consistente.
+
+  Ejemplo:
+  ```
+  // Mala práctica
+  public void createUser(User user)
+  {
+      if (user != null)
+      {
+          userRepository.save(user);
+      }
+  }
+
+  // Buena práctica
+  public void createUser(User user) {
+      if (user != null) {
+          userRepository.save(user);
+      }
+  }
+  ```
+
++ **Uso de Constantes**
+  Las constantes en Java deben declararse como static final y nombrarse con mayúsculas separadas por guiones bajos.
+
+  Ejemplo:
+  ```
+  public static final int MAX_ATTEMPTS = 5;
+  ```
+
++ **Espacios alrededor de Operadores**
+
+  Se colocarán espacios alrededor de los operadores aritméticos, de comparación y asignación para mejorar la legibilidad del código.
+
+  Ejemplo:
+  ```
+  int sum = a + b;
+  if (x == y) {
+      return true;
+  }
+  ```
+
++ **Uso de Comentarios**
+
+  Los comentarios deben ser usados para explicar el por qué de las decisiones de código, no para describir lo que el código hace (esto debería ser evidente por la nomenclatura clara). Para los comentarios, utilizaremos el formato Javadoc para métodos públicos y clases.
+
+  Ejemplo:
+  ```
+  /**
+  * Retrieves a user by their ID.
+  *
+  * @param id the ID of the user to retrieve
+  * @return the user object
+  */
+  public User getUserById(Long id) {
+      return userRepository.findById(id).orElse(null);
+  }
+  ```
+<br><br>
+
+**GHERKIN**<br>
+Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
+
+Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
+
+  
+
+* **Discernible Given-When-Then Blocks**
+  
+  Según la sugerencia de Keiblinger, para facilitar la comprensión y la organización de los escenarios en Gherkin, se recomienda indentar los pasos que comienzan con "And" después de cada Given, When o Then. Esto permite distinguir claramente dónde termina un bloque y comienza otro, incluso en escenarios con múltiples pasos.
+
+  Ejemplo de Sophie Keiblinger :
+
+  ```
+  Scenario: Discernible Given-When-Then Blocks
+
+  In order to quickly spot where one block ends and another one begins, you can indent the steps starting with “And”
+
+  Given I need to prepare some data for my  scenario
+
+  And this is more complex so I need a second step
+
+  And this is more complex so I need a third step
+
+  When I trigger some action
+
+  Then I can see the expected outcome
+
+  And this outcome also has a second step
+
+  And this outcome also has a third step
+  ```
+
+* **Steps with Tables**
+  
+  Keiblinger nos sugiere utilizar un colon (:) al final de los pasos que requieren más entrada de una tabla. Esto ayuda a hacer inmediatamente reconocible que se espera una tabla como parte de la entrada del paso.
+
+  Ejemplo de Sophie Keiblinger:
+
+  ```
+  Given I need to prepare the following data for my scenario:
+
+  |  column 1  | column 2 |
+  | necessary |     data     |
+  ```
+
+* **Reducing Noise**
+
+  Keiblinger sugiere utilizar valores por defecto para campos que el sistema requiere pero que no son pertinentes para el escenario en cuestión. Por ejemplo, al probar la validación de una fecha de nacimiento, no es necesario especificar el nombre de la persona, título académico o número de seguro social. Esta  inclusión no afecta al resultado del escenario. Esta práctica ayuda a simplificar los escenarios y a enfocarse en las características específicas que se están probando.
+
+  Ejemplo:
+
+  ```
+  When el visitante se acerque a la sección ‘Comunícate con nosotros’
+  ```
+
+* **Newlines between scenarios and separator comments**
+
+  Keiblinger nos dice que para mantener la claridad en los archivos de escenarios de Gherkin, especialmente cuando estos son extensos o contienen múltiples escenarios, se recomienda agregar dos líneas en blanco entre cada escenario. Esto ayuda a distinguir claramente dónde termina un escenario y comienza otro. Además, es común añadir un comentario separador para brindar una guía visual adicional y facilitar la navegación en el archivo.
+
+  Ejemplo:
+  ```
+  #-----------------------------------------------------------------------------------
+  Scenario: Acceso a la historia de TechZo
+          Given que soy un visitante de la landing page
+          When navegue por la página de inicio
+          And encuentre la sección titulada "¿Quiénes Somos?"
+          Then podré obtener información detallada sobre la historia de la startup.
+
+  #-----------------------------------------------------------------------------------
+
+      Scenario: Acceso a las redes sociales de TechZo
+          Given que el visitante se encuentra en el landing page
+          When el visitante de click en la etiqueta “Contáctanos”
+          And encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo
+          And de click encima del botón con el logo de la red social que desee ver
+          Then el usuario será redireccionado a la red social que seleccionó previamente.
+  ```
+  
+  
+<br><br>
 
 # Conclusiones
 

@@ -2524,6 +2524,85 @@ El diccionario de clases detalla las características y funciones de cada entida
   
 - **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
 
+#### 3.2.2.3 Database Design 
+
+El diseño de la base de datos se ha desarrollado para gestionar eficientemente los datos relacionados con los intercambios entre usuarios dentro de la aplicación. Se crearon entidades específicas basadas en los requisitos funcionales para cubrir todas las necesidades operativas del sistema. A continuación se detalla la estructura de la base de datos:
+
+ **Entidades**
+
+ - **Usuarios:**
+ Contiene la información básica de los usuarios registrados en el sistema. Incluye datos como nombre, correo electrónico, contraseña, fecha de registro, y otros detalles personales relevantes.
+
+ - **Productos:**
+ Almacena información detallada sobre los productos disponibles. Incluye atributos como el nombre del producto, descripción, precio, información, producto de cambio, categoría, entre otros atributos para la gestión de productos en el sistema
+
+ - **Categoría de productos:**
+ Define las categorías en las que se agrupan los productos. Cada categoría tiene un nombre único y que ayuda a organizar los productos de manera más eficiente.
+
+ - **Productos favoritos:**
+ Registra los productos que los usuarios han marcado como favoritos. Esta entidad puede vincular usuarios con productos específicos, permitiendo a los usuarios acceder rápidamente a sus productos preferidos.
+ 
+ - **Intercambios:**
+  Registra las transacciones de intercambio entre usuarios. Incluye detalles como los productos intercambiados, el usuario que inicia el intercambio, el usuario con quien se intercambia, y el estado del intercambio (pendiente, completado, cancelado).
+  
+ - **Reseñas:**
+ Almacena las evaluaciones y comentarios que los usuarios han dejado sobre productos o servicios. Incluye información como la puntuación dada, el texto de la reseña, el usuario que escribió la reseña, y la fecha de publicación.
+ 
+ - **Planes:**
+ Contiene información sobre los diferentes planes disponibles para los usuarios, como suscripciones premium o membresías. Incluye atributos como el nombre del plan, descripción, costo, y duración.
+ 
+ - **Beneficios:**
+ Describe los beneficios o ventajas asociados a cada plan o suscripción. Esto puede incluir acceso a características exclusivas dentro del usuario dentro de la aplicaición
+ 
+ - **Suscripciones:**
+ Registra las suscripciones activas de los usuarios a diferentes planes. Incluye detalles como el usuario que tiene la suscripción, el plan al que está suscrito, la fecha de inicio, y la fecha de expiración.
+
+ - **Países**:
+ Contiene la información sobre los países en los que operan los productos. Incluye atributos como el nombre del país y el código del país.
+
+ - **Departamentos**: 
+  Registra los departamentos dentro de cada país. Incluye detalles como el nombre del departamento y el código del departamento.
+
+ - **Distritos**: 
+  Almacena información sobre los distritos dentro de cada departamento. Incluye atributos como el nombre del distrito y el código del distrito.
+  <br><br>
+
+**Modelo Relacional**
+
+Se eligió una base de datos relacional, ya que permite modelar fácilmente las relaciones entre entidades como productos y usuarios. Este modelo también permite mantener la integridad de los datos y ejecutar consultas complejas que son esenciales para el funcionamiento del sistema.
+
+ **Normalización**
+
+Se aplicaron las siguientes formas normales en el diseño de la base de datos:
+
+- **Primera Forma Normal (1NF):** Se aseguró que todas las tablas contengan solo valores atómicos en sus columnas, eliminando grupos de repetición. Todas las entidades, como usuarios, productos, categoría de productos, paises, departamentos, y distritos, cumplen con esta forma normal.
+
+- **Segunda Forma Normal (2NF):** Se garantizó que todos los atributos no clave dependan completamente de la clave primaria en las tablas con claves compuestas. Por ejemplo, las tablas intercambios y suscripciones se estructuraron para que todos los atributos relacionados dependan de manera completa de sus claves primarias.
+
+- **Tercera Forma Normal (3FN):** Se eliminó cualquier dependencia transitiva, asegurando que todos los atributos no clave dependan únicamente de la clave primaria. Esto se aplicó a tablas como planes, beneficios, y reseñas, donde cada atributo está directamente relacionado con la clave primaria sin redundancias.
+<br><br>
+
+**Claves Primarias y Foráneas**
+
+Cada entidad en la base de datos cuenta con una clave primaria que identifica de manera única cada registro. Las claves foráneas se utilizan para establecer relaciones entre tablas. Por ejemplo, en la tabla productos, el campo id es la clave primaria, y usuarios_id y categorías_productos_id son claves foráneas que relacionan productos con usuarios y categorías. De manera similar, las tablas suscripciones, intercambios, reseñas, beneficios, departamentos, y distritos emplean claves primarias y foráneas para vincular registros entre sí y mantener la integridad referencial.
+
+**Relaciones Muchos a Muchos**
+
+Se identificaron varias relaciones muchos a muchos en el diseño de la base de datos, las cuales se resolvieron mediante el uso de tablas intermedias. A continuación se detallan algunos ejemplos:
+
+- **Productos Favoritos:** 
+La relación entre usuarios y productos se maneja a través de la tabla productos_favoritos. Esta tabla permite que un usuario tenga múltiples productos favoritos y, a su vez, que un producto sea incluido en la lista de favoritos de varios usuarios.
+
+- **Intercambios:** 
+La tabla intercambios gestiona la relación entre los usuarios que ofrecen y reciben productos. Registra tanto el usuario que ofrece su producto como el usuario que recibe la oferta, facilitando el seguimiento de las transacciones de intercambio.
+
+- **Suscripciones:** 
+La tabla suscripciones establece una relación entre usuarios y planes de suscripción. Cada suscripción está vinculada a un usuario específico y a un plan determinado, permitiendo el seguimiento de las suscripciones activas.
+
+- **Reseñas:** 
+La relación entre usuarios y productos se maneja a través de la tabla reseñas. Esta tabla vincula a los usuarios que escriben reseñas con los intercambios de productos, facilitando el registro de evaluaciones y comentarios sobre los productos intercambiados.
+
+
 #### 3.2.2.4 Database Diagram
 
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.

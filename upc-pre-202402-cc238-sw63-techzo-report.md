@@ -2303,7 +2303,7 @@ A continuación, se presentan las pautas generales para asegurar una presentaci�
 Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guideline/colors_pallets.png?raw=true">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/colors_pallets.png?raw=true">
  </div><br><br><br>
 
 **Branding:**
@@ -2318,7 +2318,7 @@ La tipografía utilizada será Montserrat, que incluye las variantes Regular, Me
 
 <div align="center">
 
-[![Montserrat - Google fonts](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guideline/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
+[![Montserrat - Google fonts](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
 </div><br>
 
 
@@ -2426,6 +2426,37 @@ Cambiazo - Intercambia artículos de forma segura y justa
 
 Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
 
+
+### 4.2.4. Searching Systems
+
+Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, implementaremos un sistema de búsqueda robusto con varias opciones y filtros en nuestra aplicación móvil. Aquí está cómo será el sistema de búsqueda:
+
+- **Búsqueda básica:** Ofreceremos un campo de búsqueda simple en la parte superior de cada pantalla, donde los usuarios podrán ingresar palabras clave relacionadas con los productos que desean encontrar. Esto proporcionará una forma rápida y directa de buscar artículos específicos.
+
+- **Filtros avanzados:** Permitiremos a los usuarios refinar sus resultados de búsqueda utilizando filtros avanzados como categoría de producto, disponible a través de un menú desplegable intuitivo. Estos filtros ayudarán a los usuarios a encontrar exactamente lo que están buscando y a reducir el volumen de información para evitar la sobrecarga de datos.
+
+- **Ordenación de resultados:** Después de realizar una búsqueda, los usuarios podrán ordenar los resultados según diferentes criterios, como relevancia, precio ascendente/descendente, fecha de publicación, etc., mediante un selector fácil de usar. Esto les permitirá encontrar los productos más adecuados de manera rápida y eficiente.
+
+- **Vista de resultados clara y detallada:** Mostraremos los resultados de búsqueda de manera clara y ordenada, con información relevante y detallada sobre cada producto, incluyendo imágenes, título, descripción, precio y ubicación del vendedor. Esto facilitará a los usuarios evaluar y comparar los productos encontrados.
+
+- **Sugerencias de búsqueda:** Proporcionaremos sugerencias de búsqueda mientras los usuarios escriben en el campo de búsqueda, ayudándoles a encontrar términos relevantes y populares relacionados con su consulta.
+
+Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación clara y detallada de los resultados, buscamos garantizar que los usuarios puedan encontrar fácilmente los productos que están buscando en Cambiazo, sin sentirse abrumados por el volumen de información disponible.
+
+
+### 4.2.5. Navigation Systems
+
+Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
+
+- **Menú de navegación claro y conciso:** En la parte inferior de cada pantalla, proporcionaremos un menú de navegación que incluya enlaces directos a las secciones principales de la aplicación, como "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto permitirá a los usuarios acceder rápidamente a las funciones y áreas que deseen explorar.
+
+- **Búsqueda prominente:** Colocaremos un campo de búsqueda bien visible en la parte superior de cada pantalla, permitiendo a los usuarios buscar productos específicos, categorías o ong’s dentro de la aplicación de manera rápida y sencilla.
+
+- **Botones de llamada a la acción (CTA):** Utilizaremos botones de CTA estratégicamente ubicados para dirigir a los usuarios hacia acciones importantes, como "Publicar", "Inicia sesión", "Inicio", "Categorías", etc. Estos botones ayudarán a los usuarios a tomar decisiones y avanzar en su experiencia en la plataforma.
+
+- **Navegación intuitiva:** Diseñaremos la estructura de la aplicación de manera intuitiva, siguiendo convenciones de diseño de interfaz de usuario estándar y asegurándonos de que la navegación sea coherente en todas las pantallas. Esto ayudará a los usuarios a sentirse cómodos y seguros mientras exploran y utilizan Cambiazo.
+
+Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la aplicación Cambiazo.
 
 ## 3.2 Architecture Overview
 ### 3.2.1 Domain-Driven Software Architecture

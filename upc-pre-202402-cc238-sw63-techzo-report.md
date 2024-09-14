@@ -119,6 +119,8 @@
   - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
     - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
     - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+
+    
   - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
     - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
     - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
@@ -2531,7 +2533,7 @@ Enlace: [Wireframe del Landing Page en Figma]()<br><br>
 </div><br><br>
 
 
-### 4.3.2. Landing Page Mock-up.
+#### 3.1.3.2. Landing Page Mock-up
 Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
 
 Enlace: [Mock-up del Landing Page en Figma]()<br><br>
@@ -2548,6 +2550,52 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
     <img src="" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
+
+### 3.1.4. Mobile  Applications UX/UI Design
+#### 3.1.4.1. Mobile  Applications Wireframes
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src=""  alt="wireframes-appmovil">
+</div><br><br>
+
+Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=JB6EPW2FwvDSD40F-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación web:<br><br>
+
+<div align="center">
+    <img src="" alt="wireframes-1"><br><br>
+    <img src=""  alt="wireframes-2"><br><br>
+    <img src=""  alt="wireframes-3"><br><br>
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación móvil. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src=""  alt="wireframes-4">
+</div><br>
+
+La pantalla de inicio presenta las publicaciones de usuarios de manera organizada y equitativa. Se incluirá una barra de búsqueda y categorías para facilitar la navegación.<br><br>
+
+
+<div align="center">
+    <img src=""  alt="wireframes-5">
+</div><br>
+
+Esta pantalla mostrará una lista de organizaciones benéficas registradas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+<div align="center">
+    <img src=""  alt="wireframes-6">
+</div><br>
+
+La página de membresía presentará los distintos planes de membresía de forma clara y ordenada, con información concisa sobre los beneficios de cada plan.<br><br>
+
+
+<div align="center">
+    <img src=""  alt="wireframes-7">
+</div><br>
+
+El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario.<br><br>
 
 
 

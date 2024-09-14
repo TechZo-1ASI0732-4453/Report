@@ -2514,9 +2514,9 @@ Al implementar estas acciones y técnicas de navegación, buscamos garantizar qu
 
 ### 3.1.3. Landing Page UI Design
 #### 3.1.3.1. Landing Page Wireframe
-Para la creación del esquema inicial de nuestra página de inicio (landing page), se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
+Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
-Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cWAICYsdKoDvK93/Untitled?type=design&mode=design&t=GUEZeeg6jgtCP6yE-1)<br><br>
+Enlace: [Wireframe del Landing Page en Figma]()<br><br>
 
 **Landing Page**
 
@@ -2529,6 +2529,26 @@ Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4
 <div align="center">
     <img src="" width="300px" alt="Wireframe Mobile">
 </div><br><br>
+
+
+### 4.3.2. Landing Page Mock-up.
+Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
+
+Enlace: [Mock-up del Landing Page en Figma]()<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="" width="600px" alt="Mockup">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="" width="300px" alt="Mockup Mobile">
+</div><br><br>
+
+
 
 
 ## 3.2 Architecture Overview

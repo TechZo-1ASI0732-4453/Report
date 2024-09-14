@@ -2339,15 +2339,15 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
-# Capítulo III: Architecture
+# Capítulo III: Arquitectura
 
-## 3.1. Product design.
+## 3.1. Product Design
 
-### 3.1.1. Style Guidelines.
+### 3.1.1. Style Guidelines
 
 En esta sección, compartimos nuestra propuesta de diseño para el landing page y la aplicación móvil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
 
-#### 3.1.1.1. General Style Guidelinea.
+#### 3.1.1.1. General Style Guidelines
 
 A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.
 
@@ -2418,7 +2418,7 @@ Implementamos diversos sistemas de organización de la información en la app pa
 
 - **Alfabético:** Secciones como productos o preguntas frecuentes se organizan alfabéticamente para una navegación más fácil.
 
-#### 3.1.2.2. Labeling Systems
+#### 3.1.2.2. Labelling Systems
 
 En nuestras aplicaciones móviles, utilizamos un sistema de etiquetado claro y conciso para facilitar la navegación:
 
@@ -2480,7 +2480,7 @@ Cambiazo - Intercambia artículos de forma segura y justa
 Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
 
 
-### 4.2.4. Searching Systems
+#### 3.1.2.4. Searching Systems
 
 Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, implementaremos un sistema de búsqueda robusto con varias opciones y filtros en nuestra aplicación móvil. Aquí está cómo será el sistema de búsqueda:
 
@@ -2497,7 +2497,7 @@ Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los 
 Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación clara y detallada de los resultados, buscamos garantizar que los usuarios puedan encontrar fácilmente los productos que están buscando en Cambiazo, sin sentirse abrumados por el volumen de información disponible.
 
 
-### 4.2.5. Navigation Systems
+#### 3.1.2.5. Navigation Systems
 
 Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
 
@@ -2511,12 +2511,32 @@ Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efec
 
 Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la aplicación Cambiazo.
 
+
+### 3.1.3. Landing Page UI Design
+#### 3.1.3.1. Landing Page Wireframe
+Para la creación del esquema inicial de nuestra página de inicio (landing page), se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
+
+Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cWAICYsdKoDvK93/Untitled?type=design&mode=design&t=GUEZeeg6jgtCP6yE-1)<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="" width="600px" alt="Wireframe">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="" width="300px" alt="Wireframe Mobile">
+</div><br><br>
+
+
 ## 3.2 Architecture Overview
 ### 3.2.1 Domain-Driven Software Architecture
 
 En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
 
-#### 3.2.1.1 Software Architecture Context Diagram
+#### 3.2.1.1 Software Architecture Context Level Diagram
 
 Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, un Servicio de Pagos, y las ONG’s.
 
@@ -2527,7 +2547,7 @@ Para lograr identificar y representar correctamente los usuarios y sistemas exte
 Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto)<br>
 
 
-#### 3.2.1.2 Software Architecture Container Diagrams
+#### 3.2.1.2 Software Architecture Container Level Diagram
 
 En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cual hemos identificado diferentes contenedores. Además se logra ver la interacción que tienen y cómo se conectan con los sistemas externos.
 
@@ -2538,7 +2558,7 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores)<br><br>
 
 
-#### 3.2.1.3 Software Architecture Components Diagrams
+#### 3.2.1.3 Software Architecture Components Diagram
 
 En estos diagramas de componentes mostramos la arquitectura de las principales funcionalidades de CambiaZo. Además se logra ver cómo funcionan por dentro y cómo se conectan con los sistemas externos.
 

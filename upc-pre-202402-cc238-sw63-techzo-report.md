@@ -2551,12 +2551,12 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
 </div><br><br>
 
 
-### 3.1.4. Mobile  Applications UX/UI Design
-#### 3.1.4.1. Mobile  Applications Wireframes
+### 3.1.4. Mobile Applications UX/UI Design
+#### 3.1.4.1. Mobile Applications Wireframes
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
 <div align="center">
-    <img src=""  alt="wireframes-appmovil">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true"  alt="wireframes-appmovil">
 </div><br><br>
 
 Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=JB6EPW2FwvDSD40F-1)<br><br>
@@ -2564,38 +2564,47 @@ Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm
 A continuación, mostramos los wireframes de nuestra aplicación web:<br><br>
 
 <div align="center">
-    <img src="" alt="wireframes-1"><br><br>
-    <img src=""  alt="wireframes-2"><br><br>
-    <img src=""  alt="wireframes-3"><br><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="wireframes-1"><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true"  alt="wireframes-2"><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true"  alt="wireframes-3">
 </div><br>
 
 Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación móvil. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
 
 <div align="center">
-    <img src=""  alt="wireframes-4">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true"  alt="wireframes-4">
 </div><br>
 
-La pantalla de inicio presenta las publicaciones de usuarios de manera organizada y equitativa. Se incluirá una barra de búsqueda y categorías para facilitar la navegación.<br><br>
+La pantalla de inicio presenta las publicaciones de usuarios de manera organizada. Se incluirá una barra de búsqueda y categorías para facilitar la navegación, además de filtros personalizados.<br><br>
 
 
 <div align="center">
-    <img src=""  alt="wireframes-5">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true"  alt="wireframes-5">
 </div><br>
 
-Esta pantalla mostrará una lista de organizaciones benéficas registradas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+La pantalla de Producto muestra un artículo con detalles como precio, usuario publicador, descripción y ubicación para el intercambio, junto con un botón para iniciar el proceso. En la pantalla de Oferta, el usuario selecciona un solo artículo de su inventario para intercambiar, y confirma la oferta con un resumen visual del artículo propuesto y el deseado.<br><br>
 
 <div align="center">
-    <img src=""  alt="wireframes-6">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-6.png?raw=true"  alt="wireframes-6">
 </div><br>
 
-La página de membresía presentará los distintos planes de membresía de forma clara y ordenada, con información concisa sobre los beneficios de cada plan.<br><br>
+A través de la pantalla de Mis Artículos podrás publicar nuevos artículos, el formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión.<br><br>
 
 
 <div align="center">
-    <img src=""  alt="wireframes-7">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true"  alt="wireframes-7">
 </div><br>
 
-El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario.<br><br>
+Esta pantalla mostrará una lista de organizaciones benéficas afiliadas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="wireframes-8"><br>
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true"  alt="wireframes-9">
+
+</div><br>
+
+La pantalla de Mi Perfil permite gestionar la cuenta personal, incluyendo la edición de información, revisión de artículos favoritos, visualización de reseñas recibidas, exploración de planes de suscripción con beneficios adicionales y la opción de cerrar sesión<br><br>
 
 
 

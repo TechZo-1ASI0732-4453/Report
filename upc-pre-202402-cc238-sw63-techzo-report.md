@@ -2746,6 +2746,21 @@ El diseño de la base de datos se ha desarrollado para gestionar eficientemente 
 
  - **Distritos**: 
   Almacena información sobre los distritos dentro de cada departamento. Incluye atributos como el nombre del distrito y el código del distrito.
+
+ - **ONGs**: 
+  Almacena la información de cada organización no gubernamental registrada, incluyendo detalles sobre su misión, visión, contacto, y otros datos relacionados. Está relacionada con las tablas de categorías, redes sociales, proyectos y cuentas bancarias.
+
+ - **Categorías de ONG**: 
+  Define el tipo de ONG mediante un identificador único y un nombre que describe la categoría a la que pertenece la organización. Está relacionado con la tabla de ONG para clasificar a las organizaciones.
+
+ - **Proyectos**: 
+  Almacena los proyectos asociados a cada ONG. Incluye información como el nombre del proyecto, una descripción breve y un enlace directo con la ONG correspondiente.
+
+ - **Redes Sociales**: 
+  Vincula cada ONG con sus cuentas de redes sociales. Incluye el nombre de la red social y la URL asociada a la ONG para dar seguimiento a su presencia en línea.
+
+ - **Número de Cuentas**: 
+  Registra los números de cuenta bancaria de las ONG. Contiene información como el nombre de la entidad financiera, el número de cuenta y el código de identificación para facilitar el soporte financiero.
   <br><br>
 
 **Modelo Relacional**
@@ -2756,16 +2771,16 @@ Se eligió una base de datos relacional, ya que permite modelar fácilmente las 
 
 Se aplicaron las siguientes formas normales en el diseño de la base de datos:
 
-- **Primera Forma Normal (1NF):** Se aseguró que todas las tablas contengan solo valores atómicos en sus columnas, eliminando grupos de repetición. Todas las entidades, como usuarios, productos, categoría de productos, paises, departamentos, y distritos, cumplen con esta forma normal.
+- **Primera Forma Normal (1NF):** Se aseguró que todas las tablas contengan solo valores atómicos en sus columnas, eliminando grupos de repetición. Todas las entidades, como usuarios, productos, categorías de productos, ONGs, proyectos, redes sociales, categorías de ONGs, número de cuentas, países, departamentos y distritos, cumplen con esta forma normal.
 
-- **Segunda Forma Normal (2NF):** Se garantizó que todos los atributos no clave dependan completamente de la clave primaria en las tablas con claves compuestas. Por ejemplo, las tablas intercambios y suscripciones se estructuraron para que todos los atributos relacionados dependan de manera completa de sus claves primarias.
+- **Segunda Forma Normal (2NF):** Se garantizó que todos los atributos no clave dependan completamente de la clave primaria en las tablas con claves compuestas. Por ejemplo, las tablas intercambios, suscripciones, número de cuentas y categorías de ONGs se estructuraron para que todos los atributos relacionados dependan de manera completa de sus claves primarias.
 
-- **Tercera Forma Normal (3FN):** Se eliminó cualquier dependencia transitiva, asegurando que todos los atributos no clave dependan únicamente de la clave primaria. Esto se aplicó a tablas como planes, beneficios, y reseñas, donde cada atributo está directamente relacionado con la clave primaria sin redundancias.
+- **Tercera Forma Normal (3FN):** Se eliminó cualquier dependencia transitiva, asegurando que todos los atributos no clave dependan únicamente de la clave primaria. Esto se aplicó a tablas como planes, beneficios, reseñas, ONGs, y proyectos, donde cada atributo está directamente relacionado con la clave primaria sin redundancias.
 <br><br>
 
 **Claves Primarias y Foráneas**
 
-Cada entidad en la base de datos cuenta con una clave primaria que identifica de manera única cada registro. Las claves foráneas se utilizan para establecer relaciones entre tablas. Por ejemplo, en la tabla productos, el campo id es la clave primaria, y usuarios_id y categorías_productos_id son claves foráneas que relacionan productos con usuarios y categorías. De manera similar, las tablas suscripciones, intercambios, reseñas, beneficios, departamentos, y distritos emplean claves primarias y foráneas para vincular registros entre sí y mantener la integridad referencial.
+Cada entidad en la base de datos cuenta con una clave primaria que identifica de manera única cada registro. Las claves foráneas se utilizan para establecer relaciones entre tablas. Por ejemplo, en la tabla productos, el campo id es la clave primaria, y usuarios_id y categorías_productos_id son claves foráneas que relacionan productos con usuarios y categorías. De manera similar, las tablas ONGs, proyectos, redes sociales, número de cuentas, suscripciones, intercambios, reseñas, beneficios, departamentos, y distritos emplean claves primarias y foráneas para vincular registros entre sí y mantener la integridad referencial.
 
 **Relaciones Muchos a Muchos**
 

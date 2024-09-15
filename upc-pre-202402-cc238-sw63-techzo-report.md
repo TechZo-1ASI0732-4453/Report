@@ -3112,10 +3112,10 @@ Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-backend.png?raw=true"  alt="Repositorio backend">
 </div><br>
 
-Repositorio GitHub de los archivos feature:  <br><br> 
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test  <br><br> 
 
 <div align="center">
-    <img src="" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-acceptense-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 ### 4.1.3 Source Code Style Guide & Conventions

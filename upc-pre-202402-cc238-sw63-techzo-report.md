@@ -3040,7 +3040,11 @@ La relación entre usuarios y productos se maneja a través de la tabla reseñas
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram.png?raw=true">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram-1.png?raw=true">
+</div><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram-2.png?raw=true">
 </div><br>
 
 Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/doc/DXuXyDjv1zPkTw2ixppYDkDilQlApCUV)<br><br>

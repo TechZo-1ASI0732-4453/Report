@@ -2872,7 +2872,7 @@ En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-
 Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
 
 <div align="center">
-    <img src=""  alt="Repositorio backend">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-backend.png?raw=true"  alt="Repositorio backend">
 </div><br>
 
 Repositorio GitHub de los archivos feature:  <br><br> 

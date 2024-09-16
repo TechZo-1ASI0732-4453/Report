@@ -2559,13 +2559,13 @@ Enlace: [Wireframe del Landing Page en Figma]()<br><br>
 **Landing Page**
 
 <div align="center">
-    <img src="" width="600px" alt="Wireframe">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="" width="300px" alt="Wireframe Mobile">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
 </div><br><br>
 
 
@@ -2577,13 +2577,13 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
 **Landing Page**
 
 <div align="center">
-    <img src="" width="600px" alt="Mockup">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="" width="300px" alt="Mockup Mobile">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
 

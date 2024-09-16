@@ -3703,14 +3703,9 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 </div>
 <br>
 
-
-
 <br>
 
-<br>
-
-
-Enlace: [Video del Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?e=VZtdOr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-8483035d8f19.herokuapp.com/swagger-ui/index.html#/)
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review.
 En el transcurso del Sprint 1, hemos logrado avances importantes en la creación de los repositorios para nuestro backend. Esto incluyó el desarrollo de los métodos CRUD para usuarios, reseñas, objetos y membresías, así como la implementación de pruebas de aceptación (acceptance tests). Tener estos puntos bien definidos desde el comienzo facilitó la organización y gestión del proyecto.
@@ -3744,7 +3739,21 @@ Link: https://github.com/TechZo-CC238-SW63/Backend
 
 Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “Backend”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
 
-<b>Analíticos de GitHUb</b>
+
+<b>Tabla de identificación</b>
+
+<div align="center">
+
+| Username (Github) | Nombre |
+|-------------------|--------------------------|
+| HelloNerk | Huamani Mandujano, Joseph Alexis |
+| 123-Mathi | Mendoza Carrión, Mathias André |
+| Jemisas | Quispe Andia, Jeremy Joel |
+| IanHD04 | Santisteban Palomino, Ian Haziel Donato |
+
+</div>
+
+<b>Analíticos de GitHub</b>
 
   + Backend
           <div align="center">

@@ -235,60 +235,63 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
 ---
 
 # Objetivos SMART
-Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados
 
-### Huamani Mandujano, Joseph Alexis 
+Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados.
+
+### Huamani Mandujano, Joseph Alexis
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Mejorar habilidades analíticas y de segmentación de mercado aplicables en roles de marketing y gestión de productos.                                  |
-| **Fecha de inicio**               | 8/12/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific** | Joseph desarrollará su capacidad de análisis de datos mediante la identificación de segmentos de mercado, utilizando herramientas como software de análisis estadístico y aprendizaje automático para descubrir patrones de consumo.                                             |
-| **M - Measurable** | Documentar tres segmentos de mercado con recomendaciones estratégicas para abordarlos, utilizando métricas específicas como el tamaño del mercado potencial y la tasa de crecimiento esperada.                                                               |
-| **A - Ambitious** | Usará técnicas avanzadas de análisis de datos para profundizar en las tendencias del mercado y comportamiento del consumidor, lo cual le permitirá no solo mejorar sus habilidades técnicas sino también su comprensión de las dinámicas del mercado global.                          |
-| **R - Relevant** | La capacidad de realizar segmentación de mercado efectiva es crucial para roles en estrategia de negocios y desarrollo de productos, lo que facilita la toma de decisiones estratégicas basadas en datos y mejora la eficiencia y efectividad de las campañas de marketing.                   |
-| **T - Time-bound** | Finalizar la segmentación y presentar un informe detallado antes del final del mes, con revisiones quincenales para evaluar el progreso y realizar ajustes según sea necesario.                                                                   |
+| **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
+| **Fecha de inicio**               | 9/05/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 9/28/24                                                                                                                                              |
+| **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
+| **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
+| **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
+| **R - Relevant** | La capacidad de comunicar de manera efectiva es esencial para el éxito en roles de consultoría, donde es clave garantizar que tanto el equipo como los clientes comprendan y compartan los mismos objetivos.                                          |
+| **T - Time-bound** | Desarrollar estas habilidades y completar las presentaciones antes del final de septiembre, con revisiones periódicas después de cada presentación para evaluar y mejorar el enfoque de comunicación.                                                  |
 <br>
 
 ### Mendoza Carrión, Mathias Andre
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades de investigación y análisis de datos aplicables en cualquier entorno profesional.                                             |
-| **Fecha de inicio**               | 8/11/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific** | Mathias mejorará sus habilidades de investigación al ejecutar entrevistas centradas en comprender las necesidades de los usuarios, lo cual es crucial para identificar problemas y oportunidades en el mercado.                    |
-| **M - Measurable** | Realizar y analizar 10 entrevistas, usando los hallazgos para informar mejoras en productos o servicios, asegurando que cada entrevista proporcione datos cuantificables y accionables.                                               |
-| **A - Ambitious** | Implementará técnicas avanzadas de recolección y análisis de datos, como análisis cualitativo y cuantitativo, extendiendo sus competencias analíticas más allá de su área actual de expertise y abriendo nuevas oportunidades de carrera en campos como análisis de datos y consultoría.    |
-| **R - Relevant** | El desarrollo de habilidades analíticas es fundamental para su crecimiento en roles como analista de mercado o de productos, permitiéndole participar más efectivamente en proyectos que requieren interpretación de grandes volúmenes de datos.                           |
-| **T - Time-bound** | Desarrollar y documentar estas habilidades a través de entrevistas completadas dentro de dos semanas, con reportes semanales para medir el progreso y ajustar estrategias según sea necesario.                                                  |
+| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
+| **Fecha de inicio**               | 9/01/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
+| **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
+| **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
+| **R - Relevant** | Las habilidades de liderazgo y gestión de proyectos son fundamentales para su crecimiento en roles de dirección y manejo de equipos en el sector tecnológico.                                                  |
+| **T - Time-bound** | Completar estos dos proyectos dentro de un plazo de un mes, con revisiones semanales para asegurar que los plazos se cumplan y el equipo mantenga una alta productividad.                                                                           |
 <br>
 
 ### Quispe Andia, Jeremy Joel
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en análisis competitivo y planificación estratégica, aplicables en liderazgo de proyectos tecnológicos.           |
-| **Fecha de inicio**               | 8/13/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific** | Jeremy aprenderá a realizar análisis competitivos detallados y a aplicar estos insights en la planificación de proyectos, utilizando técnicas como el análisis SWOT y evaluación de cinco fuerzas de Porter para comprender mejor el entorno competitivo.                            |
-| **M - Measurable** | Completar un análisis competitivo y un Lean UX Canvas con evaluaciones aplicables a múltiples proyectos, documentando cada paso y su impacto en la estrategia del proyecto.                                             |
-| **A - Ambitious** | Aprenderá técnicas avanzadas de análisis y planificación que son esenciales para roles de liderazgo en tecnología, buscando oportunidades para aplicar estos métodos en situaciones reales de mercado.                                    |
-| **R - Relevant** | Estas habilidades son fundamentales para su carrera como líder de proyectos en el campo de la tecnología, donde la capacidad para anticipar cambios del mercado y ajustar estrategias es crucial.                                            |
-| **T - Time-bound** | Desarrollar y documentar estas habilidades antes del 27/08/2024, con revisiones mensuales para asegurar que se mantenga en camino hacia el logro de estos objetivos.                                                                                     |
+| **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
+| **Fecha de inicio**               | 9/02/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
+| **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
+| **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
+| **R - Relevant** | Estas habilidades son esenciales para el desarrollo de productos en el sector digital, donde el análisis basado en datos es clave para mejorar continuamente la experiencia del usuario y la calidad del producto.                                         |
+| **T - Time-bound** | Completar estos análisis antes del final de septiembre, con revisiones quincenales para ajustar el enfoque según los resultados y las métricas de impacto obtenidas.                                                                                      |
 <br>
 
-### Santisteban Palomino, Ian Haziel Donato 
+### Santisteban Palomino, Ian Haziel Donato
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Adquirir habilidades en gestión de proyectos ágiles y análisis de necesidades del usuario, esenciales para roles de liderazgo en gestión de producto.|
-| **Fecha de inicio**               | 8/13/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 8/29/24                                                                                                                                              |
-| **S - Specific** | Ian utilizará técnicas de needfinding y user journey mapping para optimizar la gestión de productos, aplicando metodologías ágiles como Scrum y Kanban para mejorar la colaboración y eficiencia del equipo.                                                  |
-| **M - Measurable** | Incorporar 10 nuevas user stories en el Product Backlog que reflejen una comprensión profunda de las necesidades del usuario, utilizando métricas como el tiempo de desarrollo reducido y la satisfacción del cliente para medir el impacto.                         |
-| **A - Ambitious** | Colaborará con equipos multidisciplinarios para implementar estos insights, mejorando su capacidad de liderazgo y gestión, y explorando nuevas áreas como la psicología del usuario y el diseño centrado en el usuario para profundizar su comprensión de las necesidades del cliente.                            |
-| **R - Relevant** | La habilidad para integrar needfinding y user journey insights es crucial para la eficiencia en la gestión de productos y proyectos, permitiendo que los productos desarrollados cumplan mejor con las expectativas del mercado y del cliente.                     |
-| **T - Time-bound** | Completar la actualización del backlog y la capacitación correspondiente antes del 26/08/2024, con revisiones semanales para monitorizar el progreso y ajustar la estrategia de implementación según sea necesario.                                                        |
+| **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
+| **Fecha de inicio**               | 9/03/24                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 9/29/24                                                                                                                                              |
+| **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
+| **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
+| **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
+| **R - Relevant** | La automatización de pruebas es una habilidad crucial para garantizar la calidad continua en proyectos de software, especialmente en entornos ágiles donde las iteraciones rápidas requieren verificaciones constantes.                                   |
+| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.                                                           |
 
 <br><br>
+
+
 ---
   
 # Capítulo I: Presentación

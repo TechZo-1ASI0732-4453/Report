@@ -3400,6 +3400,78 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
 </table><br><br>
 
+
+#### 4.2.1.2 Sprint Backlog 1
+El objetivo de este primer sprint es desarrollar una versión inicial de del backend, el cual será el encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, asegurando un funcionamiento eficiente y preparando la plataforma para futuras mejoras y funcionalidades avanzadas.
+
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Sprint-Planning1/Sprint1Trello.png?raw=true" alt="sprint">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API User</td>
+    <td>WI-01</td>
+    <td>Metodos CRUD para Usuarios</td>
+    <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
+    <td>5</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS02</td>
+    <td rowspan="1">API Review</td>
+    <td>WI-02</td>
+    <td>Metodos CRUD para reseñas</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
+    <td>5</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS04</td>
+    <td rowspan="1">API Memberships</td>
+    <td>WI-03</td>
+    <td>Metodos CRUD para membresías</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
+    <td>5</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS05</td>
+    <td rowspan="1">API Object</td>
+    <td>WI-04</td>
+    <td>Metodos CRUD para objetos</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla de objetos, permitiendo a los usuarios añadir, modificar, eliminar y consultar los objetos disponibles para intercambio.</td>
+    <td>5</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+</tr>
+</tbody>
+</table>
+
+
 # Conclusiones
 
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.

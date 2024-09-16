@@ -31,9 +31,11 @@
 
 <br><div align="center"><h3>Agosto 2024</h3></div><br>
 
----
+
 
 <div align="justify">
+
+<div style="page-break-after: always;"></div>
 
 # Registro de Versiones
 <br>
@@ -61,7 +63,8 @@
 
 <br><br>
 
----
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -119,8 +122,6 @@
   - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
     - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
     - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
-
-    
   - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
     - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
     - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
@@ -155,14 +156,15 @@
       - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 
-
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
 
----
+
 <div align="justify">
 	
+<div style="page-break-after: always;"></div>
+
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
@@ -232,7 +234,7 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
 
 
 
----
+<div style="page-break-after: always;"></div>
 
 # Objetivos SMART
 
@@ -292,7 +294,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 <br><br>
 
 
----
+<div style="page-break-after: always;"></div>
   
 # Capítulo I: Presentación
 ## 1.1 Startup Profile
@@ -555,7 +557,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 <br><br>
 
 
----
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Needfinding
 
@@ -2373,6 +2375,10 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
+
+
+<div style="page-break-after: always;"></div>
+
 # Capítulo III: Arquitectura
 
 ## 3.1. Product Design
@@ -2878,7 +2884,115 @@ Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-4
 
 Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-5397%2C-5745%2C2719%2C4318%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
 
+#### 3.1.4.5. Mobile Applications Prototyping
 
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
+</div><br><br>
+
+
+Enlace: [Prototype de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=3g3ixD798Xbsi1K9-1)<br><br>
+
+
+Para complementar, se ha realizado un video donde se muestran los user flows del prototipo, detallando cada flujo de interacción y definiendo el tiempo en el cual se muestran para una comprensión efectiva. Este enfoque proporciona una visión dinámica de la experiencia del usuario, facilitando la identificación de mejoras y la validación de la funcionalidad del prototipo.<br><br>
+
+Enlace: [Video Prototype de la App Móvil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)<br><br>
+
+
+**User Goal 1:**  Como usuario, quiero ingresar a la aplicación móvil utilizando una cuenta.<br><br>
+
+Tiempo: 0:12
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
+</div><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
+
+Tiempo: 1:43
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
+</div><br>
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+
+Tiempo: 3:09
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
+</div><br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
+
+Tiempo: 4:01
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
+</div><br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+
+Tiempo: 4:51
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
+</div><br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
+
+Tiempo: 6:21
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
+</div><br><br>
+
+
+
+  **User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
+
+  Tiempo: 7:01
+
+  <div align="center">
+      <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
+  </div><br><br>
+
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+
+Tiempo: 7:27
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
+</div><br><br>
+
+
+
+
+**User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+
+Tiempo: 8:17
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
+</div><br><br>
+
+
+
+**User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+
+Tiempo: 8:56
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
+</div><br><br>
 
 ## 3.2 Architecture Overview
 ### 3.2.1 Domain-Driven Software Architecture
@@ -3082,6 +3196,9 @@ Los diagramas de base de datos representan la estructura de la base de datos y l
 
 Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/doc/DXuXyDjv1zPkTw2ixppYDkDilQlApCUV)<br><br>
 
+
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo IV: Backend Product Implementation & Validation
 
@@ -3472,6 +3589,26 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 </table>
 
 
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “Backend”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
+
+<b>Analíticos de GitHUb</b>
+
+  + Backend
+          <div align="center">
+        <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Insights/insights.PNG?raw=true" alt="contributor-evidence.">
+        </div>
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo del Backend.
+
+<br>
+
+
+<div style="page-break-after: always;"></div>
+
+
 # Conclusiones
 
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
@@ -3484,6 +3621,8 @@ En el cuarto capítulo, se abarcó la implementación del backend, destacando la
 
 En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores. Asimismo, la implementación de la arquitectura del producto, con un diseño coherente de interfaces y una estructura sólida a nivel de software, asegura que la solución sea funcional, escalable y adaptable a las necesidades del usuario. La correcta gestión del backend, con entornos de desarrollo optimizados y un proceso de desarrollo ágil basado en sprints, ha permitido avanzar en la implementación de manera estructurada, garantizando que cada función esté debidamente validada y lista para su despliegue, sentando las bases para el éxito a largo plazo de nuestra startup.
 
+
+<div style="page-break-after: always;"></div>
 
 # Bibliografía
   <br>
@@ -3515,13 +3654,18 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 
 </div>
 
----
+
+<div style="page-break-after: always;"></div>
 
 # Anexos
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-CC238-SW63)<br><br>
 
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/report)<br><br>
+
++ Repositorio GitHub de los Acceptance Test: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Acceptance-Test)<br><br>
+
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Backend)<br><br>
 
 
 ## Needfinding Interviews
@@ -3533,3 +3677,12 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz)
 
+
+## Prototype Navigation
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/video-prototype.PNG?raw=true">
+ </div>
+
+
+Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)

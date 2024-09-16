@@ -29,7 +29,7 @@
 </div>
 
 
-<br><div align="center"><h3>Agosto 2024</h3></div><br>
+<br><div align="center"><h3>Septiembre 2024</h3></div><br>
 
 
 
@@ -60,6 +60,21 @@
 |1\.3|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Objetivos SMART|
 |1\.4|26/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregaron las conclusiones y la bibliografía|
 |1\.5|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome y la Tabla de Contenido|
+|2\.0|6/09/24|Jeremy Joel Quispe Andia e Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
+|2\.1|6/09/24|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con la Information Architecture|
+|2\.1.1|7/09/24|Ian Haziel Donato Santisteban Palomino |Se comenzó con Mobile Applications UX/UI Design|
+|2\.1.2|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Domain-Driven Software Architecture.|
+|2\.1.3|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Software Object-Oriented Design|
+|2\.1.4|9/09/24|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se comenzó con Landing Page UI Design.|
+|2\.1.5|13/09/24|Ian Haziel Donato Santisteban Palomino|Se terminó de agregar Mobile Applications UX/UI Design |
+|2\.1.6|13/09/24|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se terminó de agregar Landing Page UI Design.|
+|2\.2|13/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Software Configuration Management.|
+|2\.2.1|14/09/24|Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Sprint Planning 1|
+|2\.2.2|14/09/24|Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Sprint Backlog|
+|2\.2.3|14/09/24|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Development Evidence for Sprint Review. Y Testing Suite Evidence for Sprint Review|
+|2\.2.4|15/09/24|Joseph Alexis Huamani Mandujano y  Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review|
+|2\.2.5|15/09/24|Ian Haziel Donato Santisteban y Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
+|2\.3|15/09/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Student Outcome, Conclusiones y Anexo|
 
 <br><br>
 
@@ -185,18 +200,22 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
     <tr>
 	<td colspan="3">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
       <td colspan="3" align = "justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3> <b>TB1</b> <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p>
+      <h3>Joseph Alexis Huamani Mandujano</h3> <b>TB1</b> <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p> <b>TB2</b> <p>En el segundo hito, me dediqué a desarrollar las Directrices de Estilo Generales del proyecto. Actualicé mis conocimientos en las últimas tendencias de diseño y buenas prácticas en UX/UI para asegurar que nuestra aplicación tenga una apariencia profesional y coherente. Investigué sobre paletas de colores, tipografías y principios de diseño universal, aplicando estos conocimientos para crear un Style Guide completo que será la base visual de nuestro producto. Este proceso me permitió profundizar en conceptos de diseño y mejorar mis habilidades en herramientas como Adobe XD y Figma.</p>
        <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante esta fase inicial, realicé una investigación exhaustiva de los competidores en el sector seleccionado, identificando sus fortalezas y debilidades. Este análisis me permitió entender mejor el mercado y ajustar nuestra propuesta de valor para que fuera realmente innovadora. Adicionalmente, diseñé y realicé entrevistas con varios grupos de usuarios, analizando las respuestas para determinar nuestras Personas Principales y Secundarias. Este ejercicio no solo mejoró mi habilidad para comunicarme de manera efectiva, sino que también profundizó mi comprensión de las necesidades del usuario, reflejándose directamente en la relevancia de nuestras soluciones propuestas.</p>
+    <b>TB2</b>
+    <p>En este segundo entregable, me encargué de desarrollar la Arquitectura de Información de nuestro producto. Investigué sobre sistemas de organización, etiquetado y navegación para crear una estructura lógica y accesible para los usuarios. Aplicando nuevos conocimientos en UX, diseñé los Sistemas de Organización y Etiquetado, asegurándome de que la información esté estructurada de manera intuitiva. Además, aprendí sobre SEO y meta tags para optimizar nuestra presencia en línea, lo que mejorará la visibilidad de nuestro producto en motores de búsqueda.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>En este primer entregable, demostré habilidades de comunicación oral y escrita al interactuar eficazmente con mi equipo y al documentar adecuadamente todo el proceso de trabajo. La comunicación constante con el equipo y los stakeholders del proyecto aseguró que las ideas y feedback fueran integrados de manera efectiva, mejorando así nuestro enfoque y resultados. Mi capacidad para facilitar y mantener una comunicación fluida contribuyó significativamente al establecimiento de una base sólida para la colaboración continua y el éxito del proyecto.</p>
+    <b>TB2</b>
+    <p>Para el segundo hito, me centré en el diseño de la Landing Page UI. Actualicé mis conocimientos en diseño de interfaces y usabilidad para crear wireframes y mock-ups de alta fidelidad. Aprendí nuevas técnicas en herramientas de prototipado como Sketch y InVision, lo que me permitió representar visualmente nuestras ideas de manera más efectiva. Este proceso me ayudó a mejorar mis habilidades en diseño visual y a entender mejor cómo crear interfaces atractivas y funcionales.</p>
      <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>He trabajado intensamente en la definición de User Stories claras y efectivas que reflejan las necesidades identificadas de nuestros usuarios, garantizando que todos los requisitos del usuario estén adecuadamente representados en nuestro desarrollo de producto. Esta actividad fue complementada por la creación de una propuesta de valor diferenciada, que establece claramente el alcance y los objetivos de nuestro proyecto. Estos elementos no solo demuestran mi habilidad para pensar innovadoramente, sino que también aseguran que nuestro producto final sea tanto funcional como disruptivo en el mercado.</p>
     <b>TB2</b>
-    <p>En este segundo entregable, me enfoqué en el Diseño UX/UI de la Aplicación Móvil. Para ello, me actualicé en las guías de diseño específicas para plataformas móviles como iOS y Android. Creé wireframes, diagramas de flujo y prototipos interactivos de la aplicación, utilizando herramientas como Figma. Este proceso me permitió aplicar nuevos conocimientos en diseño centrado en el usuario y mejorar mis habilidades en prototipado y testeo de interfaces móviles.</p>
+    <p>En este segundo entregable, me enfoqué en el Diseño UX/UI de la Aplicación Móvil. Para ello, me actualicé en las guías de diseño específicas para plataformas móviles como iOS y Android. Creé wireframes, diagramas de flujo y prototipos interactivos de la aplicación, utilizando herramientas como Figma y Adobe XD. Este proceso me permitió aplicar nuevos conocimientos en diseño centrado en el usuario y mejorar mis habilidades en prototipado y testeo de interfaces móviles.</p>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto, nuestro equipo ha demostrado un crecimiento significativo en el ámbito de soluciones de software, fundamental para nuestro desarrollo profesional continuo. Hemos completado con éxito la definición del problema, realizado una investigación exhaustiva de competidores y llevado a cabo entrevistas detalladas que han enriquecido considerablemente nuestra comprensión del mercado y las necesidades de los usuarios. Estas actividades nos han permitido formular una propuesta de valor innovadora y diferenciada, reflejada en User Stories bien definidas y un diseño de producto adaptado a las demandas actuales. La comunicación efectiva y la colaboración dentro del equipo han sido claves para integrar diversas perspectivas y habilidades, fortaleciendo nuestro enfoque y asegurando que todos los aspectos del proyecto estén alineados y optimizados para las siguientes etapas del desarrollo. Este progreso inicial no solo ha mejorado nuestras capacidades técnicas, sino que también ha solidificado nuestra cohesión como equipo, preparándonos para enfrentar con confianza los desafíos futuros del proyecto.</p>
@@ -210,12 +229,18 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
       <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
     <p>En este primer hito, he logrado una comprensión más profunda de la definición de problemas y la formulación de suposiciones, elementos cruciales en el desarrollo de proyectos de software. Al delinear claramente el Problem Statement y establecer Asumptions fundamentados, he reforzado mi capacidad para abordar problemas complejos de manera sistemática. Esta tarea ha reafirmado mi convicción sobre la importancia del aprendizaje continuo en la adaptación y aplicación de conocimientos técnicos a situaciones reales, lo cual es indispensable para mi desarrollo profesional.</p>
+    <b>TB2</b>
+    <p>Durante el segundo hito, al desarrollar las Directrices de Estilo Generales, reconocí la necesidad de mantenerme actualizado con las tendencias de diseño y las expectativas de los usuarios. Esto me llevó a explorar cursos en línea y webinars sobre UX/UI, lo que reforzó mi comprensión de cómo el diseño influye en la experiencia del usuario. Este esfuerzo por actualizar mis conocimientos me ha permitido crear un Style Guide que no solo cumple con los estándares actuales, sino que también anticipa futuras tendencias en diseño.</p>
       <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante la realización de una investigación exhaustiva de competidores y la conducción de entrevistas dirigidas, he reconocido la necesidad de mantenerme actualizado sobre las tendencias del mercado y las tecnologías emergentes. Este proceso no solo ha enriquecido mi entendimiento del entorno competitivo sino que también ha mejorado mis habilidades de comunicación y análisis crítico. Aprender de manera continua sobre nuevas metodologías y prácticas del sector me ha permitido formular preguntas más incisivas y recopilar datos más relevantes, fundamentales para el éxito del proyecto.</p>
+    <b>TB2</b>
+    <p>En este segundo hito, al trabajar en la Arquitectura de Información, me di cuenta de la importancia de aprender constantemente sobre usabilidad y experiencia de usuario. Asistí a talleres y cursos en línea sobre arquitectura de información y sistemas de navegación, lo que me permitió aplicar principios avanzados en la estructuración de nuestro contenido. Reconocer que el aprendizaje es un proceso continuo ha sido clave para mejorar la calidad de nuestro producto y asegurar que satisfaga las necesidades de nuestros usuarios.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Como líder del equipo, definí una propuesta de valor innovadora y al identificar User Stories detalladas, he aplicado efectivamente mi aprendizaje en diseño de soluciones a las necesidades específicas del usuario final. Este proceso ha demostrado la importancia de actualizar continuamente mis habilidades en la creación de soluciones efectivas y centradas en el usuario. A través de la práctica constante y la evaluación crítica, he mejorado mi capacidad para desarrollar productos que no solo cumplen sino que superan las expectativas del mercado.</p>
+    <b>TB2</b>
+    <p>En el segundo hito, al diseñar la Landing Page UI, reconocí la necesidad de aprender nuevas técnicas y tendencias en diseño web para mejorar la experiencia del usuario. Me inscribí en cursos especializados y seguí a profesionales destacados en el campo para incorporar las mejores prácticas en nuestro diseño. Este compromiso con el aprendizaje continuo me ha permitido elevar el estándar de nuestro trabajo y asegurar que estamos ofreciendo una interfaz moderna y eficiente.</p>
       <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>La tarea de analizar respuestas de entrevistas y construir fichas de Personas me ha permitido aplicar teorías de comportamiento del usuario y psicología de consumo de manera práctica. Este ejercicio ha reforzado la necesidad de un aprendizaje permanente en áreas interdisciplinarias que complementan el desarrollo de software. Entender profundamente a los usuarios y adaptar nuestras soluciones a sus necesidades es un recordatorio constante de cómo el aprendizaje continuo puede influir directamente en la relevancia y el impacto de nuestros proyectos.</p>
@@ -231,7 +256,6 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
     </tr>
   </tbody>
 </table>
-
 
 
 <div style="page-break-after: always;"></div>
@@ -3616,48 +3640,26 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
 | - | - | - | - | - | - |
-HelloNerk/Backend|develop|b8d6954|feat: Added images, scripts, and styles folders|Create necessary folders to organize project resources, including images, scripts, and styles.|11/04/2024|
-|AndresVZ23/Backend|develop|673f309|Feat: Create index.html|Create Index and base structure|12/04/2024|
-|AndresVZ23/Backend|develop|9754cc0|Feat: Create header and navbar|Add to structure the header and navbar|12/04/2024|
-|IanHD04/Backend|develop|7771648|Feat: Create Start-Container|Creation of the Start section and adding images of the logo, icon and hero background|12/04/2024|
-|HelloNerk/landing-page-cambiazo/scripts/script-burger.js|develop|494ffb6|feat: Create burger script|Creation of the burger script for responsive menu and referencing in index.html|12/04/2024|
-|123-Mathias/Backend|develop|0885f76|Feat: Create Footer|Creation of the footer and linking of the networks with their icons|12/04/2024|
-|<p>123-Mathias/landing-page-cambiazo/images</p><p></p>|develop|6b841ed|Feat: Add social media icons|Icons of social networks facebook, youtube, instagram and twitter|12/04/2024|
-|diegooo01/Backend|develop|421e43d|Feat:Create Election Section|Creation of the election section, in this part we will show to the new users what we can do in CambiaZo.|12/04/2024|
-|diegooo01/Backend|develop|87c66f5|Feat:Create Exchange Objects Container|Creation of the exchange objects container, in this section we'll show to the users, the most popular categories of traded objects.|12/04/2024|
-|IanHD04/Backend|develop|272dae8|Feat: Create Features Container|Creation of the features section where you can see the main features that the website has.|12/04/2024|
-|diegooo01/landing-page-cambiazo/images|develop|b1b2425|Feat:Uploading Images from Election and Exchange Objects Container|Uploading the corresponding images from Election container and Objects Exchange Container|12/04/2024|
-|<p>IanHD04/landing-page-cambiazo/images</p><p><br></p>|develop|29a9380|Feat: Uploading images from the features|Uploading the corresponding images from the Features container|12/04/2024|
-|HelloNerk/Backend|develop|130c468|feat: Create about us container|Create the about us container with information of TechZo|12/04/2024|
-|diegooo01/Backend|develop|df72faa|Feat:Adding Testimony Container|In this section of the code, we are adding the testimony container in which de new users will see the old users opinions about their experience with CambiaZo. We are uploading the corresponding images, too.|12/04/2024|
-|IanHD04/Backend|develop|148f18c|Feat: Create Ongs Section|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|12/04/2024|
-|IanHD04/landing-page-cambiazo/images|develop|2f07e14|Feat:Uploading Images from Ongs Container|Uploading the image corresponding to each affiliated Ong|12/04/2024|
-|<p>HelloNerk/Backend</p><p></p>|develop|f083759|feat: Create section plans container|Create the section plans container, add plans and details|12/04/2024|
-|AndresVZ23/Backend|develop|c8840cd|Feat: Create Contact us container|In this part, we created the contact us section|12/04/2024|
-|AndresVZ23/Backend|develop|2cab3d2|Feat: Create Contact us form|In this part, we created the form that the users are going to use to contact us.|12/04/2024|
-|AndresVZ23/landing-page-cambiazo/images|develop|0f1d4af|Feat: Insert image Contact Us|In this part we inserted the image that is going to be in the contact us section.|12/04/2024|
-|diegooo01/Backend|develop|896681f|Feat:Adding Stylesheet Header Link|Adding stylesheet header link.|12/04/2024|
-|<p>HelloNerk/Backend</p><p></p>|develop|cf11e3e|feat: Adding style-start in Stylesheet Header Link|Linking start-style.css in Stylesheet Header|12/04/2024|
-|AndresVZ23/Backend|develop|2d9b561|Feat: Adding stylesheet about us|We linked the stylesheet about us.|12/04/2024|
-|IanHD04/Backend|develop|d74950f|Feat: Adding stylesheet ongs|Linking style-ongs.css in Stylesheet Header|12/04/2024|
-|123-Mathias/Backend|develop|168b0ad|Feat: insert stylesheet plans|In this part, we linked the stylesheet plans.|12/04/2024|
-|AndresVZ23/Backend|develop|ab9b7eb|Feat: Insert stylesheet contact us|In this part we linked the stylesheet contact us.|12/04/2024|
-|123-Mathias/Backend|develop|40133c3|Feat: Insert stylesheet footer|<p>In this part, we linked the stylesheet footer.</p><p></p>|12/04/2024|
-|HelloNerk/landing-page-cambiazo/scripts/burger.js|develop|a58675a|Feat: Create function mostrarMensaje()|Create a showMessage() function to confirm the form registration.|12/04/2024|
-|diegooo01/landing-page-cambiazo/styles/style-header.css|develop|4af77f0|Feat:Upload Style Header content|Uploading style header css content.|12/04/2024|
-|HelloNerk/landing-page-cambiazo/styles/style-start.css|develop|cd46814|feat: Add styles of the start section 1,2,3 parts|Add styles of first, second and third part of the start section|12/04/2024|
-|<p>HelloNerk/landing-page-cambiazo/styles/style-start.css</p><p></p>|develop|bfdc3bc|feat: create fourth part of the start section|Create style of the fourth part of the start section|12/04/2024|
-|<p>123-Mathias/landing-page-cambiazo/styles/style-start.css</p><p></p>|develop|ee54f40|<p>Feat: Fifth part of the Start Section</p><p></p>|In this part, we added the Fifth part of the Start Section.|12/04/2024|
-|diegooo01/landing-page-cambiazo/styles/style-start.css|develop|95431dc|<p>Feat:Uploading media screen section</p><p></p>|Uploading media screen part into the style-start.css, with this portion of code this section will be responsive.|12/04/2024|
-|123-Mathias/landing-page-cambiazo/styles/style-footer.css|develop|4bd416d|Feat: stylesheet footer|In this part, we created the footer.|12/04/2024|
-|123-Mathias/landing-page-cambiazo/styles/style-plans.css|develop|3005dac|<p>Feat: Stylesheet Plans</p><p></p>|In this part, we linked the stylesheet Plans.|12/04/2024|
-|IanHD04/landing-page-cambiazo/styles/style-ongs.css|develop|ffc584e|Feat: Upload Style Ongs Section|Add styling to ongs section and responsive design|12/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|develop|8d65460|<p>Feat: Upload Style About Us Section</p><p></p>|Add style to about us section and responsive design.|12/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-about-us.css|develop|015354f|Feat: Upload Style Testimony Section|Add style to Testimony section and responsive design|12/04/2024|
-|AndresVZ23/landing-page-cambiazo/styles/style-contact-us.css|develop|5071a45|Feat: Upload Contact Us Testimony Section|Add style to Contact Us section and responsive design.|12/04/2024|
-|IanHD04/Backend|develop|57270c9|Feat: Create Ongs Conatiner|Creation of the Ongs section where the Ongs affiliated with CambiaZo will be displayed|12/04/2024|
-|IanHD04/Backend|develop|0eca01e|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|12/04/2024|
-|<p>AndresVZ23/Backend</p><p></p>|develop|45bafdd|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|12/04/2024|
+| HelloNerk/Backend    | feature/TS-01| c521d06 | first commit                                      |-| 13/08/2024            | 
+| HelloNerk/Backend     | feature/TS-01| 04db0bc | feat: added CreateDistrictCommand |I've added the CreateDistrictCommand as a record to represent district creation data.| 15/08/2024| 
+| HelloNerk/Backend     |feature/TS-01| cfc218a | feat: added District                         |I've added the District class to represent district entities.| 15/08/2024            | 
+| HelloNerk/Backend     | feature/TS-01| 5a00a6b | feat: added GetAllDistrictsQuery                                   |I've added the GetAllDistrictsQuery record to handle retrieving all districts.| 15/08/2024| 
+| HelloNerk/Backend     | feature/TS-01| 70781ce | feat: added GetDistrictByIdQuery                                   |-| 15/08/2024            | 
+| 123-Mathias/Backend      |feature/TS-02| c3c8b6  | feat: added CreateFavoriteProductCommand                      |I've added the CreateFavoriteProductCommand as a record to represent favorite product creation data.|15/08/2024|
+| 123-Mathias/Backend      |feature/TS-02| d6dd4f1  | feat: added FavoriteProduct                   |I've added the FavoriteProduct class to represent favorite product entities.|15/08/2024|
+| 123-Mathias/Backend      |feature/TS-02| ef1b694  | feat: added GetAllFavoriteProductsByUserIdQuery                   |I've added the GetAllFavoriteProductsByUserIdQuery record to handle retrieving all favorite products with the user id.|15/08/2024|
+| 123-Mathias/Backend      |feature/TS-02| f9dece8  | feat: added IFavoriteProductQueryService                   |I've added the IFavoriteProductQueryService interface to define query methods for favorite products.|15/08/2024|
+| 123-Mathias/Backend      |feature/TS-02| 383264a  | feat: added IFavoriteProductCommandService                  |I've added the IFavoriteProductCommandService interface to define command methods for favorite products.|15/08/2024|
+| Jemisas/Backend      |feature/TS-04| 5b68409  | feat: added CreateBenefitResource                  |I've added the CreateBenefitResource record to handle benefit creation input in controllers.|15/08/2024|
+| Jemisas/Backend      |feature/TS-04| cb41f97  | feat: added BenefitResource                  |I've added the BenefitResource record to handle benefit output in controllers.|15/08/2024|
+| Jemisas/Backend      |feature/TS-04| c647794  | feat: added CreateBenefitCommandFromResourceAssembler                  |I've added the CreateBenefitCommandFromResourceAssembler class to convert resources into commands for benefit creation.|15/08/2024|
+| Jemisas/Backend      |feature/TS-04| cb340ce  | feat: added BenefitResourceFromEntityAssembler                  |I've added the BenefitResourceFromEntityAssembler class to convert entities into resources for benefits.|15/08/2024|
+| Jemisas/Backend      |feature/TS-04| d906a33  | feat: added BenefitController              |I've added the BenefitController to handle HTTP requests related to benefit operations.|15/08/2024|
+| IanHD04/Backend      |feature/TS-05| edfcaf3  | feat: added UpdateSubscriptionCommand                 |I've added the UpdateSubscriptionCommand as a record to handle updating subscription information.|15/08/2024|
+| IanHD04/Backend      |feature/TS-05| c647794  | feat: added CreateBenefitCommandFromResourceAssembler                  |I've added the CreateBenefitCommandFromResourceAssembler class to convert resources into commands for benefit creation.|15/08/2024|
+| IanHD04/Backend      |feature/TS-05| a3ad9f4  |feat: added GetSubscriptionByUserIdQuery                  |I've added the GetSubscriptionByUserIdQuery record to handle retrieving a subscription by User ID.|15/08/2024|
+| IanHD04/Backend      |feature/TS-05| bb249c6  | feat: added SubscriptionController              |I've added the SubscriptionController to handle HTTP requests related to subscription operations.|15/08/2024|
+| IanHD04/Backend      |feature/TS-05| 655c122  | feat: added CreateSubscriptionCommandFromResourceAssembler              |I've added the CreateSubscriptionCommandFromResourceAssembler class to convert resources into commands for subscription creation.|15/08/2024|
 
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review

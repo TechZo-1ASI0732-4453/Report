@@ -171,6 +171,23 @@
       - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 
+### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page & Mobile Application Implementation](#52-landing-page--mobile-application-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
@@ -3108,7 +3125,6 @@ El diccionario de clases detalla las características y funciones de cada entida
   
 - **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.<br><br>
   
-  
 - **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.<br><br>
   
 - **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.<br><br>
@@ -3237,6 +3253,7 @@ En esta sección se detalla la configuración del entorno de desarrollo utilizad
 + **Project Management**<br>Esta área se centra en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar un proyecto de software con éxito. Incluye la gestión del alcance, el tiempo, el costo, la calidad, los riesgos, los recursos humanos y la comunicación para garantizar que el proyecto se entregue dentro del tiempo y el presupuesto establecidos, cumpliendo con los requisitos y objetivos definidos.<br><br>
 
   +	<b>Pivotal Tracker:</b> Herramienta ágil de gestión de proyectos que permite a los equipos planificar, priorizar y realizar un seguimiento del trabajo de manera colaborativa. <br>https://www.pivotaltracker.com<br><br>
+  +	<b>Trello:</b> Herramienta de gestión de proyectos basada en tableros que permite a los equipos organizar tareas, asignar responsabilidades y colaborar de manera visual y flexible. Facilita la planificación y el seguimiento de actividades mediante listas y tarjetas personalizables. <br>https://trello.com<br><br>
 
 + **Requirements Management**<br>Se refiere al proceso de identificar, documentar, verificar y gestionar los requisitos del sistema y del software. Implica entender las necesidades de los usuarios y las partes interesadas, traduciéndolas en requisitos funcionales y no funcionales claros y específicos. El objetivo es garantizar que el software desarrollado satisfaga las necesidades y expectativas de los usuarios finales.<br><br>
 
@@ -3270,9 +3287,7 @@ En esta sección se detalla la configuración del entorno de desarrollo utilizad
 
 + **Software Deployment**<br> Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.<br><br> 
 
-  + **Github Pages:** Servicio de Github que nos permitió alojar nuestra nuestra aplicación móvil.<br>https://pages.github.com/ <br><br>
-
-  + **Heroku:** Plataforma en la nube que facilita el despliegue, gestión y escalado de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación web, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube.<br>https://www.heroku.com/ <br><br>
+  + **Heroku:** Plataforma en la nube que facilita el despliegue, gestión y escalado de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube.<br>https://www.heroku.com/ <br><br>
 
 ### 4.1.2 Source Code Management
 
@@ -3487,7 +3502,7 @@ En esta sección mostraremos los pasos que hemos realizado para poder desplegar 
 
 Para desplegar nuestro backend hemos optado por usar Heroku, el cual brinda la posibilidad de alojar proyectos de backend sin costo alguno.
 
-**1.  Ingresamos al heroku y conectamos con github**
+**1.  Ingresamos a Heroku y conectamos con Github**
 
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="landing repo">
@@ -3550,8 +3565,8 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
   <tr>
     <td>Sprint 1 </td>
-    <td>Desarrollar una versión inicial del backend que garantice el correcto procesamiento de datos y la integración con futuras funcionalidades.<br><br>
-    Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Mediremos la correcta implementación de los métodos CRUD (POST, GET, UPDATE, DELETE) en el backend para las entidades clave, como usuarios, reseñas, objetos, y membresías. El objetivo será completar el 100% de las funcionalidades planificadas, asegurando que todos los endpoints del backend funcionen correctamente.<br>
+    <td>Desarrollar el backend que garantice el correcto procesamiento de datos y la integración con futuras funcionalidades.<br><br>
+    Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Mediremos la correcta implementación de los métodos CRUD (POST, GET, UPDATE, DELETE) en el backend para las entidades clave, como usuarios, reseñas,ongs, objetos, y membresías. El objetivo será completar el 100% de las funcionalidades planificadas, asegurando que todos los endpoints del backend funcionen correctamente.<br>
 </tr>
   <tr>
     <td>Sprint 1 Velocity</td>
@@ -3559,7 +3574,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>20 Story Points</td>
+    <td>15 Story Points</td>
   </tr>
 </table><br><br>
 
@@ -3567,7 +3582,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 #### 4.2.1.2 Sprint Backlog 1
 El objetivo de este primer sprint es desarrollar una versión inicial de del backend, el cual será el encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, asegurando un funcionamiento eficiente y preparando la plataforma para futuras mejoras y funcionalidades avanzadas.
 
-Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
 
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Sprint-Planning1/Sprint1Trello.png?raw=true" alt="sprint">
@@ -3597,7 +3612,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td>WI-01</td>
     <td>Metodos CRUD para Usuarios</td>
     <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
-    <td>5</td>
+    <td>6</td>
     <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
@@ -3607,27 +3622,37 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td>WI-02</td>
     <td>Metodos CRUD para reseñas</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
-    <td>5</td>
+    <td>6</td>
     <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS03</td>
+    <td rowspan="1">API ONGs</td>
+    <td>WI-02</td>
+    <td>Metodos CRUD para ongs</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla Ongs y gestionar las Ongs de los usuarios.</td>
+    <td>6</td>
+    <td>Joseph Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">TS04</td>
     <td rowspan="1">API Memberships</td>
-    <td>WI-03</td>
+    <td>WI-04</td>
     <td>Metodos CRUD para membresías</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
-    <td>5</td>
+    <td>6</td>
     <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">TS05</td>
     <td rowspan="1">API Object</td>
-    <td>WI-04</td>
+    <td>WI-05</td>
     <td>Metodos CRUD para objetos</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla de objetos, permitiendo a los usuarios añadir, modificar, eliminar y consultar los objetos disponibles para intercambio.</td>
-    <td>5</td>
+    <td>6</td>
     <td>Joseph Huamani</td>
     <td>Done</td>
 </tr>
@@ -3668,15 +3693,15 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
 | - | - | - | - | - | - |
-| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | feature/backend/sprint-1 | b8d4e9d | Feat: Create TS-01 | Implemented TS-01 with API endpoints for user management, including registration, login, updates, and password recovery, with error handling and security measures.| 9/15/24|
-| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | feature/backend/sprint-1 | d595269 | Feat: Create TS-02  | Added TS-02 feature by creating the API for user reviews, including endpoints for creating, retrieving, updating, and deleting reviews, with error handling and security measures.| 9/15/24|
-| Jeremisas/TechZo-CC238-SW63/Acceptance-Test | feature/backend/sprint-1 | e8c4424 | feat: added 'TS03' and 'TS04' features | Implemented new features 'TS03' and 'TS04', enhancing the functionality and addressing specific project requirements.| 9/15/24|
-|IanHD04/TechZo-CC238-SW63/Acceptance-Test | feature/backend/sprint-1 | 0f42529 | feat: added 'TS05' | Implemented new features 'TS05', enhancing the functionality and addressing specific project requirements.|9/15/24 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | backend/feature/sprint-1 | b8d4e9d | Feat: Create TS-01 | Implemented TS-01 with API endpoints for user management, including registration, login, updates, and password recovery, with error handling and security measures.| 9/15/24|
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | backend/feature/sprint-1 | d595269 | Feat: Create TS-02  | Added TS-02 feature by creating the API for user reviews, including endpoints for creating, retrieving, updating, and deleting reviews, with error handling and security measures.| 9/15/24|
+| Jeremisas/TechZo-CC238-SW63/Acceptance-Test | backend/feature/sprint-1 | e8c4424 | feat: added 'TS-03' and 'TS-04' features | Implemented new features 'TS03' and 'TS04', enhancing the functionality and addressing specific project requirements.| 9/15/24|
+|IanHD04/TechZo-CC238-SW63/Acceptance-Test | backend/feature/sprint-1 | 0f42529 | feat: added 'TS-05' | Implemented new features 'TS05', enhancing the functionality and addressing specific project requirements.|9/15/24 |
 
 
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
-Lo que se logró en el Sprint 1 es desplegar una primera versión del backend. En esta versión, implementamos los métodos CRUD para las entidades clave, como usuarios, reseñas, objetos y membresías. Además, se adoptó exitosamente la metodología GitFlow, trabajando en un branches "TS" donde cada una representa una Technical Story, todo para realizar pruebas y actualizaciones sin afectar la rama principal.
+Lo que se logró en el Sprint 1 es desplegar una primera versión del backend. En esta versión, implementamos los métodos CRUD para las entidades clave, como usuarios, reseñas,ongs, objetos y membresías. Además, se adoptó exitosamente la metodología GitFlow, trabajando en un branches "TS" donde cada una representa una Technical Story, todo para realizar pruebas y actualizaciones sin afectar la rama principal.
 
 A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado, así como imágenes de lo alcanzado hasta este momento en el Sprint 1, respecto al backend:
 

@@ -2220,7 +2220,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td><strong>US16</strong></td>
     <td>Visualización de objetos disponibles para intercambio</td>
     <td>Como usuario, quiero poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>12</td>
@@ -2371,7 +2371,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td><strong>TS01</strong></td>
     <td>API User</td>
     <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
-    <td>3</td>
+    <td>5</td>
     <td rowspan="5"><strong>EP06</strong></td>
   </tr>
   <tr>
@@ -2379,28 +2379,28 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td><strong>TS02</strong></td>
     <td>API Review</td>
     <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>33</td>
     <td><strong>TS03</strong></td>
     <td>API ONGs</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>34</td>
     <td><strong>TS04</strong></td>
     <td>API Memberships</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>35</td>
     <td><strong>TS05</strong></td>
     <td>API Object</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
 </table>
 <br>
@@ -3574,11 +3574,11 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 </tr>
   <tr>
     <td>Sprint 1 Velocity</td>
-    <td>22 Story Points</td>
+    <td>30 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>15 Story Points</td>
+    <td>25 Story Points</td>
   </tr>
 </table><br><br>
 
@@ -3616,7 +3616,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-01</td>
     <td>Metodos CRUD para Usuarios</td>
     <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
-    <td>6</td>
+    <td>10</td>
     <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
@@ -3626,7 +3626,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-02</td>
     <td>Metodos CRUD para reseñas</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
-    <td>6</td>
+    <td>10</td>
     <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
@@ -3636,7 +3636,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-02</td>
     <td>Metodos CRUD para ongs</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla Ongs y gestionar las Ongs de los usuarios.</td>
-    <td>6</td>
+    <td>10</td>
     <td>Joseph Huamani</td>
     <td>Done</td>
   </tr>
@@ -3646,7 +3646,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-04</td>
     <td>Metodos CRUD para membresías</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
-    <td>6</td>
+    <td>10</td>
     <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
@@ -3656,7 +3656,7 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-05</td>
     <td>Metodos CRUD para objetos</td>
     <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla de objetos, permitiendo a los usuarios añadir, modificar, eliminar y consultar los objetos disponibles para intercambio.</td>
-    <td>6</td>
+    <td>10</td>
     <td>Joseph Huamani</td>
     <td>Done</td>
 </tr>
@@ -3876,6 +3876,138 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
 </table><br><br>
 
+
+#### 5.2.1.2 Sprint Backlog 1
+Nuestro principal objetivo con este primer sprint es implementar las funciones más importantes para que los usuarios interesados en CambiaZo puedan conocer qué es, sus principales características, lo que podrá realizar dentro de la aplicación móvil, información sobre la Startup, las ONG afiliadas, ver los planes de suscripción y los datos de contacto.
+
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registro de usuario</td>
+    <td>WI-01</td>
+    <td>Sección para nuevos usuarios</td>
+    <td>Implementación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
+    <td>6</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US03</td>
+    <td rowspan="1">Iniciar sesión en la aplicación</td>
+    <td>WI-02</td>
+    <td>Pantalla de inicio de sesión</td>
+    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
+    <td>2</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US06</td>
+    <td rowspan="1">Filtrado de Objetos</td>
+    <td>WI-03</td>
+    <td>Implementación de un filtro de búsqueda</td>
+    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US16</td>
+    <td rowspan="1">Visualización de objetos disponibles para intercambio/td>
+    <td>WI-04</td>
+    <td>Listar los objetos disponibles</td>
+    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
+    <td>10</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+</tr>
+  <tr>
+    <td rowspan="1">US25</td>
+    <td rowspan="1">Visualización de la Historia de la Startup<br></td>
+    <td>WI-05</td>
+    <td>Sección “¿Quiénes somos?”</td>
+    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
+    <td>2</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US26</td>
+    <td rowspan="1">Visualizar las características clave de la aplicación
+    </td>
+    <td>WI-06</td>
+    <td>Sección Características Principales
+    </td>
+    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
+    <td>4</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US27</td>
+    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td>WI-07</td>
+    <td>Formulario de contacto</td>
+    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US28</td>
+    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
+    <td>WI-08</td>
+    <td>Redireccionar a Google Play Store</td>
+    <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
+    <td>4</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US29</td>
+    <td rowspan="1">Ver los planes y precios</td>
+    <td>WI-09</td>
+    <td>Sección de planes y precios</td>
+    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
+    <td>6</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US30</td>
+    <td rowspan="1">Navegación en la Landing Page</td>
+    <td>WI-10</td>
+    <td>Barra de Navegación</td>
+    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
+    <td>6</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
 
 <div style="page-break-after: always;"></div>
 

@@ -3742,11 +3742,11 @@ Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sp
 Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Backend y otro para los Acceptance Test de nuestra aplicación móvil.
 
   <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-5.png?raw=true">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-7.png?raw=true">
   </div><br><br>
 
   <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-8.png?raw=true">
   </div><br><br>
 
 En ambos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
@@ -3757,6 +3757,8 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-branches.png?raw=true" alt="branches">
   </div><br><br>
 
+<div align="center">
+
 |Rama|Descripción|
 | :-: | :-: |
 |feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
@@ -3765,6 +3767,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 |feature/TS-04|Se crea la estructura de la API de Membresías junto a sus métodos.|
 |feature/TS-05|Se crea la estructura de la API de Productos junto a sus métodos.|
 
+</div>
 
 <br>
 En el repositorio de “Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizmos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br>
@@ -4008,6 +4011,15 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
   </tr>
 </tbody>
 </table>
+
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page y Aplicación Móvil, todos estos commits se han hecho en ramas donde cada una representa una User Story durante el desarrollo de nuestro Sprint 1.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| - | - | - | - | - | - |
+
 
 <div style="page-break-after: always;"></div>
 

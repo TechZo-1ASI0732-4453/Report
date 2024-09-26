@@ -217,7 +217,7 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
     <tr>
 	<td colspan="3">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
       <td colspan="3" align = "justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3> <b>TB1</b> <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p> <b>TB2</b> <p>En el segundo hito, me dediqué a desarrollar las Directrices de Estilo Generales del proyecto. Actualicé mis conocimientos en las últimas tendencias de diseño y buenas prácticas en UX/UI para asegurar que nuestra aplicación tenga una apariencia profesional y coherente. Investigué sobre paletas de colores, tipografías y principios de diseño universal, aplicando estos conocimientos para crear un Style Guide completo que será la base visual de nuestro producto. Este proceso me permitió profundizar en conceptos de diseño y mejorar mis habilidades en herramientas como Adobe XD y Figma.</p>
+      <h3>Joseph Alexis Huamani Mandujano</h3> <b>TB1</b> <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p> <b>TB2</b> <p>En el segundo hito, me dediqué a desarrollar las Directrices de Estilo Generales del proyecto. Actualicé mis conocimientos en las últimas tendencias de diseño y buenas prácticas en UX/UI para asegurar que nuestra aplicación tenga una apariencia profesional y coherente. Investigué sobre paletas de colores, tipografías y principios de diseño universal, aplicando estos conocimientos para crear un Style Guide completo que será la base visual de nuestro producto. Este proceso me permitió profundizar en conceptos de diseño y mejorar mis habilidades en herramientas como Figma.</p>
        <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante esta fase inicial, realicé una investigación exhaustiva de los competidores en el sector seleccionado, identificando sus fortalezas y debilidades. Este análisis me permitió entender mejor el mercado y ajustar nuestra propuesta de valor para que fuera realmente innovadora. Adicionalmente, diseñé y realicé entrevistas con varios grupos de usuarios, analizando las respuestas para determinar nuestras Personas Principales y Secundarias. Este ejercicio no solo mejoró mi habilidad para comunicarme de manera efectiva, sino que también profundizó mi comprensión de las necesidades del usuario, reflejándose directamente en la relevancia de nuestras soluciones propuestas.</p>
@@ -227,12 +227,12 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
     <b>TB1</b>
     <p>En este primer entregable, demostré habilidades de comunicación oral y escrita al interactuar eficazmente con mi equipo y al documentar adecuadamente todo el proceso de trabajo. La comunicación constante con el equipo y los stakeholders del proyecto aseguró que las ideas y feedback fueran integrados de manera efectiva, mejorando así nuestro enfoque y resultados. Mi capacidad para facilitar y mantener una comunicación fluida contribuyó significativamente al establecimiento de una base sólida para la colaboración continua y el éxito del proyecto.</p>
     <b>TB2</b>
-    <p>Para el segundo hito, me centré en el diseño de la Landing Page UI. Actualicé mis conocimientos en diseño de interfaces y usabilidad para crear wireframes y mock-ups de alta fidelidad. Aprendí nuevas técnicas en herramientas de prototipado como Sketch y InVision, lo que me permitió representar visualmente nuestras ideas de manera más efectiva. Este proceso me ayudó a mejorar mis habilidades en diseño visual y a entender mejor cómo crear interfaces atractivas y funcionales.</p>
+    <p>Para el segundo hito, me centré en el diseño de la Landing Page UI. Actualicé mis conocimientos en diseño de interfaces y usabilidad para crear wireframes y mock-ups de alta fidelidad. Aprendí nuevas técnicas en herramientas de prototipado como Figma, lo que me permitió representar visualmente nuestras ideas de manera más efectiva. Este proceso me ayudó a mejorar mis habilidades en diseño visual y a entender mejor cómo crear interfaces atractivas y funcionales.</p>
      <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>He trabajado intensamente en la definición de User Stories claras y efectivas que reflejan las necesidades identificadas de nuestros usuarios, garantizando que todos los requisitos del usuario estén adecuadamente representados en nuestro desarrollo de producto. Esta actividad fue complementada por la creación de una propuesta de valor diferenciada, que establece claramente el alcance y los objetivos de nuestro proyecto. Estos elementos no solo demuestran mi habilidad para pensar innovadoramente, sino que también aseguran que nuestro producto final sea tanto funcional como disruptivo en el mercado.</p>
     <b>TB2</b>
-    <p>En este segundo entregable, me enfoqué en el Diseño UX/UI de la Aplicación Móvil. Para ello, me actualicé en las guías de diseño específicas para plataformas móviles como iOS y Android. Creé wireframes, diagramas de flujo y prototipos interactivos de la aplicación, utilizando herramientas como Figma y Adobe XD. Este proceso me permitió aplicar nuevos conocimientos en diseño centrado en el usuario y mejorar mis habilidades en prototipado y testeo de interfaces móviles.</p>
+    <p>En este segundo entregable, me enfoqué en el Diseño UX/UI de la Aplicación Móvil. Para ello, me actualicé en las guías de diseño específicas para plataformas móviles como Android. Creé wireframes, diagramas de flujo y prototipos interactivos de la aplicación, utilizando herramientas como Figma. Este proceso me permitió aplicar nuevos conocimientos en diseño centrado en el usuario y mejorar mis habilidades en prototipado y testeo de interfaces móviles.</p>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto, nuestro equipo ha demostrado un crecimiento significativo en el ámbito de soluciones de software, fundamental para nuestro desarrollo profesional continuo. Hemos completado con éxito la definición del problema, realizado una investigación exhaustiva de competidores y llevado a cabo entrevistas detalladas que han enriquecido considerablemente nuestra comprensión del mercado y las necesidades de los usuarios. Estas actividades nos han permitido formular una propuesta de valor innovadora y diferenciada, reflejada en User Stories bien definidas y un diseño de producto adaptado a las demandas actuales. La comunicación efectiva y la colaboración dentro del equipo han sido claves para integrar diversas perspectivas y habilidades, fortaleciendo nuestro enfoque y asegurando que todos los aspectos del proyecto estén alineados y optimizados para las siguientes etapas del desarrollo. Este progreso inicial no solo ha mejorado nuestras capacidades técnicas, sino que también ha solidificado nuestra cohesión como equipo, preparándonos para enfrentar con confianza los desafíos futuros del proyecto.</p>
@@ -2001,7 +2001,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | US13 | Editar publicación de intercambio |
 | US14 | Eliminar publicación de intercambio |
 | US15 | Destacar publicación de intercambio |
-| US16 | Ampliar slots de publicación de intercambio |
+| US16 | Visualización de objetos disponibles para intercambio |
 | US17 | Visualizar el perfil del usuario que publique un intercambio |
 | US18 | Ponerse en contacto para pactar el intercambio |
 
@@ -2069,7 +2069,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|**Escenario 1: Acceso a la edición de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** el usuario pulsa la opción de editar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br><br>**Y** dos botones “Cancelar” y “Publicar”.<br><br>**Escenario 2: Edición de la publicación de intercambio confirmada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Publicar”,<br><br>**Entonces** el sistema guardará los cambios realizados en la publicación.<br><br>**Y** la hará visible para todos los usuarios.<br><br>**Escenario 3: Edición de la publicación de intercambio cancelada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Cancelar”,<br><br>**Entonces** el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
 |**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|**Escenario 1: Acceso a la eliminación de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** accede a la opción de eliminar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema le muestra una confirmación para confirmar si realmente desea eliminar la publicación.<br><br>**Escenario 2: Confirmación de eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** confirma la acción de eliminación,<br><br>**Entonces** el sistema elimina la publicación de manera permanente de la plataforma y se muestra un mensaje de confirmación al usuario.<br><br>**Escenario 3: Cancelación de la eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** decide cancelar la eliminación,<br><br>**Entonces** la publicación no se elimina y el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
 |**US15**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|**Escenario 1: Acceso a la opción de destacar una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** accede a la opción de destacar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema le presenta la opción de resaltar la publicación mediante una función identificada como "Destacar" o "Boost",<br><br>**Y** indica que esta función está disponible para usuarios premium o mediante la compra de un servicio adicional.<br><br>**Escenario 2: Confirmación de destacar la publicación con membresía premium**<br><br>**Dado que** el usuario ha seleccionado destacar una publicación de intercambio<br><br>**Y** tiene una membresía premium activa,<br><br>**Cuando** confirma la acción de destacar,<br><br>**Entonces** el sistema resalta la publicación<br><br>**Y** le da mayor visibilidad dentro de la plataforma.<br><br>**Escenario 3: Confirmación de destacar la publicación con compra de boost**<br><br>**Dado que** el usuario ha seleccionado destacar una publicación de intercambio<br><br>**Y** no tiene membresía premium,<br><br>**Cuando** decide comprar un boost para destacar la publicación,<br><br>**Entonces** el sistema resalta la publicación temporalmente<br><br>**Y** le da mayor visibilidad dentro de la plataforma durante el período de tiempo especificado por el boost adquirido.|**EP02**|
-|**US16**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|**Escenario 1: Acceso a la opción de ampliar slots de publicación**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** desea aumentar el número de publicaciones de intercambio activas,<br><br>**Cuando** accede a la sección de configuración de la cuenta para ampliar los slots de publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema le presenta la opción de aumentar el número de slots disponibles.<br><br>**Escenario 2: Confirmación de ampliar slots de publicación**<br><br>**Dado que** el usuario ha seleccionado la opción de ampliar los slots de publicación,<br><br>**Cuando** confirma la acción<br><br>**Y** realiza el pago correspondiente,<br><br>**Entonces** el sistema incrementa el número de slots disponibles del usuario<br><br>**Y** el usuario puede tener más publicaciones de intercambio activas simultáneamente.<br><br>**Escenario 3: Visualización de slots de publicación disponibles**<br><br>**Dado que** el usuario ha ampliado los slots de publicación,<br><br>**Cuando** accede a la sección de creación de publicaciones de intercambio,<br><br>**Entonces** puede ver el nuevo número de slots disponibles para realizar más publicaciones simultáneas.<br><br>**Escenario 4: Cancelación de ampliar slots de publicación**<br><br>**Dado que** el usuario ha accedido a la opción de ampliar slots de publicación<br><br>**Y** decide no continuar con la acción,<br><br>**Cuando** cancela la operación,<br><br>**Entonces** el número de slots de publicación permanece sin cambios<br><br>**Y** se mantiene igual al estado anterior.|**EP02**|
+| **US16** | Visualización de objetos disponibles para intercambio | Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen. | **Escenario 1: Visualización de objetos** <br><br> **Dado que** el usuario ha iniciado sesión en la aplicación <br><br> **Y** está en la sección de Explorar en la barra de navegación del aplicativo móvil, <br><br> **Cuando** accede a dicha sección, <br><br> **Entonces** el sistema le mostrará una barra de búsqueda, un botón para filtros, un slide con las categorías disponibles y una lista de las publicaciones de los objetos, incluyendo una foto del objeto, su valor aproximado, nombre, ubicación y una breve descripción. <br><br> **Escenario 2: Búsqueda de objetos** <br><br> **Dado que** el usuario está en la sección de Explorar, <br><br> **Cuando** utiliza la barra de búsqueda para ingresar un término, <br><br> **Entonces** el sistema le mostrará los objetos que coinciden con el término buscado, mostrando los resultados con la misma información: foto, valor aproximado, nombre, ubicación y descripción. | **EP02** |
 |**US17**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|**Escenario 1: Acceso al perfil del creador de la publicación.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Cuando** pulsa al recuadro que muestra el perfil del autor de la publicación,<br><br>**Entonces**, el usuario podrá visualizar su nombre completo, tiempo que lleva en la aplicación, la cantidad de intercambios exitosos realizados<br><br>**Y** valoraciones de otros usuarios.<br><br>**Escenario 2: Visualizar reseñas de otros usuarios hacia un perfil en específico.**<br><br>**Dado que** el usuario se encuentra en el perfil del autor del intercambio,<br><br>**Cuando** Se dirija a la sección llamada “Reseñas” es cuando,<br><br>**Entonces** el usuario podrá visualizar todas las reseñas que dicho autor ha recibido por todas sus publicaciones exitosas<br><br>**Y** datos relevantes sobre el creador de la publicación.<br><br>**Escenario 3: Visualizar el tipo de productos que suele intercambiar el usuario.**<br><br>**Dado que** el usuario está en el perfil del intercambiador,<br><br>**Cuando** se dirija a la sección “Preferencias” es,<br><br>**Entonces**, donde podrá visualizar la variedad de productos que suele intercambiar el usuario, así cómo también si hace match con las preferencias del usuario interesado.|**EP02**|
 |**US18**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|**Escenario 1: Contactar con el vendedor por un chat de WhatsApp o Telegram.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Cuando** pulsa al botón de WhatsApp o Telegram que aparecerá en la parte lateral de la publicación,<br><br>**Entonces**, se le redireccionará a una pestaña de WhatsApp y/o Telegram con un mensaje predeterminado para enviar<br><br>**Y** ponerse en contacto de manera directa con el intercambiador.<br><br>**Escenario 2: Verificar la información del vendedor en caso de no contar con un número de contacto registrado.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Y** no logró encontrar algún botón para ser redireccionado a un chat privado con el intercambiador,<br><br>**Entonces**, podrá verificar su información personal en los detalles de la publicación<br><br>**Y** así poder saber su correo electrónico y/o redes sociales.<br><br>**Escenario 3: Escribir un comentario en la publicación para poder obtener información adicional pertinente.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Y** no logra poder contactar por ningún medio al autor de la publicación,<br><br>**Entonces**, podrá dirigirse a la sección de comentarios, para poder escribir directamente de la página al usuario sobre ciertos detalles o métodos de contacto.|**EP02**|
 |**US19**|Ponerse en contacto para poder realizar una donación|Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.|**Escenario 1: Contactar con el vendedor por un chat de WhatsApp o Telegram.**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG correspondiente,<br><br>**Cuando** pulsa al botón de WhatsApp o Telegram que aparecerá en la parte superior del perfil,<br><br>**Entonces**, se le redireccionará a una pestaña de WhatsApp y/o Telegram con un mensaje predeterminado para enviar<br><br>**Y** ponerse en contacto de manera directa con la organización benéfica.<br><br>**Escenario 2: Contactar o pedir información sobre alguna campaña en específico.**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG u organización benéfica correspondiente,<br><br>**Cuando** pulsa a ver sus publicaciones,<br><br>**Entonces**, podrá visualizar las últimas actualizaciones de campañas publicadas<br><br>**Y** en cada una de estas habrá un link correspondiente con información más detallada del cómo apoyar en esa campaña específica.<br><br>**Escenario 3: Solicitar información detallada.**<br><br>**Dado que** el usuario se encuentra en la publicación de interés,<br><br>**Cuando** pulsa a la sección de comentarios,<br><br>**Entonces**, es que podrá redactar alguna pregunta específica que necesite hacer respecto a la campaña correspondiente.|**EP03**|
@@ -2218,9 +2218,9 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   <tr>
     <td>11</td>
     <td><strong>US16</strong></td>
-    <td>Ampliar slots de publicación de intercambio</td>
-    <td>Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.</td>
-    <td>5</td>
+    <td>Visualización de objetos disponibles para intercambio</td>
+    <td>Como usuario, quiero poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>12</td>
@@ -3119,17 +3119,17 @@ Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d7c7576a-837e
 
 El diccionario de clases detalla las características y funciones de cada entidad del sistema, proporcionando una referencia completa para entender la funcionalidad del software.
 
-- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.<br><br>
+- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.<br>
   
-- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.<br><br>
+- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.<br>
   
-- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.<br><br>
+- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.<br>
   
-- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.<br><br>
+- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.<br>
   
-- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.<br><br>
+- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.<br>
   
-- **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
+- **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.<br><br>
 
 #### 3.2.2.3 Database Design 
 
@@ -3287,7 +3287,8 @@ En esta sección se detalla la configuración del entorno de desarrollo utilizad
 
 + **Software Deployment**<br> Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.<br><br> 
 
-  + **Heroku:** Plataforma en la nube que facilita el despliegue, gestión y escalado de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube.<br>https://www.heroku.com/ <br><br>
+  + **Amazon Azure:** Plataforma en la nube que ofrece servicios de computación, almacenamiento y gestión de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube. <br> https://azure.microsoft.com/ <br><br>
+
 
 ### 4.1.2 Source Code Management
 
@@ -3295,7 +3296,7 @@ Para administrar de manera efectiva el progreso del código en el backend, hemos
 
 Hemos optado por utilizar GitHub como plataforma de gestión de código debido a sus características avanzadas. GitHub facilita la visualización del proyecto y la gestión del código a través de herramientas colaborativas y de integración continua.
 
-En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.
+En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “backend/feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.
 
 
 Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
@@ -3502,20 +3503,23 @@ En esta sección mostraremos los pasos que hemos realizado para poder desplegar 
 
 Para desplegar nuestro backend hemos optado por usar Heroku, el cual brinda la posibilidad de alojar proyectos de backend sin costo alguno.
 
-**1.  Ingresamos a Heroku y conectamos con Github**
+**1.  Ingresamos a Microsoft Azure, Creamos un servidor  y un Servicio Web**
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="landing repo">
-</div>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="backend deploy"><br><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="backend deploy">
+</div><br><br>
 
-**2.  Le damos a Deploy branch y tendremos hosteado nuestro backend**
+**2.  Vinculamos nuestro repositorio del back-end con el Servicio creado en Azure a través de la extensión Github Actions y deployamos**
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="landing repo">
-</div>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend deploy">
+</div><br><br>
 
-
-<br>
+**3.  Finalmente, tendremos el back-end deployado**
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
+</div><br><br>
 
 
 ## 4.2 Software Development & Implementation
@@ -3707,30 +3711,22 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="bakend" >
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="bakend" >
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-4.png?raw=true" alt="backend" >
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-5.png?raw=true" alt="backend" >
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true" alt="backend" >
+
 </div>
-<br>
-
-
-<div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend" >
-</div>
-<br>
-
-
-<div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend">
-</div>
-<br>
-
-
-<div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-4.png?raw=true" alt="backend">
-</div>
-<br>
-
 <br>
 
 Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-8483035d8f19.herokuapp.com/swagger-ui/index.html#/)
+<br><br>
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review.
 En el transcurso del Sprint 1, hemos logrado avances importantes en la creación de los repositorios para nuestro backend. Esto incluyó el desarrollo de los métodos CRUD para usuarios, reseñas, objetos y membresías, así como la implementación de pruebas de aceptación (acceptance tests). Tener estos puntos bien definidos desde el comienzo facilitó la organización y gestión del proyecto.
@@ -3740,9 +3736,10 @@ En la siguiente fase, decidimos utilizar las funciones colaborativas de GitHub, 
 <br><br>
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review.
-A continuación, detallaremos los procesos realizados a lo largo del Sprint 1:
- 
-Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Backend y otro para los Acceptance Test.
+
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 1:
+
+Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Backend y otro para los Acceptance Test de nuestra aplicación móvil.
 
   <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-5.png?raw=true">
@@ -3752,12 +3749,40 @@ Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true">
   </div><br><br>
 
-En el repositorio “Backend” subimos todos los archivos a las ramas “TS's”, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
+En ambos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
 
-Y en el caso del repositorio “Acceptance-Test”, todos los archivos se subían a la rama “feature/Acceptance-Test/sprint-1”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “main”.
+Para ello, en el repositorio del backend hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las cuales implementamos los endpoints y métodos según los requerimientos que se evidencian en cada historia técnica.<br>
 
-Link: https://github.com/TechZo-CC238-SW63/Backend 
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-branches.png?raw=true" alt="branches">
+  </div><br><br>
 
+|Rama|Descripción|
+| :-: | :-: |
+|feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
+|feature/TS-02|Se crea la estructura de la API de Reseñas junto a sus métodos.|
+|feature/TS-03|Se crea la estructura de la API de ONGs junto a sus métodos.|
+|feature/TS-04|Se crea la estructura de la API de Membresías junto a sus métodos.|
+|feature/TS-05|Se crea la estructura de la API de Productos junto a sus métodos.|
+
+
+<br>
+En el repositorio de “Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizmos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-network.png?raw=true">
+  </div><br>
+
+Finalmente utilizamos el App Service de Azure, en el cual vinculamos nuestra cuenta de GitHub y lo configuramos para que cada vez que se realice una modificación se actualice automáticamente.<br>
+Link: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/ <br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="bakend" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="bakend" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
+  </div><br><br>
 
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
@@ -3788,6 +3813,68 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo del Backend.
 
 <br>
+
+<div style="page-break-after: always;"></div>
+
+## 5.2 Landing Page & Mobile Application Implementation
+### 5.2.1 Sprint 1
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 5.2.1.1 Sprint Planning 1
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-09-18</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>11:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 </td>
+    <td>Desplegar una primera versión de la aplicación móvil con al menos una funcionalidad y desarrollar la landing page para atraer visitantes a nuestro sitio web.<br><br>Para evaluar el cumplimiento de este sprint, utilizaremos la siguientes métricas: <br>Verificaremos que el proyecto compile y que se pueda acceder a las pantallas establecidas para la aplicación móvil.<br>Mediremos cuántos visitantes llegan a nuestra landing page durante el período del sprint, con el objetivo de atraer al menos 10 visitantes nuevos..<br></td>
+</tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>30 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td> 30 Story Points</td>
+  </tr>
+</table><br><br>
 
 
 <div style="page-break-after: always;"></div>

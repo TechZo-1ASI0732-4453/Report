@@ -4653,6 +4653,16 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 
 
 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el transcurso del Sprint 1, hemos logrado avances significativos en la creación de la landing page y el desarrollo inicial de la aplicación móvil. En la landing page, se implementó una barra de navegación que facilita el acceso a diferentes secciones, se establecieron secciones definidas para mejorar la experiencia del usuario y la accesibilidad de la información, y se creó un formulario de contacto funcional que permite a los usuarios realizar consultas o solicitudes de soporte. Por otro lado, en la aplicación móvil, se integraron las funcionalidades de inicio de sesión y registro de sesión, lo que permite a los usuarios acceder a sus cuentas de manera segura. Además, se implementó una pantalla de explorar donde los usuarios pueden visualizar los objetos disponibles para intercambio, con opciones de filtrado por categorías y una función de búsqueda, lo que mejora la capacidad de los usuarios para encontrar productos específicos de manera eficiente. Estos desarrollos son esenciales para la funcionalidad y usabilidad de nuestro proyecto, asegurando que se cumplan los objetivos establecidos.
+
+En esta etapa, implementamos las funciones colaborativas de GitHub, lo que resultó fundamental para la cooperación entre todos los miembros del equipo. Este enfoque promovió una implementación eficiente y sin contratiempos. Al proporcionar acceso a cada integrante del equipo al repositorio, los commits se realizaron de manera fluida y ágil, lo que permitió a todos visualizar los cambios y el progreso alcanzado.
+
+<br><br>
+
+
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

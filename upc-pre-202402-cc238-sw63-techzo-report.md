@@ -3330,7 +3330,9 @@ Para administrar de manera efectiva el progreso del código en el backend, hemos
 
 Hemos optado por utilizar GitHub como plataforma de gestión de código debido a sus características avanzadas. GitHub facilita la visualización del proyecto y la gestión del código a través de herramientas colaborativas y de integración continua.
 
-En cuanto a nuestros archivos feature, creamos una nueva rama “feature/sprint-1” para cada nueva funcionalidad que deseamos agregar. Este enfoque modular y organizado asegura un desarrollo progresivo, ya que cada rama “backend/feature/sprint-1” actúa como un espacio aislado para desarrollar y probar una característica específica antes de fusionarla con la rama de desarrollo.
+En cuanto a nuestros Acceptance Test, hemos creado una nueva rama “backend/feature/[Sprint a desarrollar]” para cada sprint que se lleve a cabo en el backend. Este enfoque modular y organizado garantiza un desarrollo progresivo, ya que cada rama actúa como un espacio aislado para probar y realizar actualizaciones sin la necesidad de una rama de desarrollo.
+
+Para el repositorio del backend, hemos establecido ramas “feature/[TS a desarrollar]” para cada nueva historia técnica que deseamos implementar. Este enfoque modular y organizado asegura un desarrollo más eficiente y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una historia técnica, lo que facilita el control y seguimiento del progreso del proyecto.
 
 
 Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
@@ -3909,6 +3911,40 @@ Esta sección se enfoca en la planificación, organización, coordinación y con
 +  **Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas.<br><br> 
 
 	+  **Markdown:** Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/<br><br>
+
+
+
+
+### 5.1.2 Source Code Management
+
+Para administrar de manera efectiva el progreso del código en la aplicación móvil y la landing page, hemos adoptado la metodología Git Flow. Esta estrategia se basa en el uso de ramas, lo que facilita la gestión del código durante el desarrollo. En resumen, Git Flow nos permite mantener una rama principal (main) que contiene una versión estable del proyecto. Utilizamos también una rama de desarrollo para integrar nuevas funcionalidades sin afectar la versión estable actual, lo que nos permite avanzar en el desarrollo de la aplicación y realizar pruebas de nuevas características.
+
+Hemos optado por GitHub como nuestra plataforma de gestión de código, gracias a sus características avanzadas que facilitan la visualización del proyecto y la gestión colaborativa a través de herramientas de integración continua.
+
+En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/feature/[Sprint a desarrollar]” para cada sprint que se lleve a cabo en el desarollo del producto. Este enfoque modular y organizado garantiza un desarrollo progresivo, ya que cada rama actúa como un espacio aislado para probar y realizar actualizaciones antes de fusionarlas con la rama de desarrollo.
+
+Además, para los repositorios de la landing page y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
+
+
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-CC238-SW63/Landing-Page <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/landing-page.png?raw=true"  alt="Repositorio Landing Page">
+</div><br>
+
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW63/CambiazoApp <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+</div><br>
+
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test  <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+
 
 
 ## 5.2 Landing Page & Mobile Application Implementation

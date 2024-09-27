@@ -3926,19 +3926,19 @@ En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/featur
 Además, para los repositorios de la landing page y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
 
 
-Repositorio GitHub de la Landing Page: https://github.com/TechZo-CC238-SW63/Landing-Page <br><br> 
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-CC238-SW63/Landing-Page <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
-Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW63/CambiazoApp <br><br> 
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW63/CambiazoApp <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test  <br><br> 
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
@@ -3946,6 +3946,319 @@ Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63
 
 
 
+### 5.1.3 Source Code Style Guide & Conventions
+
+En esta sección, establecemos las convenciones de estilo y mejores prácticas para el desarrollo de nuestra aplicación móvil CambiaZo y la landing page, utilizando Kotlin y Astro. Estas reglas son fundamentales para garantizar la legibilidad, mantenibilidad y escalabilidad del código a lo largo del ciclo de vida del proyecto.
+
+El uso coherente de estas convenciones también facilita la colaboración entre desarrolladores, ya que se minimizan las discrepancias en la forma en que se escribe y estructura el código. Asimismo, emplearemos Gherkin para la definición de pruebas de aceptación, asegurando que cada funcionalidad cumpla con los requisitos y expectativas del usuario.
+<br><br>
+
+**KOTLIN**
+
+Kotlin es un lenguaje de programación moderno y conciso que se ejecuta en la Máquina Virtual de Java (JVM) y es totalmente interoperable con Java, lo que facilita su adopción en proyectos existentes. Destaca por su seguridad de tipos, que ayuda a prevenir errores comunes como el NullPointerException, y su capacidad para soportar programación funcional a través de funciones de orden superior y expresiones lambda. Además, ofrece características como funciones de extensión que permiten ampliar la funcionalidad de las clases sin necesidad de herencia, y permite el desarrollo multiplataforma, lo que facilita la creación de aplicaciones para diferentes entornos, incluidas aplicaciones móviles.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+	En nuestro proyecto, todas las clases, funciones, variables y constantes serán nombradas en inglés y de manera descriptiva. Se adoptará  camelCase para funciones y variables, mientras que  PascalCase se utilizará para las clases. Esta práctica mejorará la claridad del código y facilitará la comprensión de la funcionalidad de cada elemento.
+
+  Ejemplo: 
+  ```
+   // Mala práctica
+   var usrAge: Int = 25
+
+   // Buena práctica
+   var userAge: Int = 25
+  ```
+
++ **Identación o Sangría**
+
+	Se utilizarán  4 espacios para la indentación del código, evitando el uso de tabulaciones. Esta decisión es fundamental para garantizar que la estructura del código sea clara y que la jerarquía y los bloques sean fácilmente comprensibles.
+
+  Ejemplos:
+  ```
+	class UserService {
+	    fun createUser(user: User) {
+	        if (user != null) {
+	            userRepository.save(user)
+	        }
+	    }
+	}
+  ```
+
++ **Llaves y Estructura de Código**
+
+	Las llaves se abrirán en la misma línea que la declaración correspondiente y se cerrarán alineadas con el inicio de dicha declaración. Este estilo contribuye a mantener una estructura clara y consistente, facilitando el seguimiento del flujo de control en el código.
+
+  Ejemplo:
+	```
+	// Mala práctica
+	fun createUser(user: User) 
+	{
+	    if (user != null) 
+	    {
+	        userRepository.save(user)
+	    }
+	}
+	// Buena práctica
+	fun createUser(user: User) {
+	    if (user != null) {
+	        userRepository.save(user)
+	    }
+	}
+	```
+
++ **Uso de Constantes**
+
+	Las constantes en Kotlin se declararán utilizando `const val` para aquellos valores que son conocidos en tiempo de compilación y `val` para valores que no cambian durante la ejecución. Se utilizará una nomenclatura en mayúsculas, separadas por guiones bajos, para diferenciarlas claramente de las variables.
+
+  Ejemplo:
+  ```
+  const val MAX_ATTEMPTS: Int = 5
+  ```
+
+* **Uso de Comentarios**
+
+	Los comentarios se utilizarán para explicar el por qué de las decisiones de código, en lugar de describir lo que el código realiza, lo cual debería ser evidente a través de la nomenclatura. Se empleará el formato KDoc para documentar métodos públicos y clases, facilitando así la generación de documentación.
+
+  Ejemplo:
+  ```
+	/**
+	 * Retrieves a user by their ID.
+	 *
+	 * @param id the ID of the user to retrieve
+	 * @return the user object, or null if not found
+	 */
+	fun getUserById(id: Long): User? {
+	    return userRepository.findById(id).orElse(null)
+	}
+  ```
+
++ **Uso de Funciones Composable**
+
+	Las funciones composables se declararán con la anotación `@Composable`, y se espera que sean funciones puras que no dependan de variables externas, a menos que se pasen como parámetros. Este enfoque garantiza que las funciones sean reutilizables y predecibles.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserProfile(name: String, age: Int) {
+	    Column {
+	        Text(text = "Name: $name")
+	        Text(text = "Age: $age")
+	    }
+	}
+  ```
+
++ **Composición Anidada**
+
+	Dividir la interfaz de usuario en componentes más pequeños y modulares facilitará la legibilidad y el mantenimiento del código. Cada componente será responsable de una única tarea, lo que permitirá su reutilización y prueba más efectivas.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserScreen() {
+	    UserProfile(name = "John Doe", age = 30)
+	}
+  ```
+
++ **Manejo del Estado**
+
+	Se utilizarán `remember` y `mutableStateOf` para almacenar el estado que necesita sobrevivir a las recomposiciones. Este enfoque permitirá que la interfaz de usuario responda de manera eficiente a los cambios de estado.
+
+  Ejemplo:
+  ```
+	  @Composable
+	fun Counter() {
+	    var count by remember { mutableStateOf(0) }
+	    Column {
+	        Text(text = "Count: $count")
+	        Button(onClick = { count++ }) {
+	            Text(text = "Increment")
+	        }
+	    }
+	}
+  ```
+ 
+ + **Previsualización de Composables**
+
+	Se utilizará la anotación `@Preview` para mostrar vistas previas de los composables en Android Studio. Esto facilitará el diseño y la iteración, permitiendo a los desarrolladores visualizar la interfaz sin necesidad de compilar y ejecutar la aplicación.
+
+	Ejemplo:
+	```
+	@Preview
+	@Composable
+	fun PreviewUserProfile() {
+	    UserProfile(name = "Jane Doe", age = 25)
+	}
+	  ```
+	  
+<br><br>
+
+**ASTRO**
+
+Astro es un framework moderno que permite construir sitios web estáticos rápidos y optimizados, centrándose en el rendimiento y la experiencia del usuario. Utilizaremos Astro para el desarrollo de nuestra landing page, aprovechando su capacidad de generar páginas eficientes con menos JavaScript, lo que garantiza tiempos de carga rápidos y una mejor experiencia de usuario. Una característica clave es su "island architecture", que permite cargar solo los componentes interactivos necesarios.
+
+ + **Uso de Componentes**
+
+	Para garantizar la modularidad y reutilización del código, definiremos componentes de manera que cumplan con una sola responsabilidad. Los nombres de los archivos de componentes seguirán el formato PascalCase, y cada componente será autocontenido para facilitar su comprensión y mantenimiento.
+
+	Ejemplo:
+	```
+	---
+	  // Header.astro
+	---
+	<header class="header">
+	  <h1>Bienvenido a CambiaZo</h1>
+	</header>
+	
+	<style>
+	  .header {
+	    background-color: #ff6347;
+	    padding: 1rem;
+	    color: white;
+	  }
+	</style>
+	```
+
+ + **Optimización del Rendimiento**
+
+	Aplicaremos la arquitectura  islands de Astro para cargar JavaScript únicamente donde sea necesario. Esto nos permitirá generar páginas estáticas y mejorar el rendimiento de la landing page. Aquí un ejemplo de cómo cargaremos un componente React solo cuando se necesite:
+
+	Ejemplo:
+	```
+	---
+	  import Button from '../components/Button.jsx';
+	---
+
+	<h1>Descubre CambiaZo</h1>
+	<Button client:load />
+	```
+	
+ + **Estilos CSS**
+
+	Los estilos estarán encapsulados dentro de cada componente siempre que sea posible, para evitar conflictos globales y mantener el código CSS organizado. Sin embargo, también importaremos estilos globales para elementos comunes como el diseño general de la página.
+
+	Ejemplo:
+	```
+	---
+	  // Hero.astro
+	---
+	<section class="hero">
+	  <h1>Intercambia artículos fácilmente</h1>
+	</section>
+
+	<style>
+	  .hero {
+	    text-align: center;
+	    padding: 4rem;
+	    background-color: #f9f9f9;
+	  }
+	</style>
+	```
+
+ + **Carga de Imágenes Optimizada**
+
+	Al incorporar imágenes, nos aseguraremos de que se carguen de manera eficiente mediante el uso de las etiquetas `picture` y `img` con la carga diferida (`loading="lazy"`), lo que mejorará significativamente el tiempo de carga de la página.
+
+	Ejemplo:
+	```
+	<picture>
+	  <source srcset="/images/banner.webp" type="image/webp">
+	  <img src="/images/banner.jpg" alt="Banner de CambiaZo" loading="lazy">
+	</picture>
+	```
+ + **Buenas Prácticas de Accesibilidad**
+
+	Nos comprometemos a seguir las mejores prácticas de accesibilidad. Para ello, usaremos etiquetas semánticas adecuadas y proporcionaremos descripciones claras en los elementos interactivos como botones y enlaces.
+
+	Ejemplo:
+	```
+	<button aria-label="Iniciar intercambio">Intercambiar</button>
+	```
+	
+<br><br>	
+
+**GHERKIN**
+
+Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
+
+Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
+
+  
+
+* **Discernible Given-When-Then Blocks**
+  
+  Según la sugerencia de Keiblinger, para facilitar la comprensión y la organización de los escenarios en Gherkin, se recomienda indentar los pasos que comienzan con "And" después de cada Given, When o Then. Esto permite distinguir claramente dónde termina un bloque y comienza otro, incluso en escenarios con múltiples pasos.
+
+  Ejemplo de Sophie Keiblinger :
+
+  ```
+  Scenario: Discernible Given-When-Then Blocks
+
+  In order to quickly spot where one block ends and another one begins, you can indent the steps starting with “And”
+
+  Given I need to prepare some data for my  scenario
+
+  And this is more complex so I need a second step
+
+  And this is more complex so I need a third step
+
+  When I trigger some action
+
+  Then I can see the expected outcome
+
+  And this outcome also has a second step
+
+  And this outcome also has a third step
+  ```
+
+* **Steps with Tables**
+  
+  Keiblinger nos sugiere utilizar un colon (:) al final de los pasos que requieren más entrada de una tabla. Esto ayuda a hacer inmediatamente reconocible que se espera una tabla como parte de la entrada del paso.
+
+  Ejemplo de Sophie Keiblinger:
+
+  ```
+  Given I need to prepare the following data for my scenario:
+
+  |  column 1  | column 2 |
+  | necessary |     data     |
+  ```
+
+* **Reducing Noise**
+
+  Keiblinger sugiere utilizar valores por defecto para campos que el sistema requiere pero que no son pertinentes para el escenario en cuestión. Por ejemplo, al probar la validación de una fecha de nacimiento, no es necesario especificar el nombre de la persona, título académico o número de seguro social. Esta  inclusión no afecta al resultado del escenario. Esta práctica ayuda a simplificar los escenarios y a enfocarse en las características específicas que se están probando.
+
+  Ejemplo:
+
+  ```
+  When el visitante se acerque a la sección ‘Comunícate con nosotros’
+  ```
+
+* **Newlines between scenarios and separator comments**
+
+  Keiblinger nos dice que para mantener la claridad en los archivos de escenarios de Gherkin, especialmente cuando estos son extensos o contienen múltiples escenarios, se recomienda agregar dos líneas en blanco entre cada escenario. Esto ayuda a distinguir claramente dónde termina un escenario y comienza otro. Además, es común añadir un comentario separador para brindar una guía visual adicional y facilitar la navegación en el archivo.
+
+  Ejemplo:
+  ```
+  #-----------------------------------------------------------------------------------
+  Scenario: Acceso a la historia de TechZo
+          Given que soy un visitante de la landing page
+          When navegue por la página de inicio
+          And encuentre la sección titulada "¿Quiénes Somos?"
+          Then podré obtener información detallada sobre la historia de la startup.
+
+  #-----------------------------------------------------------------------------------
+
+      Scenario: Acceso a las redes sociales de TechZo
+          Given que el visitante se encuentra en el landing page
+          When el visitante de click en la etiqueta “Contáctanos”
+          And encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo
+          And de click encima del botón con el logo de la red social que desee ver
+          Then el usuario será redireccionado a la red social que seleccionó previamente.
+  ```
+  
+  
+<br><br>
 
 ## 5.2 Landing Page & Mobile Application Implementation
 ### 5.2.1 Sprint 1
@@ -4267,13 +4580,21 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" >
 </div>
 
@@ -4282,12 +4603,19 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 **Aplicación Móvil:**<br>
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+  
 </div>
 
 <br><br>

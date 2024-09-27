@@ -3153,7 +3153,7 @@ El diseño de la base de datos se ha desarrollado para gestionar eficientemente 
   Registra las transacciones de intercambio entre usuarios. Incluye detalles como los productos intercambiados, el usuario que inicia el intercambio, el usuario con quien se intercambia, y el estado del intercambio (pendiente, completado, cancelado).
   
  - **Reseñas:**
- Almacena las evaluaciones y comentarios que los usuarios han dejado sobre productos o servicios. Incluye información como la puntuación dada, el texto de la reseña, el usuario que escribió la reseña, y la fecha de publicación.
+  Almacena las evaluaciones y comentarios de los usuarios sobre productos o servicios, incluyendo la puntuación, texto de la reseña, el intercambio realizado, y los usuarios que la hicieron y la recibieron.
  
  - **Planes:**
  Contiene información sobre los diferentes planes disponibles para los usuarios, como suscripciones premium o membresías. Incluye atributos como el nombre del plan, descripción, costo, y duración.
@@ -3219,7 +3219,7 @@ La relación entre usuarios y productos se maneja a través de la tabla producto
 La tabla intercambios gestiona la relación entre los usuarios que ofrecen y reciben productos. Registra tanto el usuario que ofrece su producto como el usuario que recibe la oferta, facilitando el seguimiento de las transacciones de intercambio.
 
 - **Suscripciones:** 
-La tabla suscripciones establece una relación entre usuarios y planes de suscripción. Cada suscripción está vinculada a un usuario específico y a un plan determinado, permitiendo el seguimiento de las suscripciones activas.
+La tabla de suscripciones relaciona usuarios y planes de suscripción. Cada suscripción está vinculada a un usuario y plan, permitiendo registrar las activas y el historial de suscripciones, sin permitir más de una a la vez por usuario.
 
 - **Reseñas:** 
 La relación entre usuarios y productos se maneja a través de la tabla reseñas. Esta tabla vincula a los usuarios que escriben reseñas con los intercambios de productos, facilitando el registro de evaluaciones y comentarios sobre los productos intercambiados.

@@ -3855,6 +3855,62 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 <div style="page-break-after: always;"></div>
 
+
+# Capítulo V: Product Implementation & Validation
+
+## 5.1 Software Configuration Management
+
+A continuación, se establecerá un proceso de gestión de configuración de software que asegurará el control centralizado y organizado de todas las versiones y cambios, sirviendo como base para un desarrollo coherente y alineado con los objetivos del proyecto.
+
+### 5.1.1 Software Development Environment Configuration
+
+Esta sección se enfoca en la planificación, organización, coordinación y control de los recursos y tareas necesarias para llevar a cabo un proyecto de software de manera exitosa. Abarca la gestión del alcance, cronograma, costos, calidad, riesgos, recursos humanos y la comunicación, asegurando que el proyecto se complete dentro del plazo y presupuesto previstos, cumpliendo con los requisitos y metas establecidas. <br>
+
++ **Project Management**<br>Esta área se enfoca en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar exitosamente un proyecto de software. Abarca la gestión del alcance, tiempo, costos, calidad, riesgos, recursos humanos y comunicación, con el fin de asegurar que el proyecto se entregue dentro del plazo y presupuesto previstos, cumpliendo con los objetivos y requisitos establecidos.<br><br>
+
+  +	<b>Pivotal Tracker:</b> Herramienta ágil de gestión de proyectos que permite a los equipos planificar, priorizar y realizar un seguimiento del trabajo de manera colaborativa. <br>https://www.pivotaltracker.com<br><br>
+  
+  +	<b>Trello:</b> Herramienta de gestión de proyectos basada en tableros que permite a los equipos organizar tareas, asignar responsabilidades y colaborar de manera visual y flexible. Facilita la planificación y el seguimiento de actividades mediante listas y tarjetas personalizables. <br>https://trello.com<br><br>
+
++ **Requirements Management**<br>Consiste en el proceso de identificar, documentar, verificar y gestionar los requisitos tanto del sistema como del software. Involucra comprender las necesidades de los usuarios y las partes interesadas, y convertirlas en requisitos funcionales y no funcionales bien definidos. El objetivo es asegurar que el software desarrollado cumpla con las expectativas y necesidades de los usuarios finales.<br><br>
+
+  + **Pivotal Tracker:** Pivotal Tracker es una plataforma de gestión de proyectos centrada en User Stories, que se organizan en Epics y se clasifican por puntaje. Es utilizada para mantener a todos los miembros del equipo al tanto del progreso del proyecto, ofreciendo una vista en tiempo real compartida. Esto facilita la colaboración y permite a los miembros contribuir en diferentes aspectos del proyecto, manteniendo así un flujo de trabajo eficiente y bien coordinado.<br> https://www.pivotaltracker.com/n/projects/2699481<br><br>
+
++ **Product UX/UI Design**<br>Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz. El objetivo del diseño UX/UI es crear una experiencia intuitiva, atractiva y eficiente para los usuarios, específicamente a través del desarrollo de un modelo para una aplicación móvil.<br><br>
+
+	+  **Figma:**<br>Es una herramienta de prototipado web y editor de gráficos vectoriales que, a diferencia de otras herramientas, se aloja en la web. Permite crear modelos tanto para versiones de navegador web como para navegadores móviles de la landing page, así como para la versión Android de la aplicación móvil.<br>https://www.figma.com/design/<br><br>
+
+
+	+ **Lucidchart:**<br>Es una herramienta de diagramación en línea que permite crear diagramas de flujo, wireflow, userflow y otros esquemas visuales. Es especialmente útil para mapear la experiencia del usuario y visualizar el flujo de interacciones en aplicaciones móviles.<br>https://www.lucidchart<br><br> 
+
+
++ **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
+
+  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. Facilita la colaboración y el seguimiento de cambios en el código.<br>https://github.com/TechZo-CC238-SW63<br><br> 
+  
+  +  **Kotlin:** Lenguaje de programación moderno y conciso utilizado principalmente para el desarrollo de aplicaciones móviles. Su interoperabilidad con Java y sus características avanzadas permiten una programación más eficiente y productiva.<br>https://kotlinlang.org/<br><br> 
+  
+  + **Android Studio:** Entorno de desarrollo integrado (IDE) oficial para el desarrollo de aplicaciones Android. Proporciona herramientas avanzadas para la edición de código, diseño de interfaces y pruebas, optimizando el proceso de desarrollo.<br>https://developer.android.com/studio<br><br> 
+  
+  + **Astro:** Framework para la creación de sitios web estáticos que permite construir landing pages rápidas y eficientes. Utiliza componentes de diferentes frameworks como React y Vue, optimizando la carga de contenido y mejorando la experiencia del usuario.<br>https://astro.build/<br><br> 
+  
+  +  **Postman:** Herramienta utilizada para probar y documentar APIs de manera eficiente, facilitando la colaboración entre desarrolladores y la integración de servicios en la aplicación móvil.<br>https://www.postman.com/<br><br>
+
+
++ **Software Testing**<br>Se refiere a la actividad de verificar y validar el software para garantizar su calidad y correcto funcionamiento. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.<br><br> 
+
+  + **Lenguaje Gherkin:** Es un lenguaje de dominio específico (DSL) utilizado en el desarrollo de software para escribir pruebas de aceptación en un formato legible por humanos. Utiliza palabras clave como Given, When y Then para describir el estado inicial, la acción y el resultado esperado de un escenario de prueba, facilitando la colaboración entre equipos al definir requisitos y pruebas.<br>https://cucumber.io/<br><br> 
+
+
++ **Software Deployment**<br> Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.<br><br> 
+
+	+ **Netlify:** Es una plataforma de despliegue y alojamiento para aplicaciones web estáticas y dinámicas, que permite implementar automáticamente cada commit desde repositorios de Git. Ofrece gestión de dominios y optimización de rendimiento, facilitando el despliegue ágil de la landing page.<br>https://www.netlify.com/<br><br>
+
++  **Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas.<br><br> 
+
+	+  **Markdown:** Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/<br><br>
+
+
 ## 5.2 Landing Page & Mobile Application Implementation
 ### 5.2.1 Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
@@ -4160,8 +4216,6 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 <br><br>
 
 
-
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Lo que se logró en el Sprint 1 es desplegar nuestra landing page y avanzar en el desarrollo inicial de la aplicación móvil en Flutter. En la landing page, se implementaron la barra de navegación, las secciones definidas y un formulario de contacto funcional. Por otro lado, la app móvil cuenta con las funcionalidades de inicio de sesión, registro de sesión y la pantalla de explorar, donde el usuario puede ver los objetos que puede intercambiar. Además, la estructura permitirá expandir funcionalidades en los siguientes sprints.También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
@@ -4176,28 +4230,28 @@ Enlace: [Video del Execution Evidence for Sprint 1]()
 Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-8.png?raw=true" alt="landing page" >
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" >
 </div>
 
 <br><br>
 
 **Aplicación Móvil:**<br>
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
 </div>
 
 <br><br>

@@ -4260,6 +4260,37 @@ Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
   
 <br><br>
 
+### 5.1.4 Software Deployment Configuration
+
+En esta sección mostraremos los pasos que hemos realizado para poder desplegar cada uno de nuestros proyectos.
+
+**Landing Page**
+
+Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+**1. Ingresamos a la página web de Netlify**
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
+<br>
+
+**2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<br>
+
+**3. Seleccionamos el repositorio que queremos emplear**
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
+<br>
+
+**4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
+<br>
+
+**5. Finalmente la Landing Page estaría disponible.**
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
+
+Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
+
+<br><br>
+
 ## 5.2 Landing Page & Mobile Application Implementation
 ### 5.2.1 Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
@@ -4615,7 +4646,7 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
 
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
-  
+
 </div>
 
 <br><br>

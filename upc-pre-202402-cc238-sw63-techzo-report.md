@@ -3669,26 +3669,27 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
 | - | - | - | - | - | - |
-| HelloNerk/Backend    | feature/TS-01| c521d06 | first commit                                      |-| 13/08/2024            | 
-| HelloNerk/Backend     | feature/TS-01| 04db0bc | feat: added CreateDistrictCommand |I've added the CreateDistrictCommand as a record to represent district creation data.| 15/08/2024| 
-| HelloNerk/Backend     |feature/TS-01| cfc218a | feat: added District                         |I've added the District class to represent district entities.| 15/08/2024            | 
-| HelloNerk/Backend     | feature/TS-01| 5a00a6b | feat: added GetAllDistrictsQuery                                   |I've added the GetAllDistrictsQuery record to handle retrieving all districts.| 15/08/2024| 
-| HelloNerk/Backend     | feature/TS-01| 70781ce | feat: added GetDistrictByIdQuery                                   |-| 15/08/2024            | 
-| 123-Mathias/Backend      |feature/TS-02| c3c8b6  | feat: added CreateFavoriteProductCommand                      |I've added the CreateFavoriteProductCommand as a record to represent favorite product creation data.|15/08/2024|
-| 123-Mathias/Backend      |feature/TS-02| d6dd4f1  | feat: added FavoriteProduct                   |I've added the FavoriteProduct class to represent favorite product entities.|15/08/2024|
-| 123-Mathias/Backend      |feature/TS-02| ef1b694  | feat: added GetAllFavoriteProductsByUserIdQuery                   |I've added the GetAllFavoriteProductsByUserIdQuery record to handle retrieving all favorite products with the user id.|15/08/2024|
-| 123-Mathias/Backend      |feature/TS-02| f9dece8  | feat: added IFavoriteProductQueryService                   |I've added the IFavoriteProductQueryService interface to define query methods for favorite products.|15/08/2024|
-| 123-Mathias/Backend      |feature/TS-02| 383264a  | feat: added IFavoriteProductCommandService                  |I've added the IFavoriteProductCommandService interface to define command methods for favorite products.|15/08/2024|
-| Jemisas/Backend      |feature/TS-04| 5b68409  | feat: added CreateBenefitResource                  |I've added the CreateBenefitResource record to handle benefit creation input in controllers.|15/08/2024|
-| Jemisas/Backend      |feature/TS-04| cb41f97  | feat: added BenefitResource                  |I've added the BenefitResource record to handle benefit output in controllers.|15/08/2024|
-| Jemisas/Backend      |feature/TS-04| c647794  | feat: added CreateBenefitCommandFromResourceAssembler                  |I've added the CreateBenefitCommandFromResourceAssembler class to convert resources into commands for benefit creation.|15/08/2024|
-| Jemisas/Backend      |feature/TS-04| cb340ce  | feat: added BenefitResourceFromEntityAssembler                  |I've added the BenefitResourceFromEntityAssembler class to convert entities into resources for benefits.|15/08/2024|
-| Jemisas/Backend      |feature/TS-04| d906a33  | feat: added BenefitController              |I've added the BenefitController to handle HTTP requests related to benefit operations.|15/08/2024|
-| IanHD04/Backend      |feature/TS-05| edfcaf3  | feat: added UpdateSubscriptionCommand                 |I've added the UpdateSubscriptionCommand as a record to handle updating subscription information.|15/08/2024|
-| IanHD04/Backend      |feature/TS-05| c647794  | feat: added CreateBenefitCommandFromResourceAssembler                  |I've added the CreateBenefitCommandFromResourceAssembler class to convert resources into commands for benefit creation.|15/08/2024|
-| IanHD04/Backend      |feature/TS-05| a3ad9f4  |feat: added GetSubscriptionByUserIdQuery                  |I've added the GetSubscriptionByUserIdQuery record to handle retrieving a subscription by User ID.|15/08/2024|
-| IanHD04/Backend      |feature/TS-05| bb249c6  | feat: added SubscriptionController              |I've added the SubscriptionController to handle HTTP requests related to subscription operations.|15/08/2024|
-| IanHD04/Backend      |feature/TS-05| 655c122  | feat: added CreateSubscriptionCommandFromResourceAssembler              |I've added the CreateSubscriptionCommandFromResourceAssembler class to convert resources into commands for subscription creation.|15/08/2024|
+| HelloNerk/Backend | feature/TS-01 | c521d06  | first commit | - | 13/08/2024 |
+| HelloNerk/Backend | feature/TS-01 | 04db0bc  | feat: added<br>CreateDistrictCommand | I've added the CreateDistrictCommand<br>as a record to represent district<br>creation data. | 15/08/2024 |
+| HelloNerk/Backend | feature/TS-01 | cfc218a  | feat: added<br>District | I've added the District class to<br>represent district entities. | 15/08/2024 |
+| HelloNerk/Backend | feature/TS-01 | 5a00a6b  | feat: added<br>GetAllDistrictsQuery | I've added the GetAllDistrictsQuery<br>record to handle retrieving all<br>districts. | 15/08/2024 |
+| HelloNerk/Backend | feature/TS-01 | 70781ce  | feat: added<br>GetDistrictByIdQuery | - | 15/08/2024 |
+| 123-Mathias/Backend | feature/TS-02 | c3c8b6   | feat: added<br>CreateFavorite<br>ProductCommand | I've added the CreateFavorite<br>ProductCommand<br>as a record to represent favorite<br>product creation data. | 15/08/2024 |
+| 123-Mathias/Backend | feature/TS-02 | d6dd4f1  | feat: added<br>FavoriteProduct | I've added the FavoriteProduct class<br>to represent favorite product entities. | 15/08/2024 |
+| 123-Mathias/Backend | feature/TS-02 | ef1b694  | feat: added<br>GetAllFavoriteProducts<br>ByUserIdQuery | I've added the GetAllFavoriteProducts<br>ByUserIdQuery record to handle<br>retrieving all favorite products<br>with the user id. | 15/08/2024 |
+| 123-Mathias/Backend | feature/TS-02 | f9dece8  | feat: added<br>IFavoriteProduct<br>QueryService | I've added the IFavoriteProduct<br>QueryService<br>interface to define query methods<br>for favorite products. | 15/08/2024 |
+| 123-Mathias/Backend | feature/TS-02 | 383264a  | feat: added<br>IFavoriteProduct<br>CommandService | I've added the IFavoriteProduct<br>CommandService<br>interface to define command methods<br>for favorite products. | 15/08/2024 |
+| Jemisas/Backend | feature/TS-04 | 5b68409  | feat: added<br>CreateBenefitResource | I've added the CreateBenefitResource<br>record to handle benefit creation<br>input in controllers. | 15/08/2024 |
+| Jemisas/Backend | feature/TS-04 | cb41f97  | feat: added<br>BenefitResource | I've added the BenefitResource record<br>to handle benefit output in controllers. | 15/08/2024 |
+| Jemisas/Backend | feature/TS-04 | c647794  | feat: added<br>CreateBenefitCommand<br>FromResourceAssembler | I've added the CreateBenefitCommand<br>FromResourceAssembler class to<br>convert resources into commands<br>for benefit creation. | 15/08/2024 |
+| Jemisas/Backend | feature/TS-04 | cb340ce  | feat: added<br>BenefitResourceFrom<br>EntityAssembler | I've added the BenefitResource<br>FromEntityAssembler class to convert<br>entities into resources for benefits. | 15/08/2024 |
+| Jemisas/Backend | feature/TS-04 | d906a33  | feat: added<br>BenefitController | I've added the BenefitController<br>to handle HTTP requests related<br>to benefit operations. | 15/08/2024 |
+| IanHD04/Backend | feature/TS-05 | edfcaf3  | feat: added<br>UpdateSubscription<br>Command | I've added the UpdateSubscription<br>Command<br>as a record to handle updating<br>subscription information. | 15/08/2024 |
+| IanHD04/Backend | feature/TS-05 | c647794  | feat: added<br>CreateBenefitCommand<br>FromResourceAssembler | I've added the CreateBenefitCommand<br>FromResourceAssembler class to<br>convert resources into commands<br>for benefit creation. | 15/08/2024 |
+| IanHD04/Backend | feature/TS-05 | a3ad9f4  | feat: added<br>GetSubscriptionByUser<br>IdQuery | I've added the GetSubscriptionByUser<br>IdQuery<br>record to handle retrieving a<br>subscription by User ID. | 15/08/2024 |
+| IanHD04/Backend | feature/TS-05 | bb249c6  | feat: added<br>SubscriptionController | I've added the SubscriptionController<br>to handle HTTP requests related<br>to subscription operations. | 15/08/2024 |
+| IanHD04/Backend | feature/TS-05 | 655c122  | feat: added<br>CreateSubscriptionCommand<br>FromResourceAssembler | I've added the CreateSubscriptionCommand<br>FromResourceAssembler class to<br>convert resources into commands<br>for subscription creation. | 15/08/2024 |
+
 
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
@@ -3709,11 +3710,14 @@ Lo que se logró en el Sprint 1 es desplegar una primera versión del backend. E
 
 A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado, así como imágenes de lo alcanzado hasta este momento en el Sprint 1, respecto al backend:
 
+Enlace: [Video del Execution Evidence for Sprint 1]()
+<br><br>
+
+**Backend**
+
+Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-8483035d8f19.herokuapp.com/swagger-ui/index.html#/)
+
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="bakend" >
-
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="bakend" >
-
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
 
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-4.png?raw=true" alt="backend" >
@@ -3723,9 +3727,7 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true" alt="backend" >
 
 </div>
-<br>
 
-Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-8483035d8f19.herokuapp.com/swagger-ui/index.html#/)
 <br><br>
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -4017,11 +4019,89 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
-A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page y Aplicación Móvil, todos estos commits se han hecho en ramas donde cada una representa una User Story durante el desarrollo de nuestro Sprint 1.
+A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page y Aplicación Móvil, todos estos commits se han hecho en ramas donde cada una representa una User Story durante el desarrollo de nuestro Sprint 1.<br><br>
+
+### **Aplicación Móvil**
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
 | - | - | - | - | - | - |
+|Jemisas/TechZo-CC238-SW63/CambiazoApp|main|ba1b333|Initial commit||21/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|main|0474588|chore: organize project structure|Rearranged folders and files to improve project structure and clarity.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|develop|2fff149|<p>feat: add login screen</p><p></p>|Implemented loginScreen with user input fields and basic styling.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|4de0e56|feat: add registration screen|Implemented registrationScreen with form fields for user signup and validation.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|97f9fd1|feat: add bottom navigation bar|Implemented BottomBarNavigation for easier navigation between main screens.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|f5b7cf3|feat: implement app navigation|Set up navigation flow between screens, enabling transitions and routing.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|d89b877|feat: add explorer screen|Implemented explorer screen as the main hub for content browsing and interaction.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|main|19d23a5|Merge brain feature/US01 to main|Merge brain feature/US01 to main|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|08b15a3|Merge main to develop|Merge main to develop|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US16|30613ae|Merge branch 'develop' into feature/US16||25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|324a5b3|Merge Feature/US16 to develop|Merge Feature/US16 to develop|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|develop|9994c13|fix: resolve navigation issues in navScreen|Fixed navigation flow and routing errors in navScreen for smoother transitions.|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|8b7f14a|Merge Develop into Feature/US01|Merge Develop into Feature/US001|25/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|5bc40f0|feat: added login implementation|I've added the login implementation connected with the backend|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|979a9f0|feat: update app icon|Updated the main application icon to a more modern design. This change enhances the app's visual identity and improves overall aesthetics.|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|3d4c537|feat: add loading screen|Implemented a new loading screen to improve user experience during data fetching. The screen appears when the app is waiting for server responses, providing visual feedback to the user.|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|19ff884|feat: make status bar transparent|Set the status bar to be transparent on mobile devices, creating a more immersive and modern user interface.|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|d52db7e|Merge Feature/US01 to develop|Merge Feature/US01 to develop|25/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US16|5ce3ece|Merge Feature/US16 to develop|Merge Feature/US16 to develop|25/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|d11ce5a|feat: added Product Category DTO and Product DTO|I've added the Product Category DTO and Product DTO|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|fc8d3f6|feat: added Product and Product Category data class|I've added the Product and Product Category data class|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|ebbb32e|feat: added Product Category and Product services|I've added the Product Category and Product services|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|61d54b0|feat: added the Product and Product Category repositories|I've added the Product and Product Category repositories|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|e12b96a|feat: added ExplorerListViewModel|I've added the ExplorerList ViewModel|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|c07dc86|feat: updated the main activity|I've updated the main activity to implement the uses of retrofit with the viewmodels|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|06adbd4|feat: updated the Explorer Screen|I've updated the Explorer Screen|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|ea70b4a|feat: updated the MainApp and NavScreen|I've updated the MainApp and NavScreen|26/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|2f8ddf7|Merge Feature/US16 to develop|Merge Feature/US16 to develop|26/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|58e2e0c|fix: correct navigation to explorer screen|Fixed navigation issues allowing proper transition to the explorerScreen.|26/09/24|
+|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|47d897c|chore: reorganize folders and files|Rearranged project folders and files for better structure and organization.|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|586c928|chore: updated explores list view model and explorer screen|I've added search function into explorer screen|26/09/24|
+|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|5465661|Merge Feature/US16 to develop|Merge Feature/US16 to develop|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US03|8f67e89|chore: updated the signIn function|I've addeds the signIn function. Now works correctly with one click|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US03|3cfe6ca|chore: updated password outlinedtextfield|I've updated the outlinedtextfield of the password to change the visibility|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|develop|27851ca|Merge Feature/US03 into develop|Merge Feature/US03 into develop|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|be2eeef|Merge Develop into feature/US01|Merge Develop into feature/US01|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|709432a|feat: added signUpRequest DTO and SignUpResponse DTO|I've added the signUpRequest DTO and SignUpResponse DTO|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|b51f639|feat: added SignUpScreen and SignUpViewModel|I've added SignUpScreen and SignUpViewModel|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|6f4e802|chore: updated navigation files|I've updated the navigation files to redirect correctly the routes|26/09/24|
+| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|73b446f|chore: updated signIn and signUp screens|I've updated the signIn and signUp screens|26/09/24|
 
+<br><br>
+
+
+### **Landing Page**
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| - | - | - | - | - | - |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | main | 529b9ee | Initial commit | | 26/04/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | 50bb38d | feat: added icons image | Added new icons to the project. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | 7efeeca | feat: added html and script of 'Header.astro' | Added HTML and script for 'Header.astro' component. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | d05652f | feat: added styles of 'Header.astro' | Added styles for 'Header.astro' component. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | 84bc04e | feat: added logo of 'Header.astro' | Added logo to 'Header.astro' component. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | bcf6905 | feat: added import 'Header.astro' in 'index.astro' | Imported 'Header.astro' into 'index.astro'. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US28 | ef6bcc5 | Merge pull request #1 from feature/US30 | Merge origin/feature/US30 into origin/feature/US28 | 27/09/24 |
+| 123-Mathias/TechZo-CC238-SW63/Landing-Page | feature/US28 | 4ea1d14 | feat: added scripts of 'index.astro' | Added scripts to 'index.astro'. | 27/09/24 |
+| 123-Mathias/TechZo-CC238-SW63/Landing-Page | feature/US28 | 66fbb61 | feat: added Hero section in index.astro | Added Hero section to 'index.astro'. | 27/09/24 |
+| 123-Mathias/TechZo-CC238-SW63/Landing-Page | feature/US28 | 4d5647f | feat: added styles of hero section | Added styles for Hero section. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US30 | 0da6889 | Merge pull request #2 from feature/US30 | Merge Origin/feature/US30 into Origin/feature/US28 V2.0 | 27/09/24 |
+| 123-Mathias/TechZo-CC238-SW63/Landing-Page | feature/US26 |85be68f | feat: added Footer.astro section and styles | Added 'Footer.astro' section with styles. | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | develop | 6bfab98 | Merge main into develop | Merge main into develop | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US26 | 8e05378 | Merge pull request #5 from feature/US28 | Merge Origin/feature/US28 into Origin/feature/US26 | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US26 | 48b2e25 | Merge pull request #6 from feature/US30 | Merge Origin/feature/US30 into Origin/feature/US26 | 27/09/24 |
+| HelloNerk/TechZo-CC238-SW63/Landing-Page | feature/US26 | f8da85c | feat: added Features section | Added Features section. | 27/09/24 |
+| HelloNerk/TechZo-CC238-SW63/Landing-Page | feature/US26 | 3819ab0 | feat: added styles of Features section | Added styles for Features section. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US25 | da71f99 | Merge pull request #7 from feature/US26 | Merge Origin/feature/US26 into Origin/feature/US25 | 27/09/24 |
+| HelloNerk/TechZo-CC238-SW63/Landing-Page | feature/US25 | 33cb7b7 | feat: added head and description and startup history | Added head, description, and startup history. | 27/09/24 |
+| HelloNerk/TechZo-CC238-SW63/Landing-Page | feature/US25 | 4984627 | feat: added carousel-images section | Added carousel-images section. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US29 | 0c917e4 | Merge pull request #8 from feature/US25 | Merge Origin/feature/US25 into Origin/feature/US29 | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | feature/US29 | 69d3181 | feat: added principal-items and ongs-section | Added principal-items and ongs-section. | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | feature/US29 | 6528ce3 | feat: added Plans section | Added Plans section. | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | feature/US29 | afb23d4 | feat: added styles of plans section | Added styles for Plans section. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | feature/US27 | 586dd76 | Merge pull request #9 from feature/US29 | Merge Origin/feature/US29 into Origin/feature/US27 | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | feature/US27 | 57c2bc5 | feat: added contact section | Added Contact section. | 27/09/24 |
+| IanHD04/TechZo-CC238-SW63/Landing-Page | feature/US27 | e8e6ff6 | feat: added styles contact section | Added styles for Contact section. | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | develop | 2f6c58c | Merge pull request #10 from feature/US27 | Merge Origin/feature/US27 into develop | 27/09/24 |
+| Jemisas/TechZo-CC238-SW63/Landing-Page | develop | d9e9ff8 | feat: added deploy settings | | 27/09/24 |
 
 <br><br>
 
@@ -4048,7 +4128,45 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 
 
 
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
+Lo que se logró en el Sprint 1 es desplegar nuestra landing page y avanzar en el desarrollo inicial de la aplicación móvil en Flutter. En la landing page, se implementaron la barra de navegación, las secciones definidas y un formulario de contacto funcional. Por otro lado, la app móvil cuenta con las funcionalidades de inicio de sesión, registro de sesión y la pantalla de explorar, donde el usuario puede ver los objetos que puede intercambiar. Además, la estructura permitirá expandir funcionalidades en los siguientes sprints.También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
+
+A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 1, tanto en la landing page como en la app móvil:
+
+Enlace: [Video del Execution Evidence for Sprint 1]()
+<br><br>
+
+**Landing Page:**<br>
+
+Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/landing-page-8.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Aplicación Móvil:**<br>
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Excecution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+</div>
+
+<br><br>
 
 
 

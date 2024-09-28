@@ -3746,7 +3746,7 @@ Lo que se logró en el Sprint 1 es desplegar una primera versión del backend. E
 
 A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado, así como imágenes de lo alcanzado hasta este momento en el Sprint 1, respecto al backend:
 
-Enlace: [Video del Execution Evidence for Sprint 1]()
+Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EVe6ggHMJ5tGkl62nYxxWJsBKwGq7P0RSP_FJh2a8umSSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TePBOc)
 <br><br>
 
 **Backend**
@@ -4602,7 +4602,7 @@ Lo que se logró en el Sprint 1 es desplegar nuestra landing page y avanzar en e
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 1, tanto en la landing page como en la app móvil:
 
-Enlace: [Video del Execution Evidence for Sprint 1]()
+Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
 <br><br>
 
 **Landing Page:**<br>
@@ -4783,7 +4783,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
           <div align="center">
         <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/mobile-app-insights.png?raw=true" alt="contributor-evidence-cambiazoapp">
         </div><br><br>
-        
+
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la Landing Page y en la primera versión de la Aplicación Móvil.
 
 <br>
@@ -4799,6 +4799,8 @@ En el segundo capítulo, nos centramos en el proceso de Needfinding, donde ident
 En el tercer capítulo, se estableció la arquitectura del producto con un enfoque centrado en el diseño coherente de interfaces, tanto para la página de aterrizaje como para las aplicaciones móviles, siguiendo pautas de estilo claras. Además, se implementó una arquitectura de la información eficiente, mediante sistemas de organización, etiquetado y navegación optimizados para mejorar la experiencia del usuario. En cuanto a la arquitectura del software, se diseñó una estructura basada en el dominio, utilizando diagramas contextuales, contenedores y componentes, lo que permitió una representación visual clara de los elementos clave del sistema, junto con un diseño de base de datos sólido.
 
 En el cuarto capítulo, se abarcó la implementación del backend, destacando la gestión adecuada de la configuración del software, con entornos de desarrollo y despliegue configurados de manera eficiente y una gestión cuidadosa del código fuente bajo pautas de estilo establecidas. A lo largo del desarrollo, se realizaron sprints con una planificación detallada, asegurando que cada entrega estuviera respaldada por pruebas automatizadas y evidencia de cumplimiento de los requisitos, garantizando así una implementación continua y de calidad que se adapta a las necesidades del proyecto.
+
+En el quinto capítulo, se abordó el desarollo de una primera versión de la aplicación móvil y de la landing page para ofrecer una experiencia de usuario intuitiva. Se aseguraron una navegación clara y accesible, así como secciones informativas sobre las características clave de la aplicación, precios y opciones de suscripción. Además, se desarrollaron las funcionalidades clave de la app móvil, como el registro de usuarios, el inicio de sesión y la visualización y filtrado de objetos disponibles para intercambio. Durante el proceso, se gestionaron cuidadosamente tanto los aspectos visuales como los de contenido, asegurando que el diseño reflejara los objetivos del proyecto. Asimismo, se realizaron pruebas continuas para verificar el correcto funcionamiento y cumplimiento de los requisitos, logrando una implementación efectiva alineada con las historias de usuario.
 
 En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores. Asimismo, la implementación de la arquitectura del producto, con un diseño coherente de interfaces y una estructura sólida a nivel de software, asegura que la solución sea funcional, escalable y adaptable a las necesidades del usuario. La correcta gestión del backend, con entornos de desarrollo optimizados y un proceso de desarrollo ágil basado en sprints, ha permitido avanzar en la implementación de manera estructurada, garantizando que cada función esté debidamente validada y lista para su despliegue, sentando las bases para el éxito a largo plazo de nuestra startup.
 
@@ -4840,14 +4842,21 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 
 # Anexos
 
++ Landing Page: [Ver Landing Page](https://cambiazo-site.netlify.app/)<br><br>
+
++ Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)<br><br>
+
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-CC238-SW63)<br><br>
 
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/report)<br><br>
 
-+ Repositorio GitHub de los Acceptance Test: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Acceptance-Test)<br><br>
-
 + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Backend)<br><br>
 
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Landing-Page)<br><br>
+
++ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/CambiazoApp)<br><br>
+
++ Repositorio GitHub de los Acceptance Test: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Acceptance-Test)<br><br>
 
 ## Needfinding Interviews
 
@@ -4867,3 +4876,23 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022140
 
 
 Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)
+
+
+## Execution Evidence for Sprint 1 - Backend
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-sprint-1.png?raw=true">
+ </div>
+
+
+Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EVe6ggHMJ5tGkl62nYxxWJsBKwGq7P0RSP_FJh2a8umSSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TePBOc)
+
+
+## Execution Evidence for Sprint 1 - Product
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/product-sprint-1.png?raw=true">
+ </div>
+
+
+Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)

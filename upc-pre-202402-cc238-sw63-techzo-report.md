@@ -4632,6 +4632,7 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 <br><br>
 
 **Aplicación Móvil:**<br>
+
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
 
@@ -4661,6 +4662,95 @@ En esta etapa, implementamos las funciones colaborativas de GitHub, lo que resul
 
 <br><br>
 
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 1:
+
+Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Landing Page y otro para la Aplicación Móvil,ademas continuaremos usando nuestro repositorio de los Acceptance Test.
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/landing-page.png?raw=true"  alt="Repositorio Landing Page">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+En los tres repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio de la landing page y la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
+
+
+**Landing Page:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Software-Deployment/landing-page-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+|Rama|Descripción|
+| :-: | :-: |
+| feature/US-25| Se implementa la visualización de la historia de la startup, su misión y visión desde la landing page para que los usuarios visitantes estén informados acerca de TechZo. |
+| feature/US-26| Se desarrolla una sección que presenta las características clave de la aplicación, permitiendo a los usuarios visitantes conocer las principales funcionalidades.   |
+| feature/US-27| Se crea un formulario en la landing page para que los usuarios visitantes llenen sus datos de contacto y reciban noticias y actualizaciones de CambiaZo. |
+| feature/US-28| Se añaden botones en la landing page que dirigen a la descarga de la aplicación de CambiaZo. |
+| feature/US-29| Se crea una sección que detalla los planes y precios ofrecidos por la plataforma, permitiendo a los usuarios visitantes evaluar las opciones antes de descargar la aplicación.  |
+| feature/US-30| Se implementa un menú de navegación visible y funcional en la landing page para facilitar el desplazamiento por las diferentes secciones del sitio web. |
+
+</div>
+
+<br>
+En el repositorio de “Landing-Page” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”,en caso exista algún error se solucionara en la rama “fix”. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Software-Deployment/landing-page-network.png?raw=true">
+  </div><br>
+
+Finalmente utilizamos Netlify, para deployar nuestra Landing Page en el cual vinculamos nuestra cuenta de GitHub y seleccionamos nuestro Repositorio.<br>
+
+Link: https://cambiazo-site.netlify.app/ <br><br>
+
+<div align="center">
+  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true" alt="landing-page" ><br>
+
+  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true" alt="landing-page" ><br>
+
+  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true" alt="landing-page" >
+  </div><br><br>
+
+
+**Aplicación Móvil:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+|Rama|Descripción|
+| :-: | :-: |
+| feature/US-01| Se implementa el proceso de registro para que los nuevos usuarios puedan establecer su propia cuenta en la aplicación. |
+| feature/US-03| Se desarrolla la funcionalidad de inicio de sesión, permitiendo a los usuarios registrados acceder a todas las funcionalidades de la aplicación. |
+| feature/US-06| Se habilita la capacidad de filtrar los objetos disponibles para intercambio, permitiendo a los usuarios Intercambiadores encontrar opciones que se adapten a sus preferencias. |
+| feature/US-16| Se implementa la visualización de objetos disponibles para intercambio, facilitando a los usuarios la navegación y selección de los objetos que les interesen. |
+
+</div>
+
+<br>
+En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”.<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Software-Deployment/mobile-app-network.png?raw=true">
+</div>
+
+<br><br>
 
 
 <div style="page-break-after: always;"></div>

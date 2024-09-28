@@ -14,7 +14,7 @@
 **Profesor:** Jorge Luis Mayta Guillermo
 
 ----
-## Informe de Trabajo Final
+## Informe de Trabajo Parcial
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -75,7 +75,17 @@
 |2\.2.4|15/09/24|Joseph Alexis Huamani Mandujano y  Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review|
 |2\.2.5|15/09/24|Ian Haziel Donato Santisteban y Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
 |2\.3|15/09/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Student Outcome, Conclusiones y Anexo|
-
+|3\.0|23/09/2024|Ian Haziel Donato Santisteban Palomino |Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation|
+|3\.1|25/09/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con la sección Sprint Planning 1|
+|3\.1.1|25/09/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con el Sprint Backlog 1.|
+|3\.1.2|26/09/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence|
+|3\.1.3|26/09/2024|Ian Haziel Donato Santisteban Palomino |Se agregó contenido relacionado con Execution Evidence for Sprint Review|
+|3\.1.4|26/09/2024|Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review|
+|3\.1.5|27/09/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia |Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review|
+|3\.1.6|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Team Collaboration Insights during Sprint|
+|3\.2|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Software Configuration Management|
+|3\.3|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome|
+|3\.4|27/09/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
 <br><br>
 
 
@@ -3798,7 +3808,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 <div align="center">
 
 |Rama|Descripción|
-| :-: | :-: |
+|-------------------|--------------------------|
 |feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
 |feature/TS-02|Se crea la estructura de la API de Reseñas junto a sus métodos.|
 |feature/TS-03|Se crea la estructura de la API de ONGs junto a sus métodos.|
@@ -4696,7 +4706,7 @@ Para ello, en el repositorio de la landing page y la aplicación móvil hemos cr
 <div align="center">
 
 |Rama|Descripción|
-| :-: | :-: |
+|-------------------|--------------------------|
 | feature/US-25| Se implementa la visualización de la historia de la startup, su misión y visión desde la landing page para que los usuarios visitantes estén informados acerca de TechZo. |
 | feature/US-26| Se desarrolla una sección que presenta las características clave de la aplicación, permitiendo a los usuarios visitantes conocer las principales funcionalidades.   |
 | feature/US-27| Se crea un formulario en la landing page para que los usuarios visitantes llenen sus datos de contacto y reciban noticias y actualizaciones de CambiaZo. |
@@ -4718,11 +4728,11 @@ Finalmente utilizamos Netlify, para deployar nuestra Landing Page en el cual vin
 Link: https://cambiazo-site.netlify.app/ <br><br>
 
 <div align="center">
-  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true" alt="landing-page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true" alt="landing-page" ><br>
 
-  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true" alt="landing-page" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true" alt="landing-page" ><br>
 
-  <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true" alt="landing-page" >
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true" alt="landing-page" >
   </div><br><br>
 
 
@@ -4735,7 +4745,7 @@ Link: https://cambiazo-site.netlify.app/ <br><br>
 <div align="center">
 
 |Rama|Descripción|
-| :-: | :-: |
+|-------------------|--------------------------|
 | feature/US-01| Se implementa el proceso de registro para que los nuevos usuarios puedan establecer su propia cuenta en la aplicación. |
 | feature/US-03| Se desarrolla la funcionalidad de inicio de sesión, permitiendo a los usuarios registrados acceder a todas las funcionalidades de la aplicación. |
 | feature/US-06| Se habilita la capacidad de filtrar los objetos disponibles para intercambio, permitiendo a los usuarios Intercambiadores encontrar opciones que se adapten a sus preferencias. |

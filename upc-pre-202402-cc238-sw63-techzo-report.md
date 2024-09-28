@@ -4901,7 +4901,7 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 ## Video de Exposición TP1
 
   <div align="center">
-    <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tb1.png?raw=true">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tp1.png?raw=true">
  </div>
 
 

@@ -86,6 +86,7 @@
 |3\.2|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Software Configuration Management|
 |3\.3|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome|
 |3\.4|27/09/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
+
 <br><br>
 
 
@@ -4385,110 +4386,108 @@ Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>Id</td>
     <td>Title</td>
     <td>Description</td>
-    <td>Estim<br>ation (Hours)</td>
-    <td>Assigned to</td>
-    <td>Status (To-do / InProcess / ToReview / Done)</td>
+    <td>Estim<br>ation<br>(Hours)</td>
+    <td>Assigned<br>to</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
   </tr>
   <tr>
     <td rowspan="1">US01</td>
-    <td rowspan="1">Registro de usuario</td>
+    <td rowspan="1">Registro<br>de<br>usuario</td>
     <td>WI-01</td>
-    <td>Sección para nuevos usuarios</td>
-    <td>Implementación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
+    <td>Sección<br>para<br>nuevos<br>usuarios</td>
+    <td>Implem<br>entación<br>de una<br>pantalla de<br>registro donde<br>nuevos usuarios<br>puedan sumarse<br>a CambiaZo.</td>
     <td>6</td>
-    <td>Jeremy Quispe</td>
+    <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US03</td>
-    <td rowspan="1">Iniciar sesión en la aplicación</td>
+    <td rowspan="1">Iniciar<br>sesión<br>en la<br>aplicación</td>
     <td>WI-02</td>
-    <td>Pantalla de inicio de sesión</td>
-    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
+    <td>Pantalla<br>de<br>inicio<br>de<br>sesión</td>
+    <td>Se crea una<br>pantalla en<br>la cual el<br>usuario podrá<br>ingresar a la<br>aplicación cuando<br>introduzca el<br>correo con el<br>que creó su<br>cuenta y su<br>contraseña.</td>
     <td>2</td>
-    <td>Mathias Mendoza</td>
+    <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US06</td>
-    <td rowspan="1">Filtrado de Objetos</td>
+    <td rowspan="1">Filtrado<br>de<br>Objetos</td>
     <td>WI-03</td>
-    <td>Implementación de un filtro de búsqueda</td>
-    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
+    <td>Implem<br>entación<br>de<br>un<br>filtro<br>de<br>búsqueda</td>
+    <td>Implementar<br>un filtro<br>de búsqueda<br>para que<br>los usuarios<br>puedan encontrar<br>de forma más<br>rápida los<br>objetos de su<br>interés.</td>
     <td>10</td>
-    <td>Ian Santisteban</td>
+    <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US16</td>
-    <td rowspan="1">Visualización de objetos disponibles para intercambio/td>
+    <td rowspan="1">Visualización<br>de<br>objetos<br>disponibles<br>para<br>intercambio</td>
     <td>WI-04</td>
-    <td>Listar los objetos disponibles</td>
-    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
+    <td>Listar<br>los<br>objetos<br>disponibles</td>
+    <td>Creación de<br>una sección<br>en la que<br>los usuarios<br>registrados<br>puedan ver<br>los objetos<br>por los que<br>pueden<br>realizar un<br>intercambio.</td>
     <td>10</td>
-    <td>Joseph Huamani</td>
+    <td>Joseph<br>Huamani</td>
     <td>Done</td>
-</tr>
+  </tr>
   <tr>
     <td rowspan="1">US25</td>
-    <td rowspan="1">Visualización de la Historia de la Startup<br></td>
+    <td rowspan="1">Visualización<br>de la<br>Historia<br>de la<br>Startup</td>
     <td>WI-05</td>
-    <td>Sección “¿Quiénes somos?”</td>
-    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
+    <td>Sección<br>“¿Quiénes<br>somos?”</td>
+    <td>Implementación<br>de la<br>sección<br>“¿Quiénes<br>somos?”<br>y las<br>redes<br>sociales y<br>datos de<br>contacto en<br>el footer.</td>
     <td>2</td>
-    <td>Jeremy Quispe</td>
+    <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US26</td>
-    <td rowspan="1">Visualizar las características clave de la aplicación
-    </td>
+    <td rowspan="1">Visualizar<br>las<br>características<br>clave<br>de la<br>aplicación</td>
     <td>WI-06</td>
-    <td>Sección Características Principales
-    </td>
-    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
+    <td>Sección<br>Caracte<br>rísticas<br>Principales</td>
+    <td>Desarrollo<br>de la<br>sección donde<br>se pueden<br>visualizar todas<br>las características<br>principales de<br>CambiaZo y<br>conocer lo que<br>puede realizar<br>dentro de<br>esta.</td>
     <td>4</td>
-    <td>Mathias Mendoza</td>
+    <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US27</td>
-    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td rowspan="1">Acceder<br>a un<br>formulario<br>para llenar<br>mis datos<br>de contacto<br>y recibir<br>noticias<br>relacionadas<br>con CambiaZo</td>
     <td>WI-07</td>
-    <td>Formulario de contacto</td>
-    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
+    <td>Formulario<br>de<br>contacto</td>
+    <td>Desarrollo<br>del formulario<br>para que<br>los usuarios<br>llenen sus<br>datos de<br>contacto y<br>puedan recibir<br>noticias<br>relacionadas<br>con CambiaZo.</td>
     <td>10</td>
-    <td>Ian Santisteban</td>
+    <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US28</td>
-    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
+    <td rowspan="1">Descargar<br>la aplicación<br>de<br>CambiaZo</td>
     <td>WI-08</td>
-    <td>Redireccionar a Google Play Store</td>
-    <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
+    <td>Redireccionar<br>a<br>Google<br>Play<br>Store</td>
+    <td>Implementación<br>de botones<br>que sirvan<br>para<br>redire<br>ccionar<br>a los<br>usuarios de<br>la Landing<br>Page a<br>Google Play<br>Store para<br>que descarguen<br>la aplicación.</td>
     <td>4</td>
-    <td>Joseph Huamani</td>
+    <td>Joseph<br>Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US29</td>
-    <td rowspan="1">Ver los planes y precios</td>
+    <td rowspan="1">Ver<br>los<br>planes<br>y<br>precios</td>
     <td>WI-09</td>
-    <td>Sección de planes y precios</td>
-    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
+    <td>Sección<br>de<br>planes<br>y<br>precios</td>
+    <td>Desarrollo<br>de la<br>sección de<br>planes,<br>donde<br>aparezcan<br>los precios<br>de cada<br>plan y lo<br>que incluye<br>cada uno.</td>
     <td>6</td>
-    <td>Jeremy Quispe</td>
+    <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US30</td>
-    <td rowspan="1">Navegación en la Landing Page</td>
+    <td rowspan="1">Navegación<br>en la<br>Landing<br>Page</td>
     <td>WI-10</td>
-    <td>Barra de Navegación</td>
-    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
+    <td>Barra<br>de<br>Navegación</td>
+    <td>Implementación<br>de una<br>barra de<br>navegación<br>para que<br>el usuario<br>pueda<br>desplazarse<br>más rápido<br>dentro de<br>la Landing<br>Page.</td>
     <td>6</td>
-    <td>Mathias Mendoza</td>
+    <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
 </tbody>
@@ -4503,48 +4502,39 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 ### **Aplicación Móvil**
 
-|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
-| - | - | - | - | - | - |
-|Jemisas/TechZo-CC238-SW63/CambiazoApp|main|ba1b333|Initial commit||21/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|main|0474588|chore: organize project structure|Rearranged folders and files to improve project structure and clarity.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|develop|2fff149|<p>feat: add login screen</p><p></p>|Implemented loginScreen with user input fields and basic styling.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|4de0e56|feat: add registration screen|Implemented registrationScreen with form fields for user signup and validation.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|97f9fd1|feat: add bottom navigation bar|Implemented BottomBarNavigation for easier navigation between main screens.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|f5b7cf3|feat: implement app navigation|Set up navigation flow between screens, enabling transitions and routing.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|d89b877|feat: add explorer screen|Implemented explorer screen as the main hub for content browsing and interaction.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|main|19d23a5|Merge brain feature/US01 to main|Merge brain feature/US01 to main|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|08b15a3|Merge main to develop|Merge main to develop|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US16|30613ae|Merge branch 'develop' into feature/US16||25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|324a5b3|Merge Feature/US16 to develop|Merge Feature/US16 to develop|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|develop|9994c13|fix: resolve navigation issues in navScreen|Fixed navigation flow and routing errors in navScreen for smoother transitions.|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|8b7f14a|Merge Develop into Feature/US01|Merge Develop into Feature/US001|25/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US01|5bc40f0|feat: added login implementation|I've added the login implementation connected with the backend|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|979a9f0|feat: update app icon|Updated the main application icon to a more modern design. This change enhances the app's visual identity and improves overall aesthetics.|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|3d4c537|feat: add loading screen|Implemented a new loading screen to improve user experience during data fetching. The screen appears when the app is waiting for server responses, providing visual feedback to the user.|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US01|19ff884|feat: make status bar transparent|Set the status bar to be transparent on mobile devices, creating a more immersive and modern user interface.|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|d52db7e|Merge Feature/US01 to develop|Merge Feature/US01 to develop|25/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|feature/US16|5ce3ece|Merge Feature/US16 to develop|Merge Feature/US16 to develop|25/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|d11ce5a|feat: added Product Category DTO and Product DTO|I've added the Product Category DTO and Product DTO|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|fc8d3f6|feat: added Product and Product Category data class|I've added the Product and Product Category data class|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|ebbb32e|feat: added Product Category and Product services|I've added the Product Category and Product services|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|61d54b0|feat: added the Product and Product Category repositories|I've added the Product and Product Category repositories|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|e12b96a|feat: added ExplorerListViewModel|I've added the ExplorerList ViewModel|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|c07dc86|feat: updated the main activity|I've updated the main activity to implement the uses of retrofit with the viewmodels|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|06adbd4|feat: updated the Explorer Screen|I've updated the Explorer Screen|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|ea70b4a|feat: updated the MainApp and NavScreen|I've updated the MainApp and NavScreen|26/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|2f8ddf7|Merge Feature/US16 to develop|Merge Feature/US16 to develop|26/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|58e2e0c|fix: correct navigation to explorer screen|Fixed navigation issues allowing proper transition to the explorerScreen.|26/09/24|
-|123-Mathias/TechZo-CC238-SW63/CambiazoApp|feature/US16|47d897c|chore: reorganize folders and files|Rearranged project folders and files for better structure and organization.|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US16|586c928|chore: updated explores list view model and explorer screen|I've added search function into explorer screen|26/09/24|
-|IanHD04/TechZo-CC238-SW63/CambiazoApp|develop|5465661|Merge Feature/US16 to develop|Merge Feature/US16 to develop|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US03|8f67e89|chore: updated the signIn function|I've addeds the signIn function. Now works correctly with one click|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US03|3cfe6ca|chore: updated password outlinedtextfield|I've updated the outlinedtextfield of the password to change the visibility|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|develop|27851ca|Merge Feature/US03 into develop|Merge Feature/US03 into develop|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|be2eeef|Merge Develop into feature/US01|Merge Develop into feature/US01|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|709432a|feat: added signUpRequest DTO and SignUpResponse DTO|I've added the signUpRequest DTO and SignUpResponse DTO|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|b51f639|feat: added SignUpScreen and SignUpViewModel|I've added SignUpScreen and SignUpViewModel|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|6f4e802|chore: updated navigation files|I've updated the navigation files to redirect correctly the routes|26/09/24|
-| Nerk/TechZo-CC238-SW63/CambiazoApp|feature/US01|73b446f|chore: updated signIn and signUp screens|I've updated the signIn and signUp screens|26/09/24|
+| **Repository**<br>                                 | **Branch**<br> | **Commit Id**<br> | **Commit Message**<br>                           | **Commit Message Body**                                                               | **Commited <br> On (Date)** |
+|----------------------------------------------------|-----------------|--------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------|
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp         | main<br>       | ba1b333<br>        | Initial commit                                   |                                                                                      | 21/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | main<br>       | 0474588<br>        | chore:<br> organize project structure            | Rearranged folders <br>and files to <br>improve project <br>structure <br>and clarity.              | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | develop<br>    | 2fff149<br>        | feat:<br> add login screen                       | Implemented loginScreen <br>with user input <br>fields and basic <br>styling.                   | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US01 | 4de0e56<br>       | feat:<br> add registration screen                | Implemented <br>registrationScreen <br>with form fields <br>for user signup <br>and validation.     | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US16 | 97f9fd1<br>       | feat:<br> add bottom <br>navigation bar              | Implemented <br>BottomBarNavigation <br>for easier navigation<br> between main screens.         | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US16 | f5b7cf3<br>       | feat:<br> implement app navigation               | Set up<br> navigation flow <br>between screens,<br> enabling transitions<br> and routing.           | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US16 | d89b877<br>       | feat:<br> add explorer screen                    | Implemented <br>explorer screen <br>as the main<br> hub for content <br>browsing and<br> interaction.    | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | main<br>       | 19d23a5<br>       | Merge brain<br> feature/US01 <br>to main                | Merge brain <br>feature/US01 to<br> main                                                     | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | 08b15a3<br>       | Merge main<br> to develop                            | Merge main <br>to develop                                                                 | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | feature<br>/US16 | 30613ae<br>       | Merge branch <br>'develop' into <br>feature/US16       |                                                                                      | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | 324a5b3<br>       | Merge<br> Feature/US16<br> to develop                   | Merge <br>Feature/US16 to <br>develop                                                         | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | develop<br>    | 9994c13<br>       | fix:<br> resolve navigation<br> issues in navScreen | Fixed navigation <br>flow and routing <br>errors in<br> navScreen for<br> smoother transitions.      | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US01 | 8b7f14a<br>       | Merge Develop<br> into Feature/US01                 | Merge Develop <br>into<br> Feature/US001                                                      | 25/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US01 | 5bc40f0<br>       | feat:<br> added login <br>implementation             | I've added <br>the login <br>implementation <br>connected with<br> the backend                       | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | feature<br>/US01 | 979a9f0<br>       | feat:<br> update app <br>icon                       | Updated the<br> main application<br> icon to a more <br>modern design. <br>This change<br> enhances the<br> app's <br>visual identity <br>and improves<br> overall aesthetics.| 25/09/24<br> |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | feature<br>/US01 | 3d4c537<br>       | feat:<br> add loading <br>screen                    | Implemented<br> a new loading<br> screen to improve <br>user experience<br> during data <br>fetching.    | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | feature<br>/US01 | 19ff884<br>       | feat:<br> make status bar <br>transparent           | Set the status<br> bar to be <br>transparent on <br>mobile devices, <br>creating a more<br> immersive and <br>modern user interface.| 25/09/24<br> |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | d52db7e<br>       | Merge<br> Feature/US01 <br>to develop                   | Merge <br>Feature/US01<br> to develop                                                         | 25/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | feature<br>/US16 | 5ce3ece<br>       | Merge <br>Feature/US16<br> to develop                   | Merge <br>Feature/US16 <br>to develop                                                         | 25/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | d11ce5a<br>       | feat:<br> added Product <br>Category DTO<br> and Product DTO| I've added<br> the Product<br> Category DTO <br>and Product DTO| 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | fc8d3f6<br>       | feat:<br> added Product <br>and Product Category <br>data class| I've added <br>the Product<br> and Product<br> Category data <br>class| 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | ebbb32e<br>       | feat:<br> added Product <br>Category and Product <br>services| I've added <br>the Product<br> Category and <br>Product services| 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | 61d54b0<br>       | feat:<br> added the Product<br> and Product Category <br>repositories| I've added <br>the Product and <br>Product Category <br>repositories| 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | e12b96a<br>       | feat:<br> added <br>ExplorerListViewModel          | I've added<br>the ExplorerList <br>ViewModel                                                | 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | c07dc86<br>       | feat:<br> updated the<br> main activity             | I've updated<br> the main activity <br>to implement the<br> uses of retrofit<br> with the <br>viewmodels| 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | 06adbd4<br>       | feat:<br> updated the <br>Explorer Screen          | I've updated<br> the Explorer Screen                                                    | 26/09/24<br>                     |
+| Nerk/TechZo-CC238-SW63/<br>CambiazoApp            | feature<br>/US16 | ea70b4a<br>       | feat:<br> updated the <br>MainApp and <br>     | I've updated<br> the MainApp <br>and NavScreen                                               | 26/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | 2f8ddf7<br>       | Merge<br> Feature/US16<br> to develop                   | Merge <br>Feature/US16<br> to develop                                                         | 26/09/24<br>                     |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US16 | c90e5b8<br>       | Merge <br>Develop to <br>Feature/US16                   | Merge <br>Develop to <br>Feature/US16                                                       | 26/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | 3bd0bc8<br>       | Merge<br> Feature/US16 <br>to develop                   | Merge <br>Feature/US16<br> to develop                                                         | 26/09/24<br>                     |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp         | develop<br>    | b4b6f4a<br>       | Merge <br>Feature/US01 <br>to develop                   | Merge <br>Feature/US01<br> to develop                                                         | 26/09/24<br>                     |
 
 <br><br>
 
@@ -4636,7 +4626,7 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" >
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
 </div>
 
 <br><br>
@@ -4906,3 +4896,13 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 
 
 Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
+
+
+## Video de Exposición TP1
+
+  <div align="center">
+    <img src="ttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tb1.png?raw=true">
+ </div>
+
+
+Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eez2_6PljytLnqWa_ob5Vg0BFm4G-jDTj1G9k1iZZPfTiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f0Ac6i)

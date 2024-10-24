@@ -2070,6 +2070,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | US17 | Visualizar el perfil del usuario que publique un producto |
 | US22 | Visualizar el perfil de las ONG’s registradas |
 
+<br>
 
 | **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
 | :-- | :-- |
@@ -2187,11 +2188,11 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   <!-- EPIC ID: EP01 -->
   <tr>
     <td>1</td>
-    <td><strong>US01</strong></td>
-    <td>Registro de usuario</td>
-    <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
-    <td>3</td>
-    <td rowspan="8"><strong>EP01</strong></td>
+    <td><strong>US20</strong></td>
+    <td>Adquirir la suscripción premium</td>
+    <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
+    <td>8</td>
+    <td rowspan="10"><strong>EP01</strong></td>
   </tr>
   <tr>
     <td>2</td>
@@ -2203,41 +2204,55 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   </tr>
   <tr>
     <td>3</td>
-    <td><strong>US11</strong></td>
-    <td>Configuración de notificaciones</td>
-    <td>Como usuario, quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la aplicación.</td>
+    <td><strong>US23</strong></td>
+    <td>Gestionar mis favoritos en la aplicación</td>
+    <td>Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>4</td>
-    <td><strong>US02</strong></td>
-    <td>Editar perfil del usuario</td>
-    <td>Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
-    <td>2</td>
+    <td><strong>US24</strong></td>
+    <td>Ver reseñas recibidas</td>
+    <td>Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma..</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>5</td>
+    <td><strong>US01</strong></td>
+    <td>Registro de usuario</td>
+    <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>US21 </strong></td>
+    <td>Cancelar una suscripción</td>
+    <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><strong>US02</strong></td>
+    <td>Editar perfil del usuario</td>
+    <td>Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td><strong>US04</strong></td>
     <td>Cambiar Contraseña</td>
     <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td><strong>US10</strong></td>
-    <td>Actualización de Correo Electrónico</td>
-    <td>Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante.</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>7</td>
+    <td>9</td>
     <td><strong>US03</strong></td>
     <td>Iniciar sesión en la aplicación</td>
     <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>10</td>
     <td><strong>US05</strong></td>
     <td>Cerrar Sesión</td>
     <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</td>
@@ -2246,64 +2261,71 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 
   <!-- EPIC ID: EP02 -->
   <tr>
-    <td>9</td>
+    <td>11</td>
     <td><strong>US06</strong></td>
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
     <td>5</td>
-    <td rowspan="9"><strong>EP02</strong></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td><strong>US12</strong></td>
-    <td>Crear publicación de intercambio</td>
-    <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td><strong>US16</strong></td>
-    <td>Visualización de objetos disponibles para intercambio</td>
-    <td>Como usuario, quiero poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
-    <td>5</td>
+    <td rowspan="10"><strong>EP02</strong></td>
   </tr>
   <tr>
     <td>12</td>
-    <td><strong>US08</strong></td>
-    <td>Brindar reseña sobre el Intercambiador</td>
-    <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.</td>
-    <td>3</td>
+    <td><strong>US12</strong></td>
+    <td>Crear publicación de intercambio</td>
+    <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>13</td>
+    <td><strong>US16</strong></td>
+    <td>Visualización de objetos disponibles para intercambio</td>
+    <td>Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><strong>US19</strong></td>
+    <td>Ver la información detallada de un producto publicado</td>
+    <td>Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><strong>US11</strong></td>
+    <td>Realización de una oferta de intercambio</td>
+    <td>Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
     <td><strong>US13</strong></td>
     <td>Editar publicación de intercambio</td>
     <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>14</td>
-    <td><strong>US15</strong></td>
-    <td>Destacar publicación de intercambio</td>
-    <td>Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td><strong>US17</strong></td>
-    <td>Visualizar el perfil del usuario que publique un intercambio</td>
-    <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td><strong>US18</strong></td>
-    <td>Ponerse en contacto para pactar el intercambio</td>
-    <td>Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td>17</td>
+    <td><strong>US15</strong></td>
+    <td>Gestión de intercambios</td>
+    <td>Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><strong>US18</strong></td>
+    <td>Aceptar o Rechazar un Intercambio</td>
+    <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><strong>US10</strong></td>
+    <td>Visualización de artículos publicados para intercambio</td>
+    <td>Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
     <td><strong>US14</strong></td>
     <td>Eliminar publicación de intercambio</td>
     <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
@@ -2312,67 +2334,43 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 
   <!-- EPIC ID: EP03 -->
   <tr>
-    <td>18</td>
+    <td>21</td>
     <td><strong>US07</strong></td>
-    <td>Filtrado de ONGs</td>
-    <td>Como usuario Donante, quiero la capacidad de filtrar las ONGs disponibles de donación para encontrar la opción que mejor se adapte a los objetos que tengo para donar.</td>
+    <td>Visualización de ONGs registradas y filtrado</td>
+    <td>Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.</td>
     <td>5</td>
-    <td rowspan="3"><strong>EP03</strong></td>
+    <td rowspan="4"><strong>EP03</strong></td>
   </tr>
   <tr>
-    <td>19</td>
-    <td><strong>US19</strong></td>
-    <td>Ponerse en contacto para poder realizar una donación</td>
-    <td>Como usuario, quiero tener la posibilidad de contactar directamente con la organización benéfica correspondiente y/o visualizar información de contacto o número de cuenta bancaria para algún apoyo económico.</td>
-    <td>5</td>
+    <td>22</td>
+    <td><strong>US08</strong></td>
+    <td>Brindar reseña sobre el Intercambiador</td>
+    <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>23</td>
+    <td><strong>US17</strong></td>
+    <td>Visualizar el perfil del usuario que publique un producto</td>
+    <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
     <td><strong>US22</strong></td>
-    <td>Visualizar el perfil de las ONG’S registradas</td>
+    <td>Visualizar el perfil de las ONG’s registradas</td>
     <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
     <td>3</td>
   </tr>
 
   <!-- EPIC ID: EP04 -->
   <tr>
-    <td>21</td>
-    <td><strong>US20</strong></td>
-    <td>Adquirir la suscripción premium</td>
-    <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
-    <td>8</td>
-    <td rowspan="4"><strong>EP04</strong></td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td><strong>US21</strong></td>
-    <td>Cancelar una suscripción</td>
-    <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td><strong>US23</strong></td>
-    <td>Acceder al centro de soporte para resolver cualquier problema técnico que se presente.</td>
-    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td><strong>US24</strong></td>
-    <td>Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios.</td>
-    <td>Como usuario de Cambiazo, quiero ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación para poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.</td>
-    <td>3</td>
-  </tr>
-
-  <!-- EPIC ID: EP05 -->
-  <tr>
     <td>25</td>
     <td><strong>US27</strong></td>
     <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.</td>
     <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
     <td>5</td>
-    <td rowspan="6"><strong>EP05</strong></td>
+    <td rowspan="6"><strong>EP04</strong></td>
   </tr>
   <tr>
     <td>26</td>
@@ -2410,14 +2408,14 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>1</td>
   </tr>
 
-  <!-- EPIC ID: EP06 -->
+  <!-- EPIC ID: EP05 -->
   <tr>
     <td>31</td>
     <td><strong>TS01</strong></td>
     <td>API User</td>
     <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
     <td>5</td>
-    <td rowspan="5"><strong>EP06</strong></td>
+    <td rowspan="5"><strong>EP05</strong></td>
   </tr>
   <tr>
     <td>32</td>
@@ -4787,6 +4785,67 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la Landing Page y en la primera versión de la Aplicación Móvil.
 
 <br>
+
+
+### 5.2.2 Sprint 2
+En esta sección, documentaremos y explicaremos el progreso del Sprint 2 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 5.2.2.1 Sprint Planning 2
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-10-09</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>8:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>En el Sprint 1, el equipo logró cumplir con el objetivo de desplegar la primera versión de la aplicación móvil, junto con el desarrollo de la landing page. Se completaron todas las User Stories y Work Items planificados, lo que permitió ofrecer las funciones más relevantes para los usuarios interesados en CambiaZo. La aplicación fue compilada con éxito, y las pantallas establecidas estuvieron disponibles. Se lanzó la landing page, y se monitoreó la llegada de visitantes, con el objetivo de atraer al menos 10 visitantes nuevos.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>Durante la retrospectiva, el equipo reflexionó sobre el desempeño y encontró que la planificación y ejecución del sprint fueron eficientes. Las asignaciones de tareas fueron adecuadas, y la comunicación entre los miembros permitió que los Work Items se completaran a tiempo. Sin embargo, se identificaron oportunidades para mejorar la estimación de tiempos en algunas tareas más complejas, como la implementación del filtro de búsqueda y el formulario de contacto. Para el siguiente sprint, el equipo buscará optimizar los tiempos de estimación y seguir fortaleciendo la colaboración.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2 </td>
+    <td>Desplegar una segunda versión de la aplicación móvil implmentando funcionalidades claves, permitiendo a los usuarios registrados interactuar con los objetos disponibles para intercambio, publicar nuevos artículos y gestionar su perfil.<br><br>Para evaluar el cumplimiento de este sprint, utilizaremos la siguientes métricas: <br>Verificaremos que el proyecto compile y que se pueda acceder a las pantallas establecidas para la aplicación móvil.<br>Comprobaremos que los usuarios pueden realizar publicaciones de objetos para intercambio y que el sistema de notificaciones funcione al detectar nuevos objetos de interés.<br>Mediremos cuántas publicaciones nuevas se crean durante este sprint, con el objetivo de alcanzar al menos 5 publicaciones por usuarios registrados.<br></td>
+</tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>36 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td> 35 Story Points</td>
+  </tr>
+</table><br><br>
+
 
 <div style="page-break-after: always;"></div>
 

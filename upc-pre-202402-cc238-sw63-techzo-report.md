@@ -5132,6 +5132,38 @@ En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferente
 
 
 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “CambiazoApp”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 2.
+
+
+<b>Tabla de identificación</b>
+
+<div align="center">
+
+| Username (Github) | Nombre |
+|-------------------|--------------------------|
+| HelloNerk | Huamani Mandujano, Joseph Alexis |
+| 123-Mathi | Mendoza Carrión, Mathias André |
+| Jemisas | Quispe Andia, Jeremy Joel |
+| IanHD04 | Santisteban Palomino, Ian Haziel Donato |
+
+</div>
+
+<b>Analíticos de GitHub</b>
+
+  + Aplicación Móvil
+          <div align="center">
+        <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Insights/mobile-app-insights.png?raw=true" alt="contributor-evidence-cambiazoapp">
+        </div><br><br>
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
+
+<br>
+
+
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

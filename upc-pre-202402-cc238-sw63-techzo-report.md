@@ -4847,6 +4847,159 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2
 </table><br><br>
 
 
+#### 5.2.2.2 Sprint Backlog 2
+En este segundo sprint, nos enfocaremos en implementar funciones esenciales para mejorar la experiencia del usuario en CambiaZo. Esto incluye la capacidad de editar el perfil, cerrar sesión, visualizar y gestionar artículos publicados para intercambio, realizar y aceptar ofertas, y acceder a información detallada sobre los productos. También se habilitará la gestión de favoritos y la visualización de reseñas recibidas, lo que permitirá a los usuarios interactuar de manera efectiva con la aplicación.
+
+Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Sprint-Backlog/Sprint2-Trello.png?raw=true" alt="sprint 2">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation<br>(Hours)</td>
+    <td>Assigned<br>to</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US02</td>
+    <td rowspan="1">Editar<br>perfil<br>del<br>usuario</td>
+    <td>WI-01</td>
+    <td>Sección<br>de<br>perfil</td>
+    <td>Implementación de una pantalla que permita a los usuarios editar su información de perfil.</td>
+    <td>2</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US05</td>
+    <td rowspan="1">Cerrar<br>sesión</td>
+    <td>WI-02</td>
+    <td>Funcionalidad<br>de<br>cerrar<br>sesión</td>
+    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
+    <td>1</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US10</td>
+    <td rowspan="1">Visualización<br>de<br>artículos<br>publicados<br>para<br>intercambio</td>
+    <td>WI-03</td>
+    <td>Listar<br>artículos<br>publicados</td>
+    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
+    <td>2</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US11</td>
+    <td rowspan="1">Realización<br>de<br>una<br>oferta<br>de<br>intercambio</td>
+    <td>WI-04</td>
+    <td>Funcionalidad<br>de<br>oferta<br>de<br>intercambio</td>
+    <td>Implementar la opción para que los usuarios realicen ofertas de intercambio.</td>
+    <td>3</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US12</td>
+    <td rowspan="1">Crear<br>publicación<br>de<br>intercambio</td>
+    <td>WI-05</td>
+    <td>Pantalla<br>de<br>creación<br>de<br>publicación</td>
+    <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
+    <td>5</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US14</td>
+    <td rowspan="1">Eliminar<br>publicación<br>de<br>intercambio</td>
+    <td>WI-06</td>
+    <td>Funcionalidad<br>de<br>eliminación<br>de<br>publicación</td>
+    <td>Implementar la opción para que los usuarios eliminen sus publicaciones.</td>
+    <td>2</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US15</td>
+    <td rowspan="1">Gestión<br>de<br>intercambios</td>
+    <td>WI-07</td>
+    <td>Funcionalidad<br>de<br>gestión<br>de<br>intercambios</td>
+    <td>Desarrollar la funcionalidad para gestionar los intercambios realizados.</td>
+    <td>3</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US17</td>
+    <td rowspan="1">Ver<br>objetos<br>destacados</td>
+    <td>WI-08</td>
+    <td>Funcionalidad<br>de<br>objetos<br>destacados</td>
+    <td>Implementar la opción para que los usuarios vean objetos destacados en la aplicación.</td>
+    <td>3</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US18</td>
+    <td rowspan="1">Aceptar<br>o<br>rechazar<br>un<br>intercambio</td>
+    <td>WI-09</td>
+    <td>Funcionalidad<br>de<br>aceptar<br>o<br>rechazar</td>
+    <td>Desarrollar la opción para que los usuarios acepten o rechacen los intercambios.</td>
+    <td>3</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US19</td>
+    <td rowspan="1">Ver la<br>información<br>detallada<br>de un<br>producto<br>publicado</td>
+    <td>WI-10</td>
+    <td>Funcionalidad<br>de<br>detalles<br>del<br>producto</td>
+    <td>Implementar la opción para que los usuarios vean información detallada de un producto.</td>
+    <td>5</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US23</td>
+    <td rowspan="1">Gestionar<br>mis<br>favoritos<br>en la<br>aplicación</td>
+    <td>WI-11</td>
+    <td>Funcionalidad<br>de<br>favoritos</td>
+    <td>Implementar la opción para que los usuarios gestionen sus artículos favoritos.</td>
+    <td>3</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US24</td>
+    <td rowspan="1">Ver<br>reseñas<br>recibidas</td>
+    <td>WI-12</td>
+    <td>Funcionalidad<br>de<br>reseñas</td>
+    <td>Implementar la opción para que los usuarios vean las reseñas que han recibido.</td>
+    <td>3</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
+
+<br><br>
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

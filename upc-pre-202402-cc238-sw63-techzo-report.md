@@ -4596,7 +4596,7 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Lo que se logró en el Sprint 1 es desplegar nuestra landing page y avanzar en el desarrollo inicial de la aplicación móvil en Flutter. En la landing page, se implementaron la barra de navegación, las secciones definidas y un formulario de contacto funcional. Por otro lado, la app móvil cuenta con las funcionalidades de inicio de sesión, registro de sesión y la pantalla de explorar, donde el usuario puede ver los objetos que puede intercambiar. Además, la estructura permitirá expandir funcionalidades en los siguientes sprints.También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
+Lo que se logró en el Sprint 1 es desplegar nuestra landing page y avanzar en el desarrollo inicial de la aplicación móvil en Kotlin. En la landing page, se implementaron la barra de navegación, las secciones definidas y un formulario de contacto funcional. Por otro lado, la app móvil cuenta con las funcionalidades de inicio de sesión, registro de sesión y la pantalla de explorar, donde el usuario puede ver los objetos que puede intercambiar. Además, la estructura permitirá expandir funcionalidades en los siguientes sprints.También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 1, tanto en la landing page como en la app móvil:
 
@@ -5025,6 +5025,40 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 
 
 <br><br>
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2, mejoramos exitosamente la aplicación móvil implementando funciones como la edición del perfil del usuario, cierre de sesión, visualización de artículos publicados para intercambio y creación de publicaciones de intercambio. Además, los usuarios ahora pueden gestionar sus favoritos y ver las reseñas recibidas. Mantenemos una estructura sólida que permite la expansión de funcionalidades en futuros sprints. La metodología GitFlow continuó utilizándose de manera efectiva, lo que nos permitió realizar pruebas y actualizaciones en ramas separadas sin afectar la rama principal.
+
+A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 2 en la app móvil:
+
+Enlace: [Video del Execution Evidence for Sprint 2]( )
+<br><br>
+
+
+**Aplicación Móvil:**<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+
+</div>
+
+<br><br>
+
+
 
 <div style="page-break-after: always;"></div>
 

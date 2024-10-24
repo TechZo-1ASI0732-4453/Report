@@ -5060,6 +5060,78 @@ Enlace: [Video del Execution Evidence for Sprint 2]( )
 
 
 
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 2, se logró un progreso significativo en el desarrollo de la aplicación móvil, incorporando varias nuevas funcionalidades que mejoran la experiencia del usuario. Se implementó la gestión de intercambios, permitiendo a los usuarios ver las ofertas que han enviado, las que han recibido y el estado de las solicitudes, incluyendo aquellas que han sido aceptadas. Esta función ofrece un control completo sobre las interacciones dentro de la plataforma.
+
+Además, se añadió la funcionalidad de creación de publicaciones para intercambios, donde los usuarios pueden fácilmente listar artículos que desean intercambiar, facilitando así la interacción entre ellos. También se implementó una sección para que los usuarios puedan ver los artículos que guardaron como favoritos, lo que promueve productos de interés y mejora la visibilidad de las ofertas más atractivas.
+
+La pantalla de explorar se optimizó para permitir a los usuarios visualizar y filtrar objetos disponibles para intercambio, con opciones de búsqueda que mejoran la capacidad de encontrar productos específicos de manera rápida y eficiente. Esta combinación de nuevas funcionalidades no solo amplía la usabilidad de la aplicación, sino que también asegura que se cumplan los objetivos establecidos.
+
+Por último, se continuó utilizando las funciones colaborativas de GitHub, lo que resultó esencial para la cooperación entre los miembros del equipo. Este enfoque promovió una implementación eficiente y sin contratiempos, facilitando la revisión continua de los commits y el progreso alcanzado en el proyecto.
+
+<br><br>
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 2:
+
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Móvil y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
+
+
+**Aplicación Móvil:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+| Rama             | Descripción                                                                                             |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| feature/US-02    | Se implementa la funcionalidad de edición de perfil, permitiendo a los usuarios actualizar su información personal. |
+| feature/US-05    | Se desarrolla la opción de cerrar sesión, proporcionando a los usuarios una forma segura de salir de la aplicación. |
+| feature/US-10    | Se habilita la visualización de artículos publicados para intercambio, permitiendo a los usuarios explorar las opciones disponibles. |
+| feature/US-11    | Se implementa la funcionalidad para realizar una oferta de intercambio, facilitando a los usuarios participar en el proceso de intercambio. |
+| feature/US-12    | Se añade la opción de crear publicaciones de intercambio, permitiendo a los usuarios ofrecer sus artículos a otros. |
+| feature/US-14    | Se implementa la capacidad de eliminar publicaciones de intercambio, ofreciendo a los usuarios control sobre su contenido. |
+| feature/US-15    | Se integra la gestión de intercambios, permitiendo a los usuarios ver y administrar los intercambios que han enviado, recibido o aceptado. |
+| feature/US-17    | Se agrega la opción de ver objetos destacados, mejorando la visibilidad de los artículos más relevantes. |
+| feature/US-18    | Se incluye la funcionalidad para aceptar o rechazar un intercambio, brindando a los usuarios control sobre sus interacciones. |
+| feature/US-19    | Se permite la visualización de la información detallada de un producto publicado, mejorando la experiencia del usuario al obtener información específica. |
+| feature/US-23    | Se implementa la gestión de favoritos, permitiendo a los usuarios almacenar y acceder fácilmente a sus artículos preferidos. |
+| feature/US-24    | Se habilita la visualización de reseñas recibidas, ofreciendo a los usuarios retroalimentación sobre su actividad en la aplicación. |
+
+
+</div>
+
+<br>
+En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”.<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/mobile-app-network.png?raw=true">
+</div>
+
+<br><br>
+
+
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

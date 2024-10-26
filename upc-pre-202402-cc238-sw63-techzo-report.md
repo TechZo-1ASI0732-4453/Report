@@ -5045,7 +5045,7 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 | Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | eb1385a<br>       | chore: corrected the repositories and services for 'OfferScreens' implementations| Corrected the repositories and services for 'OfferScreens' implementations.| 24/10/24<br>                |
 | Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 4174e56<br>       | chore: corrected routes of 'NavScreen' for 'OfferScreens' implementations| Corrected routes in 'NavScreen' for 'OfferScreens' implementations.| 24/10/24<br>                |
 | IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 70d315e<br>       | feat: Implement Function to Retrieve Favorite Products by User ID| Added getFavoriteProductByUserId in ProductDetailsRepository to fetch a user's favorite products, returning a Resource object with the results or error messages.| 24/10/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | baf7bef<br>       | feat: Implement FavoritesViewModel for Managing Favorite Products| Created the FavoritesViewModel to handle the retrieval and management of a user's favorite products. It fetches favorite products using ProductDetailsRepository| 22/10/24<br>_               |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | baf7bef<br>       | feat: Implement FavoritesViewModel for Managing Favorite Products| Created the FavoritesViewModel to handle the retrieval and management of a user's favorite products. It fetches favorite products using ProductDetailsRepository| 22/10/24<br>               |
 | IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 89c10e4<br>       | feat: Create FavoritesScreen for Displaying Favorite Products| Implemented FavoritesScreen to list user favorite products, featuring a back button and a confirmation dialog for product removal.| 22/09/24<br>                |
 | IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 3e03cf5<br>       | feat: Add Routing for Favorites Screen| Implemented routing for the "Favorites" screen by defining the route in the Routes sealed class and adding navigation logic in the NavScreen composable.| 22/09/24<br>                |
 | 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 69cd15a<br>       | refactor: adjusted profile layout with custom background| I've added<br> the Product<br> Category DTO <br>and Product DTO| 23/10/24<br>                |
@@ -5086,7 +5086,7 @@ En el Sprint 2, mejoramos exitosamente la aplicación móvil implementando funci
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 2 en la app móvil:
 
-Enlace: [Video del Execution Evidence for Sprint 2]( )
+Enlace: [Video del Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EfeRV4ADYJdAlSCmTxYqkfABx_yTC7bf8zHBAanqGrJUlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GxAORd)
 <br><br>
 
 
@@ -5405,4 +5405,4 @@ Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/pers
  </div>
 
 
-Enlace: [Execution Evidence for Sprint 2]()
+Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EfeRV4ADYJdAlSCmTxYqkfABx_yTC7bf8zHBAanqGrJUlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GxAORd)

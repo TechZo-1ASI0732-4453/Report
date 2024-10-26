@@ -86,6 +86,17 @@
 |3\.2|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Software Configuration Management|
 |3\.3|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome|
 |3\.4|27/09/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
+|3\.5|24/10/2024|Ian Haziel Donato Santisteban Palomino | Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation parala TB3 |
+|3\.6 |24/10/2024|Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con la sección Sprint Planning 2  |
+|3\.6.1|25/10/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con el Sprint Backlog 2. |
+|3\.6.2|25/10/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence |
+|3\.6.3|25/10/2024|Ian Haziel Donato Santisteban Palomino | Se agregó contenido relacionado con Execution Evidence for Sprint Review|
+|3\.6.4|25/10/2024|Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review |
+|3\.6.5|25/10/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia | Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review |
+|3\.6.6|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Team Collaboration Insights during Sprint|
+|3\.7|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Software Configuration Management|
+|3\.8|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó el Student Outcome para la TB3|
+|3\.9|25/10/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia| Se agregó contenido relacionado con Conclusiones y Anexos.|
 
 <br><br>
 

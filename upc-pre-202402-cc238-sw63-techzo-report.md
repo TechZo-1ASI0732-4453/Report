@@ -5109,7 +5109,7 @@ Continuaremos utilizando los repositorios en GitHub que hemos creado para la Apl
   <div align="center">
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
-
+</div>
 En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
 
 Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
@@ -5152,7 +5152,6 @@ En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferente
 
 
 
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “CambiazoApp”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 2.
@@ -5183,7 +5182,6 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 <br>
 
 
-
 <div style="page-break-after: always;"></div>
 
 # Conclusiones
@@ -5197,6 +5195,8 @@ En el tercer capítulo, se estableció la arquitectura del producto con un enfoq
 En el cuarto capítulo, se abarcó la implementación del backend, destacando la gestión adecuada de la configuración del software, con entornos de desarrollo y despliegue configurados de manera eficiente y una gestión cuidadosa del código fuente bajo pautas de estilo establecidas. A lo largo del desarrollo, se realizaron sprints con una planificación detallada, asegurando que cada entrega estuviera respaldada por pruebas automatizadas y evidencia de cumplimiento de los requisitos, garantizando así una implementación continua y de calidad que se adapta a las necesidades del proyecto.
 
 En el quinto capítulo, se abordó el desarollo de una primera versión de la aplicación móvil y de la landing page para ofrecer una experiencia de usuario intuitiva. Se aseguraron una navegación clara y accesible, así como secciones informativas sobre las características clave de la aplicación, precios y opciones de suscripción. Además, se desarrollaron las funcionalidades clave de la app móvil, como el registro de usuarios, el inicio de sesión y la visualización y filtrado de objetos disponibles para intercambio. Durante el proceso, se gestionaron cuidadosamente tanto los aspectos visuales como los de contenido, asegurando que el diseño reflejara los objetivos del proyecto. Asimismo, se realizaron pruebas continuas para verificar el correcto funcionamiento y cumplimiento de los requisitos, logrando una implementación efectiva alineada con las historias de usuario.
+
+En el Sprint 2, el equipo alcanzó importantes avances en CambiaZo, implementando funciones esenciales como la edición de perfil, gestión de publicaciones y visualización de reseñas, lo cual mejoró significativamente la experiencia de usuario y el valor de la aplicación. La planificación detallada y el uso de Lean UX y GitFlow permitieron optimizar el flujo de trabajo y facilitar una colaboración efectiva, con cada entrega validada a través de pruebas de integración y documentación continua en el Testing Suite, asegurando calidad y consistencia en cada fase. La actualización constante en tecnologías, incluyendo despliegue en Azure y metodologías de arquitectura moderna, consolidó una base técnica sólida y escalable, preparada para soportar el crecimiento de CambiaZo en los próximos sprints y alineada con las necesidades del usuario, logrando así una aplicación robusta y adaptable.
 
 En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores. Asimismo, la implementación de la arquitectura del producto, con un diseño coherente de interfaces y una estructura sólida a nivel de software, asegura que la solución sea funcional, escalable y adaptable a las necesidades del usuario. La correcta gestión del backend, con entornos de desarrollo optimizados y un proceso de desarrollo ágil basado en sprints, ha permitido avanzar en la implementación de manera estructurada, garantizando que cada función esté debidamente validada y lista para su despliegue, sentando las bases para el éxito a largo plazo de nuestra startup.
 
@@ -5229,9 +5229,6 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 + Wang, F., Nan, N., & Zhao, J. (2024). Configuring mobile app update strategy for growth: An empirical analysis of a landscape search model. *Industrial Management & Data Systems, 124*(3), 1155-1178. https://doi.org/10.1108/IMDS-03-2023-0181 <br><br>
 
 + Zhao, S., Chen, S. H., Wang, F., Wei, Z. L., Zhong, J. C., & Liang, J. B. (2024). A large-scale mobile traffic dataset for mobile application identification. *Computer Journal, 67*(4), 1501-1513. https://doi.org/10.1093/comjnl/bxad076 <br><br>
-
-
-</div>
 
 
 <div style="page-break-after: always;"></div>

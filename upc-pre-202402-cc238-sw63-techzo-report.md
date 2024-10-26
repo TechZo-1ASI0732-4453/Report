@@ -5027,31 +5027,31 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 ### **Aplicación Móvil**
 
-| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit<br>Message**<br>                                | **Commit<br>Message <br>Body**                                                   | **Commited <br> On (Date)** |
+| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit Message**<br>                                | **Commit Message Body**                                                   | **Commited <br> On (Date)** |
 |-----------------------------------------------|------------------|-------------------|-------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | e35a398<br>       | feat:<br>added whatsapp<br>button                           |I've added the<br>whatsapp button<br>that redirect<br>to the whatsapp<br>of the user<br>change| 23/10/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | develop<br>      | 1d6c20d<br>       | feat:<br>enhance design<br>across multiple<br>screens| Improved the<br>user interface<br>design for<br>several screens<br>to enhance<br>usability and<br>visual consistency<br>throughout the app.| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c160210<br>       | feat:<br>added new<br>functions in<br>custom dialog| I've added<br>new functions<br>in custom dialog<br>that works<br>when a user<br>wants to send<br>a review| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 34c9533<br>       | feat:<br>added review<br>request dto| I've added<br>review request<br>dto to add<br>new review<br>using the<br>post method| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 86876c8<br>       | feat:<br>fix updated<br>add review<br>function in<br>review service|I've updated<br>add review<br>function in<br>review service| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 1f3f165<br>       |feat:<br>added add<br>review function<br>in review<br>repository| I've added<br>add review<br>function in<br>review repository| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 942023e<br>       | feat:<br>added show<br>dialog 3 for<br>add review| I've added<br>show dialog 3<br>for add review<br>that works<br>when a user<br>wants to send<br>a review| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c6afd9b<br>       | feat:<br>added add<br>review function<br>in review<br>view model|I've  added<br>add review<br>function in<br>review view<br>model| 23/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | d765804<br>       | Merge<br>main to<br>develop                             | Merge<br>Feature/US08<br>into Develop| 23/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | a507200<br>       | feat:<br>added<br>'MakeOfferScreen'|Added<br>'MakeOfferScreen'<br>to manage the<br>offer-making<br>process.| 24/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 0773232<br>       | feat:<br>added<br>'OfferViewModel'| Added<br>'OfferViewModel'<br>to handle<br>logic for<br>offers.| 24/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | f324809<br>       |feat:<br>added<br>'Confirmation<br>OfferScreen'| Added<br>'Confirmation<br>OfferScreen'<br>to display<br>offer confirmation<br>details.| 24/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 9382d1f<br>       | feat:<br>added<br>'ArticleExchange'<br>component| Added<br>'ArticleExchange'<br>component for<br>managing article<br>exchange<br>functionality.| 24/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | eb1385a<br>       | chore:<br>corrected the<br>repositories and<br>services for<br>'OfferScreens'<br>implementations| Corrected the<br>repositories and<br>services for<br>'OfferScreens'<br>implementations.| 24/10/24<br>                |
-| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 4174e56<br>       | chore:<br>corrected<br>routes of<br>'NavScreen' for<br>'OfferScreens'<br>implementations| Corrected<br>routes in<br>'NavScreen' for<br>'OfferScreens'<br>implementations.| 24/10/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 70d315e<br>       | feat:<br>Implement<br>Function to<br>Retrieve Favorite<br>Products by<br>User ID| Added<br>getFavorite<br>ProductByUserId<br>in ProductDetails<br>Repository<br>to fetch a user's<br>favorite products,<br>returning a Resource<br>object with the<br>results or error<br>messages.| 24/10/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | baf7bef<br>       | feat:<br>Implement<br>FavoritesViewModel<br>for Managing<br>Favorite Products| Created the<br>FavoritesViewModel<br>to handle the<br>retrieval and<br>management of<br>a user's favorite<br>products. It fetches<br>favorite products<br>using<br>ProductDetails<br>Repository| 22/10/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 89c10e4<br>       | feat:<br>Create<br>FavoritesScreen<br>for Displaying<br>Favorite Products| Implemented<br>FavoritesScreen to<br>list user favorite<br>products, featuring<br>a back button and<br>a confirmation dialog<br>for product removal.| 22/09/24<br>                |
-| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 3e03cf5<br>       | feat:<br>Add Routing<br>for Favorites<br>Screen| Implemented<br>routing for the<br>"Favorites" screen<br>by defining the<br>route in the<br>Routes sealed<br>class and adding<br>navigation logic<br>in the NavScreen<br>composable.| 22/09/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 69cd15a<br>       | refactor:<br>adjusted<br>profile layout<br>with custom<br>background| I've added the<br>Product Category<br>DTO and Product<br>DTO| 23/10/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 2d022e2<br>       | refactor:<br>moved and<br>modified tab<br>component<br>for reusability| Modified a<br>tab component and<br>moved it to the<br>components folder<br>to enable<br>reusability across<br>the project.| 23/10/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 38cd752<br>       | style:<br>updated<br>Tab component<br>styling| Modified the<br>style of the Tab<br>component for<br>improved appearance<br>and consistency<br>across the app.| 23/10/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 48bdedb<br>       |style:<br>updated<br>product categories<br>buttons design| Changed the<br>styling of the<br>category buttons<br>to enhance their<br>visual presentation.|  23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | e35a398<br>       | feat: added whatsapp button                           |I've added the whatsapp button that redirect to the whatsapp of the user change| 23/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | develop<br>      | 1d6c20d<br>       | feat: enhance design across multiple screens| Improved the user interface design for several screens to enhance usability and visual consistency throughout the app.| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c160210<br>       | feat:  added new functions in custom dialog| I've added new functions in custom dialog that works when a user wants to send a review| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 34c9533<br>       | feat: added review request dto| I've added review request dto to add new review using the post method| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 86876c8<br>       | feat: fix updated add review function in review service|I've updated add review function in review service| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 1f3f165<br>       |feat: added add review function in review repository| I've added add review function in review repository| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 942023e<br>       | feat: added show dialog 3 for add review| I've added show dialog 3 for add review that works when a user wants to send a review| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c6afd9b<br>       | feat: added add review function in review view model|I've  added add review function in review view model| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | d765804<br>       | Merge main<br> to develop                             | Merge Feature/US08 into Develop| 23/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | a507200<br>       | feat: added 'MakeOfferScreen'|Added 'MakeOfferScreen' to manage the offer-making process.| 24/10/24                    |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 0773232<br>       | feat: added 'OfferViewModel'| Added 'OfferViewModel' to handle logic for offers.| 24/10/24                    |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | f324809<br>       |feat: added 'ConfirmationOfferScreen'| Added 'ConfirmationOfferScreen' to display offer confirmation details.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 9382d1f<br>       | feat: added 'ArticleExchange' component| Added 'ArticleExchange' component for managing article exchange functionality.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | eb1385a<br>       | chore: corrected the repositories and services for 'OfferScreens' implementations| Corrected the repositories and services for 'OfferScreens' implementations.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 4174e56<br>       | chore: corrected routes of 'NavScreen' for 'OfferScreens' implementations| Corrected routes in 'NavScreen' for 'OfferScreens' implementations.| 24/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 70d315e<br>       | feat: Implement Function to Retrieve Favorite Products by User ID| Added getFavoriteProductByUserId in ProductDetailsRepository to fetch a user's favorite products, returning a Resource object with the results or error messages.| 24/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | baf7bef<br>       | feat: Implement FavoritesViewModel for Managing Favorite Products| Created the FavoritesViewModel to handle the retrieval and management of a user's favorite products. It fetches favorite products using ProductDetailsRepository| 22/10/24<br>_               |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 89c10e4<br>       | feat: Create FavoritesScreen for Displaying Favorite Products| Implemented FavoritesScreen to list user favorite products, featuring a back button and a confirmation dialog for product removal.| 22/09/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 3e03cf5<br>       | feat: Add Routing for Favorites Screen| Implemented routing for the "Favorites" screen by defining the route in the Routes sealed class and adding navigation logic in the NavScreen composable.| 22/09/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 69cd15a<br>       | refactor: adjusted profile layout with custom background| I've added<br> the Product<br> Category DTO <br>and Product DTO| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 2d022e2<br>       | refactor: moved and modified tab component for reusability| Modified a tab component and moved it to the components folder to enable reusability across the project.| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 38cd752<br>       | style: updated Tab component styling| Modified the style of the Tab component for improved appearance and consistency across the app.| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 48bdedb<br>       |style: updated product categories buttons design| Changed the styling of the category buttons to enhance their visual presentation.|  23/10/24<br>                |
 
 
 <br><br>
@@ -5063,20 +5063,18 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
 | - | - | - | - | - | - |
-| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-02 | In this part, we applied Gherkin to the US-02. | 24/10/2024 |
-| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-05 | In this part, we applied Gherkin to the US-05. | 24/10/2024 |
-| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-10 | In this part, we applied Gherkin to the US-10. | 24/10/2024 |
-| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-11 | In this part, we applied Gherkin to the US-11. | 24/10/2024 |
-| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-12 | In this part, we applied Gherkin to the US-12. | 24/10/2024 |
-| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-14 | In this part, we applied Gherkin to the US-14. | 24/10/2024 |
-| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-15 | In this part, we applied Gherkin to the US-15. | 24/10/2024 |
-| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-17 | In this part, we applied Gherkin to the US-17. | 25/10/2024 |
-| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-18 | In this part, we applied Gherkin to the US-18. | 25/10/2024 |
-| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-19 | In this part, we applied Gherkin to the US-19. | 25/10/2024 |
-| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-23 | In this part, we applied Gherkin to the US-23. | 25/10/2024 |
-| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-24 | In this part, we applied Gherkin to the US-24. | 25/10/2024 |
-
-
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | ba8c9d3 | feat: created US-02 | In this part, we applied Gherkin to the US-02. | 24/10/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | c62fc1c | feat: created US-05 | In this part, we applied Gherkin to the US-05. | 24/10/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | c2b5b8f | feat: created US-10 | In this part, we applied Gherkin to the US-10. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 02af6f4 | feat: created US-11 | In this part, we applied Gherkin to the US-11. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 61ca640 | feat: created US-12 | In this part, we applied Gherkin to the US-12. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 4fb5509 | feat: created US-14 | In this part, we applied Gherkin to the US-14. | 24/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 45d6383 | feat: created US-15 | In this part, we applied Gherkin to the US-15. | 24/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 7479974 | feat: created US-17 | In this part, we applied Gherkin to the US-17. | 25/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | 7dcceee | feat: created US-18 | In this part, we applied Gherkin to the US-18. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | a5b35b3 | feat: created US-19 | In this part, we applied Gherkin to the US-19. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | eaaaa0d | feat: created US-23 | In this part, we applied Gherkin to the US-23. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | cc1a0b7 | feat: created US-24 | In this part, we applied Gherkin to the US-24. | 25/10/2024 |
 
 
 <br><br>
@@ -5397,3 +5395,14 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 
 
 Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eez2_6PljytLnqWa_ob5Vg0BFm4G-jDTj1G9k1iZZPfTiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f0Ac6i)
+
+
+
+## Execution Evidence for Sprint 2 - Product
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/product-sprint-2.png?raw=true">
+ </div>
+
+
+Enlace: [Execution Evidence for Sprint 2]()

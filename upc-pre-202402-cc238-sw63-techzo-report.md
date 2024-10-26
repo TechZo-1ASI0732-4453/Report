@@ -3780,7 +3780,7 @@ Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoi
 
 **Backend**
 
-Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-8483035d8f19.herokuapp.com/swagger-ui/index.html#/)
+Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)
 
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
@@ -4900,7 +4900,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-01</td>
     <td>Sección<br>de<br>perfil</td>
     <td>Implementación de una pantalla que permita a los usuarios editar su información de perfil.</td>
-    <td>2</td>
+    <td>4</td>
     <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
@@ -4910,7 +4910,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-02</td>
     <td>Funcionalidad<br>de<br>cerrar<br>sesión</td>
     <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
-    <td>1</td>
+    <td>2</td>
     <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
@@ -4920,7 +4920,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-03</td>
     <td>Listar<br>artículos<br>publicados</td>
     <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
-    <td>2</td>
+    <td>4</td>
     <td>Joseph<br>Huamani</td>
     <td>Done</td>
   </tr>
@@ -4930,7 +4930,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-04</td>
     <td>Funcionalidad<br>de<br>oferta<br>de<br>intercambio</td>
     <td>Implementar la opción para que los usuarios realicen ofertas de intercambio.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
@@ -4940,7 +4940,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-05</td>
     <td>Pantalla<br>de<br>creación<br>de<br>publicación</td>
     <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
-    <td>5</td>
+    <td>10</td>
     <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
@@ -4950,7 +4950,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-06</td>
     <td>Funcionalidad<br>de<br>eliminación<br>de<br>publicación</td>
     <td>Implementar la opción para que los usuarios eliminen sus publicaciones.</td>
-    <td>2</td>
+    <td>4</td>
     <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
@@ -4960,17 +4960,17 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-07</td>
     <td>Funcionalidad<br>de<br>gestión<br>de<br>intercambios</td>
     <td>Desarrollar la funcionalidad para gestionar los intercambios realizados.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Joseph<br>Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US17</td>
-    <td rowspan="1">Ver<br>objetos<br>destacados</td>
+    <td rowspan="1">Visualizar el<br>perfil del<br>usuario que<br>publique un<br> producto	</td>
     <td>WI-08</td>
-    <td>Funcionalidad<br>de<br>objetos<br>destacados</td>
-    <td>Implementar la opción para que los usuarios vean objetos destacados en la aplicación.</td>
-    <td>3</td>
+    <td>Funcionalidad<br>de<br>vizualizar<br>perfil</td>
+    <td>Implementar la opción para que los usuarios vean los perfiles de los demas usuarios.</td>
+    <td>6</td>
     <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
@@ -4980,7 +4980,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-09</td>
     <td>Funcionalidad<br>de<br>aceptar<br>o<br>rechazar</td>
     <td>Desarrollar la opción para que los usuarios acepten o rechacen los intercambios.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
@@ -4990,7 +4990,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-10</td>
     <td>Funcionalidad<br>de<br>detalles<br>del<br>producto</td>
     <td>Implementar la opción para que los usuarios vean información detallada de un producto.</td>
-    <td>5</td>
+    <td>10</td>
     <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
@@ -5000,7 +5000,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-11</td>
     <td>Funcionalidad<br>de<br>favoritos</td>
     <td>Implementar la opción para que los usuarios gestionen sus artículos favoritos.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Joseph<br>Huamani</td>
     <td>Done</td>
   </tr>
@@ -5010,7 +5010,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/66f1f37d5cabf35
     <td>WI-12</td>
     <td>Funcionalidad<br>de<br>reseñas</td>
     <td>Implementar la opción para que los usuarios vean las reseñas que han recibido.</td>
-    <td>3</td>
+    <td>6</td>
     <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
@@ -5027,9 +5027,31 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 ### **Aplicación Móvil**
 
-| **Repository**<br>                                 | **Branch**<br> | **Commit Id**<br> | **Commit Message**<br>                           | **Commit Message Body**                                                               | **Commited <br> On (Date)** |
-|----------------------------------------------------|-----------------|--------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------|
-
+| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit<br>Message**<br>                                | **Commit<br>Message <br>Body**                                                   | **Commited <br> On (Date)** |
+|-----------------------------------------------|------------------|-------------------|-------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | e35a398<br>       | feat:<br>added whatsapp<br>button                           |I've added the<br>whatsapp button<br>that redirect<br>to the whatsapp<br>of the user<br>change| 23/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | develop<br>      | 1d6c20d<br>       | feat:<br>enhance design<br>across multiple<br>screens| Improved the<br>user interface<br>design for<br>several screens<br>to enhance<br>usability and<br>visual consistency<br>throughout the app.| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c160210<br>       | feat:<br>added new<br>functions in<br>custom dialog| I've added<br>new functions<br>in custom dialog<br>that works<br>when a user<br>wants to send<br>a review| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 34c9533<br>       | feat:<br>added review<br>request dto| I've added<br>review request<br>dto to add<br>new review<br>using the<br>post method| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 86876c8<br>       | feat:<br>fix updated<br>add review<br>function in<br>review service|I've updated<br>add review<br>function in<br>review service| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 1f3f165<br>       |feat:<br>added add<br>review function<br>in review<br>repository| I've added<br>add review<br>function in<br>review repository| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | 942023e<br>       | feat:<br>added show<br>dialog 3 for<br>add review| I've added<br>show dialog 3<br>for add review<br>that works<br>when a user<br>wants to send<br>a review| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | c6afd9b<br>       | feat:<br>added add<br>review function<br>in review<br>view model|I've  added<br>add review<br>function in<br>review view<br>model| 23/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 | d765804<br>       | Merge<br>main to<br>develop                             | Merge<br>Feature/US08<br>into Develop| 23/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | a507200<br>       | feat:<br>added<br>'MakeOfferScreen'|Added<br>'MakeOfferScreen'<br>to manage the<br>offer-making<br>process.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 0773232<br>       | feat:<br>added<br>'OfferViewModel'| Added<br>'OfferViewModel'<br>to handle<br>logic for<br>offers.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | f324809<br>       |feat:<br>added<br>'Confirmation<br>OfferScreen'| Added<br>'Confirmation<br>OfferScreen'<br>to display<br>offer confirmation<br>details.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 9382d1f<br>       | feat:<br>added<br>'ArticleExchange'<br>component| Added<br>'ArticleExchange'<br>component for<br>managing article<br>exchange<br>functionality.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | eb1385a<br>       | chore:<br>corrected the<br>repositories and<br>services for<br>'OfferScreens'<br>implementations| Corrected the<br>repositories and<br>services for<br>'OfferScreens'<br>implementations.| 24/10/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US11 | 4174e56<br>       | chore:<br>corrected<br>routes of<br>'NavScreen' for<br>'OfferScreens'<br>implementations| Corrected<br>routes in<br>'NavScreen' for<br>'OfferScreens'<br>implementations.| 24/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 70d315e<br>       | feat:<br>Implement<br>Function to<br>Retrieve Favorite<br>Products by<br>User ID| Added<br>getFavorite<br>ProductByUserId<br>in ProductDetails<br>Repository<br>to fetch a user's<br>favorite products,<br>returning a Resource<br>object with the<br>results or error<br>messages.| 24/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | baf7bef<br>       | feat:<br>Implement<br>FavoritesViewModel<br>for Managing<br>Favorite Products| Created the<br>FavoritesViewModel<br>to handle the<br>retrieval and<br>management of<br>a user's favorite<br>products. It fetches<br>favorite products<br>using<br>ProductDetails<br>Repository| 22/10/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 89c10e4<br>       | feat:<br>Create<br>FavoritesScreen<br>for Displaying<br>Favorite Products| Implemented<br>FavoritesScreen to<br>list user favorite<br>products, featuring<br>a back button and<br>a confirmation dialog<br>for product removal.| 22/09/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US23 | 3e03cf5<br>       | feat:<br>Add Routing<br>for Favorites<br>Screen| Implemented<br>routing for the<br>"Favorites" screen<br>by defining the<br>route in the<br>Routes sealed<br>class and adding<br>navigation logic<br>in the NavScreen<br>composable.| 22/09/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 69cd15a<br>       | refactor:<br>adjusted<br>profile layout<br>with custom<br>background| I've added the<br>Product Category<br>DTO and Product<br>DTO| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 2d022e2<br>       | refactor:<br>moved and<br>modified tab<br>component<br>for reusability| Modified a<br>tab component and<br>moved it to the<br>components folder<br>to enable<br>reusability across<br>the project.| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 38cd752<br>       | style:<br>updated<br>Tab component<br>styling| Modified the<br>style of the Tab<br>component for<br>improved appearance<br>and consistency<br>across the app.| 23/10/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp        | feature<br>/US17 | 48bdedb<br>       |style:<br>updated<br>product categories<br>buttons design| Changed the<br>styling of the<br>category buttons<br>to enhance their<br>visual presentation.|  23/10/24<br>                |
 
 
 <br><br>
@@ -5041,6 +5063,19 @@ A continuación presentaremos los commits que se han hecho en la rama “product
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
 | - | - | - | - | - | - |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-02 | In this part, we applied Gherkin to the US-02. | 24/10/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-05 | In this part, we applied Gherkin to the US-05. | 24/10/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-10 | In this part, we applied Gherkin to the US-10. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-11 | In this part, we applied Gherkin to the US-11. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-12 | In this part, we applied Gherkin to the US-12. | 24/10/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-14 | In this part, we applied Gherkin to the US-14. | 24/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-15 | In this part, we applied Gherkin to the US-15. | 24/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-17 | In this part, we applied Gherkin to the US-17. | 25/10/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-18 | In this part, we applied Gherkin to the US-18. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-19 | In this part, we applied Gherkin to the US-19. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-23 | In this part, we applied Gherkin to the US-23. | 25/10/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-2 | | feat: created US-24 | In this part, we applied Gherkin to the US-24. | 25/10/2024 |
+
 
 
 
@@ -5060,21 +5095,84 @@ Enlace: [Video del Execution Evidence for Sprint 2]( )
 **Aplicación Móvil:**<br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app 0" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app 1 " ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app 2" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app 3" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app 4" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app 5" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app 6"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-7.png?raw=true" alt="mobile app 7"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-8.png?raw=true" alt="mobile app 8"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-9.png?raw=true" alt="mobile app 9"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-10.png?raw=true" alt="mobile app 10"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-11.png?raw=true" alt="mobile app 11"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-12.png?raw=true" alt="mobile app 12"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-13.png?raw=true" alt="mobile app 13"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-14.png?raw=true" alt="mobile app 14"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-15.png?raw=true" alt="mobile app 15"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-16.png?raw=true" alt="mobile app 16"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-17.png?raw=true" alt="mobile app 17"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-18.png?raw=true" alt="mobile app 18"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-19.png?raw=true" alt="mobile app 19"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-20.png?raw=true" alt="mobile app 20"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-21.png?raw=true" alt="mobile app 21"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-22.png?raw=true" alt="mobile app 22"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-23.png?raw=true" alt="mobile app 23"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-24.png?raw=true" alt="mobile app 24"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-25.png?raw=true" alt="mobile app 25"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-26.png?raw=true" alt="mobile app 26"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-27.png?raw=true" alt="mobile app 27"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-28.png?raw=true" alt="mobile app 28"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-29.png?raw=true" alt="mobile app 29"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-30.png?raw=true" alt="mobile app 30"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-31.png?raw=true" alt="mobile app 31"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-32.png?raw=true" alt="mobile app 32"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-33.png?raw=true" alt="mobile app 33"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-34.png?raw=true" alt="mobile app 34"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-35.png?raw=true" alt="mobile app 35"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-36.png?raw=true" alt="mobile app 36"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-37.png?raw=true" alt="mobile app 37"><br>
 
 </div>
+
 
 <br><br>
 
@@ -5132,7 +5230,7 @@ Para ello, en el repositorio de la aplicación móvil hemos creado ramas para ca
 | feature/US-12    | Se añade la opción de crear publicaciones de intercambio, permitiendo a los usuarios ofrecer sus artículos a otros. |
 | feature/US-14    | Se implementa la capacidad de eliminar publicaciones de intercambio, ofreciendo a los usuarios control sobre su contenido. |
 | feature/US-15    | Se integra la gestión de intercambios, permitiendo a los usuarios ver y administrar los intercambios que han enviado, recibido o aceptado. |
-| feature/US-17    | Se agrega la opción de ver objetos destacados, mejorando la visibilidad de los artículos más relevantes. |
+| feature/US-17    | Se agrega la opción de ver el perfil de los demas usuarios, permitiendo ver sus articulos y reseñas. |
 | feature/US-18    | Se incluye la funcionalidad para aceptar o rechazar un intercambio, brindando a los usuarios control sobre sus interacciones. |
 | feature/US-19    | Se permite la visualización de la información detallada de un producto publicado, mejorando la experiencia del usuario al obtener información específica. |
 | feature/US-23    | Se implementa la gestión de favoritos, permitiendo a los usuarios almacenar y acceder fácilmente a sus artículos preferidos. |

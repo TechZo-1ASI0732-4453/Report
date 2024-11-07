@@ -5277,6 +5277,72 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 <br>
 
+### 5.2.3 Sprint 3
+En esta sección, documentaremos y explicaremos el progreso del Sprint 3 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 5.2.3.1 Sprint Planning 3
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-10-25</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>5:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-2 Review Summary</td>
+    <td>En el Sprint 2, el equipo logró desplegar la segunda versión de la aplicación móvil de CambiaZo, implementando funcionalidades clave que permiten a los usuarios registrados interactuar con los objetos disponibles para intercambio, publicar nuevos artículos y gestionar su perfil. Las User Stories y Work Items planificados se completaron satisfactoriamente. El proyecto fue compilado y se verificó el acceso a las pantallas establecidas, además de la funcionalidad de publicación de objetos y el sistema de notificaciones.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-2 Retrospective Summary</td>
+    <td>Durante la retrospectiva del Sprint 2, el equipo evaluó el desempeño y destacó mejoras en la implementación de las funcionalidades clave para la aplicación móvil. La planificación y ejecución fueron eficaces, y la colaboración entre los miembros facilitó el cumplimiento de las tareas a tiempo. Sin embargo, se identificaron áreas para perfeccionar, especialmente en la implementación inicio de sesión con google y la gestión de edición en publicaciones de objetos, que demandaron más tiempo de lo estimado. Para el siguiente sprint, el equipo enfocará esfuerzos en afinar la precisión en las estimaciones de tareas complejas y en fortalecer la coordinación para optimizar los tiempos de entrega.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 </td>
+    <td><br>
+  Desplegar una tercera versión de la aplicación móvil de CambiaZo con mejoras de rendimiento y experiencia de usuario, incluyendo optimización en la llamada a servicios, una ventana de suscripciones, ajustes en el diseño y el inicio de sesión con Google para facilitar el acceso de los usuarios.<br><br>Para evaluar el cumplimiento de este sprint, utilizaremos la siguientes métricas:
+
+  Verificar compilación y correcto despliegue de las mejoras de diseño.
+  Comprobar que la optimización de servicios mejore el tiempo de respuesta.
+  Validar el inicio de sesión con Google para acceso automático.
+  Evaluaremos el éxito midiendo la reducción de tiempos de carga y la adopción del inicio de sesión con Google.</td>
+</tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td> 23 Story Points</td>
+  </tr>
+</table><br><br>
+
 
 <div style="page-break-after: always;"></div>
 

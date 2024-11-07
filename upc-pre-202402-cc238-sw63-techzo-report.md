@@ -5367,6 +5367,122 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2
 
 <div style="page-break-after: always;"></div>
 
+#### 5.2.3.2 Sprint Backlog 3
+En este tercer sprint, nos enfocaremos en implementar funciones esenciales para mejorar la experiencia del usuario en CambiaZo. Esto incluye la capacidad de ......
+
+Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
+
+
+
+<br><br>
+
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, todos estos commits se han hecho en ramas donde cada una representa una User Story durante el desarrollo de nuestro Sprint 3.<br><br>
+
+### **Aplicación Móvil**
+
+
+<br><br>
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “product/feature/sprint-2” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 2.
+
+
+<br><br>
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3, mejoramos exitosamente la aplicación móvil implementando funciones como ....
+
+A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 3 en la app móvil:
+
+Enlace: [Video del Execution Evidence for Sprint 3]()
+<br><br>
+
+
+**Aplicación Móvil:**<br>
+
+<div align="center">
+
+</div>
+
+
+<br><br>
+
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 3,
+
+<br><br>
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 3:
+
+
+
+**Aplicación Móvil:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+
+
+
+</div>
+
+<br>
+En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”.<br>
+
+<div align="center">
+  <img src="">
+</div>
+
+<br><br>
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “CambiazoApp”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 3.
+
+
+<b>Tabla de identificación</b>
+
+<div align="center">
+
+| Username (Github) | Nombre |
+|-------------------|--------------------------|
+| HelloNerk | Huamani Mandujano, Joseph Alexis |
+| 123-Mathi | Mendoza Carrión, Mathias André |
+| Jemisas | Quispe Andia, Jeremy Joel |
+| IanHD04 | Santisteban Palomino, Ian Haziel Donato |
+
+</div>
+
+<b>Analíticos de GitHub</b>
+
+  + Aplicación Móvil
+          <div align="center">
+        <img src="">
+        </div><br><br>
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
+
+<br>
+
 # Conclusiones
 
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.

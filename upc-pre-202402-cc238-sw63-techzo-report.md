@@ -5527,6 +5527,359 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 <br>
 
+#### 5.3 Validation Interviews
+En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
+
+#### 5.3.1 Diseño de Entrevistas
+
+**Preguntas generales**
+
+* ¿Cuál es su nombre completo?
+* ¿Qué edad tiene?
+* ¿A qué se dedica?
+* ¿En qué distrito reside?
+<br><br>
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Preguntas específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación móvil?
+
+2. ¿Cuál considera que es la parte más importante de ambas? ¿Por qué?
+
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación móvil, ¿qué cambiaría o añadiría?
+
+4. ¿Cree que la solución presentada facilitará la realización de intercambios y que brindará una mayor confianza a los usuarios? ¿Por qué?
+
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+
+6. Sobre la aplicación móvil, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+
+7. ¿Usted utilizaría la aplicación móvil para realizar intercambios? ¿Por qué?
+
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
+9. ¿Qué tipo de artículos está más interesado en intercambiar y por qué?
+
+10. ¿Cuál ha sido su experiencia previa con plataformas de intercambio o comercio de segunda mano?
+
+11. ¿Tiene alguna preocupación de seguridad o privacidad al utilizar plataformas de intercambio online?
+
+12. ¿Qué método considera más accesible o conveniente para acceder a las suscripciones de CambiaZo?
+
+13. ¿Qué características adicionales le gustaría ver implementadas en la aplicación de CambiaZo en el futuro?
+
+### 5.3.2 Registro de Entrevistas
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para nuestro segmento objetivo principal de nuestro proyecto.
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> [COMPLETAR] </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> [COMPLETAR] </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> [COMPLETAR] </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> [COMPLETAR] </td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>[COMPLETAR]</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> [COMPLETAR] </td>
+  </tr>
+</tbody>
+</table>
+<br>
+<br>
+
+### 5.3.3 Evaluaciones Según Heurísticas
+
+
 # Conclusiones
 
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.

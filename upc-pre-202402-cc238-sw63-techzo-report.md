@@ -5327,7 +5327,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
 
-<br>
+<br><br>
 
 ### 5.2.3 Sprint 3
 En esta sección, documentaremos y explicaremos el progreso del Sprint 3 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
@@ -5387,25 +5387,112 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2
 </tr>
   <tr>
     <td>Sprint 3 Velocity</td>
-    <td>25 Story Points</td>
+    <td>24 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td> 23 Story Points</td>
+    <td>22 Story Points</td>
   </tr>
-</table><br><br>
+</table>
 
+<br><br>
 
-<div style="page-break-after: always;"></div>
 
 #### 5.2.3.2 Sprint Backlog 3
-En este tercer sprint, nos enfocaremos en implementar funciones esenciales para mejorar la experiencia del usuario en CambiaZo. Esto incluye la capacidad de ......
+En este tercer sprint, nos centraremos en fortalecer la experiencia premium de los usuarios y en mejorar la seguridad y el control de la cuenta. Se implementarán funciones clave como la adquisición y cancelación de suscripciones premium, brindando a los usuarios acceso a beneficios adicionales. También se trabajará en la opción de cambiar la contraseña para reforzar la seguridad, y se añadirá la funcionalidad de eliminación de cuenta para ofrecer control total sobre los datos personales. Adicionalmente, se integrará la capacidad para editar publicaciones de intercambio y dejar reseñas sobre otros intercambiadores, fomentando una interacción transparente y constructiva entre los usuarios de CambiaZo.
+
 
 Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
 
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Sprint-Backlog/Sprint3-Trello.png?raw=true" alt="sprint 3">
+</div><br><br>
 
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estim<br>ation<br>(Hours)</td>
+      <td>Assigned<br>to</td>
+      <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US04</td>
+      <td rowspan="1">Cambiar<br>Contraseña</td>
+      <td>WI-01</td>
+      <td>Funcionalidad<br>de<br>cambiar<br>contraseña</td>
+      <td>Implementación de la opción para que los usuarios cambien su contraseña.</td>
+      <td>4</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US08</td>
+      <td rowspan="1">Brindar<br>reseña<br>sobre<br>Intercambiador</td>
+      <td>WI-02</td>
+      <td>Funcionalidad<br>de<br>reseñas</td>
+      <td>Permitir a los usuarios dejar una reseña sobre su experiencia con el intercambiador.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US09</td>
+      <td rowspan="1">Eliminación<br>de cuenta</td>
+      <td>WI-03</td>
+      <td>Funcionalidad<br>de<br>eliminar<br>cuenta</td>
+      <td>Permitir a los usuarios eliminar su cuenta y datos de forma permanente.</td>
+      <td>6</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US13</td>
+      <td rowspan="1">Editar<br>publicación<br>de intercambio</td>
+      <td>WI-04</td>
+      <td>Funcionalidad<br>de editar<br>publicación</td>
+      <td>Permitir a los usuarios editar una publicación existente.</td>
+      <td>6</td>
+      <td>Jeremy<br>Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US20</td>
+      <td rowspan="1">Adquirir<br>suscripción<br>premium</td>
+      <td>WI-05</td>
+      <td>Funcionalidad<br>de adquirir<br>suscripción</td>
+      <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
+      <td>16</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US21</td>
+      <td rowspan="1">Cancelar<br>suscripción</td>
+      <td>WI-06</td>
+      <td>Funcionalidad<br>de cancelar<br>suscripción</td>
+      <td>Permitir a los usuarios cancelar su suscripción premium en cualquier momento.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 <br><br>
+
+
 
 
 #### 5.2.3.3 Development Evidence for Sprint Review
@@ -5416,13 +5503,13 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 | **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit Message**<br>                                | **Commit Message Body**                                                   | **Commited <br> On (Date)** |
 |-----------------------------------------------|------------------|-------------------|-------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  7f8614b<br>       | feat: added datastore<br>preferences in libs versions | I've added datastore preferences in libs versions                         | 31/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  b7e875e<br>       | feat: added implementation<br>of datastore preferences| I've added implementation of datastore preferences in build gradle       | 31/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  d9eceb9<br>       | feat: added user<br>preferences class              | I've added user preferences class to stay logged                         | 31/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  6e4562d<br>       | feat: integrated user<br>preferences into<br>SignInViewModel<br>for session handling | I've modified the SignInViewModel to include UserPreferences for better session management.| 31/10/24<br> |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  4dd0e5c<br>       | feat: added UserPreferences<br>provider in Cambiazo module| I've added a provider method for UserPreferences in the dependency injection module.| 31/10/24<br> |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  2fe5047<br>       | feat: added logout state<br>management in ProfileViewModel| I've implemented state management for user logout in the ProfileViewModel.| 31/10/24<br>                |
-| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US3 |  1aad64b<br>       | feat: added logout effect<br>in the profile screen   | I've implemented a LaunchedEffect in the profile screen to handle user logout.| 31/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US04 |  7f8614b<br>       | feat: added datastore<br>preferences in libs versions | I've added datastore preferences in libs versions                         | 31/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US04 |  b7e875e<br>       | feat: added implementation<br>of datastore preferences| I've added implementation of datastore preferences in build gradle       | 31/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US04 |  d9eceb9<br>       | feat: added user<br>preferences class              | I've added user preferences class to stay logged                         | 31/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 |  6e4562d<br>       | feat: integrated user<br>preferences into<br>SignInViewModel<br>for session handling | I've modified the SignInViewModel to include UserPreferences for better session management.| 31/10/24<br> |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US08 |  4dd0e5c<br>       | feat: added UserPreferences<br>provider in Cambiazo module| I've added a provider method for UserPreferences in the dependency injection module.| 31/10/24<br> |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US09 |  2fe5047<br>       | feat: added logout state<br>management in ProfileViewModel| I've implemented state management for user logout in the ProfileViewModel.| 31/10/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US09 |  1aad64b<br>       | feat: added logout effect<br>in the profile screen   | I've implemented a LaunchedEffect in the profile screen to handle user logout.| 31/10/24<br>                |
 | 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US13 |  b3e57c5<br>       | refactor: converted<br>uploadImageToFirebase to<br>suspend function| Updated the image upload function to be suspendable, enabling better asynchronous handling with Firebase.| 31/10/24<br> |
 | 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US13 |  93ef57c<br>       | refactor: display<br>predefined values in<br>dropdown on edit | Adjusted dropdown menu to show a list of predefined values when editing. | 31/10/24<br>                |
 | Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | develop           | 3e36ef2<br>       | feat: added auth<br>with google                  | Implemented Google authentication, allowing users to sign in using their Google account.| 02/11/24                    |
@@ -5434,10 +5521,10 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 | IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US20 | a10f64f<br>       | feat: add<br>userSubscription to Constants      | Added userSubscription property to Constants to store and manage user subscription data efficiently across the application.| 04/11/24<br> |
 | IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US20 | 5336c7e<br>       | feat: fetch and store<br>user subscription on<br>sign-in user<br>subscription data<br>efficiently across the application.| Added logic to fetch the user's subscription data during sign-in and store it in Constants.| 04/11/24<br> |
 | Jemisas/TechZo-CC238-SW63/<br>CambiazoApp     | develop           | 607bb6e<br>       | feat: added 'DialogApp'<br>of 'ProductDetailsScreen'| Added a 'DialogApp' component to the 'ProductDetailsScreen' for enhanced product interaction and user engagement within the product details view.| 05/11/24                    |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US16 | b061309<br>       | refactor: separated<br>publish and view<br>articles sections | Updated the app to separate functionalities for publishing and viewing articles.| 06/11/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US16 | 32f78bd<br>       | refactor: removed<br>all donation-related<br>features | Cleared the app of all donation functionality, streamlining focus on core features.| 06/11/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US16 | 0b5ba4e<br>       | style: updated<br>bottom navigation design       | Improved the design of the bottom navigation for better user experience. | 07/11/24<br>                |
-| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US16 | cbd9621<br>       | fix: fixed navigation<br>into Publish screen    | Fixed navigation on post screen taking a null argument                    | 07/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US09 | b061309<br>       | refactor: separated<br>publish and view<br>articles sections | Updated the app to separate functionalities for publishing and viewing articles.| 06/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US21 | 32f78bd<br>       | refactor: removed<br>all donation-related<br>features | Cleared the app of all donation functionality, streamlining focus on core features.| 06/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US21 | 0b5ba4e<br>       | style: updated<br>bottom navigation design       | Improved the design of the bottom navigation for better user experience. | 07/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US21 | cbd9621<br>       | fix: fixed navigation<br>into Publish screen    | Fixed navigation on post screen taking a null argument                    | 07/11/24<br>                |
 
 <br><br>
 
@@ -5446,23 +5533,80 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 A continuación presentaremos los commits que se han hecho en la rama “product/feature/sprint-2” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 2.
 
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
+| - | - | - | - | - | - |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | e017ba0 | feat: created US-04 | In this part, we applied Gherkin to the US-04. | 07/11/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | 4534357 | feat: created US-08 | In this part, we applied Gherkin to the US-08. | 07/11/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | 476a87f | feat: created US-09 | In this part, we applied Gherkin to the US-09. | 07/11/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | 16905dd | feat: created US-13 | In this part, we applied Gherkin to the US-13. | 07/11/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | 9d9f5de | feat: created US-20 | In this part, we applied Gherkin to the US-20. | 08/11/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test | product/feature/sprint-3 | 70f2ece | feat: created US-21 | In this part, we applied Gherkin to the US-21. | 08/11/2024 |
 
 <br><br>
 
 
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-En el Sprint 3, mejoramos exitosamente la aplicación móvil implementando funciones como ....
+En el Sprint 3, se implementaron mejoras clave en la aplicación, como la opción de cambiar contraseña, reseñas de usuarios, eliminación de cuentas, edición de publicaciones y la gestión de suscripciones premium, otorgando mayor seguridad, control y flexibilidad a los usuarios. La estructura de desarrollo basada en GitFlow permitió una integración continua y pruebas exhaustivas, asegurando la calidad y estabilidad de las nuevas funcionalidades implementadas.
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 3 en la app móvil:
 
 Enlace: [Video del Execution Evidence for Sprint 3]()
+
 <br><br>
 
 
 **Aplicación Móvil:**<br>
 
 <div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app 0" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app 1 " ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app 2" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app 3" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app 4" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app 5" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app 6"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-7.png?raw=true" alt="mobile app 7"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-8.png?raw=true" alt="mobile app 8"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-9.png?raw=true" alt="mobile app 9"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-10.png?raw=true" alt="mobile app 10"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-11.png?raw=true" alt="mobile app 11"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-12.png?raw=true" alt="mobile app 12"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-13.png?raw=true" alt="mobile app 13"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-14.png?raw=true" alt="mobile app 14"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-15.png?raw=true" alt="mobile app 15"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-16.png?raw=true" alt="mobile app 16"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-17.png?raw=true" alt="mobile app 17"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-18.png?raw=true" alt="mobile app 18"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-19.png?raw=true" alt="mobile app 19"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-20.png?raw=true" alt="mobile app 20"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-21.png?raw=true" alt="mobile app 21"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-22.png?raw=true" alt="mobile app 22"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/mobile-app-23.png?raw=true" alt="mobile app 23"><br>
 
 </div>
 
@@ -5474,7 +5618,13 @@ Enlace: [Video del Execution Evidence for Sprint 3]()
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Durante el Sprint 3,
+Durante el Sprint 3, se completaron varias mejoras enfocadas en optimizar la seguridad y experiencia del usuario. La opción para cambiar contraseña fue implementada, permitiendo a los usuarios actualizar sus credenciales de forma segura, reforzando la protección de datos y aumentando la confianza en la plataforma.
+
+Se habilitó la funcionalidad de reseñas, donde los usuarios pueden calificar a otros intercambiadores, fomentando un sistema de retroalimentación positivo y ayudando a construir una comunidad confiable. Adicionalmente, se incluyó la opción de eliminar cuentas, otorgando a los usuarios control total sobre sus datos personales y cumpliendo con buenas prácticas de privacidad.
+
+La capacidad de editar publicaciones también fue incorporada, permitiendo a los usuarios corregir o mejorar la información de sus artículos ya publicados, lo que facilita la precisión y presentación de los intercambios. En el ámbito de suscripciones, se introdujeron las opciones para adquirir y cancelar suscripciones premium, ofreciendo beneficios adicionales y flexibilidad en la gestión de pagos.
+
+El equipo utilizó GitHub de manera efectiva para la gestión del código, favoreciendo la colaboración continua y la integración sin contratiempos. Este enfoque permitió cumplir con los objetivos del Sprint de manera eficiente, sentando una base sólida para las próximas iteraciones del proyecto.
 
 <br><br>
 
@@ -5483,17 +5633,39 @@ Durante el Sprint 3,
 
 Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 3:
 
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Móvil y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+</div>
+En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
 
 
 **Aplicación Móvil:**
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
   </div><br><br>
 
 <div align="center">
 
-
+| Rama             | Descripción                                                                                             |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| feature/US-04    | Se implementa la funcionalidad para cambiar la contraseña, permitiendo a los usuarios actualizar su clave de acceso. |
+| feature/US-08    | Se habilita la opción para brindar reseñas sobre los intercambiadores, permitiendo a los usuarios dejar comentarios sobre su experiencia. |
+| feature/US-09    | Se desarrolla la opción de eliminación de cuenta, permitiendo a los usuarios borrar permanentemente su cuenta y datos. |
+| feature/US-13    | Se añade la funcionalidad para editar publicaciones de intercambio, facilitando a los usuarios actualizar los detalles de sus ofertas. |
+| feature/US-20    | Se incluye la opción para adquirir una suscripción premium, ofreciendo beneficios adicionales a los usuarios. |
+| feature/US-21    | Se permite la cancelación de suscripción premium, proporcionando a los usuarios la flexibilidad de finalizar su suscripción en cualquier momento. |
 
 
 </div>
@@ -5502,10 +5674,11 @@ Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sp
 En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”.<br>
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app-network.png?raw=true">
 </div>
 
 <br><br>
+
 
 
 
@@ -5531,12 +5704,12 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
   + Aplicación Móvil
           <div align="center">
-        <img src="">
+        <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Insights/mobile-app-insights.png?raw=true" alt="contributor-evidence-cambiazoapp">
         </div><br><br>
 
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
 
-<br>
+<br><br>
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
@@ -5555,31 +5728,48 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 
 **Preguntas específicas**
 
-1. ¿Qué le pareció nuestra landing page y nuestra aplicación móvil?
+1. ¿Qué le pareció la landing page y la aplicación móvil de CambiaZo? ¿Hubo algo específico que le llamó la atención o que le gustó?  
 
-2. ¿Cuál considera que es la parte más importante de ambas? ¿Por qué?
+2. ¿Qué cambiaría o añadiría en la landing page o en la aplicación móvil para mejorar su experiencia?  
 
-3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación móvil, ¿qué cambiaría o añadiría?
+3. ¿Le pareció intuitiva y fácil de usar la aplicación? ¿Hubo algo que no entendió o le resultó confuso?  
 
-4. ¿Cree que la solución presentada facilitará la realización de intercambios y que brindará una mayor confianza a los usuarios? ¿Por qué?
+4. ¿Cree que la aplicación facilita los intercambios y genera confianza entre los usuarios? ¿Por qué?  
 
-5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+5. ¿Qué preocupaciones tiene sobre la seguridad o privacidad al utilizar una plataforma de intercambio online? ¿Qué medidas cree que podrían aumentar su confianza?  
 
-6. Sobre la aplicación móvil, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+6. ¿Qué aspectos le motivarían a utilizar CambiaZo para realizar intercambios? ¿Qué factores podrían hacerle dudar?  
 
-7. ¿Usted utilizaría la aplicación móvil para realizar intercambios? ¿Por qué?
+7. ¿Con qué frecuencia cree que utilizaría CambiaZo para realizar intercambios (diaria, semanal, mensual)? ¿En qué situaciones específicas la usaría?  
 
-8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+8. ¿Qué tipo de artículos le interesaría intercambiar más (ropa, juguetes, electrónica, etc.)? ¿Por qué?  
 
-9. ¿Qué tipo de artículos está más interesado en intercambiar y por qué?
+9. ¿Cómo compara CambiaZo con otras plataformas similares que ha utilizado? ¿Qué aspectos considera que CambiaZo hace mejor o peor?  
 
-10. ¿Cuál ha sido su experiencia previa con plataformas de intercambio o comercio de segunda mano?
+10. ¿Qué métodos de acceso a suscripciones considera más convenientes: pagos únicos, suscripciones mensuales o acceso gratuito con características limitadas?  
 
-11. ¿Tiene alguna preocupación de seguridad o privacidad al utilizar plataformas de intercambio online?
+11. ¿Cómo preferiría coordinar los intercambios: chat dentro de la aplicación, contacto por WhatsApp o puntos de encuentro sugeridos por la app?  
 
-12. ¿Qué método considera más accesible o conveniente para acceder a las suscripciones de CambiaZo?
+12. ¿Qué tan fácil le resultó publicar un artículo para intercambio? ¿Qué parte del proceso mejoraría?  
 
-13. ¿Qué características adicionales le gustaría ver implementadas en la aplicación de CambiaZo en el futuro?
+13. ¿Qué características adicionales le gustaría ver en CambiaZo, como opciones de envío o eventos comunitarios? ¿Por qué cree que serían útiles?  
+
+14. ¿Qué tan valioso considera el servicio que ofrece CambiaZo (califique de 1 a 5)? ¿Qué lo haría más valioso para usted?  
+
+15. ¿Recomendaría CambiaZo a amigos y familiares? ¿Qué les diría para motivarlos a unirse?  
+
+16. ¿Notó algún problema técnico o fallo durante su uso de la aplicación? ¿Hubo algo que no funcionó como esperaba?  
+
+17. ¿Hubo algo durante su experiencia con la aplicación que le hizo dudar sobre registrarse o continuar usándola? ¿Qué factores le dificultaron el uso?  
+
+18. ¿Consideraría útil que CambiaZo tenga una función para eventos de intercambio comunitarios o ferias virtuales? ¿Por qué?  
+
+19. ¿Hay algo más que quisiera comentar sobre su experiencia con CambiaZo?
+
+
+
+<br><br>
+
 
 ### 5.3.2 Registro de Entrevistas
 
@@ -5592,7 +5782,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #1<br></th>
   </tr>
 </thead>
 <tbody>
@@ -5652,7 +5842,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #2<br></th>
   </tr>
 </thead>
 <tbody>
@@ -5712,7 +5902,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
@@ -5772,7 +5962,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>

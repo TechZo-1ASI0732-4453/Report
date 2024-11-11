@@ -5944,7 +5944,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -6004,7 +6004,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-ian.png?raw=true" alt="Saúl Díaz Sánchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>

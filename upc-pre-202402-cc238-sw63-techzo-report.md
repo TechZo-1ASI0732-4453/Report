@@ -5912,15 +5912,15 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>[COMPLETAR]</td>
+    <td>Nelson Elías</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>[COMPLETAR]</td>
+    <td>Serrano</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -5940,7 +5940,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>[COMPLETAR]</td>
+    <td>Mathías Andre Mendoza Carrión</td>
   </tr>
    <tr>
     <td>Evidencia</td>
@@ -5956,7 +5956,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> [COMPLETAR] </td>
+    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
   </tr>
 </tbody>
 </table>
@@ -5972,15 +5972,15 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>[COMPLETAR]</td>
+    <td>Ian Joaquín</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>[COMPLETAR]</td>
+    <td>Sánchez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td>27 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -6000,7 +6000,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>[COMPLETAR]</td>
+    <td>Mathias Andre Mendoza Carrion</td>
   </tr>
    <tr>
     <td>Evidencia</td>
@@ -6016,7 +6016,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> [COMPLETAR] </td>
+    <td>Durante la entrevista, Ian Sánchez, un profesional en tecnología, compartió su opinión sobre la aplicación móvil y la landing page. Ian mencionó que la interfaz de la aplicación es atractiva, pero sugirió mejorar la experiencia del usuario añadiendo una sección de preguntas frecuentes para reducir los tiempos de espera y un tutorial paso a paso para facilitar el uso a usuarios menos experimentados. Además, resaltó la importancia de proteger la privacidad de los datos de los usuarios, sugiriendo medidas de seguridad adicionales como respaldos ante posibles hackeos. También propuso incluir un sistema para detectar bots y eventos comunitarios, como descuentos en envíos, para incentivar la participación. Aunque consideró que la aplicación es buena, Ian destacó que sería valioso seguir perfeccionando la plataforma, especialmente en lo que respecta a la seguridad y el cumplimiento de estándares de desarrollo. </td>
   </tr>
 </tbody>
 </table>

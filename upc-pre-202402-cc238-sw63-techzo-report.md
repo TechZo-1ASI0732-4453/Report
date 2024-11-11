@@ -5849,23 +5849,23 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>[COMPLETAR]</td>
+    <td>Saúl David</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>[COMPLETAR]</td>
+    <td>Díaz Suárez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td>24 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Miraflores</td>
+    <td>San Juan de Lurigancho</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
+    <td>Google Meet</td>
   </tr>  
   <tr>
     <td>Tecnologías</td>
@@ -5877,11 +5877,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>[COMPLETAR]</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5893,7 +5893,10 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> [COMPLETAR] </td>
+    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
+        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
+        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    </td>
   </tr>
 </tbody>
 </table>

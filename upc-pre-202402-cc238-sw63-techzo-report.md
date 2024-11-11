@@ -5788,19 +5788,19 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>[COMPLETAR]</td>
+    <td>Erick Maycol</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>[COMPLETAR]</td>
+    <td>Huallullo Cirineo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Miraflores</td>
+    <td>Ate</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -5816,11 +5816,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>[COMPLETAR]</td>
+    <td>Jeremy Quispe</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/erick-maycol-evidence.png?raw=true" alt="Erick Maycol Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5832,10 +5832,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> [COMPLETAR] </td>
+    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
   </tr>
 </tbody>
 </table>
+
 
 <table>
 <colgroup>

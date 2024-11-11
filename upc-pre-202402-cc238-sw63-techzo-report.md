@@ -241,11 +241,11 @@
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
+    - [5.3.3. Evaluaciones Según Heurísticas](#533-evaluaciones-segun-heuristicas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
   - [Video App Validation](#video-app-validation)
   - [Video About the product](#video-about-the-product)
   - [Video About the team](#video-about-the-team)
@@ -5552,7 +5552,7 @@ En el Sprint 3, se implementaron mejoras clave en la aplicación, como la opció
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 3 en la app móvil:
 
-Enlace: [Video del Execution Evidence for Sprint 3]()
+Enlace: [Video del Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ESMI2_GdUhhHu4sYMbP_4ikBzwXpXoiC7KI9TmGwYFA9xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4NyFTS)
 
 <br><br>
 
@@ -5824,11 +5824,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>42:36 min - 47:47 min</td>
+    <td>00:00 min - 20:24 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5838,75 +5838,13 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </table>
 
 
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Saúl David</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Díaz Suárez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>24 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Juan de Lurigancho</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Meet</td>
-  </tr>  
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop y Computadora</td>
-  </tr>
-  <tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>42:36 min - 47:47 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
-        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
-        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
-    </td>
-  </tr>
-</tbody>
-</table>
 	    
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #2<br></th>
   </tr>
 </thead>
 <tbody>
@@ -5948,11 +5886,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>42:36 min - 47:47 min</td>
+    <td>20:25 min - 32:03 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5961,12 +5899,140 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </tbody>
 </table>
 	    
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Saúl David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Díaz Suárez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meet</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>32:04 min - 48:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
+        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
+        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    </td>
+  </tr>
+</tbody>
+</table>
+
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu Orlando</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vasquez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=R2JSggdfq-td-KS5" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>38:42 min - 53:18 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Edu resalta el diseño atractivo y sencillo de CambiaZo, destacando la clara disposición de las opciones y la integración eficaz con ONGs para promover la economía circular. Sin embargo, sugiere mejorar algunos aspectos, como la visibilidad de los botones de acceso a ciertas funciones, que podrían destacarse más. También propone añadir testimonios de usuarios para reforzar la confianza en la plataforma, así como optimizar la velocidad de carga de la app. En cuanto a los perfiles, recomienda ofrecer más opciones de personalización para que los usuarios puedan adaptarlos a sus necesidades. Además, sugiere la incorporación de validaciones de identidad y la implementación de opciones para realizar transacciones protegidas, lo cual podría aumentar la confianza de los usuarios en el sistema. Otra recomendación es organizar eventos comunitarios que ayuden a fortalecer la conexión entre los usuarios y generar una mayor interacción. A pesar de estas sugerencias, Edu ve un gran potencial en la app, pero enfatiza la importancia de mejorar la seguridad, los filtros y la experiencia de usuario para asegurar su éxito a largo plazo.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
@@ -6008,11 +6074,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=R2JSggdfq-td-KS5" title="Title">Youtube</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>42:36 min - 47:47 min</td>
+    <td>53:19 min - 70:07 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -6020,65 +6086,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
 </tbody>
 </table>
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #5<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>[COMPLETAR]</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>[COMPLETAR]</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Miraflores</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>  
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop y Computadora</td>
-  </tr>
-  <tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>[COMPLETAR]</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="[COMPLETAR]" alt="[COMPLETAR]"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="[COMPLETAR]" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>42:36 min - 47:47 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td> [COMPLETAR] </td>
-  </tr>
-</tbody>
-</table>
+
 <br>
 <br>
 
@@ -6096,21 +6104,55 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 CambiaZo
 <br>
 
-**Tareas a evaluar:**
-1.	Registro de un nuevo usuario dentro de la aplicación web.
-2.	Inicio de sesión con datos incorrectos y correctos.
-3.	Cambio de contraseña.
-4.	Crear y editar una publicación de intercambio
-5.	Ver perfil del usuario con su calificación
-6.	Agregar y eliminar productos a la sección de Favoritos
-7.	Editar perfil del usuario
-8.	Adquirir una membresía, cambiarla y cancelarla
-9.	Ofertar por productos de otros usuarios
-10.	Ver perfiles y reseñas de otros usuarios
-11.	Filtrar y ver la información completa de los objetos dentro de la aplicación
-12.	Filtrar y ver la información a detalle de las ONG ‘s registradas
+**TAREAS A EVALUAR:**
 
-<br>
+1. **Registro e Inicio de Sesión**
+   - Evaluar la facilidad de completar el registro como nuevo usuario.
+   - Verificar la claridad de los mensajes de error durante el registro o inicio de sesión fallido.
+   - Probar el proceso de recuperación de contraseña.
+
+2. **Navegación General en la Aplicación**
+   - Comprobar la facilidad de navegación a través del menú principal.
+   - Evaluar la estructura de la información para encontrar secciones como “Mi Perfil”, “Publicaciones”, “Intercambios”, etc.
+   - Verificar si el usuario puede orientarse fácilmente dentro de la app.
+
+3. **Creación de una Publicación**
+   - Probar el proceso de creación de una publicación para intercambio, desde seleccionar categoría hasta subir fotos y agregar descripción.
+   - Evaluar la comprensión de los campos requeridos y la claridad de las instrucciones.
+
+4. **Búsqueda y Filtrado de Artículos**
+   - Evaluar la efectividad del motor de búsqueda para encontrar artículos específicos.
+   - Probar los filtros de búsqueda (categoría, estado del artículo, ubicación, etc.) y verificar su comprensión y facilidad de uso.
+   - Verificar si hay un botón claro para “Borrar filtros”.
+
+5. **Interacción con Otras Publicaciones**
+   - Evaluar la facilidad para ver los detalles de una publicación (imágenes, descripción, condiciones de intercambio).
+   - Probar el envío de ofertas de intercambio y mensajes directos al propietario del artículo.
+
+6. **Gestión de Suscripciones o Compras**
+   - Probar el proceso de suscripción o compra de productos o servicios dentro de la app.
+   - Verificar la facilidad para gestionar la suscripción o compra, como cambiar planes o cancelar suscripciones.
+   - Evaluar la claridad de los mensajes sobre el estado de la suscripción o compra (confirmación, errores, etc.).
+
+7. **Gestión de Intercambios**
+   - Probar la facilidad para ver el estado de los intercambios activos.
+   - Evaluar la claridad del proceso para aceptar o rechazar ofertas de intercambio.
+   - Comprobar si el usuario entiende cómo finalizar un intercambio exitoso.
+
+8. **Personalización del Perfil de Usuario**
+   - Evaluar la facilidad para editar información del perfil (nombre, foto de perfil, ubicación).
+   - Probar las opciones de personalización, como cambiar al modo oscuro.
+
+9. **Feedback del Usuario**
+   - Evaluar la presencia y accesibilidad de opciones para dejar feedback sobre la experiencia o reportar problemas.
+
+10. **Experiencia General en Diferentes Dispositivos**
+    - Probar la consistencia y usabilidad de la app en diferentes dispositivos (móviles, tablets).
+    - Evaluar si la interfaz es responsiva y si se adapta adecuadamente al tamaño de la pantalla.
+
+
+<br><br>
+
 
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
@@ -6122,76 +6164,192 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
 |**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
 
-<br>
+<br><br>
+
 
 **TABLA DE RESUMEN:**
 
-|N|Problema|Escala de severidad|Heurística/Principio violada(o)|
-| :-: | :-: | :-: | :-: |
-|1|Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.|2|Usability: Libertad y control del usuario|
-|2|Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.|2|Usability: Libertad y control del usuario|
 
-<br>
+| **N** | **Problema** | **Escala de severidad** | **Heurística/Principio violada(o)** |
+|:------:|:-------------:|:----------------------:|:---------------------------------:|
+| 1 | Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 2 | No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida. | 2 (Problema menor) | Usabilidad: Estética y diseño minimalista |
+| 3 | No se muestra un mensaje cuando no hay productos disponibles para mostrar. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 4 | En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 5 | En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 6 | En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+
+
+<br><br>
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
 <br>
 
-**Problema 1: Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.**
+**Problema 1: Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro.**
 
-Severidad: 2
+Severidad: 3 (Problema mayor)
 
-Heurística violada: Usability: Libertad y control del usuario
-
-Problema:
-
-Al momento de escribir la localización por la cual queremos filtrar las ONG, solo aparece si está escrito todo en minúsculas, por lo que al escribir con mayúsculas no se muestra ninguna ONG. Esto puede generar confusión entre los usuarios, ya que pueden pensar que no existe una ONG registrada dentro de nuestra aplicación web en la localización que desean buscar dentro de la aplicación web, pero la realidad es que sí existe pero escrito en minúsculas.
-
-<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/problem-1.PNG?raw=true" alt="Problema 1"></div>
-
-
-<br>Recomendación:
-
-Añadir que se pueda buscar tanto en minúsculas como en mayúsculas como también combinado en mayúsculas y minúsculas, de este modo no habrá problema cuando los usuarios ingresen las locaciones de cualquier manera.
-<br><br>
-
-**Problema #2: Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.**
-
-Severidad: 2
-
-Heurística violada: Usability: Libertad y control del usuario
+Heurística violada: Visibilidad del estado del sistema
 
 Problema:
 
-Al momento de escribir el nombre del producto que queremos filtrar, solo aparece si está escrito exactamente como en la publicación, por lo que al escribir con mayúsculas o minúsculas no se muestra el producto. Esto puede generar confusión entre los usuarios, ya que pueden pensar que no existe el objeto que desean dentro de la aplicación web, pero la realidad es que sí existe pero escrito con una minúscula o mayúscula diferente.
+Cuando el usuario intenta cambiar su contraseña y las contraseñas no coinciden, la aplicación no muestra un mensaje claro indicando el error. Esto puede generar frustración, ya que el usuario no sabe qué ha salido mal, lo que podría llevar a múltiples intentos sin éxito hasta que se descubra la causa del problema.
 
-<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/problem-2.PNG?raw=true" alt="Problema 2"></div>
-
-
-<br>Recomendación:
-
-Lo más práctico para este caso es que al momento de comparar el nombre de los productos registrados con el texto ingresado se tome en cuenta como si todo estuviera escrito en minúsculas.
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-1.png?raw=true" alt="Problema 1"></div>
 
 <br>
+
+Recomendación:
+
+Implementar un mensaje de error claro y específico que indique que las contraseñas no coinciden y que debe asegurarse de que ambas contraseñas coincidan antes de proceder.
+
+<br><br>
+
+
+**Problema 2: No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad: Estética y diseño minimalista
+
+Problema:
+
+Al cargar las publicaciones, no se muestra un "skeleton loading", lo que puede dar la sensación de que la aplicación está congelada o no responde mientras se cargan los datos. Este vacío puede generar incertidumbre en el usuario sobre si la app está trabajando correctamente.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-2.png?raw=true" alt="Problema 2"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un "skeleton loading" para mostrar que la aplicación está trabajando en la carga de las publicaciones, mejorando la experiencia del usuario.
+
+<br><br>
+
+
+**Problema 3: No se muestra un mensaje cuando no hay productos disponibles para mostrar.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando no hay productos disponibles en la sección correspondiente, no se muestra ningún mensaje informativo que indique que no hay productos disponibles en ese momento. Esto puede confundir al usuario, quien podría pensar que hay un error o que la función no está funcionando.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-3.png?raw=true" alt="Problema 3"></div>
+
+<br>
+
+Recomendación:
+
+Incluir un mensaje claro que informe al usuario que no hay productos disponibles en ese momento, como "No hay productos disponibles en esta categoría."
+
+<br><br>
+
+
+**Problema 4: En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Artículos", si no hay publicaciones realizadas por el usuario, no se muestra ningún mensaje informando que no hay artículos disponibles. El usuario se queda con una pantalla vacía y no sabe si es un error o si no ha subido artículos.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-4.png?raw=true" alt="Problema 4"></div>
+
+
+<br>
+
+Recomendación:
+
+Agregar un mensaje que diga "No tienes artículos publicados" para indicar al usuario que la falta de contenido es intencional y no un error.
+
+<br><br>
+
+
+**Problema 5: En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Si el usuario no tiene productos guardados en la sección "Favoritos", la pantalla aparece vacía sin ningún mensaje explicativo. Esto puede generar confusión o inquietud, ya que el usuario no sabe si algo ha fallado o si simplemente no ha guardado artículos aún.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-5.png?raw=true" alt="Problema 5"></div>
+
+
+<br>
+
+Recomendación:
+
+Mostrar un mensaje que indique "No has guardado ningún artículo en favoritos aún" para dejar claro al usuario el estado de la sección.
+
+<br><br>
+
+
+**Problema 6: En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Reseñas", si no hay reseñas disponibles, no se muestra ningún mensaje informativo. Esto podría causar confusión, ya que el usuario no sabe si hay un problema con la sección o si simplemente no ha recibido reseñas.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-6.png?raw=true" alt="Problema 6"></div>
+
+<br>
+
+Recomendación:
+
+Añadir un mensaje informativo como "Aún no has recibido reseñas" para aclarar la situación al usuario.
+
+
+<br><br>
+
 
 A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación web:
 
-
-|**Heurística**|**Descripción**|
+| **Heurística** | **Descripción** |
 | :-: | :-: |
-|Usabilidad|Tanto en la landing page como en la aplicación web, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 1"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 2"></div>|
-|Accesibilidad|El usuario puede acceder tanto a la landing page como a la página web desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adaptan correctamente al tamaño de la pantalla.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h2-landing.PNG?raw=true" alt="Heuristica 3"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h2-app.PNG?raw=true" alt="Heuristica 4"></div>|
-|Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.</p><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h3.PNG?raw=true" alt="Heuristica 5"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h3.1.PNG?raw=true" alt="Heuristica 6"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h3.2.PNG?raw=true" alt="Heuristica 7"></div>|
-|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación web) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.PNG?raw=true" alt="Heuristica 8"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.1.PNG?raw=true" alt="Heuristica 9"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.2.PNG?raw=true" alt="Heuristica 10"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.3.PNG?raw=true" alt="Heuristica 11"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.4.PNG?raw=true" alt="Heuristica 12"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.5.PNG?raw=true" alt="Heuristica 13"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.6.PNG?raw=true" alt="Heuristica 14"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.7.PNG?raw=true" alt="Heuristica 15"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.8.PNG?raw=true" alt="Heuristica 16"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.9.PNG?raw=true" alt="Heuristica 17"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.10.PNG?raw=true" alt="Heuristica 18"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.11.PNG?raw=true" alt="Heuristica 19"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.12.PNG?raw=true" alt="Heuristica 20"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.13.PNG?raw=true" alt="Heuristica 21"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h4.14.PNG?raw=true" alt="Heuristica 22"></div>|
-|Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de CambiaZo.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h5.PNG?raw=true" alt="Heuristica 22"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h5.1.PNG?raw=true" alt="Heuristica 23"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h5.2.PNG?raw=true" alt="Heuristica 24"></div>|
-|Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h6.PNG?raw=true" alt="Heuristica 25"></div><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h6.1.PNG?raw=true" alt="Heuristica 26"></div><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h6.2.PNG?raw=true" alt="Heuristica 27"></div>|
-|Prevención de errores|Hemos agregado mensajes para evitar errores comunes que pueden tener los usuarios al introducir datos dentro de CambiaZo.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h7.PNG?raw=true" alt="Heuristica 28"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h7.1.PNG?raw=true" alt="Heuristica 29"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h7.2.PNG?raw=true" alt="Heuristica 30"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h7.3.PNG?raw=true" alt="Heuristica 31"></div>|
-|Flexibilidad y eficiencia de uso|Nuestra aplicación web está adaptada tanto para usuarios experimentados como para principiantes, esto se refleja al momento de realizar filtraciones de productos, pueden filtrar simplemente presionando algún botón de la categoría que deseen, o pueden realizar una búsqueda más específica completando campos.<br><br><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
+| **Usabilidad** | La navegación en la aplicación es intuitiva, permitiendo que los usuarios se deslicen fácilmente por las pantallas sin esfuerzo. Todas las opciones clave se encuentran a la vista y son accesibles con solo unos pocos toques. Esto asegura que los usuarios puedan encontrar rápidamente lo que buscan, como la posibilidad de ver publicaciones o gestionar su perfil, sin perderse en un mar de opciones. Además, las transiciones entre pantallas son suaves, lo que contribuye a una experiencia continua y agradable. |
+| **Accesibilidad** | La interfaz se adapta de manera óptima a distintos tamaños de pantalla, garantizando que los elementos clave sean visibles y utilizables en dispositivos tanto pequeños como grandes. Los colores, fuentes y botones son lo suficientemente grandes para que puedan ser fácilmente seleccionados con el toque de un dedo, asegurando que usuarios con diferentes capacidades físicas puedan interactuar sin dificultades. También, los textos se presentan de forma legible, con suficiente contraste para ser fácilmente leídos bajo diferentes condiciones de luz. |
+| **Libertad y control por parte del usuario** | Los usuarios tienen un control total sobre su experiencia, ya que pueden moverse libremente entre las distintas secciones de la aplicación en cualquier momento. Si desean retroceder o cancelar una acción, siempre existe una opción para hacerlo sin consecuencias irreversibles. Además, los usuarios pueden elegir el contenido que desean ver primero y ajustar la visualización de acuerdo con sus preferencias, brindándoles la flexibilidad de personalizar su interacción sin estar sujetos a un flujo rígido de navegación. |
+| **Consistencia entre el sistema y el mundo real** | La aplicación emplea íconos y elementos visuales que siguen convenciones ampliamente reconocidas, como símbolos de "inicio", "búsqueda" y "perfil", lo cual facilita la familiarización de los usuarios con la interfaz. Estos elementos visuales son intuitivos y evocan acciones que los usuarios están acostumbrados a realizar en otros entornos digitales, como realizar búsquedas o gestionar configuraciones personales, lo que reduce la curva de aprendizaje. |
+| **Diseño estético y minimalista** | La aplicación presenta un diseño limpio y organizado, donde los elementos no se sobrecargan visualmente. Cada pantalla se centra en una acción o función específica, eliminando distracciones innecesarias. Esto no solo facilita la navegación, sino que también permite que el usuario se concentre en lo que realmente necesita hacer. Los iconos, tipografía y paleta de colores están cuidadosamente seleccionados para garantizar que la interfaz no solo sea funcional, sino también visualmente agradable. |
+| **Consistencia y estándares** | La aplicación sigue patrones de diseño establecidos que son familiares para los usuarios de aplicaciones móviles. Esto asegura que las interacciones sean consistentes en todas las pantallas, desde la presentación de opciones hasta la respuesta a las acciones del usuario. Los botones, campos de entrada y otras interacciones siguen convenciones estándar, lo que permite que los usuarios naveguen con confianza sin necesidad de aprender nuevas reglas o comportamientos específicos para cada pantalla. |
+| **Prevención de errores** | La aplicación está diseñada para reducir las posibilidades de error mediante retroalimentación clara y mensajes preventivos. Si un usuario intenta realizar una acción sin completar los campos requeridos o realiza una selección incorrecta, la aplicación informa de manera clara lo que debe corregirse. Además, los botones de acción ofrecen una retroalimentación visual para confirmar que se ha realizado una selección, y las opciones para deshacer acciones son fácilmente accesibles para que los usuarios puedan rectificar cualquier error. |
+| **Flexibilidad y eficiencia de uso** | La aplicación ofrece opciones para personalizar la experiencia del usuario de acuerdo con sus preferencias. Los usuarios experimentados pueden acceder rápidamente a las funciones avanzadas sin tener que navegar a través de pantallas adicionales, mientras que los nuevos usuarios se benefician de un recorrido sencillo que les permite familiarizarse con las funciones esenciales. La estructura flexible permite a los usuarios explorar la aplicación de la manera que mejor se ajuste a sus necesidades y rutinas, optimizando su flujo de trabajo dentro de la app. |
+
 
 <br>
 
 
+## 5.4 Video About-the-Product
+
+Este video es una parte fundamental de nuestra estrategia para dar a conocer nuestra aplicación. Está dirigido a los visitantes de nuestra Landing Page que desean obtener información detallada y concisa sobre lo que ofrecemos, es por esto que usamos un lenguaje formal. En él, presentamos las principales características de la aplicación y como este puede ayudarte en tu día a día.
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+ </div>
+
+<br>
+
+Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
+
+
+<div style="page-break-after: always;"></div>
+
 # Conclusiones
+
+## Conclusiones y Recomendaciones
 
 En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
 
@@ -6206,6 +6364,36 @@ En el quinto capítulo, se abordó el desarollo de una primera versión de la ap
 En el Sprint 2, el equipo alcanzó importantes avances en CambiaZo, implementando funciones esenciales como la edición de perfil, gestión de publicaciones y visualización de reseñas, lo cual mejoró significativamente la experiencia de usuario y el valor de la aplicación. La planificación detallada y el uso de Lean UX y GitFlow permitieron optimizar el flujo de trabajo y facilitar una colaboración efectiva, con cada entrega validada a través de pruebas de integración y documentación continua en el Testing Suite, asegurando calidad y consistencia en cada fase. La actualización constante en tecnologías, incluyendo despliegue en Azure y metodologías de arquitectura moderna, consolidó una base técnica sólida y escalable, preparada para soportar el crecimiento de CambiaZo en los próximos sprints y alineada con las necesidades del usuario, logrando así una aplicación robusta y adaptable.
 
 En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores. Asimismo, la implementación de la arquitectura del producto, con un diseño coherente de interfaces y una estructura sólida a nivel de software, asegura que la solución sea funcional, escalable y adaptable a las necesidades del usuario. La correcta gestión del backend, con entornos de desarrollo optimizados y un proceso de desarrollo ágil basado en sprints, ha permitido avanzar en la implementación de manera estructurada, garantizando que cada función esté debidamente validada y lista para su despliegue, sentando las bases para el éxito a largo plazo de nuestra startup.
+
+
+## Video App Validation
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/app-validation.png?raw=true">
+ </div>
+
+
+Enlace: [App Validation](https://youtu.be/DRN3mUdxJf8?si=NFZm-uI7STHyoLTz)
+
+## Video About the Product
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+ </div>
+
+
+Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
+
+
+## Video About the Team
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-team.png?raw=true">
+ </div>
+
+
+Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
+
 
 
 <div style="page-break-after: always;"></div>
@@ -6317,3 +6505,13 @@ Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 
 Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EfeRV4ADYJdAlSCmTxYqkfABx_yTC7bf8zHBAanqGrJUlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GxAORd)
+
+
+## Execution Evidence for Sprint 3 - Product
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/product-sprint-3.png?raw=true">
+ </div>
+
+
+Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ESMI2_GdUhhHu4sYMbP_4ikBzwXpXoiC7KI9TmGwYFA9xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4NyFTS)

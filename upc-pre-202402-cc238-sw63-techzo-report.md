@@ -108,6 +108,16 @@
 |4\.2|06/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó el Student Outcome para la TB4. |
 |4\.3|06/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia| Se agregó contenido relacionado con Conclusiones y Anexos. |
 |4\.4|06/11/2024|Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Se agregó contenido relacionado con Validation Interviews, Video about the Product y Video about the Team. |
+|4\.5|21/11/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con la sección Sprint Planning 4.|
+|4\.5.1|21/11/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Sprint Backlog 4.|
+|4\.5.2|21/11/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence.|
+|4\.5.3|21/11/2024|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado con Execution Evidence for Sprint Review.|
+|4\.5.4|21/11/2024|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review.|
+|4\.5.5|21/11/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review.|
+|4\.5.6|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Team Collaboration Insights during Sprint.|
+|4\.6|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Software Configuration Management.|
+|4\.7|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó el Student Outcome para la TB4.|
+|4\.8|21/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
 
 <br><br>
 

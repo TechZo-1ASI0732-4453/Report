@@ -248,6 +248,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
@@ -5563,7 +5572,7 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-A continuación presentaremos los commits que se han hecho en la rama “product/feature/sprint-2” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 2.
+A continuación presentaremos los commits que se han hecho en la rama “product/feature/sprint-3” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 3.
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
 | - | - | - | - | - | - |
@@ -5742,6 +5751,373 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
 
 <br><br>
+
+### 5.2.4 Sprint 4
+En esta sección, documentaremos y explicaremos el progreso del Sprint 4 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 5.2.4.1 Sprint Planning 4
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-11-07</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>3:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-3 Review Summary</td>
+    <td>En el Sprint 3, el equipo logró desplegar la tercera versión de la aplicación móvil de CambiaZo, implementando mejoras de rendimiento y funcionalidades clave que permitieron a los usuarios registrados adquirir y cancelar suscripciones premium, editar publicaciones de intercambio, dejar reseñas y gestionar mejor la seguridad de su cuenta, incluyendo el cambio de contraseña y la eliminación de cuenta. Las User Stories y Work Items planificados se completaron satisfactoriamente, y se verificaron las mejoras en las áreas de diseño, optimización de servicios, y el inicio de sesión con Google, cumpliendo con los objetivos establecidos para este sprint.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-3 Retrospective Summary</td>
+    <td>Durante la retrospectiva del Sprint 3, el equipo evaluó el desempeño y destacó mejoras en la implementación de las funcionalidades clave para la aplicación móvil. La planificación y ejecución fueron eficaces, y la colaboración entre los miembros facilitó el cumplimiento de las tareas a tiempo. Sin embargo, se identificaron áreas para perfeccionar, especialmente en la optimización del inicio de sesión con Google y la gestión de edición en publicaciones de objetos, ya que estas áreas demandaron más tiempo del estimado. Para el siguiente sprint, el equipo se enfocará en afinar la precisión en las estimaciones de tareas complejas y en fortalecer la coordinación para optimizar los tiempos de entrega.</td>
+  </tr>
+    <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+  <td>Sprint 4</td>
+  <td><br>
+  Desplegar una cuarta versión de la aplicación móvil de CambiaZo con mejoras en la experiencia del usuario y nuevas funcionalidades, incluyendo la integración de Google Account en el backend, mensajes más claros para estados vacíos, y restricciones para evitar acciones indebidas como intercambiar productos propios. Además, se mejoraron los flujos de edición de perfil, cambio de contraseña, y gestión de suscripciones, incluyendo una nueva pantalla de configuración y popups informativos.<br><br>Para evaluar el cumplimiento de este sprint, utilizaremos las siguientes métricas:
+
+  Verificar la correcta integración de Google Account en el backend.
+  Validar la redirección y mensajes informativos para interacciones de intercambio.
+  Comprobar los mensajes añadidos para diferentes estados de usuario.
+  Evaluaremos el éxito midiendo la consistencia en los flujos de usuario y la claridad en las interacciones de la aplicación.</td>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>24 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>21 Story Points</td>
+  </tr>
+</table>
+
+<br><br>
+
+
+#### 5.2.4.2 Sprint Backlog 4
+En este cuarto sprint, nos centraremos en mejorar la experiencia de usuario, optimizando la integración con Google Account y añadiendo mensajes más claros para indicar estados vacíos (sin artículos publicados, sin favoritos, sin reseñas), así como una pantalla de carga para mejorar la experiencia durante la carga de las secciones. También se trabajará en flujos de seguridad y gestión, como el cambio de contraseña, la eliminación de cuenta y la restricción de intercambio de productos propios. Adicionalmente, se mejorará la pantalla de configuración y se incluirán ajustes de diseño para ofrecer una experiencia más intuitiva y consistente para los usuarios de CambiaZo.
+
+Enlace: [Sprint Backlog 4 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Sprint-Backlog/Sprint4-Trello.png?raw=true" alt="sprint 3">
+</div><br><br>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estim<br>ation<br>(Hours)</td>
+      <td>Assigned<br>to</td>
+      <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US01</td>
+      <td rowspan="1">Registro<br>de usuario</td>
+      <td>WI-01</td>
+      <td>Diferenciación<br>de tipo de<br>registro</td>
+      <td>Implementar una validación en el proceso de registro para marcar si la cuenta es con Google o con correo tradicional, almacenando esta información para personalizar la experiencia del usuario.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US02</td>
+      <td rowspan="1">Editar<br>perfil del usuario</td>
+      <td>WI-02</td>
+      <td>Edición de<br>perfil para Google</td>
+      <td>Evitar la edición del correo en caso de que la cuenta esté vinculada con Google, asegurando la consistencia de los datos.</td>
+      <td>4</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US03</td>
+      <td rowspan="1">Iniciar<br>sesión</td>
+      <td>WI-03</td>
+      <td>Inicio de sesión<br>con Google</td>
+      <td>Integrar la opción para iniciar sesión con Google y almacenar los detalles de la cuenta en caché para acceso rápido.</td>
+      <td>2</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US04</td>
+      <td rowspan="1">Cambiar<br>Contraseña</td>
+      <td>WI-04</td>
+      <td>Validación de<br>cambio de contraseña</td>
+      <td>Mostrar mensajes de error si las contraseñas ingresadas no coinciden o si algún campo está vacío durante el cambio de contraseña.</td>
+      <td>4</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US12</td>
+      <td rowspan="1">Crear<br>publicación de intercambio</td>
+      <td>WI-05</td>
+      <td>Popup de límite<br>de publicaciones</td>
+      <td>Mostrar un popup informando al usuario cuando se ha alcanzado el máximo de publicaciones permitidas.</td>
+      <td>10</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US16</td>
+      <td rowspan="1">Visualización<br>de objetos disponibles</td>
+      <td>WI-06</td>
+      <td>Mensajes informativos<br>de objetos disponibles</td>
+      <td>Mostrar mensajes cuando no haya objetos disponibles, como "No hay artículos publicados" para indicar al usuario el estado de la sección.</td>
+      <td>10</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US18</td>
+      <td rowspan="1">Aceptar o<br>Rechazar un intercambio</td>
+      <td>WI-07</td>
+      <td>Actualización<br>de visualización de intercambio</td>
+      <td>Actualizar la visualización de intercambio cuando un usuario acepte o rechace una oferta, asegurando la consistencia en la interfaz de usuario.</td>
+      <td>6</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, todos estos commits se han hecho en ramas donde cada una representa una User Story durante el desarrollo de nuestro Sprint 4.<br><br>
+
+### **Aplicación Móvil**
+
+| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit Message**<br>                                | **Commit Message Body**                                                   | **Commited <br> On (Date)** |
+|-----------------------------------------------|------------------|-------------------|-------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
+
+<br><br>
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “product/feature/sprint-4” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 4.
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited On (Date)** |
+| - | - | - | - | - | - |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test      | product/feature/sprint-4     | c0b0a36 | updated: US-01      | Applied modifications to the Gherkin file for US-01. | 19/11/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test      | product/feature/sprint-4     | 1906162 | updated: US-02      | Applied modifications to the Gherkin file for US-02. | 19/11/2024 |
+| IanHD04/TechZo-CC238-SW63/Acceptance-Test      | product/feature/sprint-4     | 9195286 | updated: US-03      | Applied modifications to the Gherkin file for US-03. | 19/11/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test      | product/feature/sprint-4     | 2553c96 | updated: US-04      | Applied modifications to the Gherkin file for US-04. | 19/11/2024 |
+| Jemisas/TechZo-CC238-SW63/Acceptance-Test      | product/feature/sprint-4     | efdd6f7 | updated: US-12      | Applied modifications to the Gherkin file for US-12. | 20/11/2024 |
+| HelloNerk/TechZo-CC238-SW63/Acceptance-Test    | product/feature/sprint-4     | 9495797 | updated: US-16      | Applied modifications to the Gherkin file for US-16. | 20/11/2024 |
+| 123-Mathias/TechZo-CC238-SW63/Acceptance-Test  | product/feature/sprint-4     | 86d752d | updated: US-18      | Applied modifications to the Gherkin file for US-18. | 20/11/2024 |
+
+<br><br>
+
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4, se realizaron mejoras clave como la integración del cambio de contraseña con validaciones avanzadas, mensajes informativos para guiar al usuario, restricciones para cuentas Google, pantallas de carga, así como la gestión de reseñas y la opción de eliminar cuentas desde configuración. Estas actualizaciones fortalecieron la seguridad, mejoraron la experiencia del usuario y añadieron mayor flexibilidad. Gracias al uso de GitFlow, se logró una integración continua y pruebas exhaustivas, garantizando calidad y estabilidad en las nuevas funcionalidades.
+
+A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 4 en la app móvil:
+
+Enlace: [Video del Execution Evidence for Sprint 4]()
+
+<br><br>
+
+
+**Aplicación Móvil:**<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app 0" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app 1 " ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app 2" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app 3" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app 4" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app 5" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app 6"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-7.png?raw=true" alt="mobile app 7"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-8.png?raw=true" alt="mobile app 8"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-9.png?raw=true" alt="mobile app 9"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-10.png?raw=true" alt="mobile app 10"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-11.png?raw=true" alt="mobile app 11"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-12.png?raw=true" alt="mobile app 12"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-13.png?raw=true" alt="mobile app 13"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-14.png?raw=true" alt="mobile app 14"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-15.png?raw=true" alt="mobile app 15"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-16.png?raw=true" alt="mobile app 16"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-17.png?raw=true" alt="mobile app 17"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-18.png?raw=true" alt="mobile app 18"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-19.png?raw=true" alt="mobile app 19"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-20.png?raw=true" alt="mobile app 20"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-21.png?raw=true" alt="mobile app 21"><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/mobile-app-22.png?raw=true" alt="mobile app 22"><br>
+
+</div>
+
+
+<br><br>
+
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 4, se completaron importantes mejoras para optimizar la funcionalidad y experiencia del usuario. Se implementó el cambio de contraseña con validaciones avanzadas, garantizando un flujo seguro y la protección de datos. También se mejoró la gestión de reseñas, asegurando que los usuarios solo puedan calificar una vez, lo que refuerza la confianza y la transparencia en la comunidad.
+
+Se añadieron mensajes informativos para guiar al usuario en situaciones como la falta de publicaciones, artículos guardados o reseñas recibidas, ofreciendo mayor claridad sobre el estado de la aplicación. Asimismo, se mejoró la lista de intercambios, actualizándola automáticamente cuando se aceptan o rechazan solicitudes, lo que brinda una experiencia más fluida y precisa.
+
+Para cuentas registradas con Google, se aplicaron restricciones como deshabilitar la edición del correo y limitar el acceso a configuraciones sensibles, reforzando la seguridad. Además, se rediseñó el flujo de registro, integrando pasos como nombre, correo, contraseña y una imagen de perfil predeterminada en caso de no subir una, logrando una experiencia más intuitiva.
+
+El equipo utilizó GitFlow para gestionar el desarrollo del código, permitiendo una integración continua y pruebas exhaustivas. Este enfoque garantizó la calidad, estabilidad y cumplimiento de los objetivos del Sprint, sentando bases sólidas para las siguientes iteraciones.
+
+<br><br>
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint 4:
+
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Móvil y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Software-Deployment/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+</div>
+
+En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
+
+
+**Aplicación Móvil:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+| Rama             | Descripción                                                                                             |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| feature/US-01    | Se implementaron validaciones adicionales durante el registro, asegurando la integridad de los datos ingresados. |
+| feature/US-02    | Se añadió la funcionalidad para evitar la edición del correo en perfiles vinculados con cuentas de Google. |
+| feature/US-03    | Se integró la opción para iniciar sesión con Google, almacenando los datos en caché para acceso rápido. |
+| feature/US-04    | Se mejoró el flujo de cambio de contraseña, mostrando mensajes claros en caso de errores o campos vacíos. |
+| feature/US-12    | Se añadió un popup informativo que alerta al usuario cuando se alcanza el límite máximo de publicaciones. |
+| feature/US-16    | Se implementaron mensajes informativos que se muestran cuando no hay objetos disponibles para visualizar. |
+| feature/US-18    | Se desarrolló la funcionalidad para actualizar la lista de intercambios del usuario, eliminando las ofertas aceptadas o rechazadas. |
+
+</div>
+
+<br>
+En el repositorio de “CambiazoApp” subimos nuestros archivos a las diferentes ramas, de acuerdo a la User Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizamos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”.<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Software-Deployment/mobile-app-network.png?raw=true">
+</div>
+
+<br><br>
+
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “CambiazoApp”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 4.
+
+
+<b>Tabla de identificación</b>
+
+<div align="center">
+
+| Username (Github) | Nombre |
+|-------------------|--------------------------|
+| HelloNerk | Huamani Mandujano, Joseph Alexis |
+| 123-Mathi | Mendoza Carrión, Mathias André |
+| Jemisas | Quispe Andia, Jeremy Joel |
+| IanHD04 | Santisteban Palomino, Ian Haziel Donato |
+
+</div>
+
+<b>Analíticos de GitHub</b>
+
+  + Aplicación Móvil
+          <div align="center">
+        <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/mobile-app-insights.png?raw=true" alt="contributor-evidence-cambiazoapp">
+        </div><br><br>
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la segunda versión de la Aplicación Móvil.
+
+<br><br>
+
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
@@ -6347,7 +6723,7 @@ Añadir un mensaje informativo como "Aún no has recibido reseñas" para aclarar
 <br><br>
 
 
-A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación web:
+A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación móvil:
 
 | **Heurística** | **Descripción** |
 | :-: | :-: |

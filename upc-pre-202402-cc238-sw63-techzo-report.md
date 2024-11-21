@@ -5807,7 +5807,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2
   Comprobar los mensajes añadidos para diferentes estados de usuario.
   Evaluaremos el éxito midiendo la consistencia en los flujos de usuario y la claridad en las interacciones de la aplicación.</td>
   <tr>
-    <td>Sprint 3 Velocity</td>
+    <td>Sprint 4 Velocity</td>
     <td>24 Story Points</td>
   </tr>
   <tr>
@@ -5930,8 +5930,31 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 ### **Aplicación Móvil**
 
-| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit Message**<br>                                | **Commit Message Body**                                                   | **Commited <br> On (Date)** |
-|-----------------------------------------------|------------------|-------------------|-------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
+| **Repository**<br>                            | **Branch**<br>   | **Commit Id**<br> | **Commit Message**<br>                                                                                                    | **Commit Message Body**                                                                                                                                                                | **Commited <br> On (Date)** |
+| --------------------------------------------- | ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US18 | 4eabbd9<br>       | feat:<br>added navigate<br>to ReviewScreen<br>in box of<br>Exchange<br>and<br>Exchange details                            | Add navigation<br>to ReviewScreen<br>in Exchange<br>and<br>ExchangeDetails<br>boxes                                                                                                   | 20/11/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US16 | b7e875e<br>       | feat:<br>added skeleton<br>loader for<br>ExplorerScreen                                                                   | feat:<br>added skeleton<br>loader for<br>ExplorerScreen                                                                                                                              | 20/11/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp   | develop           | 032aeab<br>       | fix:<br>corrected skeleton<br>ExplorerScreen                                                                              | Fix skeleton<br>loader<br>implementation<br>on ExplorerScreen                                                                                                                         | 20/11/24<br>                |
+| Jemisas/TechZo-CC238-SW63/<br>CambiazoApp   | feature<br>/US01 | aa3054a<br>       | feat:<br>added<br>validator<br>'isGoogleAccount'                                                                          | -                                                                                                                                                                                      | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US04 | c8b035d<br>       | fix:<br>added<br>isGoogleAccount<br>to<br>SendEmail<br>ResponseDto                                                            | I've added<br>the isGoogleAccount<br>property to<br>the<br>SendEmailResponseDto<br>class to<br>indicate if<br>the account is<br>linked to Google.                                       | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US04 | 2fe5047<br>       | fix:<br>added<br>validation<br>for Google<br>accounts in<br>email verification                                            | I've added<br>a validation<br>step to check<br>if the email<br>belongs to<br>a Google<br>account. If<br>true, it prevents<br>further<br>processing and<br>displays an<br>error message. | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US04 | 9e80e78<br>       | fix:<br>added error<br>messages for<br>blank or<br>incorrect codes                                                        | I've updated<br>the validateCode<br>function to<br>show specific<br>error messages<br>when the<br>input code is<br>blank or<br>incorrect,<br>improving feedback.                        | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US04 | c219932<br>       | fix:<br>added error<br>display and<br>code update<br>for validation                                                       | I've implemented<br>the display<br>of error<br>messages from<br>the code<br>validator on<br>the UI. Additionally,<br>ensured code<br>updates correctly<br>when "resend code"<br>is clicked. | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US01 | 7481329<br>       | feat:<br>added<br>ExistReview<br>data class                                                                               | I've created<br>the ExistReview<br>data class<br>with a<br>existReview<br>property to<br>map the<br>response<br>indicating<br>if a review<br>exists.                                    | 20/11/24<br>                |
+| HelloNerk/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US01 | 86cf3f7<br>       | feat:<br>added<br>method exists<br>reviews by<br>user and<br>exchange IDs                                                 | I've added<br>a new method<br>in the<br>ReviewService<br>to retrieve<br>a boolean<br>if reviews<br>based on a<br>user's ID<br>and an<br>exchange ID<br>exist. Returns<br>ExistReview.  | 20/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US12 | 064c103<br>       | fix:<br>reset product<br>list on<br>category<br>filter in<br>Explorer                                                    | Adjusted the<br>LazyColumn in<br>the Explorer<br>screen to<br>properly reset<br>the product<br>list when<br>filtering by<br>categories.                                                | 20/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US12 | 70b7b11<br>       | refactor:<br>updated<br>exchange lists<br>on action<br>changes                                                            | Fixed the<br>exchange lists<br>to refresh<br>automatically when<br>an action<br>such as<br>reject, accept,<br>or cancel is<br>performed.                                               | 20/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US12 | 4458d57<br>       | fix:<br>displayed<br>product limit<br>message on<br>publish screen                                                        | Adjusted the<br>product limit<br>message to<br>appear correctly<br>when entering<br>the publish<br>section.                                      | 20/11/24<br>                |
+| 123-Mathias/TechZo-CC238-SW63/<br>CambiazoApp | feature<br>/US12 | 3cb82a8<br>       | Merge branch<br>'develop'<br>into<br>feature/US12                                                                        | -                                                                                                                                                                                      | 20/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US02 | 3fa38d8<br>       | feat:<br>restructure<br>options display<br>in ProfileScreen                                                              | Restructured the<br>options displayed<br>in the<br>ProfileScreen<br>to improve<br>clarity and<br>user experience.                                                                      | 20/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US02 | 06d819d<br>       | feat:<br>add new<br>SettingsScreen                                                                                       | Added a<br>new<br>SettingsScreen<br>to the<br>application.<br>This screen<br>serves as<br>a hub for<br>user<br>configuration<br>options.                                                | 20/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US02 | 02352ea<br>       | feat:<br>add method<br>to delete<br>user account                                                                         | Added a<br>method to<br>handle user<br>account deletion.<br>Includes logic<br>to confirm<br>intent, interact<br>with the<br>backend API.                                               | 20/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US02 | 082fd4f<br>       | feat:<br>add routing<br>for<br>SettingsScreen                                                                            | Integrated<br>routing for<br>the new<br>SettingsScreen<br>into the<br>application's<br>navigation<br>system.                                                                           | 20/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US03 | 6b2c170<br>       | feat:<br>add Google<br>account flag<br>to User<br>model                                                                  | Updated the<br>User model<br>to include<br>a new<br>field indicating<br>if the<br>account is<br>registered<br>with Google.                                                             | 21/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US03 | c477342<br>       | feat:<br>persist<br>Google login<br>session                                                                              | Implemented<br>functionality<br>to persist<br>user sessions<br>for accounts<br>logged in<br>via Google.                                                                                | 21/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | feature<br>/US03 | 2ad8f27<br>       | feat:<br>add logout<br>functionality<br>for Google<br>accounts                                                           | Implemented a<br>logout feature<br>for users<br>logged in<br>via Google.                                                                                                               | 21/11/24<br>                |
+| IanHD04/TechZo-CC238-SW63/<br>CambiazoApp     | develop           | 2ad8f27<br>       | fix:<br>resolve<br>merge conflicts<br>from recent<br>pull request                                                        | Resolved merge<br>conflicts caused<br>by the<br>recent pull<br>request.                                                                                                                | 21/11/24<br>                |
+
 
 <br><br>
 
@@ -5960,7 +5983,7 @@ En el Sprint 4, se realizaron mejoras clave como la integración del cambio de c
 
 A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 4 en la app móvil:
 
-Enlace: [Video del Execution Evidence for Sprint 4]()
+Enlace: [Video del Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EawBBbii9-pPspfOBkGKNDIBtEhPWg5lr0NyKrnMsu22TA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L1hN29)
 
 <br><br>
 
@@ -6925,3 +6948,23 @@ Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:
 
 
 Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ESMI2_GdUhhHu4sYMbP_4ikBzwXpXoiC7KI9TmGwYFA9xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4NyFTS)
+
+
+## Execution Evidence for Sprint 4 - Product
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/product-sprint-4.png?raw=true">
+ </div>
+
+
+Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EawBBbii9-pPspfOBkGKNDIBtEhPWg5lr0NyKrnMsu22TA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L1hN29)
+
+
+## Video de Exposición TF1
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/expo-tf1.png?raw=true">
+ </div>
+
+
+Enlace: [Video de Exposición TF1]()

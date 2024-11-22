@@ -14,7 +14,7 @@
 **Profesor:** Jorge Luis Mayta Guillermo
 
 ----
-## Informe TB4
+## Informe del Trabajo Final
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -6967,4 +6967,4 @@ Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:
  </div>
 
 
-Enlace: [Video de Exposición TF1]()
+Enlace: [Video de Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaKkhjBeCG5HuMMr0edKzegBqXWP5sb7czx5SqlikdPTig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i9Fvv9)

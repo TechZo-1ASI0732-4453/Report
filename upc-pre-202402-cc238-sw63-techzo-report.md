@@ -1522,7 +1522,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png" alt="Entrevista Daniella Vargas"></div></td>
   </tr>
   <tr>
     <td>Link</td>

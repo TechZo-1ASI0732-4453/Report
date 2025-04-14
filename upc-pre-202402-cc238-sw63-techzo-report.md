@@ -1471,6 +1471,75 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table><br>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #7<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Sebastian Valente</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Lobato Pozo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre posibles estafas</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Claudio Sandro Quispesivana Torres</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EZUwObmyCw1DtDKyGQhp3BoBBI-RzKhfJr0FnAkLM9yqhQ?e=pRwTag&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 06:44 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Sebastián Lobato, un estudiante de Ingenieria de Software de 20 años que vive en Lima y utiliza un smartphone Android, relató sus experiencias previas realizando intercambios de artículos con personas de su entorno. Aunque ha participado en este tipo de actividades antes, menciona que no ha encontrado una plataforma dedicada que le brinde seguridad al momento de intercambiar sus objetos. Para Sebastián, una aplicación móvil como CambiaZo podría ser una herramienta ideal para facilitar estos intercambios, ya que genera un ambiente de confianza entre los usuarios. Además, señala que los artículos más solicitados suelen ser productos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado. Sin embargo, también expresa inquietudes sobre la fiabilidad de la aplicación, por lo que valora funciones como la posibilidad de subir fotos y contar con una sección de reseñas. Sebastián espera que el uso de CambiaZo le permita realizar intercambios de manera más segura y eficiente, contribuyendo así al crecimiento de una comunidad más sostenible y conectada en Lima.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
 
 
 ### **Segmento Donadores**<br>

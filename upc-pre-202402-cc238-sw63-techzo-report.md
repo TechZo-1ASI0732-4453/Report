@@ -5,16 +5,16 @@
 
 **Ingeniería de Software**
 
-**Ciclo:** 2024-2
+**Ciclo:** 2025-1
 
-**Curso:** Aplicaciones para Dispositivos Móviles (CC238)
+**Curso:** Diseño de Experimentos de Ingeniería de Software (1ASI0732)
 
-**Sección:** SW63
+**Sección:** 4453
 
-**Profesor:** Jorge Luis Mayta Guillermo
+**Profesor:** Julio Manuel Noriega Melendez
 
 ----
-## Informe del Trabajo Final
+## Informe del Trabajo TB1
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -25,11 +25,12 @@
 | Mendoza Carrion, Mathias Andre          | U202216282     |
 | Quispe Andia, Jeremy Joel      | U202216279     |
 | Santisteban Palomino, Ian Haziel Donato | U202214059     |
+| Quispesivana Torres, Claudio Sandro | u202215099     |
 
 </div>
 
 
-<br><div align="center"><h3>Noviembre 2024</h3></div><br>
+<br><div align="center"><h3>Abril 2025</h3></div><br>
 
 
 
@@ -76,47 +77,6 @@
 |2\.2.5|15/09/24|Ian Haziel Donato Santisteban y Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
 |2\.3|15/09/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Student Outcome, Conclusiones y Anexo|
 |3\.0|23/09/2024|Ian Haziel Donato Santisteban Palomino |Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation|
-|3\.1|25/09/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con la sección Sprint Planning 1|
-|3\.1.1|25/09/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con el Sprint Backlog 1.|
-|3\.1.2|26/09/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence|
-|3\.1.3|26/09/2024|Ian Haziel Donato Santisteban Palomino |Se agregó contenido relacionado con Execution Evidence for Sprint Review|
-|3\.1.4|26/09/2024|Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review|
-|3\.1.5|27/09/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia |Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review|
-|3\.1.6|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Team Collaboration Insights during Sprint|
-|3\.2|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con Software Configuration Management|
-|3\.3|27/09/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome|
-|3\.4|27/09/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
-|3\.5|24/10/2024|Ian Haziel Donato Santisteban Palomino | Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation parala TB3 |
-|3\.6 |24/10/2024|Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con la sección Sprint Planning 2  |
-|3\.6.1|25/10/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con el Sprint Backlog 2. |
-|3\.6.2|25/10/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence |
-|3\.6.3|25/10/2024|Ian Haziel Donato Santisteban Palomino | Se agregó contenido relacionado con Execution Evidence for Sprint Review|
-|3\.6.4|25/10/2024|Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review |
-|3\.6.5|25/10/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia | Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review |
-|3\.6.6|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Team Collaboration Insights during Sprint|
-|3\.7|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Software Configuration Management|
-|3\.8|25/10/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó el Student Outcome para la TB3|
-|3\.9|25/10/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia| Se agregó contenido relacionado con Conclusiones y Anexos.|
-|4\.0 |05/11/2024|Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con la sección Sprint Planning 3. |
-|4\.0.1|06/11/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con el Sprint Backlog 3. |
-|4\.0.2|06/11/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion| Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence. |
-|4\.0.3|06/11/2024|Ian Haziel Donato Santisteban Palomino | Se agregó contenido relacionado con Execution Evidence for Sprint Review. |
-|4\.0.4|06/11/2024|Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review. |
-|4\.0.5|06/11/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia | Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review. |
-|4\.0.6|06/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Team Collaboration Insights during Sprint. |
-|4\.1|06/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó contenido relacionado con Software Configuration Management. |
-|4\.2|06/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano | Se agregó el Student Outcome para la TB4. |
-|4\.3|06/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia| Se agregó contenido relacionado con Conclusiones y Anexos. |
-|4\.4|06/11/2024|Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Se agregó contenido relacionado con Validation Interviews, Video about the Product y Video about the Team. |
-|4\.5|21/11/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con la sección Sprint Planning 4.|
-|4\.5.1|21/11/2024|Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Sprint Backlog 4.|
-|4\.5.2|21/11/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con Development Evidence y Testing Suite Evidence.|
-|4\.5.3|21/11/2024|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado con Execution Evidence for Sprint Review.|
-|4\.5.4|21/11/2024|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Services Documentation Evidence for Sprint Review.|
-|4\.5.5|21/11/2024|Ian Haziel Donato Santisteban Palomino y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con el Software Deployment Evidence for Sprint Review.|
-|4\.5.6|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Team Collaboration Insights during Sprint.|
-|4\.6|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Software Configuration Management.|
-|4\.7|21/11/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano|Se agregó el Student Outcome para la TB4.|
 |4\.8|21/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
 
 <br><br>
@@ -135,144 +95,78 @@
 ### [Objetivos SMART](#objetivos-smart)
 
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1 Lean UX Problem Statement](#1221-lean-ux-problem-statement)
-      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1 Lean UX Problem Statement](#1221-lean-ux-problem-statement)
+    - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2 Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2 User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Requirements Specification](#24-requirements-specification)
-    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
-    - [2.4.2. User Stories](#242-user-stories)
-    - [2.4.3. Impact Mapping](#243-impact-mapping)
-    - [2.4.4. Product Backlog](#244-product-backlog)
+
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2 Entrevistas](#22-entrevistas)
+  - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2 User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 ### [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
-- [3.1. Product Design](#31-product-design)
-  - [3.1.1. Style Guidelines](#311-style-guidelines)
-    - [3.1.1.1. General  Style Guidelines](#3111-general-style-guidelines)
-  - [3.1.2. Information Architecture](#312-information-architecture)
-    - [3.1.2.1. Organization Systems](#3121-organization-systems)
-    - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
-    - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
-    - [3.1.2.4. Searching Systems](#3124-searching-systems)
-    - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
-  - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
-    - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
-    - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
-  - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
-    - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
-    - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
-    - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
-    - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
-    - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
-- [3.2. Architecture Overview](#32-architecture-overview)
-  - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
-    - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
-    - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
-    - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-components-diagram)
-  - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
-    - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
-    - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
-    - [3.2.2.3. Database Design](#3223-database-design)
-    - [3.2.2.4. Database Diagram](#3224-database-diagram)
 
-### [Capítulo IV: Backend Product Implementation & Validation](#capítulo-iv-backend-product-implementation--validation)
-  - [4.1. Software Configuration Management](#41-software-configuration-management)
-    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
-    - [4.1.2. Source Code Management](#412-source-code-management)
-    - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
-    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
-  - [4.2. Software Development & Implementation](#42-software-development--implementation)
-    - [4.2.1. Sprint 1](#421-sprint-1)
-      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
-      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
-      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
-      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
-      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
-      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
-      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
-      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
-
-### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page & Mobile Application Implementation](#52-landing-page--mobile-application-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-    - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
-      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
-    - [5.3.3. Evaluaciones Según Heurísticas](#533-evaluaciones-segun-heuristicas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-
-### [Conclusiones](#conclusiones)
-  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video App Validation](#video-app-validation)
-  - [Video About the product](#video-about-the-product)
-  - [Video About the team](#video-about-the-team)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+  
+### [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
+- [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
+  - [4.1.1. EventStorming](#411-eventstorming)
+    - [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
+    - [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
+    - [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
+  - [4.1.2. Context Mapping](#412-context-mapping)
+  - [4.1.3. Software Architecture](#413-software-architecture)
+    - [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
+    - [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+    - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
+    - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
+- [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
+  - [4.2.1. Bounded Context:](#421-bounded-context)
+    - [4.2.1.1. Domain Layer](#4211-domain-layer)
+    - [4.2.1.2. Interface Layer](#4212-interface-layer)
+    - [4.2.1.3. Application Layer](#4213-application-layer)
+    - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+    - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
+      - [4.2.1.6.2. Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
+  - [4.2.2. Bounded Context: Exchanges](#422-bounded-context-exchanges)
+    - [4.2.2.1. Domain Layer](#4221-domain-layer)
+    - [4.2.2.2. Interface Layer](#4222-interface-layer)
+    - [4.2.2.3. Application Layer](#4223-application-layer)
+    - [4.2.2.4. Infrastructure Layer](#4224-infrastructure-layer)
+    - [4.2.2.5. Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
+      - [4.2.2.6.2. Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
 
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
-
 
 <div align="justify">
 	
@@ -296,146 +190,55 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
   </thead>
   <tbody>
     <tr>
-	<td colspan="3">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
+	<td colspan="3">Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</td>
       <td colspan="3" align = "justify">
       <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
       <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p> 
-      <b>TB2</b> 
-      <p>En el segundo hito, me dediqué a desarrollar las Directrices de Estilo Generales del proyecto. Actualicé mis conocimientos en las últimas tendencias de diseño y buenas prácticas en UX/UI para asegurar que nuestra aplicación tenga una apariencia profesional y coherente. Investigué sobre paletas de colores, tipografías y principios de diseño universal, aplicando estos conocimientos para crear un Style Guide completo que será la base visual de nuestro producto. Este proceso me permitió profundizar en conceptos de diseño y mejorar mis habilidades en herramientas como Figma.</p>
-      <b>TP1</b>
-      <p>Para esta entrega del trabajo parcial, utilice mis  conocimientos previos para el desarrollo completo del  backend utilizando Java con SpringBoot, y aplicando  Domain Driven Design. Además se logró realizar el  cambio de host del backend, pasando de Heroku a Azure  satisfactoriamente, y inclusive se logro configurar la   conexión con el repositorio de Github para usar la  funcionalidad de GitHub Actions y que por cada commit  que se haga a la rama main, se haga el build y el  deploy automaticamente. Por la parte del desarrollo de   la aplicación móvil, realicé la conexión con la base de   datos logrando implementar los metodos GET Y POST, y  adaptandolos a las screens.</p>
-      <b>TB3</b>
-      <p>En el Sprint 2, migré el backend de Heroku a Azure y configuré GitHub Actions para despliegues automáticos en cada commit. Esta tarea me permitió profundizar en tecnologías de automatización y despliegue en la nube, lo cual considero crucial para mi desarrollo profesional. También implementé pruebas de integración para validar la estabilidad del backend y documenté cada paso, asegurando que esta configuración fuera replicable.</p>
-      <b>TB4</b>
-      <p>En este sprint 3, mejoré mis habilidades en el desarrollo de aplicaciones móviles mediante la implementación de nuevas funciones y optimización de la interfaz de usuario. Investigué sobre metodologías de validación y mejores prácticas en diseño de UX, aplicando estos conocimientos en nuestro proyecto para asegurar una experiencia de usuario óptima.</p>
-    <b>TF</b> 
-    <p>Durante esta etapa final, contribuí optimizando el backend y configurando despliegues automáticos en la nube mediante Azure y GitHub Actions. Estas mejoras no solo garantizaron la eficiencia del proyecto, sino que también me permitieron reflexionar sobre mi capacidad para manejar herramientas avanzadas y desarrollar sistemas robustos. Reconocí que mi aprendizaje y mis logros en esta fase me han fortalecido como profesional, preparándome para enfrentar desafíos más complejos en el futuro.</p>
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante esta fase inicial, realicé una investigación exhaustiva de los competidores en el sector seleccionado, identificando sus fortalezas y debilidades. Este análisis me permitió entender mejor el mercado y ajustar nuestra propuesta de valor para que fuera realmente innovadora. Adicionalmente, diseñé y realicé entrevistas con varios grupos de usuarios, analizando las respuestas para determinar nuestras Personas Principales y Secundarias. Este ejercicio no solo mejoró mi habilidad para comunicarme de manera efectiva, sino que también profundizó mi comprensión de las necesidades del usuario, reflejándose directamente en la relevancia de nuestras soluciones propuestas.</p>
-    <b>TB2</b>
-    <p>En este segundo entregable, me encargué de desarrollar la Arquitectura de Información de nuestro producto. Investigué sobre sistemas de organización, etiquetado y navegación para crear una estructura lógica y accesible para los usuarios. Aplicando nuevos conocimientos en UX, diseñé los Sistemas de Organización y Etiquetado, asegurándome de que la información esté estructurada de manera intuitiva. Además, aprendí sobre SEO y meta tags para optimizar nuestra presencia en línea, lo que mejorará la visibilidad de nuestro producto en motores de búsqueda.</p>
-    <b>TP1</b>
-    <p>Para este trabajo parcial, fui el encargado de desarrollar los primeros screens de nuestra aplicación móvil las cuales eran el inicio de sesión, registro y la pantalla principal donde se muestran los productos. Logré estos objetivos de desarrollo gracias a los conocimientos que pude adquirir en las clases y además  investigando por cuenta propia librerias y composables que ayudaron a la realización del primer avance de la aplicación.</p>
-    <b>TB3</b>
-    <p>En este sprint, desarrollé las pantallas de inicio de sesión, registro y la pantalla principal, implementando librerías y componentes visuales. Gracias a esta actualización en diseño de interfaces, mejoré la experiencia del usuario y me familiaricé con herramientas de personalización en la app, lo cual fortalece mi competencia en soluciones de software.</p>
-    <b>TB4</b>
-    <p>En este sprint 3, me dediqué a investigar las mejores prácticas en diseño de arquitectura de aplicaciones móviles y a estudiar librerías avanzadas de componentes. Este proceso me permitió desarrollar funciones personalizadas que mejoraron la usabilidad y funcionalidad de la app, fortaleciendo mis conocimientos en desarrollo de soluciones software.</p>
-    <b>TF</b>
-    <p>Para esta entrega final, aporté al proyecto diseñando y optimizando la arquitectura de información y mejorando las interfaces de usuario. Estas acciones no solo elevaron la calidad del producto final, sino que también me llevaron a reflexionar sobre cómo mis contribuciones han sido clave para hacer que el proyecto sea más intuitivo y funcional. Este proceso me ayudó a valorar mi capacidad para aplicar conocimientos de manera práctica y a identificar áreas donde puedo seguir mejorando.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>En este primer entregable, demostré habilidades de comunicación oral y escrita al interactuar eficazmente con mi equipo y al documentar adecuadamente todo el proceso de trabajo. La comunicación constante con el equipo y los stakeholders del proyecto aseguró que las ideas y feedback fueran integrados de manera efectiva, mejorando así nuestro enfoque y resultados. Mi capacidad para facilitar y mantener una comunicación fluida contribuyó significativamente al establecimiento de una base sólida para la colaboración continua y el éxito del proyecto.</p>
-    <b>TB2</b>
-    <p>Para el segundo hito, me centré en el diseño de la Landing Page UI. Actualicé mis conocimientos en diseño de interfaces y usabilidad para crear wireframes y mock-ups de alta fidelidad. Aprendí nuevas técnicas en herramientas de prototipado como Figma, lo que me permitió representar visualmente nuestras ideas de manera más efectiva. Este proceso me ayudó a mejorar mis habilidades en diseño visual y a entender mejor cómo crear interfaces atractivas y funcionales.</p>
-    <b>TP1</b>
-    <p>Para este tercer hito, el cual es el trabajo parcial, fui el encargado de revisar y actualizar el diseño de la aplicación móvil. Gracias a mis conocimientos y experiencia previa utilizando Figma, pude reestructurar y mejorar el diseño de las primeras screens para este entregable. Asimismo actualicé el diseño de la landing page para que finalmente se mande a deployar. Por ultimo, fui el encargado de supervisar el uso correcto de las ramas de los repositorios y el cumplimiento de las tareas asignadas.</p>
-    <b>TB3</b>
-    <p>Este sprint me permitió mejorar el diseño de la Landing Page y optimizar los primeros screens móviles. Al aplicar técnicas de usabilidad, aseguré una experiencia de usuario fluida y profesional, lo que me ayudó a actualizar mis conocimientos en diseño visual y adaptar mis habilidades a las demandas de nuestro proyecto de software.</p>
-    <b>TB4</b>
-    <p>Este sprint actualicé mis conocimientos en herramientas de diseño como Figma y profundicé en la teoría de diseño de interfaz móvil. Este aprendizaje fue clave para implementar la funcionalidad de la sección de suscripciones en la aplicación, mejorando visualmente nuestras pantallas clave y optimizando la experiencia del usuario, asegurando que el producto esté alineado con las expectativas actuales del mercado.</p>
-    <b>TF</b>
-    <p>Durante esta entrega final, trabajé en la mejora del diseño visual de la Landing Page y las pantallas principales, asegurando una experiencia de usuario fluida y profesional. Reflexioné sobre cómo mis aportes en diseño han sido esenciales para el proyecto y cómo esta experiencia me permitió consolidar mis habilidades en usabilidad y diseño visual, reafirmando mi compromiso con la calidad en el desarrollo de soluciones.</p>
-     <h3>Jeremy Joel Quispe Andia</h3>
+    <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>He trabajado intensamente en la definición de User Stories claras y efectivas que reflejan las necesidades identificadas de nuestros usuarios, garantizando que todos los requisitos del usuario estén adecuadamente representados en nuestro desarrollo de producto. Esta actividad fue complementada por la creación de una propuesta de valor diferenciada, que establece claramente el alcance y los objetivos de nuestro proyecto. Estos elementos no solo demuestran mi habilidad para pensar innovadoramente, sino que también aseguran que nuestro producto final sea tanto funcional como disruptivo en el mercado.</p>
-    <b>TB2</b>
-    <p>En este segundo entregable, me enfoqué en el Diseño UX/UI de la Aplicación Móvil. Para ello, me actualicé en las guías de diseño específicas para plataformas móviles como Android. Creé wireframes, diagramas de flujo y prototipos interactivos de la aplicación, utilizando herramientas como Figma. Este proceso me permitió aplicar nuevos conocimientos en diseño centrado en el usuario y mejorar mis habilidades en prototipado y testeo de interfaces móviles.</p>
-    <b>TP1</b>
-    <p>En este trabajo parcial, me enfoqué en el desarrollo final de la Landing Page. Para ello, me aseguré de seguir las mejores prácticas de diseño web responsivo, optimizando la página para diferentes dispositivos y resoluciones. Implementé mejoras en el código asegurando una experiencia de usuario fluida y una interfaz visual atractiva. Finalmente, se hizo el deploy en Netlify para facilitar el despliegue y revisión continua.</p>
-    <b>TB3</b>
-    <p>Durante este sprint, lideré el diseño UX/UI de la aplicación móvil y la Landing Page. Actualicé mis conocimientos en diseño responsivo y me aseguré de implementar una interfaz atractiva, intuitiva y funcional para el usuario final, fortaleciendo mis habilidades en diseño de software.</p>
-    <b>TB4</b>
-    <p>Durante este sprint, realicé un estudio intensivo de guías de estilo y estándares actuales en desarrollo de aplicaciones móviles, lo que me permitió optimizar los formularios de registro y login. Esta actualización de conocimientos fue fundamental para mejorar la seguridad y la experiencia de usuario en nuestra app.</p>
-    <b>TF</b>
-    <p>Para esta entrega final, lideré el diseño UX/UI de la aplicación móvil, implementando mejoras significativas en los formularios de registro y login. Esta etapa me permitió reflexionar sobre la importancia de mis aportes para optimizar la funcionalidad y estética del proyecto. Reconocí que mis logros en diseño han elevado la calidad del producto y fortalecieron mi enfoque en soluciones centradas en el usuario.</p>
-      <td colspan="3">
+    <h3>Augusto Jose Pin Matallana</h3>
+    <b>TB1</b>
+    <p>He dedicado un esfuerzo considerable a elaborar diagramas precisos y alineadas con las necesidades reales de nuestros usuarios, asegurando que cada requerimiento esté contemplado en el desarrollo del producto. Este trabajo se complementó con la definición de una propuesta de valor única, que delimita con claridad el propósito y los objetivos del proyecto. Ambas acciones reflejan no solo mi capacidad para generar ideas innovadoras, sino también mi compromiso con la creación de soluciones funcionales y con alto potencial de impacto en el mercado.</p>
+    <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto, nuestro equipo ha demostrado un crecimiento significativo en el ámbito de soluciones de software, fundamental para nuestro desarrollo profesional continuo. Hemos completado con éxito la definición del problema, realizado una investigación exhaustiva de competidores y llevado a cabo entrevistas detalladas que han enriquecido considerablemente nuestra comprensión del mercado y las necesidades de los usuarios. Estas actividades nos han permitido formular una propuesta de valor innovadora y diferenciada, reflejada en User Stories bien definidas y un diseño de producto adaptado a las demandas actuales. La comunicación efectiva y la colaboración dentro del equipo han sido claves para integrar diversas perspectivas y habilidades, fortaleciendo nuestro enfoque y asegurando que todos los aspectos del proyecto estén alineados y optimizados para las siguientes etapas del desarrollo. Este progreso inicial no solo ha mejorado nuestras capacidades técnicas, sino que también ha solidificado nuestra cohesión como equipo, preparándonos para enfrentar con confianza los desafíos futuros del proyecto.</p>
-    <b>TB2</b>
-    <p>En este segundo hito, hemos continuado actualizando nuestros conocimientos y habilidades para avanzar en el desarrollo de nuestro proyecto de software. Cada miembro del equipo ha profundizado en áreas clave como las Directrices de Estilo, Arquitectura de Información, Diseño de Interfaces y Desarrollo de Prototipos, lo que ha permitido un avance significativo en la materialización de nuestro producto. La adopción de nuevas herramientas y metodologías de diseño nos ha permitido mejorar la calidad y usabilidad de nuestra aplicación. Este aprendizaje continuo ha sido esencial para adaptarnos a las mejores prácticas actuales en desarrollo de software y garantizar que nuestro producto cumpla con los estándares de la industria. Además, la integración de estos nuevos conocimientos ha fortalecido nuestro enfoque colaborativo y ha mejorado nuestra capacidad para abordar desafíos complejos de manera eficiente.</p>
-    <b>TP1</b>
-    <p>Al concluir el trabajo parcial, nuestro equipo ha mostrado una evolución significativa tanto en habilidades técnicas como en gestión de proyectos. Hemos alcanzado importantes hitos como el desarrollo completo del backend, la implementación de funcionalidades clave en la aplicación móvil, y la creación y despliegue de la Landing Page. Cada miembro ha aportado de manera efectiva, consolidando conocimientos previos e incorporando nuevas herramientas y metodologías, como la integración de GitHub Actions y la migración del backend a Azure. Estos avances nos han permitido no solo cumplir con los objetivos propuestos, sino también mejorar nuestra capacidad para enfrentar desafíos técnicos complejos. La coordinación y colaboración dentro del equipo han sido fundamentales para asegurar que todos los componentes del proyecto avancen de manera coherente y alineada con nuestros objetivos finales. Este entregable nos ha preparado de manera óptima para continuar con el desarrollo del producto, siempre enfocados en la calidad y en satisfacer las necesidades del usuario final.</p>
-    <b>TB3</b>
-    <p>En este tercer hito, como equipo, concluimos que la actualización constante de conocimientos y habilidades técnicas es un pilar fundamental para el desarrollo profesional y la creación de soluciones de software efectivas. A lo largo del Sprint 2, integrar tecnologías como GitHub Actions, Azure y componentes avanzados de UX/UI no solo ha elevado la calidad de nuestro proyecto, sino que también nos ha permitido experimentar y adaptarnos a las herramientas y estándares más recientes de la industria. Este enfoque nos ha impulsado a una mayor proactividad en el aprendizaje y aplicación de nuevas metodologías, mejorando así nuestra capacidad para resolver problemas de manera eficiente y entregar resultados con mayor rapidez y precisión. Además, la sinergia creada al compartir conocimientos entre los integrantes ha sido un factor clave para que todos logremos fortalecer nuestras competencias, asegurando que cada aspecto del proyecto esté alineado con las expectativas y necesidades actuales del mercado.</p>
-    <b>TB4</b>
-    <p>Durante este cuarto hito, hemos concluido que actualizar constantemente nuestros conocimientos y habilidades es crucial para el desarrollo de soluciones de software competitivas. Las mejoras implementadas en la funcionalidad y diseño de la aplicación móvil no solo mejoraron la experiencia del usuario, sino que también elevaron nuestro nivel profesional, preparándonos para enfrentar nuevos retos tecnológicos. Cada miembro del equipo ha demostrado que, al mantenerse al día con las últimas tendencias y herramientas, logramos un producto más eficiente y alineado con las necesidades de los usuarios, fortaleciendo nuestra posición en el mercado.</p>
-    <b>TF</b>
-    <p>Durante esta entrega final, como equipo, hemos trabajado integrando conocimientos actualizados que han mejorado significativamente la calidad de nuestro proyecto. Cada uno aportó en áreas clave como la optimización del backend, el diseño de la arquitectura de información, la mejora en interfaces de usuario y la implementación de estándares modernos en UX/UI. Estas acciones reflejan nuestro compromiso con el aprendizaje constante y la aplicación de estrategias innovadoras para alcanzar nuestros objetivos.
-
-Al reflexionar sobre nuestros logros, reconocemos la importancia de adaptarnos a las demandas tecnológicas actuales y de cómo nuestras contribuciones individuales se complementaron para crear un producto robusto y funcional. Este proceso nos ha permitido no solo cumplir con los objetivos del proyecto, sino también prepararnos para desafíos más complejos en el futuro.</p>
   </td>
     </tr>
     <tr>
-      <td colspan="3">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
+      <td colspan="3">Crea un entorno colaborativo e
+inclusivo, establece metas,
+planifica tareas y cumple
+objetivos.</td>
       <td colspan="3" align = "justify">
       <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
     <p>En este primer hito, he logrado una comprensión más profunda de la definición de problemas y la formulación de suposiciones, elementos cruciales en el desarrollo de proyectos de software. Al delinear claramente el Problem Statement y establecer Asumptions fundamentados, he reforzado mi capacidad para abordar problemas complejos de manera sistemática. Esta tarea ha reafirmado mi convicción sobre la importancia del aprendizaje continuo en la adaptación y aplicación de conocimientos técnicos a situaciones reales, lo cual es indispensable para mi desarrollo profesional.</p>
-    <b>TB2</b>
-    <p>Durante el segundo hito, al desarrollar las Directrices de Estilo Generales, reconocí la necesidad de mantenerme actualizado con las tendencias de diseño y las expectativas de los usuarios. Esto me llevó a explorar cursos en línea y webinars sobre UX/UI, lo que reforzó mi comprensión de cómo el diseño influye en la experiencia del usuario. Este esfuerzo por actualizar mis conocimientos me ha permitido crear un Style Guide que no solo cumple con los estándares actuales, sino que también anticipa futuras tendencias en diseño.</p>
-    <b>TP1</b>
-    <p>Para el primer trabajo parcial, me enfoqué en ampliar mis conocimientos en el uso de nuevas tecnologías y metodologías necesarias para el desarrollo eficiente del backend. A través de la investigación sobre Spring Boot y la arquitectura hexagonal, pude implementar soluciones sólidas y escalables. Además, el proceso de migración de Heroku a Azure me permitió aprender sobre la configuración de entornos en la nube, algo crucial para el desarrollo de software moderno. Por ultimo, el tener que conectar el backend con la aplicación móvil fue muy importate ya que tuve ciertos errores que al final resolvi investigando y leyendo documentación de las librerias como retrofit que me sirvieron mucho y pude aprender bien de ellas. Este hito no solo me permitió aplicar lo aprendido, sino que también me motivó a continuar actualizando mis habilidades para adaptarme a las demandas tecnológicas actuales.</p>
-    <b>TB3</b>
-    <p>Este sprint reafirmó la importancia de aprender continuamente. La migración a Azure y el uso de GitHub Actions me motivaron a investigar sobre Spring Boot y arquitectura hexagonal, permitiéndome aplicar estos conocimientos de manera práctica y mejorar mis habilidades técnicas en la nube.</p>
-    <b>TB4</b>
-    <p>En este cuarto hito, reconociendo la importancia del aprendizaje continuo, participé en cursos en línea y exploré nuevas técnicas de validación de usuarios y optimización de bases de datos. Esto fue clave para el desarrollo de la app móvil, aumentando la eficiencia y mejorando la interacción con los usuarios.</p>
-    <b>TF</b> 
-    <p>En esta entrega final, trabajé aprendiendo y aplicando herramientas avanzadas para despliegue en la nube, lo que mejoró la escalabilidad y eficiencia del proyecto. Reflexioné sobre cómo mi compromiso con el aprendizaje constante me ha permitido realizar aportes significativos y cómo estos logros fortalecen mi confianza para asumir mayores responsabilidades en futuros proyectos.</P>
       <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante la realización de una investigación exhaustiva de competidores y la conducción de entrevistas dirigidas, he reconocido la necesidad de mantenerme actualizado sobre las tendencias del mercado y las tecnologías emergentes. Este proceso no solo ha enriquecido mi entendimiento del entorno competitivo sino que también ha mejorado mis habilidades de comunicación y análisis crítico. Aprender de manera continua sobre nuevas metodologías y prácticas del sector me ha permitido formular preguntas más incisivas y recopilar datos más relevantes, fundamentales para el éxito del proyecto.</p>
-    <b>TB2</b>
-    <p>En este segundo hito, al trabajar en la Arquitectura de Información, me di cuenta de la importancia de aprender constantemente sobre usabilidad y experiencia de usuario. Asistí a talleres y cursos en línea sobre arquitectura de información y sistemas de navegación, lo que me permitió aplicar principios avanzados en la estructuración de nuestro contenido. Reconocer que el aprendizaje es un proceso continuo ha sido clave para mejorar la calidad de nuestro producto y asegurar que satisfaga las necesidades de nuestros usuarios.</p>
-    <b>TP1</b>
-    <p>En este trabajo parcial, comprendí la importancia del aprendizaje continuo al investigar sobre librerías y frameworks modernos para el desarrollo de interfaces de usuario en aplicaciones móviles. Este proceso de búsqueda y aprendizaje me permitió mejorar mis conocimientos en librerías de componentes visuales y herramientas de prototipado que fueron fundamentales para el diseño de las primeras pantallas de la aplicación. Al implementar estas herramientas, pude crear interfaces más interactivas y estéticamente coherentes, lo que demuestra cómo el aprendizaje constante es crucial para mantenerme actualizado en el campo del desarrollo de software.</p>
-    <b>TB3</b>
-    <p>Investigar continuamente sobre herramientas de diseño en aplicaciones móviles me ayudó a refinar mis habilidades en UX/UI. Asistí a talleres y consulté recursos en línea para asegurar que el diseño fuera atractivo y funcional, lo cual considero esencial para ofrecer un producto competitivo y eficiente.</p>
-    <b>TB4</b>
-    <p>Durante este cuarto hito, realicé investigaciones constantes sobre tendencias de diseño y usabilidad para mantenerme actualizado en la estructura de información de la app. Este aprendizaje continuo me permitió aplicar principios avanzados de UX que fortalecieron la accesibilidad y usabilidad de nuestro producto.</p>
-    <b>TF</b>
-    <p>Mi aporte final incluyó la implementación de mejoras en accesibilidad y diseño, basándome en tendencias actuales. Reflexioné sobre cómo el aprendizaje continuo me permitió estar a la altura de los desafíos del proyecto, reconociendo que mis contribuciones han sido clave para el desarrollo de un producto más competitivo y funcional.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Como líder del equipo, definí una propuesta de valor innovadora y al identificar User Stories detalladas, he aplicado efectivamente mi aprendizaje en diseño de soluciones a las necesidades específicas del usuario final. Este proceso ha demostrado la importancia de actualizar continuamente mis habilidades en la creación de soluciones efectivas y centradas en el usuario. A través de la práctica constante y la evaluación crítica, he mejorado mi capacidad para desarrollar productos que no solo cumplen sino que superan las expectativas del mercado.</p>
-    <b>TB2</b>
-    <p>En el segundo hito, al diseñar la Landing Page UI, reconocí la necesidad de aprender nuevas técnicas y tendencias en diseño web para mejorar la experiencia del usuario. Me inscribí en cursos especializados y seguí a profesionales destacados en el campo para incorporar las mejores prácticas en nuestro diseño. Este compromiso con el aprendizaje continuo me ha permitido elevar el estándar de nuestro trabajo y asegurar que estamos ofreciendo una interfaz moderna y eficiente.</p>
-    <b>TP1</b>
-    <p>El aprendizaje permanente ha sido un aspecto central en este trabajo parcial. Al mejorar mis habilidades en el uso de herramientas como Figma, pude ajustar y optimizar el diseño visual tanto de la aplicación móvil como de la Landing Page. También adquirí nuevos conocimientos sobre gestión de proyectos y uso de ramas en Git, lo que resultó en un trabajo colaborativo más eficiente y ordenado. La capacidad de adaptarme a nuevas tecnologías y métodos ha sido clave para asegurar que mi contribución al proyecto esté alineada con los estándares actuales de la industria.</p>
-    <b>TB3</b>
-    <p>Al seguir tendencias de diseño y profundizar en prácticas de UX, reforcé mi compromiso con el aprendizaje constante. Participé en cursos especializados y supervisé la colaboración en Git, mejorando mi capacidad de adaptación a nuevas herramientas y asegurando que nuestro diseño mantuviera un estándar de calidad</p>
-    <b>TB4</b>
-    <p>Para este hito, estudié metodologías ágiles y técnicas de colaboración en herramientas de gestión de proyectos, mejorando así la organización del equipo y asegurando que los entregables se ajustaran a los tiempos y calidad esperados.</p>
-    <b>TF</b>
-    <p>Durante esta entrega final, perfeccioné los diseños visuales y colaboré en la organización del equipo. Reflexioné sobre cómo mi enfoque en el aprendizaje continuo me ha permitido mejorar mi capacidad para liderar tareas y aportar soluciones de alta calidad al proyecto. Esta experiencia reafirmó mi compromiso con la mejora constante.</p>
       <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>La tarea de analizar respuestas de entrevistas y construir fichas de Personas me ha permitido aplicar teorías de comportamiento del usuario y psicología de consumo de manera práctica. Este ejercicio ha reforzado la necesidad de un aprendizaje permanente en áreas interdisciplinarias que complementan el desarrollo de software. Entender profundamente a los usuarios y adaptar nuestras soluciones a sus necesidades es un recordatorio constante de cómo el aprendizaje continuo puede influir directamente en la relevancia y el impacto de nuestros proyectos.</p>
-    <b>TB2</b>
-    <p>Durante el desarrollo del Diseño UX/UI de la Aplicación Móvil, me di cuenta de la importancia de estar al día con las guías de estilo y estándares de diseño móvil. Participé en seminarios y leí documentación oficial de Apple y Google para asegurar que nuestro diseño cumple con las expectativas de las plataformas. Este reconocimiento de la necesidad de aprendizaje permanente ha sido vital para crear una aplicación que sea intuitiva y atractiva para los usuarios.</p>
-    <b>TP1</b>
-    <p>Durante este trabajo parcial, me dediqué a actualizar mis conocimientos sobre diseño web responsivo y optimización para distintos dispositivos, lo que me permitió llevar a cabo la creación final de la Landing Page. Además, investigué sobre las mejores prácticas en diseño y desarrollo web para asegurar que la página tuviera un rendimiento óptimo y una experiencia de usuario fluida. Este proceso fue clave para afianzar mis conocimientos en desarrollo web, destacando la importancia del aprendizaje continuo para enfrentar los desafíos técnicos y garantizar un producto de alta calidad.</p>
-    <b>TB3</b>
-    <p>La necesidad de adaptarme a guías de diseño y estándares actuales en plataformas móviles me impulsó a participar en seminarios y revisar documentación oficial de Android y web. Este compromiso con el aprendizaje continuo me permite crear soluciones alineadas con las mejores prácticas y mantener un alto estándar de usabilidad en el proyecto.</p>
-    <b>TB4</b>
-    <p>Durante este cuarto hito, me mantuve al día con las guías de diseño para Android, lo que me permitió adaptar nuestra app a los estándares actuales y ofrecer una experiencia unificada para los usuarios. Este compromiso con el aprendizaje continuo refuerza la calidad y relevancia de nuestro trabajo.</p>
-    <b>TF</b>
-    <p>Para esta entrega final, adapté la aplicación a estándares modernos de diseño, asegurando una experiencia de usuario optimizada. Reflexioné sobre cómo mis logros en esta etapa resaltan la importancia de seguir aprendiendo y evolucionando como profesional, garantizando que mis aportes sean cada vez más relevantes y significativos para el éxito del proyecto.</p>
-      </td>
+    <h3>Augusto Jose Pin Matallana</h3>
+    <b>TB1</b>
+    <p>Durante este primer hito, participé activamente en diversas etapas clave del desarrollo del proyecto. Desde la definición clara del problema y la formulación de suposiciones bien fundamentadas, hasta la elaboración de User Stories alineadas con las verdaderas necesidades del usuario, contribuí a construir una base sólida para nuestro producto. Asimismo, me involucré en la investigación de mercado, análisis de competidores y entrevistas con usuarios, lo que me permitió enriquecer mi perspectiva sobre el entorno competitivo y afinar mis habilidades de observación y análisis. Todo ello ha reforzado mi convicción sobre la importancia del aprendizaje continuo para adaptar conocimientos técnicos a contextos reales y colaborar efectivamente en equipos multidisciplinarios.</p>
+    </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir este primer hito, nuestro equipo ha consolidado la importancia del aprendizaje continuo como piedra angular de nuestro desarrollo profesional y éxito en proyectos de soluciones de software. Cada miembro ha demostrado un compromiso ejemplar con la actualización y aplicación de conocimientos en diversas áreas, desde la definición precisa de problemas hasta el análisis profundo del comportamiento del usuario. Hemos reconocido que mantenerse al día con las últimas tendencias y tecnologías no solo enriquece nuestras propuestas de valor, sino que también refina nuestras habilidades comunicativas y de análisis. Este enfoque proactivo hacia el aprendizaje nos ha permitido crear soluciones innovadoras y efectivas que responden con precisión a las necesidades de nuestros usuarios. La experiencia acumulada en este hito subraya nuestra convicción de que el aprendizaje permanente es fundamental para adaptarse a los desafíos emergentes y para liderar en el dinámico campo del desarrollo de software.</p>
-    <b>TB2</b>
-    <p>Con la finalización del segundo hito, reafirmamos la importancia del aprendizaje permanente en nuestro desempeño profesional y en el desarrollo de proyectos de software. Al enfrentarnos a nuevos desafíos en diseño y arquitectura, hemos buscado activamente ampliar nuestros conocimientos a través de cursos, talleres y recursos en línea. Este compromiso ha mejorado significativamente la calidad de nuestro trabajo, permitiéndonos implementar prácticas y estándares actualizados en nuestro proyecto. Reconocemos que el aprendizaje constante no solo es necesario para mantenernos relevantes en la industria tecnológica, sino que también es esencial para innovar y ofrecer soluciones que superen las expectativas de los usuarios. Nuestro equipo se mantiene dedicado a este enfoque, entendiendo que es clave para el éxito continuo y la excelencia profesional.</p>
-    <b>TP1</b>
-    <p>Al finalizar este trabajo parcial, nuestro equipo ha demostrado que el aprendizaje permanente es fundamental para nuestro desarrollo profesional y para llevar a cabo proyectos de software exitosos. Cada integrante ha reconocido la importancia de mantenerse actualizado con las últimas tendencias y herramientas tecnológicas, lo que nos ha permitido implementar soluciones innovadoras y de alta calidad. El proceso de investigación y adquisición de nuevos conocimientos ha sido clave para superar los desafíos técnicos y garantizar un avance coherente del proyecto. Este enfoque en el aprendizaje constante nos prepara mejor para enfrentar futuros retos y continuar evolucionando como profesionales en el campo del desarrollo de software.</p>
-    <b>TB3</b>
-    <p>En este tercer hito, como equipo, reconocimos la importancia del aprendizaje permanente como un elemento vital para nuestra adaptabilidad y relevancia en un campo tecnológico tan dinámico. La necesidad de estudiar continuamente sobre nuevas metodologías y herramientas nos permitió enfrentar con éxito los retos técnicos, desde la implementación de prácticas modernas en diseño y experiencia de usuario hasta la configuración avanzada de entornos de despliegue en la nube. Este compromiso con el aprendizaje constante no solo mejoró la calidad de nuestras soluciones, sino que también fortaleció nuestra capacidad de colaboración y resolución de problemas. Entendemos que, como profesionales en desarrollo de software, la mejora continua y la disposición para aprender son indispensables para ofrecer productos de alta calidad, innovadores y que respondan efectivamente a las demandas cambiantes del sector.</p>
-    <b>TB4</b>
-    <p>Durante este cuarto hito, hemos concluido que el aprendizaje permanente es fundamental para el éxito en el desarrollo de proyectos de software. La constante actualización en técnicas, herramientas y metodologías nos ha permitido superar diversos desafíos, incrementando la calidad de nuestras soluciones y fortaleciendo nuestras habilidades individuales y colectivas. Este enfoque en la mejora continua no solo nos hace más competitivos como equipo, sino que también garantiza que nuestros productos respondan eficazmente a las demandas de un mercado en constante cambio, posicionándonos como profesionales comprometidos con la excelencia.</p>
-    <b>TF</b>
-    <p>A lo largo de esta entrega final, entendimos como equipo que el aprendizaje permanente es esencial para alcanzar resultados óptimos en el desarrollo de software. Cada integrante exploró nuevas herramientas y técnicas, desde tecnologías de despliegue en la nube hasta principios avanzados de diseño, lo que nos permitió mejorar la calidad del producto y superar los desafíos encontrados. Reflexionamos sobre cómo este enfoque no solo fortaleció nuestras habilidades individuales, sino que también fomentó la colaboración y el intercambio de conocimientos dentro del equipo. Esta experiencia nos ha demostrado que mantenernos actualizados y comprometidos con el aprendizaje continuo es clave para seguir ofreciendo soluciones relevantes y de alta calidad.</p>
   </td>
     </tr>
   </tbody>
@@ -451,8 +254,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
-| **Fecha de inicio**               | 9/05/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/28/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/2/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
 | **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
 | **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
 | **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
@@ -464,8 +267,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
-| **Fecha de inicio**               | 9/01/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/01/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/24/25                                                                                                                                              |
 | **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
 | **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
 | **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
@@ -477,8 +280,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
-| **Fecha de inicio**               | 9/02/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/02/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
 | **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
 | **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
 | **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
@@ -490,13 +293,26 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
-| **Fecha de inicio**               | 9/03/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/29/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/03/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/26/25                                                                                                                                              |
 | **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
 | **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
 | **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
 | **R - Relevant** | La automatización de pruebas es una habilidad crucial para garantizar la calidad continua en proyectos de software, especialmente en entornos ágiles donde las iteraciones rápidas requieren verificaciones constantes.                                   |
-| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.                                                           |
+| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.   
+
+### Augusto Jose, Pin Matallana  
+| **Campo**                         | **Descripción**                                                                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**      | Fortalecer habilidades en revisión y validación de pruebas funcionales, contribuyendo al aseguramiento de la calidad en los desarrollos del equipo. |
+| **Fecha de inicio**               | 4/4/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/27/25                                                                                                                                              |
+| **S - Specific** | Augusto se enfocará en validar los resultados de pruebas funcionales realizadas por sus compañeros, asegurándose de que las funcionalidades cumplan con los criterios de aceptación establecidos en las User Stories.                         |
+| **M - Measurable** | Revisar y validar al menos 10 funcionalidades desarrolladas, documentando observaciones y colaborando con el equipo para corregir errores antes de las entregas finales.                                             |
+| **A - Achievable** | Utilizará herramientas como Jira y GitHub para registrar y dar seguimiento a los resultados de pruebas, aplicando buenas prácticas en la revisión de entregables.                                                             |
+| **R - Relevant** | La revisión de pruebas es clave para garantizar productos funcionales y confiables, especialmente en entornos colaborativos y de desarrollo ágil.                                   |
+| **T - Time-bound** | Completar la validación y revisión de funcionalidades dentro del plazo establecido, con sesiones de retroalimentación que permitan mejorar la calidad de los desarrollos futuros. |
+                                                         |
 
 <br><br>
 
@@ -513,7 +329,7 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 
 TechZo es una startup dedicada a la innovación tecnológica y la reutilización de recursos, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
 
-Nuestra principal solución, CambiaZo, es una aplicación móvil diseñada para transformar la forma en que las personas gestionan y comparten sus bienes. A través de CambiaZo, facilitamos el intercambio directo, seguro y sin transacciones monetarias de artículos entre usuarios, promoviendo la reutilización y el aprovechamiento óptimo de recursos disponibles. Además, la aplicación ofrece una funcionalidad especial que permite a los usuarios donar productos directamente a personas de bajos recursos, apoyando así a las comunidades más necesitadas.
+Nuestra principal solución, CambiaZo, es una aplicación web diseñada para transformar la forma en que las personas gestionan y comparten sus bienes. A través de CambiaZo, facilitamos el intercambio directo, seguro y sin transacciones monetarias de artículos entre usuarios, promoviendo la reutilización y el aprovechamiento óptimo de recursos disponibles. Además, la aplicación ofrece una funcionalidad especial que permite a los usuarios donar productos directamente a personas de bajos recursos, apoyando así a las comunidades más necesitadas.
 
 En TechZo, estamos comprometidos con la seguridad, transparencia y justicia en cada transacción. Trabajamos constantemente para garantizar que los usuarios tengan acceso a información clara y detallada sobre los productos disponibles, fomentando una experiencia de intercambio confiable y satisfactoria. Al combinar tecnología de vanguardia con un enfoque en la responsabilidad social, buscamos impulsar un cambio positivo en la forma en que consumimos y reutilizamos.
 
@@ -543,11 +359,11 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y móvil, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
+| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y web, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
 | **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
-| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
+| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo web. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
-| **Quispesivana Torres, Claudio Sandro - u202215099**     |Mi nombre es Claudio Sandro Quispesivana Torres, tengo 20 años y estoy cursando el septimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-I/Profiles/sandroquispesivana.png" alt="Imagen de Sandro Quispesivana"/> |
+| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
 
 <br><br>
 
@@ -585,10 +401,10 @@ Esta problemática es una constante con el pasar de los años ya que recién es 
 Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
 
 * **HOW?**<br>
-Se implementará una propuesta de solución mediante el desarrollo de una aplicación móvil que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
 
 * **HOW MUCH?**<br>
-El presupuesto para el desarrollo de la aplicación móvil varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
+El presupuesto para el desarrollo de la aplicación web varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
@@ -670,7 +486,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b></div><br>
             <ul>
-            <li>Desarrollar una aplicación móvil para facilitar el intercambio de objetos entre usuarios.</li><br>
+            <li>Desarrollar una aplicación web para facilitar el intercambio de objetos entre usuarios.</li><br>
             <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
             <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
             <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
@@ -767,14 +583,13 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
 <div style="page-break-after: always;"></div>
 
-# Capítulo II: Needfinding
-
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
 
 En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
 
-Según la investigación, se descubrieron aplicaciones móviles y/o apps webs similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
+Según la investigación, se descubrieron aplicaciones webes y/o apps webs similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
 
 * **Trueques.com**<br>
 Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.<br><br>
@@ -784,7 +599,7 @@ Plataforma en línea que permite a los usuarios intercambiar servicios y artícu
 
 
 * **Me Sirve**<br>
-Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.<br><br>
+Aplicación web que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.<br><br>
 
 ### 2.1.1 Análisis Competitivo
 
@@ -838,7 +653,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación móvil que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
 	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
@@ -883,11 +698,11 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Free y Premium $2.99 por mes</td>
   </tr>
   <tr>
-    <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Web y móvil</td>
+    <td>Canales de Distribución (Web y/o web)</td>
+    <td>Web y web</td>
     <td>Web</td>
     <td>Web</td>
-    <td>Móvil</td>
+    <td>web</td>
   </tr>
   <tr>
     <td rowspan="4">Análisis SWOT</td>
@@ -1326,7 +1141,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Gonzalo David Espino Rojas, un estudiante de marketing de 21 años que reside en Lima y posee un smartphone Android, comparte su experiencia personal en el ámbito de los intercambios. Gonzalo señala que en sus intentos previos de realizar este tipo de transacciones, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos y la fiabilidad de los usuarios involucrados, lo cual ha generado incertidumbre y preocupación. Para abordar estas inquietudes, Gonzalo destaca la necesidad de contar con una aplicación móvil que ofrezca diversas funciones y características, como un sistema de calificación y reseñas de los usuarios, un riguroso proceso de verificación de identidad y una sólida política de privacidad y seguridad de datos. Asimismo, Gonzalo enfatiza la importancia de tener una comunidad activa dentro de la plataforma, ya que esto le permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos antes de concretar cualquier intercambio. En general, Gonzalo se muestra interesado en probar una aplicación como CambiaZo, ya que espera obtener beneficios como ahorrar dinero, contribuir al cuidado del medio ambiente y formar parte de una comunidad que promueve un consumo más consciente y sostenible.
+    <td>Durante la entrevista, Gonzalo David Espino Rojas, un estudiante de marketing de 21 años que reside en Lima y posee un smartphone Android, comparte su experiencia personal en el ámbito de los intercambios. Gonzalo señala que en sus intentos previos de realizar este tipo de transacciones, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos y la fiabilidad de los usuarios involucrados, lo cual ha generado incertidumbre y preocupación. Para abordar estas inquietudes, Gonzalo destaca la necesidad de contar con una aplicación web que ofrezca diversas funciones y características, como un sistema de calificación y reseñas de los usuarios, un riguroso proceso de verificación de identidad y una sólida política de privacidad y seguridad de datos. Asimismo, Gonzalo enfatiza la importancia de tener una comunidad activa dentro de la plataforma, ya que esto le permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos antes de concretar cualquier intercambio. En general, Gonzalo se muestra interesado en probar una aplicación como CambiaZo, ya que espera obtener beneficios como ahorrar dinero, contribuir al cuidado del medio ambiente y formar parte de una comunidad que promueve un consumo más consciente y sostenible.
 </td>
   </tr>
 </tbody>
@@ -1396,7 +1211,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>En la entrevista con Luis Valero, se discutieron sus hábitos y opiniones sobre el intercambio de productos. Luis utiliza grupos de WhatsApp y Facebook para intercambiar objetos, aunque ha tenido experiencias mixtas, con algunos intercambios exitosos y otros problemáticos.Él considera que los productos más viables para intercambiar a través de una aplicación móvil son libros, ropa, gadgets pequeños y artículos para el hogar. Mencionó que, en su entorno, hay una alta demanda de cartas de colección, videojuegos, dispositivos electrónicos y artículos deportivos.Sus principales preocupaciones al usar una nueva aplicación de intercambio incluyen la seguridad y la confiabilidad de los usuarios. Destaca la importancia de contar con calificaciones, verificación de identidad y un chat seguro para sentirse cómodo al realizar intercambios.Luis cree que CambiaZo podría ofrecer una plataforma más segura y confiable para estos intercambios, permitiéndole también ahorrar dinero y acceder a una variedad de productos. Para garantizar la calidad de los artículos, recomendaría pedir imágenes detalladas y revisar la reputación del usuario. Además, cree que la comunidad puede ayudar con reseñas honestas y reportando irregularidades.
+    <td>En la entrevista con Luis Valero, se discutieron sus hábitos y opiniones sobre el intercambio de productos. Luis utiliza grupos de WhatsApp y Facebook para intercambiar objetos, aunque ha tenido experiencias mixtas, con algunos intercambios exitosos y otros problemáticos.Él considera que los productos más viables para intercambiar a través de una aplicación web son libros, ropa, gadgets pequeños y artículos para el hogar. Mencionó que, en su entorno, hay una alta demanda de cartas de colección, videojuegos, dispositivos electrónicos y artículos deportivos.Sus principales preocupaciones al usar una nueva aplicación de intercambio incluyen la seguridad y la confiabilidad de los usuarios. Destaca la importancia de contar con calificaciones, verificación de identidad y un chat seguro para sentirse cómodo al realizar intercambios.Luis cree que CambiaZo podría ofrecer una plataforma más segura y confiable para estos intercambios, permitiéndole también ahorrar dinero y acceder a una variedad de productos. Para garantizar la calidad de los artículos, recomendaría pedir imágenes detalladas y revisar la reputación del usuario. Además, cree que la comunidad puede ayudar con reseñas honestas y reportando irregularidades.
 </td>
   </tr>
 </tbody>
@@ -1465,76 +1280,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con el intercambio de artículos con personas de su entorno, señalando que si bien ha realizado este tipo de intercambios en el pasado, no ha encontrado un lugar el cual le sirve especificamente para poder intercambios su objetos de manera segura. Para Daniella, una aplicación móvil como CambiaZo podría ser un excelente intermediario al momento de querer intercambiar con otro usuario, ya que fomenta la confianza para ambas partes. Además, Daniella agrega que los artículos con mayor demanda son los articulos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado; no obstante, Daniella también manifiesta preocupaciones relacionadas con la confiabilidad de la aplicación, por lo que valora la posibilidad de verificar la legitimidad de los objetos mediante la inclusión de fotos y una sección de reseñas, esperando que el uso de CambiaZo le permita sentirse seguro y poder empezar a intercambio de manera más segura y efectiva promiviendo el desarrollo de una comunidad más sostenible y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table><br>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #7<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Sebastian Valente</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Lobato Pozo</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>La Molina</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupación sobre posibles estafas</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Computadora Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Claudio Sandro Quispesivana Torres</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png" alt="Entrevista Daniella Vargas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EZUwObmyCw1DtDKyGQhp3BoBBI-RzKhfJr0FnAkLM9yqhQ?e=pRwTag&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 min - 06:44 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Sebastián Lobato, un estudiante de Ingenieria de Software de 20 años que vive en Lima y utiliza un smartphone Android, relató sus experiencias previas realizando intercambios de artículos con personas de su entorno. Aunque ha participado en este tipo de actividades antes, menciona que no ha encontrado una plataforma dedicada que le brinde seguridad al momento de intercambiar sus objetos. Para Sebastián, una aplicación móvil como CambiaZo podría ser una herramienta ideal para facilitar estos intercambios, ya que genera un ambiente de confianza entre los usuarios. Además, señala que los artículos más solicitados suelen ser productos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado. Sin embargo, también expresa inquietudes sobre la fiabilidad de la aplicación, por lo que valora funciones como la posibilidad de subir fotos y contar con una sección de reseñas. Sebastián espera que el uso de CambiaZo le permita realizar intercambios de manera más segura y eficiente, contribuyendo así al crecimiento de una comunidad más sostenible y conectada en Lima.
+    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con el intercambio de artículos con personas de su entorno, señalando que si bien ha realizado este tipo de intercambios en el pasado, no ha encontrado un lugar el cual le sirve especificamente para poder intercambios su objetos de manera segura. Para Daniella, una aplicación web como CambiaZo podría ser un excelente intermediario al momento de querer intercambiar con otro usuario, ya que fomenta la confianza para ambas partes. Además, Daniella agrega que los artículos con mayor demanda son los articulos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado; no obstante, Daniella también manifiesta preocupaciones relacionadas con la confiabilidad de la aplicación, por lo que valora la posibilidad de verificar la legitimidad de los objetos mediante la inclusión de fotos y una sección de reseñas, esperando que el uso de CambiaZo le permita sentirse seguro y poder empezar a intercambio de manera más segura y efectiva promiviendo el desarrollo de una comunidad más sostenible y conectada en Lima.
 </td>
   </tr>
 </tbody>
@@ -1939,7 +1685,7 @@ Además, el rastreo de donaciones es fundamental para asegurar que los artículo
 
 Garantizar la transparencia en el destino de las donaciones es vital para mantener la confianza de los donadores, permitiéndoles ver claramente cómo y a quién se destinan los artículos donados. Igualmente importante es la protección de los datos personales, que asegura la seguridad y privacidad de la información de los usuarios.
 
-La aplicación móvil debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
+La aplicación web debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
 
 Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
 
@@ -2179,9 +1925,11 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 <br><br>
 
 
-## 2.4 Requirements Specification
+## 2.4 Ubiquitous Language.
 
-###  2.4.1. To-Be Scenario Mapping
+# Capítulo III: Requirements Specification
+
+###  3.1. To-Be Scenario Mapping
 
 En esta sección, visualizaremos los escenarios futuros propuestos para nuestros usuarios, ilustrando cómo deberían evolucionar los procesos y herramientas para mejorar la experiencia en nuestra plataforma. El To-Be Scenario Mapping nos ayudará a diseñar soluciones optimizadas que respondan a las necesidades identificadas y faciliten un flujo de trabajo más eficiente y satisfactorio.
 
@@ -2208,7 +1956,7 @@ Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZ
 
 
 
-## 2.4.2 User Stories
+## 3.2. User Stories
 
 En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
@@ -2255,7 +2003,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 <br>
 
-| **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación móvil, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
+| **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación web, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
 | US25 | Visualización de la Historia de la Startup |
@@ -2287,7 +2035,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|**Escenario 1: Acceso del usuario a "Mi perfil"**<br><br>**Dado que** el usuario está registrado en la aplicación,<br><br>**Cuando** acceda a su perfil,<br><br>**Entonces** el sistema presentará la página "Mi perfil".<br><br>**Escenario 2: El usuario elige editar su perfil**<br><br>**Dado que** el usuario se encuentra en la página "Mi perfil" con los datos personales visibles,<br><br>**Cuando** seleccione el botón "Editar perfil",<br><br>**Entonces**, el sistema mostrará la página de edición de perfil.<br><br>**Escenario 3: Actualización exitosa de los datos del perfil del usuario**<br><br>**Dado que** el usuario se encuentra en la página de edición de perfil con los datos personales visibles,<br><br>**Cuando** introduzca sus nuevos datos<br><br>**Y** seleccione el botón "Guardar cambios",<br><br>**Entonces** el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.<br><br>**Escenario 4: Actualización de los datos del perfil del usuario con información inválida o incompleta**<br><br>**Dado que** el usuario se encuentra en la página de edición de perfil con los datos personales visibles,<br><br>**Cuando** ingrese datos incompletos o inválidos<br><br>**Y** seleccione el botón "Actualizar",<br><br>**Entonces** la aplicación mostrará un mensaje de "Error"<br><br>**Y** borrará los datos ingresados.|**EP01**|
 |**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|**Escenario 1: Acceso del usuario a la página de inicio de sesión**<br><br>**Dado que** el usuario abre la aplicación<br><br>**Y** no ha iniciado sesión previamente o se ha desconectado<br><br>**Cuando** el usuario seleccione el botón "Iniciar Sesión"<br><br>**Entonces**, la aplicación mostrará la página de inicio de sesión.<br><br>**Escenario 2: Inicio de sesión exitoso del usuario**<br><br>**Dado que** el usuario se encuentra en la página de inicio de sesión<br><br>**Cuando** ingrese sus credenciales válidas<br><br>**Y** pulse el botón "Iniciar Sesión"<br><br>**Entonces**, el usuario será autenticado<br><br>**Y** dirigido a la página principal de la aplicación.<br><br>**Escenario 3: Intento de inicio de sesión fallido**<br><br>**Dado que** el usuario está en la página de inicio de sesión<br><br>**Cuando** ingrese credenciales inválidas<br><br>**Y** pulse el botón "Iniciar Sesión"<br><br>**Entonces**, la aplicación mostrará un mensaje de error indicando que las credenciales son incorrectas.|**EP01**|
 |**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.<br><br>**Escenario 2: Cambio exitoso de la contraseña**<br><br>**Dado que** el usuario está en la página de cambio de contraseña<br><br>**Cuando** ingrese su contraseña actual y la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación ejecutará el cambio de contraseña<br><br>**Y** mostrará un mensaje de confirmación.<br><br>**Escenario 3: Intento de cambio de contraseña fallido**<br><br>**Dado que** el usuario se encuentre en la página de cambio de contraseña<br><br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.|**EP01**|
-|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para cerrar sesión.<br><br>**Escenario 2: Cierre de sesión exitoso por parte del usuario**<br><br>**Dado que** el usuario se encuentra en la página de cierre de sesión<br><br>**Cuando** seleccione el botón "Cerrar Sesión"<br><br>**Entonces**, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.|**EP01**|
+|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para cerrar sesión.<br><br>**Escenario 2: Cierre de sesión exitoso por parte del usuario**<br><br>**Dado que** el usuario se encuentra en la página de cierre de sesión<br><br>**Cuando** seleccione el botón "Cerrar Sesión"<br><br>**Entonces**, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.|**EP01**|
 |**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|**Escenario 1: Aplicación de Filtros**<br><br>**Dado que** el usuario intercambiador está en la sección de objetos disponibles para intercambio<br><br>**Cuando** el usuario selecciona filtros específicos, como categoría, estado del objeto y ubicación<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.<br><br>**Escenario 2:  Visualización de Resultados Filtrados**<br><br>**Dado que** el usuario ha aplicado filtros por estado a la lista de objetos disponibles<br><br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con el estado seleccionado<br><br>**Entonces** el usuario puede ver y explorar los resultados filtrados según sus preferencias.<br><br>**Escenario 3: Filtrar por cantidad de Vistas**<br><br>**Dado que** el usuario está buscando objetos con la mayor cantidad de vistas para intercambiar<br><br>**Cuando** el usuario selecciona la opción de "Filtrar por Vistas"<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la aplicación presenta los objetos más populares en la parte superior de la lista de resultados.|**EP02**|
 |**US07**|Visualización de ONGs registradas y filtrado | Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.|**Escenario 1: Visualización por Defecto de ONGs Registradas**<br><br>**Dado que** el usuario donante ha accedido a la sección de ONGs registradas para donación<br><br>**Cuando** el usuario ingresa a esta sección por primera vez o no ha aplicado ningún filtro<br><br>**Entonces** la aplicación muestra por defecto una lista de ONGs registradas con su imagen de logo, nombre, tipo de organización (ej. educación, salud), y ubicación (ej. San Borja, Lima).<br><br>**Escenario 2: Aplicación de Filtros por Nombre**<br><br>**Dado que** el usuario donante está en la sección de ONGs registradas para donación<br><br>**Cuando** el usuario escribe el nombre o parte del nombre de una ONG en el campo de búsqueda que se muestra en la parte superior<br><br>**Y** pulsa la tecla "Enter" o selecciona la opción de búsqueda<br><br>**Entonces** la lista de ONGs se ajustará automáticamente mostrando solo aquellas cuyo nombre coincida con el término ingresado.<br><br>**Escenario 3: Visualización de Resultados Filtrados por Nombre**<br><br>**Dado que** el usuario donante ha aplicado un filtro por nombre en el buscador<br><br>**Cuando** la aplicación muestra únicamente las ONGs cuyos nombres coincidan con el término buscado<br><br>**Entonces** el usuario podrá ver y explorar la ONG específica que busca o verificar si está registrada.|**EP03**|
 |**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|**Escenario 1: Dejar una Reseña**<br><br>**Dado que** el usuario intercambiador ha completado un intercambio con otro usuario<br><br>**Cuando** visita la página de la experiencia de intercambio realizada<br><br>**Entonces** el usuario encuentra una opción para dejar una reseña sobre su experiencia con el intercambiador.<br><br>**Escenario 2: Visualización de Reseñas**<br><br>**Dado que** otros usuarios visitan la página de la experiencia de intercambio<br><br>**Cuando** exploran las reseñas dejadas por otros intercambiadores<br><br>**Entonces** pueden leer y considerar las opiniones de otros usuarios antes de realizar un intercambio con ese intercambiador.<br><br>**Escenario 3: Respuesta a Reseñas**<br><br>**Dado que** el usuario intercambiador ha dejado una reseña sobre su experiencia con otro intercambiador<br><br>**Cuando** el intercambiador revisado desea responder a la reseña<br><br>**Entonces** tiene la opción de dejar una respuesta o comentario en la reseña para interactuar con el usuario que dejó la reseña.|**EP03**|
@@ -2298,7 +2046,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|**Escenario 1: Acceso a la edición de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** el usuario pulsa la opción de editar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br><br>**Y** dos botones “Cancelar” y “Publicar”.<br><br>**Escenario 2: Edición de la publicación de intercambio confirmada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Publicar”,<br><br>**Entonces** el sistema guardará los cambios realizados en la publicación.<br><br>**Y** la hará visible para todos los usuarios.<br><br>**Escenario 3: Edición de la publicación de intercambio cancelada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Cancelar”,<br><br>**Entonces** el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
 |**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|**Escenario 1: Acceso a la eliminación de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** accede a la opción de eliminar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema le muestra una confirmación para confirmar si realmente desea eliminar la publicación.<br><br>**Escenario 2: Confirmación de eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** confirma la acción de eliminación,<br><br>**Entonces** el sistema elimina la publicación de manera permanente de la plataforma y se muestra un mensaje de confirmación al usuario.<br><br>**Escenario 3: Cancelación de la eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** decide cancelar la eliminación,<br><br>**Entonces** la publicación no se elimina y el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
 |**US15**|Gestión de intercambios| Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.|**Escenario 1: Revisión de intercambios enviados**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Enviados,<br><br>**Entonces** se me mostrará una lista de los intercambios que he enviado, junto con los artículos involucrados y el estado de cada intercambio.<br><br>**Y** podré hacer clic en cualquiera de ellos para ver más detalles del intercambio, como los objetos que he ofrecido y el objeto que solicito.<br><br>**Escenario 2: Revisión de intercambios recibidos**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Recibidos,<br><br>**Entonces** se me mostrará una lista de los intercambios que he recibido, donde se verán los objetos ofrecidos y solicitados en cada transacción, así como el estado actual de cada intercambio.<br><br>**Y** podré hacer clic en cualquiera de ellos para ver más detalles del intercambio, como los artículos ofrecidos, el valor aproximado y opciones para aceptar o rechazar la oferta.<br><br>**Escenario 3: Revisión de intercambios aceptados**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Aceptados,<br><br>**Entonces** veré un resumen breve de los intercambios que ya he aceptado, junto con los artículos intercambiados.<br><br>**Y** si hago clic en uno de ellos, podré ver más detalles de ese intercambio, como los artículos implicados, la ubicación y la posibilidad de dejar una reseña sobre el intercambio. |**EP02**|
-| **US16** | Visualización de objetos disponibles para intercambio | Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen. | **Escenario 1: Visualización de objetos** <br><br> **Dado que** el usuario ha iniciado sesión en la aplicación <br><br> **Y** está en la sección de Explorar en la barra de navegación del aplicativo móvil, <br><br> **Cuando** accede a dicha sección, <br><br> **Entonces** el sistema le mostrará una barra de búsqueda, un botón para filtros, un slide con las categorías disponibles y una lista de las publicaciones de los objetos, incluyendo una foto del objeto, su valor aproximado, nombre, ubicación y una breve descripción. <br><br> **Escenario 2: Búsqueda de objetos** <br><br> **Dado que** el usuario está en la sección de Explorar, <br><br> **Cuando** utiliza la barra de búsqueda para ingresar un término, <br><br> **Entonces** el sistema le mostrará los objetos que coinciden con el término buscado, mostrando los resultados con la misma información: foto, valor aproximado, nombre, ubicación y descripción. | **EP02** |
+| **US16** | Visualización de objetos disponibles para intercambio | Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen. | **Escenario 1: Visualización de objetos** <br><br> **Dado que** el usuario ha iniciado sesión en la aplicación <br><br> **Y** está en la sección de Explorar en la barra de navegación del aplicativo web, <br><br> **Cuando** accede a dicha sección, <br><br> **Entonces** el sistema le mostrará una barra de búsqueda, un botón para filtros, un slide con las categorías disponibles y una lista de las publicaciones de los objetos, incluyendo una foto del objeto, su valor aproximado, nombre, ubicación y una breve descripción. <br><br> **Escenario 2: Búsqueda de objetos** <br><br> **Dado que** el usuario está en la sección de Explorar, <br><br> **Cuando** utiliza la barra de búsqueda para ingresar un término, <br><br> **Entonces** el sistema le mostrará los objetos que coinciden con el término buscado, mostrando los resultados con la misma información: foto, valor aproximado, nombre, ubicación y descripción. | **EP02** |
 |**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|**Escenario 1: Acceso al perfil del creador de la publicación.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Cuando** pulsa al recuadro que muestra el perfil del autor de la publicación,<br><br>**Entonces**, el usuario podrá visualizar su nombre completo, tiempo que lleva en la aplicación, la cantidad de intercambios exitosos realizados<br><br>**Y** valoraciones de otros usuarios.<br><br>**Escenario 2: Visualizar reseñas de otros usuarios hacia un perfil en específico.**<br><br>**Dado que** el usuario se encuentra en el perfil del autor del intercambio,<br><br>**Cuando** Se dirija a la sección llamada “Reseñas” es cuando,<br><br>**Entonces** el usuario podrá visualizar todas las reseñas que dicho autor ha recibido por todas sus publicaciones exitosas<br><br>**Y** datos relevantes sobre el creador de la publicación.<br><br>**Escenario 3: Visualizar el tipo de productos que suele intercambiar el usuario.**<br><br>**Dado que** el usuario está en el perfil del intercambiador,<br><br>**Cuando** se dirija a la sección “Preferencias” es,<br><br>**Entonces**, donde podrá visualizar la variedad de productos que suele intercambiar el usuario, así cómo también si hace match con las preferencias del usuario interesado.|**EP03**|
 |**US18**|Aceptar o Rechazar un Intercambio| Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada. | **Escenario 1: Revisión de detalles de una oferta de intercambio recibida**<br><br>**Dado que** estoy en la pantalla de "Intercambios", **Cuando** selecciono una oferta de intercambio pendiente, **Entonces** se me mostrará una pantalla con los detalles del intercambio, donde podré ver el producto que el otro usuario ofrece (e.g., Zapatillas Deportivas), el producto que yo tengo y que el otro usuario solicita (e.g., Reloj Inteligente), el valor aproximado de los artículos involucrados y el estado actual de la oferta (Pendiente). **Y** podré elegir entre dos opciones: aceptar la oferta o rechazarla.<br><br>**Escenario 2: Aceptar una oferta de intercambio**<br><br>**Dado que** estoy visualizando los detalles de una oferta de intercambio, **Cuando** selecciono la opción "Aceptar", **Entonces** el sistema debe mostrar un popup de confirmación con el mensaje "¡Intercambio Aceptado! Felicidades por completar tu intercambio." **Y** el usuario podrá confirmar la finalización del proceso seleccionando el botón "Aceptar" del popup. **Y** después de aceptar, la oferta debe moverse a la lista de intercambios aceptados, donde podrá coordinar la entrega con el otro usuario.<br><br>**Escenario 3: Rechazar una oferta de intercambio**<br><br>**Dado que** estoy visualizando los detalles de una oferta de intercambio, **Cuando** selecciono la opción "Rechazar", **Entonces** se me mostrará un popup de confirmación que dice "¿Estás seguro de que deseas rechazar la oferta? Si rechazas la oferta, no podrás volver a verla." **Y** podré seleccionar entre rechazar la oferta, que confirmará la acción y eliminará la oferta de la lista de intercambios pendientes, o cancelar, que cerrará el popup y me devolverá a la pantalla de detalles del intercambio sin tomar ninguna acción.<br><br>**Escenario 4: Confirmación de rechazo de una oferta**<br><br>**Dado que** he decidido rechazar una oferta de intercambio y he seleccionado "Rechazar Oferta" en el popup de confirmación, **Cuando** confirmo la acción, **Entonces** la oferta desaparecerá de la lista de intercambios pendientes **y** no podré volver a ver ni gestionar esa oferta. | **EP02** |
 |**US19**|Ver la información detallada de un producto publicado| Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio. | **Escenario 1: Ver la información detallada del producto**<br><br>**Dado que** he seleccionado una publicación de un objeto, **Cuando** se me abre la pantalla de información del artículo, **Entonces** debo poder ver los siguientes detalles del producto: la imagen del objeto (e.g., Chocolate MrBeast Bar), el valor aproximado del objeto, el nombre del usuario que publicó el producto, la calificación del usuario que lo publicó, el título del producto, la descripción del producto, la ubicación aproximada donde se puede intercambiar el objeto, y la lista de artículos que le interesa recibir a cambio.<br><br>**Escenario 2: Ver más información del usuario que publicó el producto**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el nombre o la imagen del usuario que lo publicó, **Entonces** se me redirigirá a una pantalla con más información sobre ese usuario, incluyendo su perfil, su calificación general y sus reseñas recibidas.<br><br>**Escenario 3: Guardar el producto en mis favoritos**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el ícono de favoritos (corazón), **Entonces** el objeto se guardará en mi lista de favoritos, **y** el ícono de corazón cambiará para indicar que el producto ya está guardado.<br><br>**Escenario 4: Proponer un intercambio**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el botón "Intercambiar", **Entonces** se me redirigirá a una pantalla donde podré hacer una oferta de intercambio, seleccionando el objeto que quiero ofrecer a cambio del artículo publicado. | **EP02** |
@@ -2310,7 +2058,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP04**|
 |**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|**Escenario 1: Conocer las secciones principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Puedes elegir entre…”</p><p>**Entonces** la landing page le muestra lo que puede realizar dentro de CambiaZo.</p><p></p><p>**Escenario 2: Conocer lo que puede intercambiar**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Si decides intercambiar, podrás encontrar una gran variedad de objetos”</p><p>**Entonces** la landing page muestra los diferentes tipos de artículos que puede intercambiar con CambiaZo.</p><p></p><p>**Escenario 3: Conocer las características principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “En CambiaZo te ofrecemos…”</p><p>**Entonces** la landing page le muestra las características principales de CambiaZo.</p>|**EP04**|
 |**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Información en el formulario**</p><p>**Dado que** soy un usuario interesado en CambiaZo que desea llenar el formulario de contacto</p><p>**Cuando** navegue por la Landing page</p><p>**Entonces** encontraré una sección que contendrá un formulario</p><p>**Y** en esa sección, debo colocar mi nombre, apellido y correo electrónico de contacto.</p><p></p><p>**Escenario 2: Envío de formulario con datos completos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  termine de completar mi información de contacto</p><p>**Entonces** debo darle click al botón de “ENVIAR”</p><p>**Y** si he llenado todos los campos correspondientes, me saldrá un mensaje de registro exitoso.</p><p></p><p>**Escenario 3: Envío de formulario con datos incompletos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  desee enviar el formulario con casillas en blanco</p><p>**Entonces** me saldrá un mensaje indicando que hay casillas que faltan completar.</p>|**EP04**|
-|**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo móvil.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo móvil.</p><p></p>|**EP04**|
+|**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo web.</p><p></p>|**EP04**|
 |**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Acceso a la sección de planes y servicios**</p><p>**Dado que** el usuario visita la landing page de Cambiazo,</p><p>**Cuando** busque información sobre los planes y servicios ofrecidos por la plataforma,</p><p>**Entonces** encontrará una sección dedicada que detalle estos aspectos.</p><p>**Escenario 2: Comparación de planes**</p><p>**Dado que** el usuario revisa la información sobre los planes ofrecidos,</p><p>**Cuando** busque tomar una decisión informada,</p><p>**Entonces** encontrará que puede comparar fácilmente los diferentes planes para evaluar cuál se ajusta mejor a sus necesidades.</p>|**EP04**|
 |**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la información acerca del equipo</p><p>**Entonces** podré darle click a la etiqueta “¿Quiénes somos?” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 2: Ver las ONG’s afiliadas a CambiaZo**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera ver qué ONG’s están afiliadas con CambiaZo</p><p>**Entonces** podré darle click a la etiqueta “ONG’s” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 3: Buscar la sección de Contacto**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la sección para contactarme con la startup</p><p>**Entonces** le daré click a la etiqueta “Contáctanos” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra el formulario para recibir notificaciones de CambiaZo y el pié de página en el cuál se encuentran los datos de contacto.</p><p></p><p>**Escenario 4: Llegar al inicio de la Landing Page rápidamente**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder rápidamente al inicio de esta</p><p>**Entonces** podré darle click a la etiqueta “Inicio” de la barra navegadora</p><p>**Y** me redireccionará inmediatamente a la parte superior de la Landing Page.</p>|**EP04**|
 
@@ -2327,7 +2075,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
 
 
-## 2.4.3. Impact Mapping
+## 3.3. Impact Mapping
 En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
 
 <b>Segmento Intercambiadores</b><br>
@@ -2351,7 +2099,7 @@ Enlace: [Impact Mappping en UXPRESSIA]()
 
 Enlace: [Impact Mapping en UXPRESSIA]()
 
-## 2.4.4 Product Backlog
+## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
 <br><br>
 Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
@@ -2438,7 +2186,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>10</td>
     <td><strong>US05</strong></td>
     <td>Cerrar Sesión</td>
-    <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</td>
+    <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.</td>
     <td>1</td>
   </tr>
 
@@ -2580,7 +2328,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>29</td>
     <td><strong>US28</strong></td>
     <td>Acceder a la página principal de CambiaZo</td>
-    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo móvil.</td>
+    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.</td>
     <td>2</td>
   </tr>
   <tr>
@@ -2630,7 +2378,6 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   </tr>
 </table>
 <br>
-
 
 A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
 

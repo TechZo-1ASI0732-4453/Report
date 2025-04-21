@@ -253,74 +253,6 @@ objetivos.</td>
 
 <div style="page-break-after: always;"></div>
 
-# Objetivos SMART
-
-Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados.
-
-### Huamani Mandujano, Joseph Alexis
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
-| **Fecha de inicio**               | 4/2/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
-| **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
-| **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
-| **R - Relevant** | La capacidad de comunicar de manera efectiva es esencial para el éxito en roles de consultoría, donde es clave garantizar que tanto el equipo como los clientes comprendan y compartan los mismos objetivos.                                          |
-| **T - Time-bound** | Desarrollar estas habilidades y completar las presentaciones antes del final de septiembre, con revisiones periódicas después de cada presentación para evaluar y mejorar el enfoque de comunicación.                                                  |
-<br>
-
-### Mendoza Carrión, Mathias Andre
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
-| **Fecha de inicio**               | 4/01/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/24/25                                                                                                                                              |
-| **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
-| **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
-| **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
-| **R - Relevant** | Las habilidades de liderazgo y gestión de proyectos son fundamentales para su crecimiento en roles de dirección y manejo de equipos en el sector tecnológico.                                                  |
-| **T - Time-bound** | Completar estos dos proyectos dentro de un plazo de un mes, con revisiones semanales para asegurar que los plazos se cumplan y el equipo mantenga una alta productividad.                                                                           |
-<br>
-
-### Quispe Andia, Jeremy Joel
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
-| **Fecha de inicio**               | 4/02/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
-| **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
-| **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
-| **R - Relevant** | Estas habilidades son esenciales para el desarrollo de productos en el sector digital, donde el análisis basado en datos es clave para mejorar continuamente la experiencia del usuario y la calidad del producto.                                         |
-| **T - Time-bound** | Completar estos análisis antes del final de septiembre, con revisiones quincenales para ajustar el enfoque según los resultados y las métricas de impacto obtenidas.                                                                                      |
-<br>
-
-### Santisteban Palomino, Ian Haziel Donato
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
-| **Fecha de inicio**               | 4/03/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/26/25                                                                                                                                              |
-| **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
-| **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
-| **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
-| **R - Relevant** | La automatización de pruebas es una habilidad crucial para garantizar la calidad continua en proyectos de software, especialmente en entornos ágiles donde las iteraciones rápidas requieren verificaciones constantes.                                   |
-| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.   
-
-### Augusto Jose, Pin Matallana  
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Fortalecer habilidades en revisión y validación de pruebas funcionales, contribuyendo al aseguramiento de la calidad en los desarrollos del equipo. |
-| **Fecha de inicio**               | 4/4/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/27/25                                                                                                                                              |
-| **S - Specific** | Augusto se enfocará en validar los resultados de pruebas funcionales realizadas por sus compañeros, asegurándose de que las funcionalidades cumplan con los criterios de aceptación establecidos en las User Stories.                         |
-| **M - Measurable** | Revisar y validar al menos 10 funcionalidades desarrolladas, documentando observaciones y colaborando con el equipo para corregir errores antes de las entregas finales.                                             |
-| **A - Achievable** | Utilizará herramientas como Jira y GitHub para registrar y dar seguimiento a los resultados de pruebas, aplicando buenas prácticas en la revisión de entregables.                                                             |
-| **R - Relevant** | La revisión de pruebas es clave para garantizar productos funcionales y confiables, especialmente en entornos colaborativos y de desarrollo ágil.                                   |
-| **T - Time-bound** | Completar la validación y revisión de funcionalidades dentro del plazo establecido, con sesiones de retroalimentación que permitan mejorar la calidad de los desarrollos futuros. |
-                                                         |
-
 <br><br>
 
 
@@ -1933,6 +1865,33 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 
 
 ## 2.4 Ubiquitous Language.
+En esta sección, se establece un glosario de términos clave del dominio de negocio, conforme al enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Este glosario proporciona definiciones claras y sin ambigüedades de los conceptos utilizados en el ámbito específico del problema y la solución abordados, facilitando una comunicación efectiva entre todos los miembros del equipo.
+
++ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.<br><br>
+
++ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.<br><br>
+
++ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.<br><br>
+
++ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.<br><br>
+
++ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.<br><br>
+
++ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.<br><br>
+
++ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.<br><br>
+
++ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.<br><br>
+
++ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.<br><br>
+
++ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.<br><br>
+
++ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.<br><br>
+
++ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.<br><br>
+
++ **User (Usuario):** An individual who interacts with the platform, either by subscribing, publishing objects, or engaging in exchanges. Users represent the primary stakeholders and participants within the platform ecosystem, contributing content, generating activity, and shaping the community dynamics. Users may vary in their roles, behaviors, and preferences, ranging from content creators and contributors to consumers and participants. The platform's features, functionalities, and policies are designed to cater to the needs, interests, and expectations of users, fostering a positive and engaging user experience.<br><br>
 
 # Capítulo III: Requirements Specification
 

@@ -299,6 +299,7 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo web. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 | **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
+| **Quispesivana Torres, Claudio Sandro - u202215099**     |Mi nombre es Claudio Sandro Quispesivana Torres, tengo 20 años y estoy cursando el septimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-I/Profiles/sandroquispesivana.png" alt="Imagen de Sandro Quispesivana"/> |
 
 <br><br>
 
@@ -1220,7 +1221,74 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
 </tbody>
 </table><br>
-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #7<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Sebastian Valente</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Lobato Pozo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre posibles estafas</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Claudio Sandro Quispesivana Torres</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png" alt="Entrevista Daniella Vargas"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EZUwObmyCw1DtDKyGQhp3BoBBI-RzKhfJr0FnAkLM9yqhQ?e=pRwTag&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 06:44 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Sebastián Lobato, un estudiante de Ingenieria de Software de 20 años que vive en Lima y utiliza un smartphone Android, relató sus experiencias previas realizando intercambios de artículos con personas de su entorno. Aunque ha participado en este tipo de actividades antes, menciona que no ha encontrado una plataforma dedicada que le brinde seguridad al momento de intercambiar sus objetos. Para Sebastián, una aplicación móvil como CambiaZo podría ser una herramienta ideal para facilitar estos intercambios, ya que genera un ambiente de confianza entre los usuarios. Además, señala que los artículos más solicitados suelen ser productos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado. Sin embargo, también expresa inquietudes sobre la fiabilidad de la aplicación, por lo que valora funciones como la posibilidad de subir fotos y contar con una sección de reseñas. Sebastián espera que el uso de CambiaZo le permita realizar intercambios de manera más segura y eficiente, contribuyendo así al crecimiento de una comunidad más sostenible y conectada en Lima.
+</td>
+  </tr>
+</tbody>
+</table><br>
 
 
 ### **Segmento Donadores**<br>

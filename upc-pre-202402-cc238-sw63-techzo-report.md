@@ -124,6 +124,9 @@
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.1.3. Mobile Style Guidelines](#413-mobile-style-guidelines)
+      - [4.1.3.1. iOS Mobile Style Guidelines](#4131-ios-mobile-style-guidelines)
+      - [4.1.3.2. Android Mobile Style Guidelines](#4132-android-mobile-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
@@ -133,21 +136,29 @@
   - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
+  - [4.4 Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design)
+    - [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes)
+    - [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams)
+    - [4.4.3. Mobile Applications Mock-ups](#443-mobile-applications-mock-ups)
+    - [4.4.4. Mobile Applications User Flow Diagrams](#444-mobile-applications-user-flow-diagrams)
+  - [4.5. Mobile Applications Prototyping](#45-mobile-applications-prototyping)
+    - [4.5.1. Android Mobile Applications Prototyping](#451-android-mobile-applications-prototyping)
+    - [4.5.2. iOS Mobile Applications Prototyping](#452-ios-mobile-applications-prototyping)
+  - [4.6. Web Applications UX/UI Design](#46-web-applications-uxui-design)
+    - [4.6.1. Web Applications Wireframes](#461-web-applications-wireframes)
+    - [4.6.2. Web Applications Wireflow Diagrams](#462-web-applications-wireflow-diagrams)
+    - [4.6.3. Web Applications Mock-ups](#463-web-applications-mock-ups)
+    - [4.6.4. Web Applications User Flow Diagrams](#464-web-applications-user-flow-diagrams)
+  - [4.7. Web Applications Prototyping](#47-web-applications-prototyping)
+  - [4.8. Domain-Driven Software Architecture](#48-domain-driven-software-architecture)
+    - [4.8.1. Software Architecture Context Diagram](#481-software-architecture-context-diagram)
+    - [4.8.2. Software Architecture Container Diagrams](#482-software-architecture-container-diagrams)
+    - [4.8.3. Software Architecture Components Diagrams](#483-software-architecture-components-diagrams)
+  - [4.9. Software Object-Oriented Design](#49-software-object-oriented-design)
+    - [4.9.1. Class Diagrams](#491-class-diagrams)
+    - [4.9.2. Class Dictionary](#492-class-dictionary)
+  - [4.10. Database Design](#410-database-design)
+    - [4.10.1. Relational/Non-Relational Database Diagram](#4101-relationalnon-relational-database-diagram)
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -2423,15 +2434,15 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 
 <div style="page-break-after: always;"></div>
 
-# Capítulo III: Arquitectura
 
-## 3.1. Product Design
+# Capítulo IV: Product Design
 
-### 3.1.1. Style Guidelines
+## 4.1. Style Guidelines
 
 En esta sección, compartimos nuestra propuesta de diseño para el landing page y la aplicación móvil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
 
-#### 3.1.1.1. General Style Guidelines
+
+### 4.1.1. General Style Guidelines
 
 A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.
 
@@ -2482,11 +2493,16 @@ La forma en que nos dirigimos a los usuarios de nuestra aplicación móvil varí
   
 - **Usuarios Donadores**: Para los donadores, adoptamos un lenguaje **cálido y empático**, resaltando el impacto positivo de sus donaciones. El tono es inspirador, motivando a los usuarios a formar parte de una causa mayor. Enfatizamos el agradecimiento y reconocimiento hacia los donadores, recordándoles que su generosidad puede marcar la diferencia en la vida de otras personas.
 
-### 3.1.2. Information Architecture
+### 4.1.2. Web Style Guidelines
+### 4.1.3. Mobile Style Guidelines
+#### 4.1.3.1. iOS Mobile Style Guidelines
+#### 4.1.3.2. Android Mobile Style Guidelines
+
+## 4.2. Information Architecture
 
 En Cambiazo, la arquitectura de la información en nuestras aplicaciones móviles está diseñada para ser intuitiva y fácil de navegar. Implementamos sistemas de organización claros como la jerarquía visual y categorización por temas, lo que permite a los usuarios encontrar lo que necesitan sin esfuerzo, mejorando la experiencia de navegación móvil.
 
-#### 3.1.2.1. Organization Systems
+### 4.2.1. Organization Systems
 
 Implementamos diversos sistemas de organización de la información en la app para mejorar la experiencia móvil:
 
@@ -2506,7 +2522,7 @@ Implementamos diversos sistemas de organización de la información en la app pa
 
 - **Alfabético:** Secciones como productos o preguntas frecuentes se organizan alfabéticamente para una navegación más fácil.
 
-#### 3.1.2.2. Labelling Systems
+### 4.2.2. Labeling Systems
 
 En nuestras aplicaciones móviles, utilizamos un sistema de etiquetado claro y conciso para facilitar la navegación:
 
@@ -2518,7 +2534,7 @@ En nuestras aplicaciones móviles, utilizamos un sistema de etiquetado claro y c
 - **Contáctanos/Contact Us:** Ofrece información de contacto, con un formulario para consultas.
 - **Registrarse/Sign Up:** Permite a los usuarios registrarse en la app, proporcionando campos para crear una cuenta.
 
-#### 3.1.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 
 En nuestras aplicaciones móviles, aunque el SEO es menos relevante que en la web, los meta tags aún ayudan a optimizar la visibilidad:
 
@@ -2568,7 +2584,7 @@ Cambiazo - Intercambia artículos de forma segura y justa
 Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
 
 
-#### 3.1.2.4. Searching Systems
+### 4.2.4. Searching Systems
 
 Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, implementaremos un sistema de búsqueda robusto con varias opciones y filtros en nuestra aplicación móvil. Aquí está cómo será el sistema de búsqueda:
 
@@ -2584,8 +2600,7 @@ Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los 
 
 Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación clara y detallada de los resultados, buscamos garantizar que los usuarios puedan encontrar fácilmente los productos que están buscando en Cambiazo, sin sentirse abrumados por el volumen de información disponible.
 
-
-#### 3.1.2.5. Navigation Systems
+### 4.2.5. Navigation Systems
 
 Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
 
@@ -2600,8 +2615,9 @@ Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efec
 Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la aplicación Cambiazo.
 
 
-### 3.1.3. Landing Page UI Design
-#### 3.1.3.1. Landing Page Wireframe
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+
 Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
 Enlace: [Wireframe del Landing Page en Figma]()<br><br>
@@ -2618,8 +2634,8 @@ Enlace: [Wireframe del Landing Page en Figma]()<br><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
 </div><br><br>
 
+### 4.3.2. Landing Page Mock-up
 
-#### 3.1.3.2. Landing Page Mock-up
 Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
 
 Enlace: [Mock-up del Landing Page en Figma]()<br><br>
@@ -2636,9 +2652,9 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
+## 4.4. Mobile Applications UX/UI Design
+### 4.4.1. Mobile Applications Wireframes
 
-### 3.1.4. Mobile Applications UX/UI Design
-#### 3.1.4.1. Mobile Applications Wireframes
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
 <div align="center">
@@ -2692,7 +2708,7 @@ Esta pantalla mostrará una lista de organizaciones benéficas afiliadas, con es
 
 La pantalla de Mi Perfil permite gestionar la cuenta personal, incluyendo la edición de información, revisión de artículos favoritos, visualización de reseñas recibidas, exploración de planes de suscripción con beneficios adicionales y la opción de cerrar sesión<br><br>
 
-#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+### 4.4.2. Mobile Applications Wireflow Diagrams
 
 A continuación, se presentan los wireflows que competen a nuestros user goals.
 
@@ -2770,9 +2786,8 @@ Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de 
 
 Enlace: [Wireflows en LucidChart 2](https://lucid.app/lucidchart/ded0e94e-a2ae-4af8-84a9-30eda1490a8c/edit?viewport_loc=-585%2C3553%2C4485%2C1800%2C0_0&invitationId=inv_12e34c87-1186-4aa4-8ddb-ca02798fcd0c)<br><br>
 
+### 4.4.3. Mobile Applications Mock-ups
 
-
-#### 3.1.4.3. Mobile Applications Mock-ups
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
 <div align="center">
@@ -2827,7 +2842,7 @@ Página que muestra una lista de organizaciones benéficas registradas, con un d
 
 La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo. En la parte superior, se muestra una foto circular del usuario, seguida de su nombre y calificación con estrellas. Debajo, se encuentran opciones para editar el perfil, revisar favoritos, ver reseñas y explorar planes de suscripción, con texto negro sobre un fondo blanco. Al final, hay un botón para cerrar sesión. La pantalla de edición de perfil conserva la foto circular y ofrece campos de texto claros para modificar la información personal. La sección de favoritos exhibe tarjetas de productos con imágenes, títulos y precios destacados. La pantalla de reseñas presenta calificaciones con estrellas amarillas y comentarios de usuarios. Finalmente, la pantalla de suscripción detalla los planes disponibles con precios y beneficios en un formato de lista fácil de leer. Todas las pantallas comparten una barra de estado negra en la parte superior y una navegación coherente con flechas de retorno, utilizando una paleta de colores en blanco y negro para una experiencia de usuario uniforme y moderna.<br><br>
 
-#### 3.1.4.4. Mobile Applications User Flow Diagrams
+### 4.4.4. Mobile Applications User Flow Diagrams
 
 A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
 
@@ -2928,7 +2943,8 @@ Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-4
 
 Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-5397%2C-5745%2C2719%2C4318%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
 
-#### 3.1.4.5. Mobile Applications Prototyping
+## 4.5. Mobile Applications Prototyping
+### 4.5.1. Android Mobile Applications Prototyping
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
@@ -3038,12 +3054,21 @@ Tiempo: 8:56
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
 </div><br><br>
 
-## 3.2 Architecture Overview
-### 3.2.1 Domain-Driven Software Architecture
+### 4.5.2. iOS Mobile Applications Prototyping
+
+## 4.6. Web Applications UX/UI Design
+### 4.6.1. Web Applications Wireframes
+### 4.6.2. Web Applications Wireflow Diagrams
+### 4.6.3. Web Applications Mock-ups
+### 4.6.4. Web Applications User Flow Diagrams
+
+## 4.7. Web Applications Prototyping
+
+## 4.8. Domain-Driven Software Architecture
 
 En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
 
-#### 3.2.1.1 Software Architecture Context Level Diagram
+### 4.8.1. Software Architecture Context Diagram
 
 Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, un Servicio de Pagos, y las ONG’s.
 
@@ -3054,7 +3079,7 @@ Para lograr identificar y representar correctamente los usuarios y sistemas exte
 Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto)<br>
 
 
-#### 3.2.1.2 Software Architecture Container Level Diagram
+### 4.8.2. Software Architecture Container Diagrams
 
 En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cual hemos identificado diferentes contenedores. Además se logra ver la interacción que tienen y cómo se conectan con los sistemas externos.
 
@@ -3064,8 +3089,7 @@ En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cu
 
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores)<br><br>
 
-
-#### 3.2.1.3 Software Architecture Components Diagram
+### 4.8.3. Software Architecture Components Diagrams
 
 En estos diagramas de componentes mostramos la arquitectura de las principales funcionalidades de CambiaZo. Además se logra ver cómo funcionan por dentro y cómo se conectan con los sistemas externos.
 
@@ -3102,12 +3126,11 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
 
 Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-004)<br><br>
 
-
-### 3.2.2 Software Object-Oriented Design
+## 4.9. Software Object-Oriented Design
 
 En la sección de Software Object-Oriented Design se exploran aspectos clave como los diagramas de clase y el diccionario de clases, que representan las principales clases del sistema y sus relaciones. Además, se aborda el diseño de base de datos y su diagrama asociado, que detallan la estructura y organización de los datos, ofreciendo una visión completa de la arquitectura del software.
 
-#### 3.2.2.1 Class Diagrams
+### 4.9.1. Class Diagrams
 
 Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
 
@@ -3117,8 +3140,7 @@ Los diagramas de clase representan las entidades del sistema y sus relaciones de
 
 Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d7c7576a-837e-4e4b-86dc-ae903f4fdd40/edit?viewport_loc=-2282%2C-533%2C3096%2C1287%2C0_0&invitationId=inv_b3057c2c-0d68-4932-988f-920599058855)<br><br>
 
-
-#### 3.2.2.2 Class Dictionary
+### 4.9.2. Class Dictionary
 
 El diccionario de clases detalla las características y funciones de cada entidad del sistema, proporcionando una referencia completa para entender la funcionalidad del software.
 
@@ -3134,7 +3156,7 @@ El diccionario de clases detalla las características y funciones de cada entida
   
 - **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.<br><br>
 
-#### 3.2.2.3 Database Design 
+## 4.10. Database Design
 
 El diseño de la base de datos se ha desarrollado para gestionar eficientemente los datos relacionados con los intercambios entre usuarios dentro de la aplicación. Se crearon entidades específicas basadas en los requisitos funcionales para cubrir todas las necesidades operativas del sistema. A continuación se detalla la estructura de la base de datos:
 
@@ -3227,9 +3249,6 @@ La tabla de suscripciones relaciona usuarios y planes de suscripción. Cada susc
 - **Reseñas:** 
 La relación entre usuarios y productos se maneja a través de la tabla reseñas. Esta tabla vincula a los usuarios que escriben reseñas con los intercambios de productos, facilitando el registro de evaluaciones y comentarios sobre los productos intercambiados.
 
-
-#### 3.2.2.4 Database Diagram
-
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
 
 <div align="center">
@@ -3243,13 +3262,17 @@ Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/doc/DXuXyDjv1zP
 
 <div style="page-break-after: always;"></div>
 
+### 4.10.1. Relational/Non-Relational Database Diagram
+
+
+
 # Capítulo IV: Backend Product Implementation & Validation
 
-## 4.1 Software Configuration Management
+##4.1 Software Configuration Management
 
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
 
-### 4.1.1 Software Development Environment Configuration
+###4.1.1 Software Development Environment Configuration
 
 En esta sección se detalla la configuración del entorno de desarrollo utilizado para la creación de la aplicación móvil. El proceso incluyó la selección y configuración de herramientas específicas para asegurar un desarrollo eficiente y adaptable a los requerimientos del proyecto. <br>
 

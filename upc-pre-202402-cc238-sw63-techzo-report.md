@@ -3826,8 +3826,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 <div style="page-break-after: always;"></div>
 
-
-# Capítulo V: Product Implementation & Validation
+# Capítulo V: Product Implementation
 
 ## 5.1 Software Configuration Management
 
@@ -3854,6 +3853,15 @@ Esta sección se enfoca en la planificación, organización, coordinación y con
 
 	+ **Lucidchart:**<br>Es una herramienta de diagramación en línea que permite crear diagramas de flujo, wireflow, userflow y otros esquemas visuales. Es especialmente útil para mapear la experiencia del usuario y visualizar el flujo de interacciones en aplicaciones móviles.<br>https://www.lucidchart<br><br> 
 
+    + **UXPressia:**<br> Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>https://uxpressia.com/ 
+
+    + **MIRO:**<br>Es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, mapas mentales, as-is, to-be y una variedad de otras actividades colaborativas.<br>https://miro.com/app/dashboard/
+
+    + **Vertabelo:**<br> Es una herramienta que permite a los usuarios crear diagramas de bases de datos de manera intuitiva y colaborativa, facilitando la visualización y comprensión de la estructura de la base de datos.<br>https://my.vertabelo.com/drive 
+
+    + **Structurizr:**<br> Es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. <br>https://structurizr.com/ 
+
+<br>
 
 + **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
 
@@ -3867,6 +3875,29 @@ Esta sección se enfoca en la planificación, organización, coordinación y con
   
   +  **Postman:** Herramienta utilizada para probar y documentar APIs de manera eficiente, facilitando la colaboración entre desarrolladores y la integración de servicios en la aplicación móvil.<br>https://www.postman.com/<br><br>
 
+   + **HTML:**<br>  Es el lenguaje estándar para crear y diseñar sitios web. Utiliza etiquetas para estructurar el contenido, como texto, imágenes y enlaces. Junto con CSS y JavaScript, HTML forma la base de la web moderna. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.<br>https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+
+  + **CSS:**<br> Es un lenguaje de estilo utilizado para controlar el diseño y la presentación de páginas web. Permite establecer colores, fuentes, márgenes y otros aspectos visuales para mejorar la apariencia de un sitio web. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
+
+  + **JavaScript:**<br> Es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a los sitios web. Permite realizar acciones como validar formularios, animar elementos y actualizar contenido sin recargar la página. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html 
+
+
+  + **TypeScript:**<br> Es un superset de JavaScript que agrega tipado estático y otras características avanzadas al lenguaje. Permite escribir código más seguro y mantenible, especialmente en proyectos grandes y complejos.<br>https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
+  + **Java:**<br>  Es un lenguaje de programación popular y versátil que se utiliza en una variedad de aplicaciones, desde desarrollo web hasta aplicaciones empresariales y móviles. Java se destaca por su portabilidad y su robusto sistema de tipos. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>https://www.java.com/es/download/help/whatis_java.html
+
+  + **Angular Material:**<br>Es una biblioteca de componentes de interfaz de usuario desarrollada para Angular que sigue las directrices de diseño de Material Design de Google. Proporciona una amplia gama de componentes listos para usar para crear aplicaciones web con una apariencia y sensación consistentes y atractivas. Integrado con Angular, facilita el desarrollo de aplicaciones web para los desarrolladores.<br>https://material.angular.io/
+
+  + **Spring Boot:** Framework basado en Java que facilita la creación de aplicaciones empresariales de manera rápida y eficiente. Se utiliza para simplificar la configuración y desarrollo del backend de nuestra aplicación móvil, ofreciendo integración con herramientas de despliegue y un entorno de desarrollo ágil.<br>https://spring.io/projects/spring-boot <br><br>
+
+  + **IntelliJ IDEA:** IDE para Java y otros lenguajes de programación, con avanzadas funciones de autocompletado, refactorización y depuración. Será utilizado para el desarrollo del backend de nuestra aplicación móvil, proporcionando un entorno eficiente para la codificación y gestión del código.<br>https://www.jetbrains.com/idea/<br><br>
+
+  + **Workbench:** Entorno de desarrollo integrado que proporciona herramientas para el diseño, implementación y prueba de aplicaciones. Se utilizará para gestionar el desarrollo y la integración de nuestra aplicación móvil, ofreciendo funcionalidades para la gestión de datos y la automatización de procesos.<br>https://www.workbench.com/ <br><br>
+
+  + **SQL:** Lenguaje de consulta estructurado utilizado para gestionar y manipular bases de datos relacionales. Se utilizará para definir, modificar y consultar los datos en la base de datos de nuestra aplicación móvil, facilitando la interacción y la gestión eficiente de la información.<br>https://www.sql.org/ <br><br>
+
+
+
 
 + **Software Testing**<br>Se refiere a la actividad de verificar y validar el software para garantizar su calidad y correcto funcionamiento. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.<br><br> 
 
@@ -3877,11 +3908,11 @@ Esta sección se enfoca en la planificación, organización, coordinación y con
 
 	+ **Netlify:** Es una plataforma de despliegue y alojamiento para aplicaciones web estáticas y dinámicas, que permite implementar automáticamente cada commit desde repositorios de Git. Ofrece gestión de dominios y optimización de rendimiento, facilitando el despliegue ágil de la landing page.<br>https://www.netlify.com/<br><br>
 
+  + **Amazon Azure:** Plataforma en la nube que ofrece servicios de computación, almacenamiento y gestión de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube. <br> https://azure.microsoft.com/ <br><br>
+
 +  **Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas.<br><br> 
 
 	+  **Markdown:** Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/<br><br>
-
-
 
 
 ### 5.1.2 Source Code Management
@@ -3892,27 +3923,45 @@ Hemos optado por GitHub como nuestra plataforma de gestión de código, gracias 
 
 En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/feature/[Sprint a desarrollar]” para cada sprint que se lleve a cabo en el desarollo del producto. Este enfoque modular y organizado garantiza un desarrollo progresivo, ya que cada rama actúa como un espacio aislado para probar y realizar actualizaciones antes de fusionarlas con la rama de desarrollo.
 
-Además, para los repositorios de la landing page y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
+Además, para los repositorios de la landing page, aplicación web y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
 
 
 Repositorio GitHub de la Landing Page: https://github.com/TechZo-CC238-SW63/Landing-Page <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/landing-page.png?raw=true"  alt="Repositorio Landing Page">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
 Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW63/CambiazoApp <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
 Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Source-Code-Management/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+    <img src="" alt="Repositorio archivos feature">
 </div><br><br>
 
+
+Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/netlify-deploy.png?raw=true">
+</div><br>
+
+Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true">
+</div><br>
+
+Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
+</div><br>
 
 
 ### 5.1.3 Source Code Style Guide & Conventions
@@ -4146,6 +4195,162 @@ Astro es un framework moderno que permite construir sitios web estáticos rápid
 	
 <br><br>	
 
+**TYPESCRIPT**
+
+Para nuestro proyecto, hemos elegido Typescript, un superset de JavaScript que añade tipado estático opcional al lenguaje. Typescript proporciona una amplia gama de nuevas características y mejoras con respecto a JavaScript, lo que lo convierte en una opción popular para el desarrollo de aplicaciones web y de Node.js. A continuación, se presentarán las características y directrices que seguiremos para el desarrollo utilizando este lenguaje.
+
++ **Naming Conventionns**
+
+Esha Garg (2020) señala la importancia de mantener un orden adecuado al nombrar variables, constantes, métodos y clases:
+
+Ejemplo: 
+
+```
+Nombres de variables: camelCase
+firstNumber = 12
+
+Constantes: UPPER_CASE con ‘_’ entre las palabras
+
+const FIRST_NUMBER = 18
+
+Nombres de métodos: camelCase
+
+sumOfTwoNumbers()
+
+Nombres de clases: PascalCase
+
+export class EmployeeDetails {}
+
+Nombres de archivos: lower-case (Separados por ‘-’ si el nombre es de 2 a más palabras)
+
+employee-details
+```
++ **Data type of variables and methods**
+
+Esha Garg (2020) sugiere incluir los tipos de datos tanto para los parámetros de los métodos como para los valores de retorno. Al definir un método, es importante especificar el tipo de datos esperado para cada parámetro que recibe y el tipo de datos que el método devuelve, lo que proporciona claridad sobre el tipo de información que se puede esperar como resultado de su ejecución.
+
+Ejemplo:
+
+```
+En variables:
+firstNumer: number
+
+En métodos:
+function sum(firstNumber: number, secondNumber:number):number{
+  return firstNumber + secondNumber;
+}
+```
+
++ **Spaces Around Operators**
+
+Según W3Schools, se recomienda siempre colocar espacios alrededor de los operadores (=, +, -, *, /) y después de las comas al escribir código TypeScript. Esto ayuda a mejorar la legibilidad y la claridad del código, facilitando su comprensión y mantenimiento.
+
+Ejemplo: 
+
+```
+let z:number = x + y;
+const myArray:string[] = ["Toyota", "Kia", "Hyundai"];
+```
+
+  <br><br>
+
+**JAVA**
+
+Java es un lenguaje de programación orientado a objetos, robusto y de propósito general. Es conocido por su portabilidad gracias a la máquina virtual de Java (JVM), que permite ejecutar el mismo código en diferentes plataformas. Su enfoque en la simplicidad, la seguridad y la escalabilidad lo convierte en una elección popular para el desarrollo de aplicaciones empresariales y sistemas distribuidos.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+  Todas las clases, métodos, variables y constantes deben estar nombradas en inglés y de manera descriptiva, utilizando camelCase para métodos y variables, y PascalCase para las clases. Se evitarán las abreviaturas ambiguas para mejorar la claridad.
+
+
+  Ejemplo: 
+  ```
+  // Mala práctica
+  int prsnAge;
+
+  // Buena práctica
+  int personAge;
+  ```
+
++ **Identación o Sangría**
+
+  En Java, la indentación es crucial para la legibilidad. Utilizaremos 4 espacios para la sangría, y se evitará el uso de tabulaciones. Además, todos los bloques de código deben estar debidamente indentados y alineados.
+
+
+  Ejemplos:
+
+  ```
+  public class UserService {
+     public void createUser(User user) {
+          if (user != null) {
+              userRepository.save(user);
+          }
+     }
+  }
+  ```
+
++ **Llaves y Estructura de Código**
+
+  En Java, las llaves deben abrirse en la misma línea que la declaración correspondiente y cerrarse alineadas con el inicio de dicha declaración. Esto mantiene una estructura clara y consistente.
+
+  Ejemplo:
+  ```
+  // Mala práctica
+  public void createUser(User user)
+  {
+      if (user != null)
+      {
+          userRepository.save(user);
+      }
+  }
+
+  // Buena práctica
+  public void createUser(User user) {
+      if (user != null) {
+          userRepository.save(user);
+      }
+  }
+  ```
+
++ **Uso de Constantes**
+  Las constantes en Java deben declararse como static final y nombrarse con mayúsculas separadas por guiones bajos.
+
+  Ejemplo:
+  ```
+  public static final int MAX_ATTEMPTS = 5;
+  ```
+
++ **Espacios alrededor de Operadores**
+
+  Se colocarán espacios alrededor de los operadores aritméticos, de comparación y asignación para mejorar la legibilidad del código.
+
+  Ejemplo:
+  ```
+  int sum = a + b;
+  if (x == y) {
+      return true;
+  }
+  ```
+
++ **Uso de Comentarios**
+
+  Los comentarios deben ser usados para explicar el por qué de las decisiones de código, no para describir lo que el código hace (esto debería ser evidente por la nomenclatura clara). Para los comentarios, utilizaremos el formato Javadoc para métodos públicos y clases.
+
+  Ejemplo:
+  ```
+  /**
+  * Retrieves a user by their ID.
+  *
+  * @param id the ID of the user to retrieve
+  * @return the user object
+  */
+  public User getUserById(Long id) {
+      return userRepository.findById(id).orElse(null);
+  }
+  ```
+
+<br><br>
+
 **GHERKIN**
 
 Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
@@ -4227,7 +4432,7 @@ Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
   ```
   
   
-<br><br>
+<br>
 
 ### 5.1.4 Software Deployment Configuration
 
@@ -4258,7 +4463,7 @@ Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda
 
 Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
 
-<br><br>
+<br>
 
 ## 5.2 Product Implementation & Deployment
 

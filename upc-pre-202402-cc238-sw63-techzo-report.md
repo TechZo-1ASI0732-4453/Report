@@ -3941,7 +3941,7 @@ Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW6
 Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test <br>
 
 <div align="center">
-    <img src="" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 

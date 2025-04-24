@@ -3678,6 +3678,8 @@ El diccionario de clases detalla las características y funciones de cada entida
 
 ## 4.10. Database Design
 
+### 4.10.1. Relational/Non-Relational Database Diagram
+
 El diseño de la base de datos se ha desarrollado para gestionar eficientemente los datos relacionados con los intercambios entre usuarios dentro de la aplicación. Se crearon entidades específicas basadas en los requisitos funcionales para cubrir todas las necesidades operativas del sistema. A continuación se detalla la estructura de la base de datos:
 
  **Entidades**
@@ -3781,9 +3783,6 @@ Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/doc/DXuXyDjv1zP
 
 
 <div style="page-break-after: always;"></div>
-
-### 4.10.1. Relational/Non-Relational Database Diagram
-
 
 
 # Capítulo IV: Backend Product Implementation & Validation

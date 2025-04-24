@@ -118,8 +118,8 @@
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
+  - [3.3. Product Backlog](#33-product-backlog)
+  - [3.4. Impact Mapping](#34-impact-mapping)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -265,7 +265,7 @@ objetivos.</td>
 
 <div style="page-break-after: always;"></div>
   
-# Capítulo I: Presentación
+# Capítulo I: Introducción
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
@@ -2142,31 +2142,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
 
 
-## 3.3. Impact Mapping
-En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
-
-<b>Segmento Intercambiadores</b><br>
-
-<div align="center">
-
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
-</div>
-
-
-Enlace: [Impact Mappping en UXPRESSIA]()
-
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
-</div>
-
-
-Enlace: [Impact Mapping en UXPRESSIA]()
-
-## 3.4. Product Backlog
+## 3.3. Product Backlog
 En el Product Backlog presentamos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*. Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).  
 Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar*.
 
@@ -2450,8 +2426,31 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 
 
 
-<div style="page-break-after: always;"></div>
+## 3.4. Impact Mapping
+En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
 
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+</div>
+
+
+Enlace: [Impact Mappping en UXPRESSIA]()
+
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+</div>
+
+
+Enlace: [Impact Mapping en UXPRESSIA]()
+
+<br>
 
 # Capítulo IV: Product Design
 
@@ -4547,7 +4546,7 @@ Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <b
 Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
 </div><br>
 
 Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 

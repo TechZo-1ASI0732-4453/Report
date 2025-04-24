@@ -3159,11 +3159,416 @@ Tiempo: 8:56
 
 ## 4.6. Web Applications UX/UI Design
 ### 4.6.1. Web Applications Wireframes
+
+os wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-0.PNG?raw=true"  alt="wireframes-appweb">
+</div><br><br>
+
+Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación web:
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-1.PNG?raw=true"  alt="wireframes-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-2.PNG?raw=true"  alt="wireframes-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-3.PNG?raw=true"  alt="wireframes-3"><br><br>
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación web. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-4.PNG?raw=true"  alt="wireframes-4">
+</div><br>
+
+La página de inicio presenta las publicaciones de usuarios de manera organizada y equitativa. Se incluirá una barra de búsqueda y categorías para facilitar la navegación.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-5.PNG?raw=true"  alt="wireframes-5">
+</div><br>
+
+Esta página mostrará una lista de organizaciones benéficas registradas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-6.PNG?raw=true"  alt="wireframes-6">
+</div><br>
+
+La página de membresía presentará los distintos planes de membresía de forma clara y ordenada, con información concisa sobre los beneficios de cada plan.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-7.PNG?raw=true"  alt="wireframes-7">
+</div><br>
+
+El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario.<br><br>
+
+
 ### 4.6.2. Web Applications Wireflow Diagrams
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
+
+**User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-1.PNG?raw=true" alt="wireflow 1">
+</div><br>
+El usuario entra a la página web y se encuentra con el inicio de la misma, en la cuál verá todas las publicaciones de intercambios destacadas, incluso aquellas que poseen un boost. Para poder iniciar sesión deberá dar click al botón en la parte superior derecha, para luego ser redirigido a otra ventana en la cual podrá ingresar su correo y contraseña.
+En caso el usuario haya olvidado la contraseña, tendrá la posibilidad de recuperar y cambiarla mediante un correo de confirmación para luego introducir un código de verificación.<br><br>
+
+**User goal 2:** Como usuario, quiero poder revisar información detallada de las organizaciones benéficas que puedo apoyar.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-2.PNG?raw=true" alt="wireflow 2">
+</div><br>
+El usuario entra a la página web y se dirige a una de las opciones de la barra de navegación que se llama “Donaciones”, en ella podrá visualizar todas las organizaciones benéficas afiliadas a CambiaZo, además de poder filtrar por categorías. Al clickear en una de estas, podrá visualizar información más detallada de la misma.<br><br>
+
+
+
+**User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-3.PNG?raw=true"  alt="wireflow 3">
+</div><br>
+El usuario entra a la página web, se dirige a la barra navegadora y clickea en la opción de Membresías, en la cuál podrá visualizar todas las suscripciones disponibles con su información detallada. Al momento de seleccionar una, será redirigido a una pasarela de pagos para luego recibir un pop-up de confirmación.<br><br>
+
+**User goal 4:** Como usuario, quiero poder verificar información sobre términos y condiciones de la compañía y política de uso
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-4.PNG?raw=true"  alt="wireflow 4">
+</div><br>
+El usuario entra a la página web, se dirige al footer de la misma y clickea en las opciones de términos y condiciones y/o políticas de uso, en donde podrá visualizar todos los términos legales y de uso de CambiaZo.<br><br>
+
+
+**User goal 5:** Como usuario, quiero poder visualizar información de ayuda y/o tener la posibilidad de solicitar soporte al equipo de desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-5.PNG?raw=true"  alt="wireflow 5">
+</div><br>
+
+El usuario entra a la página web, se dirige al footer de la misma y clicke en Ayuda y/o Soporte. En la primera ventana podrá verificar información de ayuda básica sobre la página, si es que tiene algún inconveniente más específico, puede contactarse con nuestro soporte técnico.<br><br>
+
+
+
+**User goal 6:** Como usuario quiero poder publicar mis intercambios de una manera rápida y accesible.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-6.PNG?raw=true"  alt="wireflow 6">
+</div><br>
+
+El usuario entra a la página web y se redirige al botón de la parte superior derecha que dice “Publicar”. Una vez dentro, saldrá un formulario para que el usuario ya con una sesión iniciada, pueda realizar su publicación de intercambio, incluir datos y fotos. Para finalizar le saldrá un pop-up con un mensaje de confirmación.<br><br>
+
+
+**User goal 7:** Como usuario quiero poder filtrar mi búsqueda de objetos, recibir información solo de estos mismos y visualizar información pertinente y necesaria.
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-7.PNG?raw=true"  alt="wireflow 7">
+</div><br>
+
+El usuario entra a la página web y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una ventana en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.<br>Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
+
+
+
+
+**User goal 8:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-8.PNG?raw=true"  alt="wireflow 8">
+</div><br>
+
+Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Ofertar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación. <br><br>
+
+
+**User goal 9:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-9.PNG?raw=true"  alt="wireflow 9">
+</div><br>
+
+El usuario se dirige al ícono de perfil, para luego visualizar las publicaciones que ha realizado en el momento. Después de ello, al darle click en “Editar perfil”, podrá ver la configuración de notificaciones que tenga, además de poder editar su información personal.<br><br>
+
+
+**User goal 10:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-10.PNG?raw=true"  alt="wireflow 10">
+</div><br>
+
+  Dirigirse a la sección de perfil, para luego clickear en Ofertas, se tiene que seleccionar “Recibidas”, una vez hecho ello, se podrá visualizar todos las ofertas recibidas por las publicaciones que hemos hecho.<br><br>
+
+Enlace: [Wireflows en LucidChart 1](https://lucid.app/lucidchart/63364102-d93b-47fe-a04f-fce263593fdf/edit?viewport_loc=-5194%2C-809%2C20455%2C7652%2C0_0&invitationId=inv_451c4fe8-c20d-4e3d-8ab3-e8df00c42f3e)<br><br>
+
+Enlace: [Wireflows en LucidChart 2](https://lucid.app/lucidchart/ded0e94e-a2ae-4af8-84a9-30eda1490a8c/edit?viewport_loc=-422%2C4306%2C3790%2C1418%2C0_0&invitationId=inv_12e34c87-1186-4aa4-8ddb-ca02798fcd0c)<br><br>
+
+
 ### 4.6.3. Web Applications Mock-ups
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-0.PNG?raw=true"  alt="mockups-appweb">
+</div><br><br>
+
+Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación web.
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-1.PNG?raw=true"  alt="mockups-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-2.PNG?raw=true"  alt="mockups-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-3.PNG?raw=true"  alt="mockups-3"><br><br>
+</div><br>
+Páginas para el inicio de sesión, registro y cambio de contraseña en la aplicación web, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-4.PNG?raw=true"  alt="mockups-4">
+</div><br>
+La página de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. Las publicaciones se dividen en dos tipos: las últimas y las más destacadas, estas últimas presentadas en un scroll para mayor atención del usuario y facilidad al buscarlas. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-5.PNG?raw=true"  alt="mockups-5">
+</div><br>
+Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-6.PNG?raw=true"  alt="mockups-6">
+</div><br>
+Al acceder a la página de membresía, los usuarios son recibidos por un texto destacado en color amarillo que les invita de manera llamativa a formar parte de nuestra plataforma. Seguidamente, se presentan los distintos planes de membresía en cuadros rectangulares con bordes suavemente redondeados, distribuidos de manera equitativa en la página. En cuanto a la estética, los bordes de estos rectángulos están resaltados en amarillo, mientras que los paneles laterales exhiben un fondo blanco con un borde amarillo sutil, y el panel central se muestra con un fondo amarillo, atrayendo así la atención del usuario hacia los detalles de cada plan.Además se detallan los beneficios de cada plan en cuadros con texto breve para mantener la presentación ordenada. Cada cuadro está equipado con un botón negro de bordes redondeados que permite a los usuarios seleccionar su membresía y realizar el pago. Los beneficios de cada plan están listados con un icono de marca de verificación en color negro para resaltarlos junto con el texto en el mismo tono. Esta estructura visual y organización de la información hace que sea fácil para los usuarios comprender y elegir la membresía que mejor se adapte a sus necesidades.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-7.PNG?raw=true"  alt="mockups-7">
+</div><br>
+En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
+
+
 ### 4.6.4. Web Applications User Flow Diagrams
 
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+
+**User Goal 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%201.png?raw=true" alt="userflow 1">
+</div><br>
+
+El usuario accede a la aplicación. Se le presenta una ventana para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si inicia sesión correctamente, puede usar todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es llevado a la página de inicio de sesión.<br><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%202.png?raw=true" alt="userflow 2">
+</div><br>
+
+El usuario está en la página de inicio. Visualiza objetos publicados por otros usuarios, incluyendo los destacados y los últimos publicados. Al seleccionar un objeto, es dirigido a otra página con más detalles sobre la publicación. También puede explorar las publicaciones al seleccionar las categorías desde la página de inicio.<br><br>
+
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%203.png?raw=true" alt="userflow 3">
+</div><br><br>
+
+Desde la página de inicio, el usuario selecciona la opción de publicar. Es llevado a una página para crear una nueva publicación. Después de completar los datos necesarios y confirmar la publicación, recibe un mensaje de confirmación y su publicación es mostrada a todos los usuarios.<br><br>
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%204.png?raw=true" alt="userflow 4">
+</div><br><br>
+
+Al visualizar una publicación, el usuario presiona el botón "Ofertar". Se le muestra una ventana con sus propios objetos publicados, y puede seleccionar uno para proponer un intercambio. Recibe un mensaje de agradecimiento por parte de la aplicación.<br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%205.png?raw=true" alt="userflow 5">
+</div><br><br>
+
+El usuario accede a las ofertas enviadas desde su perfil, donde encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%206.png?raw=true" alt="userflow 6">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de donaciones. Encuentra una lista de todas las ONGs disponibles y al seleccionar una, se le muestra información detallada sobre la misma.<br><br>
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%207.png?raw=true" alt="userflow 7">
+</div><br><br>
+
+Mientras visualiza una publicación, el usuario accede al perfil del usuario que la publicó para ver más información sobre él.<br><br>
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%208.png?raw=true" alt="userflow 8">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%209.png?raw=true" alt="userflow 9">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a información pertinente de la aplicación, como condiciones de uso, políticas de privacidad y sección de ayuda, además de la sección de contacto para comunicarse con la empresa al completar un formulario.<br><br>
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2010.png?raw=true" alt="userflow 10">
+</div><br><br>
+
+Desde su perfil, el usuario accede a la sección de publicaciones al presionar el botón de tres puntos puede eliminar una publicación, lo que le solicita confirmación antes de eliminarla. También puede editar una publicación, lo que le permite modificar la información mediante un formulario.<br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2011.png?raw=true" alt="userflow 11">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a su perfil y realiza modificaciones, como cambiar su foto de perfil, sus datos personales o contraseña. Al cambiar la contraseña, se le muestra un formulario para realizar los cambios y al presionar “Cambiar” se le muestra un mensaje de confirmación.<br><br>
+
+Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/43f6d75d-44c8-4170-bd1c-99fd21312c75/edit?viewport_loc=-3569%2C-5403%2C2791%2C1048%2C0_0&invitationId=inv_f07bff56-c57f-4cbb-8b02-8c692958e133)<br><br>
+
+Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-43f5-97c3-4dae978dbcfb/edit?viewport_loc=-2622%2C-8651%2C6038%2C2267%2C0_0&invitationId=inv_6403b820-2acd-4db0-9a63-16de1d01e7c6)<br><br>
+
+Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?view_items=R8dsqoYWsTCr&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+
+
 ## 4.7. Web Applications Prototyping
+
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-0.PNG?raw=true"  alt="prototype">
+</div><br><br>
+
+Enlace: [Prototype de la App Web en Figma](https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=662-6234&t=6tWRPswBDZfqgYDM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=662%3A4809&show-proto-sidebar=1)<br><br>
+
+
+Para complementar, se ha realizado un video donde se muestran los user flows del prototipo, detallando cada flujo de interacción y definiendo el tiempo en el cual se muestran para una comprensión efectiva. Este enfoque proporciona una visión dinámica de la experiencia del usuario, facilitando la identificación de mejoras y la validación de la funcionalidad del prototipo.<br><br>
+
+Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EUUL7qHyT4ZEphT55Efo2EkBd8UOBk_GQsqR3o8HY9yMNg?e=3x2Yce&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
+
+
+**User Goal 1:**  Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
+
+Tiempo: 0:15
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="prototype 1">
+</div><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
+
+Tiempo: 2:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-2.PNG?raw=true" alt="prototype 2">
+</div><br>
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+
+Tiempo: 3:04
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-3.PNG?raw=true" alt="prototype 3">
+</div><br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
+
+Tiempo: 1:35
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-4.PNG?raw=true" alt="prototype 4">
+</div><br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+
+Tiempo: 0:50
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-5.PNG?raw=true" alt="prototype 5">
+</div><br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
+
+Tiempo: 1:39
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-6.PNG?raw=true" alt="prototype 6">
+</div><br><br>
+
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
+
+Tiempo: 2:53
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-7.PNG?raw=true" alt="prototype 7">
+</div><br><br>
+
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+
+Tiempo: 3:08
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-8.PNG?raw=true" alt="prototype 8">
+</div><br><br>
+
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.<br><br>
+
+Tiempo: 3:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-9.PNG?raw=true" alt="prototype 9">
+</div><br><br>
+
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+
+Tiempo: 4:30
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-10.PNG?raw=true" alt="prototype 10">
+</div><br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+
+Tiempo: 4:20
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-11.PNG?raw=true" alt="prototype 11">
+</div><br><br>
+
 
 ## 4.8. Domain-Driven Software Architecture
 

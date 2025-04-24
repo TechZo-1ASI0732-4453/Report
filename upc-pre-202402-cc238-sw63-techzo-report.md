@@ -5240,7 +5240,7 @@ Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
 
 # Anexos
 
-+ Landing Page: [Ver Landing Page](https://cambiazo-site.netlify.app/)<br><br>
++ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
 
 + Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)<br><br>
 

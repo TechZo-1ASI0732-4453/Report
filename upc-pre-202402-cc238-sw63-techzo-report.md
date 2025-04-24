@@ -5124,10 +5124,191 @@ Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utiliza
 ## 5.2 Product Implementation & Deployment
 
 ### 5.2.1 Sprint Backlogs
-Lista de tareas por sprint completadas para cada módulo de la solución, incluyendo descripciones y responsables.
+
+El objetivo de este primer sprint es desarrollar una versión inicial de del backend, el cual será el encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, asegurando un funcionamiento eficiente y preparando la plataforma para futuras mejoras y funcionalidades avanzadas.
+
+Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4167d99/ATTI3148cf1d5398db1216af7f1c51dbd219F3CEDE32/techzo-cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation<br>(Hours)</td>
+    <td>Assigned<br>to</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registro<br>de<br>usuario</td>
+    <td>WI-01</td>
+    <td>Sección<br>para<br>nuevos<br>usuarios</td>
+    <td>Implem<br>entación<br>de una<br>pantalla de<br>registro donde<br>nuevos usuarios<br>puedan sumarse<br>a CambiaZo.</td>
+    <td>6</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US03</td>
+    <td rowspan="1">Iniciar<br>sesión<br>en la<br>aplicación</td>
+    <td>WI-02</td>
+    <td>Pantalla<br>de<br>inicio<br>de<br>sesión</td>
+    <td>Se crea una<br>pantalla en<br>la cual el<br>usuario podrá<br>ingresar a la<br>aplicación cuando<br>introduzca el<br>correo con el<br>que creó su<br>cuenta y su<br>contraseña.</td>
+    <td>2</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US06</td>
+    <td rowspan="1">Filtrado<br>de<br>Objetos</td>
+    <td>WI-03</td>
+    <td>Implem<br>entación<br>de<br>un<br>filtro<br>de<br>búsqueda</td>
+    <td>Implementar<br>un filtro<br>de búsqueda<br>para que<br>los usuarios<br>puedan encontrar<br>de forma más<br>rápida los<br>objetos de su<br>interés.</td>
+    <td>10</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US16</td>
+    <td rowspan="1">Visualización<br>de<br>objetos<br>disponibles<br>para<br>intercambio</td>
+    <td>WI-04</td>
+    <td>Listar<br>los<br>objetos<br>disponibles</td>
+    <td>Creación de<br>una sección<br>en la que<br>los usuarios<br>registrados<br>puedan ver<br>los objetos<br>por los que<br>pueden<br>realizar un<br>intercambio.</td>
+    <td>10</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td rowspan="1">US25</td>
+    <td rowspan="1">Visualización de la Historia de la Startup<br></td>
+    <td>WI-05</td>
+    <td>Sección “¿Quiénes somos?”</td>
+    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
+    <td>1</td>
+    <td>Sandro Quispesivana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US26</td>
+    <td rowspan="1">Visualizar las características clave de la aplicación
+    </td>
+    <td>WI-06</td>
+    <td>Sección Características Principales
+    </td>
+    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
+    <td>2</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US27</td>
+    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td>WI-07</td>
+    <td>Formulario de contacto</td>
+    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
+    <td>5</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US28</td>
+    <td rowspan="1">Acceder a la página principal de CambiaZo</td>
+    <td>WI-08</td>
+    <td>Conectar Landing Page con la Web</td>
+    <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a la Web de CambiaZo.</td>
+    <td>2</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US29</td>
+    <td rowspan="1">Ver los planes y precios</td>
+    <td>WI-09</td>
+    <td>Sección de planes y precios</td>
+    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
+    <td>3</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US30</td>
+    <td rowspan="1">Navegación en la Landing Page</td>
+    <td>WI-10</td>
+    <td>Barra de Navegación</td>
+    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
+    <td>3</td>
+    <td>Sandro Quispesivana</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API User</td>
+    <td>WI-11</td>
+    <td>Creación de la API de usuarios</td>
+    <td>Se crea una API que permite el registro de usuarios dentro de la aplicación web. </td>
+    <td>8</td>
+    <td>Sandro Quispesivana</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td rowspan="1">TS05</td>
+    <td rowspan="1">API Object/td>
+    <td>WI-12</td>
+    <td>Creación de la API de productos </td>
+    <td> Se crea una API que permite el registro de productos dentro de la aplicación web. </td>
+    <td>8</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
+<br><br>
 
 ### 5.2.2 Implemented Landing Page Evidence
-Capturas o links que demuestran la implementación funcional de la landing page del proyecto.
+
+En el Sprint 1 se completó y desplegó exitosamente la landing page del proyecto. Esta incluye una barra de navegación funcional, las secciones previamente definidas y un formulario de contacto operativo que permite a los usuarios dejar su información. El sitio fue publicado correctamente y ya está accesible para los usuarios. Además, durante este proceso se implementó la metodología GitFlow, lo que permitió trabajar de forma organizada mediante ramas específicas para pruebas y actualizaciones sin afectar la rama principal del proyecto.
+
+A continuación, se presentan las imágenes de la landing page que muestran lo logrado en este Sprint 1:
+
+
+Enlace: [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
 
 ### 5.2.3 Implemented Frontend-Web Application Evidence
 Evidencias visuales o funcionales que muestren el desarrollo del frontend web, como capturas, gifs, o enlaces.

@@ -2527,8 +2527,59 @@ Al adherirnos a estos principios de diseño, nos comprometemos a ofrecer una exp
 
 
 ### 4.1.3. Mobile Style Guidelines
+
 #### 4.1.3.1. iOS Mobile Style Guidelines
+
+Para la versión iOS de la aplicación CambiaZo, se han considerado los principios de diseño recomendados por Apple y se han adaptado nuestros lineamientos visuales generales para asegurar una experiencia fluida y nativa en dispositivos iPhone y iPad.
+
+En cuanto a la **paleta de colores**, se mantiene el uso de amarillo (#FFE03C), blanco (#FFFFFF), negro (#000000) y blanco humo (#F8F7F4), garantizando una estética moderna y coherente con la identidad de la marca. Se aplican degradados sutiles para ofrecer una experiencia visual más inmersiva y alineada con las transiciones suaves de iOS.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete iOS">
+</div><br>
+
+La **tipografía Montserrat** continúa siendo el eje de nuestra identidad visual, utilizada en sus variantes Regular, Medium, Semi-Bold y Bold. Se adapta al sistema de texto dinámico de iOS, garantizando accesibilidad y legibilidad en todos los tamaños de pantalla.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat">
+</div><br>
+
+En términos de **espaciado y márgenes**, seguimos un enfoque basado en los estándares de Human Interface Guidelines. Se prioriza el uso de márgenes generosos y padding adecuados en botones y textos, optimizando la navegación táctil y la claridad visual.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="Espaciado ejemplo iOS">
+</div><br>
+
+El tono de comunicación mantiene su enfoque empático y directo, adaptándose al entorno amigable y limpio que caracteriza al sistema iOS. El diseño busca balancear funcionalidad y estilo, brindando una experiencia elegante y centrada en el usuario.
+
 #### 4.1.3.2. Android Mobile Style Guidelines
+
+Para Android, nos apoyamos en los lineamientos de **Material Design**, los cuales hemos integrado a nuestro estilo visual para ofrecer una experiencia de usuario coherente y efectiva en dispositivos con sistema operativo Android.
+
+La **paleta de colores** conserva los tonos característicos de la marca (amarillo, blanco, negro y blanco humo), con una implementación cuidadosa de degradados y contrastes, pensados para mantener una interfaz clara y enérgica en el ecosistema Android.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete Android">
+</div><br>
+
+La **tipografía Montserrat**, reconocida por su claridad y versatilidad, se aplica en distintos pesos según el contexto (Regular, Medium, Semi-Bold y Bold), asegurando una jerarquía visual adecuada y una experiencia de lectura óptima.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat Android">
+</div><br>
+
+En cuanto a los **espaciados**, adoptamos una estructura modular, utilizando márgenes y paddings que responden a las recomendaciones de Material Design. Esto incluye separación entre elementos para mejorar la navegación y botones suficientemente amplios para facilitar la interacción en pantallas táctiles.
+
+<div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="Espaciado ejemplo Android">
+</div><br>
+
+El lenguaje visual y comunicacional mantiene un enfoque práctico y accesible, alineado con la naturaleza abierta y funcional del ecosistema Android. Buscamos que el usuario pueda moverse por la app de manera intuitiva y ágil, sin perder de vista los valores de nuestra marca.
+
+
+
+
+
 
 ## 4.2. Information Architecture
 

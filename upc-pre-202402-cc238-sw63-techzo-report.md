@@ -191,9 +191,11 @@
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
 **ABET – EAC - Student Outcome 7**<br>
-**Criterio:** La capacidad de adquirir y aplicar nuevos conocimientos según sea
-necesario, utilizando estrategias deaprendizaje apropiadas.<br><br>
-En el siguiente cuadro se describen las acciones realizadas y las conclusiones enunciadas por el grupo, que permiten sustentar el logro del ABET – EAC - Student Outcome 7.<br><br>
+**Criterio:** La capacidad de reconocer responsabilidades éticas y profesionales en
+situaciones de ingeniería y hacer juicios informados, que deben considerar el
+impacto de las soluciones de ingeniería en contextos globales, económicos,
+ambientales y sociales<br><br>
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones enunciadas por el grupo, que permiten sustentar el logro del ABET – EAC - Student Outcome 4.<br><br>
 
 <table>
   <thead>

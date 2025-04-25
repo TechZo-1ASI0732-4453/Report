@@ -5265,7 +5265,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   </tr>
     <tr>
     <td rowspan="1">TS05</td>
-    <td rowspan="1">API Object/td>
+    <td rowspan="1">API Object</td>
     <td>WI-12</td>
     <td>Creación de la API de productos </td>
     <td> Se crea una API que permite el registro de productos dentro de la aplicación web. </td>

@@ -5194,7 +5194,11 @@ criterios de claridad, accesibilidad y cumplimiento normativo.
 
 
 ### 5.2.5 Implemented Native-Mobile Application Evidence
-Pruebas de implementación de la app móvil nativa desarrollada, con imágenes, videos o enlaces relevantes.
+Durante el Sprint 1, no se desarrolló aún la **aplicación móvil nativa** correspondiente a la solución. Sin embargo, se avanzó de manera significativa en el **prototipado de la app móvil** utilizando la herramienta **Figma**, lo cual permitió definir visualmente las pantallas principales, flujos de navegación, y componentes clave de la experiencia de usuario en dispositivos móviles.
+
+El prototipo incluye vistas para el inicio de sesión, registro de usuarios, navegación por publicaciones, visualización de detalles y funciones principales relacionadas con el intercambio y donación de productos.
+
+Estos prototipos han sido documentados y presentados previamente en una sección anterior, y constituyen la base para el desarrollo técnico que se iniciará en los próximos Sprints. Gracias a este trabajo previo, se espera que la implementación de la aplicación nativa se lleve a cabo de manera más ágil y alineada con los requerimientos del proyecto.
 
 ### 5.2.6 Implemented RESTful API and/or Serverless Backend Evidence
 Evidencias del desarrollo del backend, ya sea con APIs RESTful o arquitecturas sin servidor.

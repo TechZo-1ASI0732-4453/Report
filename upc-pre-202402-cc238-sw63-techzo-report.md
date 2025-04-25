@@ -4794,11 +4794,11 @@ El backend fue desplegado exitosamente como aplicación web sobre **Microsoft Az
 A continuación, se presentan imágenes que evidencian el desarrollo y despliegue del backend durante el Sprint 1:
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_evidence.png?raw=true" alt="Deploy Backend"><br><br>
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_Evidence1.png?raw=true" alt="Deploy Backend"><br><br>
 </div>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_Evidence1.png?raw=true" alt="Deploy Backend"><br><br>
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_evidence.png?raw=true" alt="Deploy Backend"><br><br>
 </div>
 
 <br><br>
@@ -4954,7 +4954,41 @@ Authorization: Bearer <JWT_Token>
 <br><br>
 
 ### 5.2.8 Team Collaboration Insights
-Resumen de cómo el equipo trabajó colaborativamente, incluyendo uso de herramientas, reuniones, distribución de tareas y mejoras progresivas.
+
+Durante el desarrollo del Sprint 1, el equipo colaboró activamente en los repositorios del **Backend** y la **Landing Page**, utilizando herramientas como **GitHub**, **Trello** y **Discord** para coordinar tareas, compartir avances y resolver dudas de forma continua. Se realizaron reuniones semanales para planificación y revisión, así como sesiones diarias breves (*dailys*) para mantener sincronizado el trabajo entre los integrantes.
+
+A continuación, gracias a la sección de *Insights* de GitHub, se presentan gráficas que muestran el nivel de participación de cada miembro del equipo en estos dos repositorios clave.
+
+#### Tabla de identificación del equipo
+
+<div align="center">
+
+| Username (GitHub) | Nombre completo |
+|-------------------|------------------------------|
+| HelloNerk         | Huamani Mandujano, Joseph Alexis |
+| 123-Mathi         | Mendoza Carrión, Mathias André |
+| Jemisas           | Quispe Andia, Jeremy Joel |
+| ClaudioSandro          | Quispesivana Torres, Claudio Sandro  |
+| IanHD04           | Santisteban Palomino, Ian Haziel Donato |
+
+</div>
+
+#### Analíticos de GitHub
+
++ **Landing Page**
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Insights/landingpage_insights.png?raw=true"alt="contributor-evidence-landingpage">
+</div><br><br>
+
++ **Backend**
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Insights/backend_insights.png?raw=true" alt="contributor-evidence-backend">
+</div><br><br>
+
+Las gráficas demuestran que todos los integrantes realizaron contribuciones significativas tanto en el repositorio del **Backend** como en el de la **Landing Page**, lo cual refleja una distribución equilibrada de tareas y un compromiso constante con el avance del proyecto.
+
+
+<br>
 
 ## 5.3 Video About-the-Product
 

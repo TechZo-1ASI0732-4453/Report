@@ -5187,10 +5187,47 @@ Se estima que el desarrollo del **Frontend Web Application** comience en el **Sp
 
 
 ### 5.2.4 Acuerdo de Servicio - SaaS
-Esta sección establece los derechos, obligaciones y restricciones aplicables a los usuarios
-de la plataforma, garantizando transparencia en el uso del servicio SaaS. Debe integrarse
-públicamente en la sección "Terms and Conditions" del website, cumpliendo con los
-criterios de claridad, accesibilidad y cumplimiento normativo.
+Con el objetivo de garantizar transparencia, protección del usuario y cumplimiento normativo, se ha definido un **Acuerdo de Servicio (SaaS)** que regula el uso de la plataforma **CambiaZo**, la cual ofrece un servicio digital diseñado para facilitar el intercambio y la donación de objetos a través de una aplicación móvil. Este servicio tiene como principal objetivo promover la economía circular y reducir el impacto ambiental mediante el fomento de la reutilización de productos.
+
+Este acuerdo detalla los derechos, responsabilidades y restricciones aplicables a los usuarios de la plataforma. Además, se establece el marco legal y normativo bajo el cual los usuarios deben interactuar con el servicio. El acuerdo será publicado de forma pública y accesible en la sección **"Términos y Condiciones"** del sitio web oficial de **CambiaZo**. La aceptación de estos términos es obligatoria para hacer uso de la plataforma. A continuación, se detallan los principales aspectos incluidos en el Acuerdo de Servicio:
+
+- **Objeto del Servicio**  
+  CambiaZo proporciona un espacio digital accesible a través de una aplicación móvil, en el cual los usuarios pueden realizar actividades de intercambio o donación de objetos. Estas actividades se llevan a cabo de forma voluntaria, sin fines de lucro, con el fin de promover la economía circular y evitar el desperdicio de bienes que aún tienen valor. A través de esta plataforma, los usuarios pueden:
+  - Publicar objetos que ya no necesitan para que otros usuarios los intercambien o los reciban como donación.
+  - Realizar intercambios con otros usuarios o recibir objetos donados sin el propósito de obtener ganancias comerciales.
+
+- **Obligaciones del Usuario**  
+  Los usuarios que accedan a **CambiaZo** se comprometen a cumplir con las siguientes obligaciones:
+  - **Proporcionar información veraz y actualizada:** Los usuarios deben registrar datos precisos y completos en sus perfiles, incluyendo la información de contacto y la descripción de los objetos publicados para intercambio o donación.
+  - **Utilizar la plataforma de forma ética y responsable:** Los usuarios deben evitar el uso de la plataforma para realizar actividades fraudulentas, engañosas o que contravengan las políticas de la aplicación. Además, deberán abstenerse de crear publicaciones con fines comerciales o para lucro personal.
+  - **Cumplir con la legislación vigente:** Los usuarios deberán respetar las leyes locales e internacionales, especialmente en cuanto a la protección de la propiedad intelectual y la normativa sobre privacidad de datos personales.
+  - **No publicar contenido prohibido:** Los usuarios no podrán subir contenido que sea ilegal, ofensivo, difamatorio, discriminatorio, obsceno, pornográfico o que infrinja los derechos de propiedad intelectual o los derechos de terceros.
+
+- **Obligaciones del Proveedor (CambiaZo)**  
+  **CambiaZo** se compromete a cumplir con las siguientes responsabilidades:
+  - **Proporcionar acceso ininterrumpido al servicio:** CambiaZo ofrecerá acceso continuo al servicio, salvo interrupciones justificadas por mantenimiento técnico programado o situaciones de fuerza mayor que impidan la operatividad temporal de la plataforma.
+  - **Proteger la privacidad de los usuarios:** **CambiaZo** cumplirá con las leyes de protección de datos personales y tomará medidas razonables para garantizar la seguridad de la información personal de los usuarios almacenada en la plataforma.
+  - **Soporte y atención al usuario:** Se brindará soporte básico a los usuarios en caso de dificultades técnicas o problemas con el uso de la plataforma. Esto incluirá la resolución de problemas comunes y la atención a consultas por los medios de contacto establecidos.
+  - **Notificación de cambios en el servicio:** Si se presentan modificaciones sustanciales en el servicio o en los términos del acuerdo, **CambiaZo** se compromete a notificar a los usuarios mediante los canales disponibles (como correo electrónico o notificaciones dentro de la aplicación).
+
+- **Restricciones de Uso**  
+  Para garantizar el correcto funcionamiento de la plataforma y evitar abusos, **CambiaZo** establece las siguientes restricciones:
+  - **Prohibición de actividades comerciales:** Los usuarios no podrán utilizar la plataforma con fines comerciales, como la venta de productos o la promoción de negocios o marcas.
+  - **No utilizar técnicas automatizadas:** Está prohibido el uso de bots, scraping, minería de datos u otras herramientas automatizadas que puedan alterar el funcionamiento normal de la plataforma o recopilar información sin el consentimiento de los usuarios.
+  - **No compartir contenido ilegal o violento:** Los usuarios no podrán hacer uso de la plataforma para difundir contenido que incite a la violencia, el odio, el racismo, la discriminación o cualquier otro comportamiento perjudicial para la comunidad.
+
+- **Propiedad Intelectual**  
+  Los contenidos generados por los usuarios, tales como descripciones, fotos, videos o cualquier otro material relacionado con los objetos publicados, permanecen bajo la propiedad de los usuarios. Sin embargo, al publicar dicho contenido en **CambiaZo**, los usuarios otorgan a la plataforma una licencia limitada, no exclusiva y sin compensación para:
+  - Utilizar, mostrar y distribuir dicho contenido dentro del ecosistema de **CambiaZo** con el fin de facilitar el intercambio o donación de los objetos. 
+  - Permitir que otros usuarios vean el contenido publicado dentro de la plataforma y realicen las interacciones correspondientes.
+
+- **Modificaciones del Servicio**  
+  **CambiaZo** se reserva el derecho de modificar o actualizar el servicio y los términos de este acuerdo en cualquier momento. Las modificaciones pueden incluir cambios en la funcionalidad de la aplicación, en la política de privacidad, o en los términos y condiciones del servicio. Las actualizaciones de estos términos serán notificadas a los usuarios a través de medios electrónicos disponibles, y los usuarios deberán revisar dichos cambios para continuar usando el servicio.
+
+- **Terminación de Cuentas**  
+  **CambiaZo** tiene la facultad de suspender o eliminar las cuentas de los usuarios que incumplan los términos establecidos en este acuerdo o que realicen actividades que afecten negativamente la experiencia de otros usuarios o la operatividad de la plataforma. Las cuentas también podrán ser eliminadas si los usuarios presentan información falsa o engañosa, si se detecta actividad fraudulenta o si se incumplen las políticas de contenido.
+
+Este acuerdo forma parte esencial del entorno SaaS de **CambiaZo** y será accesible públicamente para su revisión y aceptación antes de utilizar la aplicación. Los usuarios deben aceptar los términos en su totalidad para poder acceder y utilizar las funcionalidades ofrecidas por la plataforma. 
 
 
 ### 5.2.5 Implemented Native-Mobile Application Evidence

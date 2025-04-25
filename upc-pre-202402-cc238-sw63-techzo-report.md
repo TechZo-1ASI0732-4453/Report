@@ -5130,7 +5130,7 @@ El objetivo de este primer sprint es desarrollar una versión inicial de del bac
 Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4167d99/ATTI3148cf1d5398db1216af7f1c51dbd219F3CEDE32/techzo-cambiazo)<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
 </div><br><br>
 
 <table>
@@ -5288,23 +5288,23 @@ A continuación, se presentan las imágenes de la landing page que muestran lo l
 Enlace: [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
 </div>
 
 <br><br>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/UPC_logo.png?raw=true" alt="Logo-UPC" width="150">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/UPC_logo.png?raw=true" alt="Logo-UPC" width="150">
 
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -24,8 +24,8 @@
 | Huamani Mandujano, Joseph Alexis         | U20221A133     |
 | Mendoza Carrion, Mathias Andre          | U202216282     |
 | Quispe Andia, Jeremy Joel      | U202216279     |
-| Santisteban Palomino, Ian Haziel Donato | U202214059     |
 | Quispesivana Torres, Claudio Sandro | u202215099     |
+| Santisteban Palomino, Ian Haziel Donato | U202214059     |
 
 </div>
 
@@ -169,10 +169,11 @@
     - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
     - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
     - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-    - [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
-    - [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
-    - [5.2.6. RESTful API documentation](#526-restful-api-documentation)
-    - [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights)
+    - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio-saas)
+    - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+    - [5.2.6 Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+    - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
+    - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
   - [5.3 Video About-the-Product](#53-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -305,11 +306,10 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y web, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
-| **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
-| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo web. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
-| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
-| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
+| **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 7mo ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y web, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
+| **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el septimo ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
+| **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo web. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
+| **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 20 años y estoy cursando el septimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
 | **Quispesivana Torres, Claudio Sandro - u202215099**     |Mi nombre es Claudio Sandro Quispesivana Torres, tengo 20 años y estoy cursando el septimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-I/Profiles/sandroquispesivana.png" alt="Imagen de Sandro Quispesivana"/> |
 
 <br><br>
@@ -348,10 +348,10 @@ Esta problemática es una constante con el pasar de los años ya que recién es 
 Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
 
 * **HOW?**<br>
-Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+Se implementará una propuesta de solución mediante el desarrollo de una aplicación web y movil que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
 
 * **HOW MUCH?**<br>
-El presupuesto para el desarrollo de la aplicación web varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
+El presupuesto para el desarrollo de la aplicación web y movil varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
@@ -500,7 +500,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
     <div align="center">
 	    <strong id="imagen-1">Imagen 1: Distribución de la población en Perú por segmentos de edad en 2022 (CPI Research, 2022)</strong><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 500px; height: auto;">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Target-Segment/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos 2" style="width: 500px; height: auto;">
     </div><br><br>
 
   + **Características geográficas:** Personas que residen en Perú.<br>
@@ -508,7 +508,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
      <div align="center">	
 	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
 	
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
@@ -585,22 +585,22 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <div align="center">Logo</div>
     </td>
     <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
 		</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+    <td>Aplicación web y movil que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
 	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
@@ -645,8 +645,8 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Free y Premium $2.99 por mes</td>
   </tr>
   <tr>
-    <td>Canales de Distribución (Web y/o web)</td>
-    <td>Web y web</td>
+    <td>Canales de Distribución (Web y/o  Movil)</td>
+    <td>Web y Movil</td>
     <td>Web</td>
     <td>Web</td>
     <td>web</td>
@@ -745,20 +745,20 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 
 1. ¿De qué forma se contacta con otras personas al momento de querer intercambiar alguno de los objetos que ya no usa?
 2. ¿Cómo ha sido su experiencia previa con aplicaciones de intercambio de productos?
-3. ¿Qué tipo de productos considera más viables para intercambiar a través de una aplicación movil?
+3. ¿Qué tipo de productos considera más viables para intercambiar a través de una aplicación web/movil?
 
 **Indagación:**
 
 4. ¿Cuáles son las principales preocupaciones o dudas que tendría al utilizar una aplicación de intercambio de productos por primera vez?
 5. ¿Qué características o funciones consideraría primordiales para sentirse seguro y cómodo al realizar intercambios en línea?
-6. ¿Cómo cree usted que una aplicación movil de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
+6. ¿Cómo cree usted que una aplicación de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
 7. ¿Qué tipo de productos considera que tendrían mayor demanda por parte de personas de su edad y ubicación geográfica?
 
 **Verificación:**
 
 8. ¿Qué medidas tomaría para estar seguro de que los productos que está intercambiando cumplen con sus expectativas?
 9. ¿Cómo cree que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la aplicación?
-10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una aplicación movil de intercambios en línea como CambiaZo?
+10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una aplicación de intercambios en línea como CambiaZo?
 
 **Medición:**
 
@@ -782,13 +782,13 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 
 1. ¿De qué forma ha realizado donaciones a personas con escasos recursos económicos?
 2. ¿Cómo ha sido su experiencia previa con la donación de artículos a personas necesitadas o a organizaciones benéficas?
-3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una aplicación movil como CambiaZo?
+3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una aplicación web/movil como CambiaZo?
 
 **Indagación:**
 
 4. ¿Cuáles son las principales preocupaciones que tendría al utilizar una aplicación como CambiaZo por primera vez?
-5. ¿Qué funciones o características buscaría en una aplicación movil al momento de querer realizar una donación en línea?
-6. ¿Cómo cree que una aplicación movil como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
+5. ¿Qué funciones o características buscaría en una aplicación web/movil al momento de querer realizar una donación en línea?
+6. ¿Cómo cree que una aplicación web/movil como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
 
 **Verificación:**
 
@@ -799,7 +799,7 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 **Medición:**
 
 10. ¿Qué beneficios espera obtener al realizar donaciones utilizando CambiaZo en comparación con otros métodos de donación tradicionales?
-11. ¿Cómo mediría el impacto de sus donaciones a través de una aplicación movil como CambiaZo en términos de ayudar a personas necesitadas?
+11. ¿Cómo mediría el impacto de sus donaciones a través de una aplicación web/movil como CambiaZo en términos de ayudar a personas necesitadas?
 12. ¿Qué cambios o mejoras le gustaría ver en la funcionalidad de CambiaZo para que se convierta en una herramienta más efectiva para donar artículos?
 13. ¿Cómo cree que el uso de aplicaciones en las que puede donar, como CambiaZo, podría contribuir al desarrollo de una comunidad más solidaria y conectada en Lima?
 
@@ -815,6 +815,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 ### **Segmento Intercambiadores**<br>
 
+
 <table>
 <colgroup>
 </colgroup>
@@ -826,35 +827,35 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Freddy Alejandro</td>
+    <td>Sebastian Valente</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Cuadros Contreras</td>
+    <td>Lobato Pozo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Santiago de Surco</td>
+    <td>La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Obtener objetos deseados de manera más sencilla</td>
+    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
+    <td>Preocupación sobre posibles estafas</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone IOS</td>
+    <td>Computadora Windows, Smartphone Android</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -862,28 +863,28 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
+    <td>Claudio Sandro Quispesivana Torres</td>
   </tr>
-  <tr>
+   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png" alt="Entrevista Daniella Vargas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>00:00 min - 4:30 min </td>
+    <td>Duración<br></td>
+    <td>00:00 min - 06:55 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Freddy Cuadros nos menciona que CambiaZo facilita el contacto entre usuarios mediante un sistema de mensajería interna, lo que ha hecho que su experiencia con aplicaciones de intercambio sea positiva, permitiéndole reutilizar objetos y adquirir otros de forma sostenible. Considera que los productos más viables para intercambiar a través de CambiaZo son libros, ropa y pequeños electrodomésticos. Sus principales preocupaciones al usar CambiaZo son la autenticidad de los productos y la seguridad en las transacciones. Para sentirse seguro, considera esenciales la verificación de identidad, métodos de pago seguros y un sistema de valoraciones. Los productos tecnológicos y de moda son muy demandados, y para asegurarse de que cumplan con sus expectativas, solicita fotos y descripciones detalladas. Un sistema de valoraciones y comentarios, junto con la consulta de opiniones en redes sociales, ayuda a verificar la confiabilidad de CambiaZo. 
-    <br>Además, estos intercambios ofrecen beneficios como el ahorro económico y una forma más sostenible de consumir, promoviendo el reciclaje y la reutilización para abordar la acumulación de productos no utilizados.
+    <td>Durante la entrevista, Sebastián Lobato, un estudiante de Ingenieria de Software de 20 años que vive en Lima y utiliza un smartphone Android, relató sus experiencias previas realizando intercambios de artículos con personas de su entorno. Aunque ha participado en este tipo de actividades antes, menciona que no ha encontrado una plataforma dedicada que le brinde seguridad al momento de intercambiar sus objetos. Para Sebastián, una aplicación móvil como CambiaZo podría ser una herramienta ideal para facilitar estos intercambios, ya que genera un ambiente de confianza entre los usuarios. Además, señala que los artículos más solicitados suelen ser productos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado. Sin embargo, también expresa inquietudes sobre la fiabilidad de la aplicación, por lo que valora funciones como la posibilidad de subir fotos y contar con una sección de reseñas. Sebastián espera que el uso de CambiaZo le permita realizar intercambios de manera más segura y eficiente, contribuyendo así al crecimiento de una comunidad más sostenible y conectada en Lima.
 </td>
   </tr>
 </tbody>
-</table>
+</table><br>
+
 
 
 <table>
@@ -935,21 +936,21 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
     <td>Entrevistador</td>
     <td>Ian Haziel Donato Santisteban Palomino</td>
   </tr>
-  <tr>
+    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/edugutierrez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/edugutierez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>4:31 min - 10:44 min </td>
+    <td>6:56 min - 11:52 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una aplicación movil como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la aplicación implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad.
+    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad.
 </td>
   </tr>
 </tbody>
@@ -962,75 +963,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <thead>
   <tr>
     <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Erick Maycol</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Huallullo Cirineo</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>21 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Ate</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Relizar intercambios seguros</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>No obtener lo que busca al realizar intercambios a través de Facebook.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>10:45 min - 15:37 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Erick Huallullo nos menciona que al contactar a otros usuarios para intercambiar objetos, utiliza el sistema de mensajería de CambiaZo, lo que ha facilitado una experiencia generalmente positiva y segura. Considera que productos como ropa, libros y pequeños dispositivos electrónicos son los más viables para intercambiar a través de CambiaZo, aunque sus principales preocupaciones al usar la plataforma son la seguridad de la transacción y la autenticidad de los productos. Funciones como la verificación de identidad y un sistema de calificaciones en CambiaZo son esenciales para fomentar la confianza entre los usuarios. Para verificar la confiabilidad de CambiaZo, revisa opiniones en tiendas de aplicaciones y foros. Además, cree que el uso de CambiaZo puede promover un consumo más sostenible, abordando desafíos como la cultura de consumo desmedido en Lima mediante la promoción del reciclaje y la reutilización de productos.
-</td>
-  </tr>
-</tbody>
-</table><br>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1076,15 +1008,15 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>15:38 min - 20:05 min</td>
+    <td>11:53 min - 16:20 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1095,12 +1027,154 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table><br>
 
 
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Freddy Alejandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cuadros Contreras</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Obtener objetos deseados de manera más sencilla</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone IOS</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>16:21 min - 20:50 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Freddy Cuadros nos menciona que CambiaZo facilita el contacto entre usuarios mediante un sistema de mensajería interna, lo que ha hecho que su experiencia con aplicaciones de intercambio sea positiva, permitiéndole reutilizar objetos y adquirir otros de forma sostenible. Considera que los productos más viables para intercambiar a través de CambiaZo son libros, ropa y pequeños electrodomésticos. Sus principales preocupaciones al usar CambiaZo son la autenticidad de los productos y la seguridad en las transacciones. Para sentirse seguro, considera esenciales la verificación de identidad, métodos de pago seguros y un sistema de valoraciones. Los productos tecnológicos y de moda son muy demandados, y para asegurarse de que cumplan con sus expectativas, solicita fotos y descripciones detalladas. Un sistema de valoraciones y comentarios, junto con la consulta de opiniones en redes sociales, ayuda a verificar la confiabilidad de CambiaZo. 
+    <br>Además, estos intercambios ofrecen beneficios como el ahorro económico y una forma más sostenible de consumir, promoviendo el reciclaje y la reutilización para abordar la acumulación de productos no utilizados.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Erick Maycol</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Huallullo Cirineo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Relizar intercambios seguros</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>No obtener lo que busca al realizar intercambios a través de Facebook.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone IOS, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>20:51 min - 25:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Erick Huallullo nos menciona que al contactar a otros usuarios para intercambiar objetos, utiliza el sistema de mensajería de CambiaZo, lo que ha facilitado una experiencia generalmente positiva y segura. Considera que productos como ropa, libros y pequeños dispositivos electrónicos son los más viables para intercambiar a través de CambiaZo, aunque sus principales preocupaciones al usar la plataforma son la seguridad de la transacción y la autenticidad de los productos. Funciones como la verificación de identidad y un sistema de calificaciones en CambiaZo son esenciales para fomentar la confianza entre los usuarios. Para verificar la confiabilidad de CambiaZo, revisa opiniones en tiendas de aplicaciones y foros. Además, cree que el uso de CambiaZo puede promover un consumo más sostenible, abordando desafíos como la cultura de consumo desmedido en Lima mediante la promoción del reciclaje y la reutilización de productos.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1146,15 +1220,15 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>20:06 min - 25:36 min</td>
+    <td>25:41 min - 31:12 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1164,146 +1238,10 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table><br>
 
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #6<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Daniella Alexandra Crysti</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Vargas Saldaña</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santa Anita</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupación sobre posibles estafas</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Computadora Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>25:37 min - 35:45 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con el intercambio de artículos con personas de su entorno, señalando que si bien ha realizado este tipo de intercambios en el pasado, no ha encontrado un lugar el cual le sirve especificamente para poder intercambios su objetos de manera segura. Para Daniella, una aplicación web como CambiaZo podría ser un excelente intermediario al momento de querer intercambiar con otro usuario, ya que fomenta la confianza para ambas partes. Además, Daniella agrega que los artículos con mayor demanda son los articulos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado; no obstante, Daniella también manifiesta preocupaciones relacionadas con la confiabilidad de la aplicación, por lo que valora la posibilidad de verificar la legitimidad de los objetos mediante la inclusión de fotos y una sección de reseñas, esperando que el uso de CambiaZo le permita sentirse seguro y poder empezar a intercambio de manera más segura y efectiva promiviendo el desarrollo de una comunidad más sostenible y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table><br>
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #7<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Sebastian Valente</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Lobato Pozo</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>La Molina</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupación sobre posibles estafas</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Computadora Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Claudio Sandro Quispesivana Torres</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png" alt="Entrevista Daniella Vargas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EZUwObmyCw1DtDKyGQhp3BoBBI-RzKhfJr0FnAkLM9yqhQ?e=pRwTag&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 min - 06:44 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Sebastián Lobato, un estudiante de Ingenieria de Software de 20 años que vive en Lima y utiliza un smartphone Android, relató sus experiencias previas realizando intercambios de artículos con personas de su entorno. Aunque ha participado en este tipo de actividades antes, menciona que no ha encontrado una plataforma dedicada que le brinde seguridad al momento de intercambiar sus objetos. Para Sebastián, una aplicación móvil como CambiaZo podría ser una herramienta ideal para facilitar estos intercambios, ya que genera un ambiente de confianza entre los usuarios. Además, señala que los artículos más solicitados suelen ser productos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado. Sin embargo, también expresa inquietudes sobre la fiabilidad de la aplicación, por lo que valora funciones como la posibilidad de subir fotos y contar con una sección de reseñas. Sebastián espera que el uso de CambiaZo le permita realizar intercambios de manera más segura y eficiente, contribuyendo así al crecimiento de una comunidad más sostenible y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table><br>
+
 
 
 ### **Segmento Donadores**<br>
-
 
 <table>
 <colgroup>
@@ -1316,31 +1254,31 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Ian Joaquin</td>
+    <td>Jose Daniel Mario</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Sanchez Alva</td>
+    <td>Calderon Huaman</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>22 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Los Olivos</td>
+    <td>Carabayllo</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
+    <td>Discord</td>
   </tr>
-  <tr>
+    <tr>
     <td>Motivacion</td>
-    <td>Ayudar a las personas más necesitadas</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>No saber qué necesitan las ONG’s para realizar su donación</td>
+    <td>Preocupaciones sobre el destino de las donaciones.</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
@@ -1348,27 +1286,97 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
+    <td>Claudio Sandro Quispesivana Torres</td>
   </tr>
-   <tr>
+    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/josecalderon_interview.png?raw=true" alt="Entrevista Jose Calderon"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>35:46 min - 40:00 min </td>
+    <td>31:13 min - 36:06 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Ian Joaquin Sanchez Alva ha realizado donaciones directas a personas y contribuciones a organizaciones benéficas, describiendo su experiencia como positiva y gratificante. Considera que ropa, alimentos no perecederos y artículos de higiene personal son los más adecuados para donar a través de CambiaZo. Sus principales preocupaciones al usar la aplicación por primera vez son la seguridad y privacidad de sus datos. Busca una aplicación fácil de usar, con opciones de seguimiento de donaciones y robusta en seguridad. Cree que CambiaZo puede aumentar las donaciones en Perú facilitando el proceso y visibilizando necesidades urgentes. Valora la transparencia y autenticidad en las donaciones, y considera esencial la posibilidad de seguir el destino de sus contribuciones. Para verificar la confiabilidad de CambiaZo, confía en evaluaciones de usuarios y certificaciones de seguridad. Espera que CambiaZo ofrezca mayor eficiencia y comodidad, permitiendo rastrear el impacto de sus donaciones, y sugiere una mejor integración con redes sociales para ampliar el alcance. Considera que CambiaZo puede contribuir al desarrollo de una comunidad más solidaria y conectada en Lima al fomentar la colaboración y el apoyo mutuo entre los ciudadanos.
+    <td>Jose Calderon comenta que ha hecho donaciones tanto por transferencias como a través de recolecciones locales, y que la experiencia le ha resultado satisfactoria, especialmente al colaborar con organizaciones en las que confía. Suele preferir donar productos de primera necesidad, ropa y materiales educativos utilizando plataformas como CambiaZo. Entre sus principales inquietudes al utilizar CambiaZo están la protección de sus datos personales y la efectividad del sistema. Por ello, considera fundamental contar con una interfaz intuitiva, opciones claras para elegir proyectos o beneficiarios, y la posibilidad de hacer seguimiento a sus donaciones. También destaca la importancia de la transparencia y la disponibilidad de informes sobre el uso de los fondos como elementos clave para confiar en la plataforma. Valora especialmente que el proceso de donación sea ágil y sencillo, y que pueda ver el impacto directo de sus aportes. Además, opina que una mayor personalización de las donaciones y la posibilidad de interactuar con los beneficiarios en CambiaZo contribuirían a fortalecer la cohesión social y a generar una mayor conciencia sobre las necesidades de las comunidades locales.
+</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar a lo mas necesitados a traves de la iglesias</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>36:07 min - 41:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante nuestra conversación con Arturo, exploramos su experiencia en intercambios y los desafíos que ha enfrentado al no tener una plataforma dedicada para realizarlos. Arturo compartió sus vivencias al realizar donaciones a la iglesia, describiendo las dificultades que encontró al llevar un canasto lleno de ropa, lo cual consideró una tarea tediosa. Propuso la idea de que, para facilitar el proceso de donación de objetos, sería conveniente que alguien se encargará de recogerlos, evitando así la molestia de tener que trasladarse hasta el lugar de donación. Además, resaltó la importancia de garantizar seguridad para los usuarios, sugiriendo medidas como la presentación de una foto que confirme la realización de la donación, con el fin de evitar cualquier tipo de desconfianza. Arturo realiza una sugerencia final y significativa para Cambiazo, el cual, sería crear conciencia sobre la importancia de cada objeto donado para las personas necesitadas. Esto podría lograrse mediante la divulgación de testimonios conmovedores de aquellos que se han visto directamente afectados por estas donaciones, lo que, a su vez, podría inspirar a más personas a contribuir y seguir apoyando esta noble causa de forma continua.
 </td>
   </tr>
 </tbody>
@@ -1380,7 +1388,77 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom,Word</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar su ropa a personas necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de tiempo para buscar alguna ong</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>41:21 min - 45:06 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1398,7 +1476,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Sanntiago de Surco</td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -1426,15 +1504,15 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>40:01 min - 51:34 min </td>
+    <td>45:07 min - 56:39 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1445,210 +1523,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table>
 
 
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Beth Shantal</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Oneglio De Paz</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Borja</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Donar a lo mas necesitados a traves de la iglesias</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smatphone IOS, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>51:35 min - 55:46 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donadores con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Andrea Milagros</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Cabanillas Gora</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Contribuir con los mas necesitados, donando alimentos y ropa</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupaciones sobre el destino de las donaciones.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>55:47 min - 60:05 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Andrea Cabanillas nos menciona que ha realizado donaciones mediante transferencias y recolección local, y ha encontrado la experiencia gratificante, especialmente al colaborar con organizaciones confiables. Prefiere donar artículos de primera necesidad, ropa y material educativo a través de plataformas como CambiaZo. Sus principales preocupaciones al usar CambiaZo son la seguridad de sus datos y la eficacia del sistema, por lo que considera esenciales una interfaz fácil de usar, seguimiento de donaciones y opciones detalladas para seleccionar proyectos o beneficiarios. Valora la transparencia y los informes sobre el uso de fondos como cruciales para verificar la confiabilidad de CambiaZo. Aprecia la facilidad y rapidez en el proceso de donación, así como la posibilidad de ver el impacto directo de sus contribuciones. Además, cree que una mejor personalización de las donaciones y opciones de interacción con los beneficiarios en CambiaZo mejorarían la cohesión social y aumentarían la conciencia sobre las necesidades locales.
-</td>
-  </tr>
-</tbody>
-</table>
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #5<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Jose Daniel Mario</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Calderon Huaman</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Carabayllo</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Discord</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupaciones sobre el destino de las donaciones.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Claudio Sandro Quispesivana Torres</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/josecalderon_interview.png?raw=true" alt="Entrevista Jose Calderon"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EROZR5QUXpxDoGNDMZ253_0B0LdaKwrabM1FQfjXArJ90g?e=5tIsW4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 min - 4:54 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Jose Calderon comenta que ha hecho donaciones tanto por transferencias como a través de recolecciones locales, y que la experiencia le ha resultado satisfactoria, especialmente al colaborar con organizaciones en las que confía. Suele preferir donar productos de primera necesidad, ropa y materiales educativos utilizando plataformas como CambiaZo. Entre sus principales inquietudes al utilizar CambiaZo están la protección de sus datos personales y la efectividad del sistema. Por ello, considera fundamental contar con una interfaz intuitiva, opciones claras para elegir proyectos o beneficiarios, y la posibilidad de hacer seguimiento a sus donaciones. También destaca la importancia de la transparencia y la disponibilidad de informes sobre el uso de los fondos como elementos clave para confiar en la plataforma. Valora especialmente que el proceso de donación sea ágil y sencillo, y que pueda ver el impacto directo de sus aportes. Además, opina que una mayor personalización de las donaciones y la posibilidad de interactuar con los beneficiarios en CambiaZo contribuirían a fortalecer la cohesión social y a generar una mayor conciencia sobre las necesidades de las comunidades locales.
-</td>
-  </tr>
-</tbody>
-</table>
-<br>
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -1673,7 +1547,7 @@ Las personas que realizan intercambios de objetos tienen edades comprendidas ent
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 600px; height: auto;">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 600px; height: auto;">
 </div>
 
 
@@ -1681,22 +1555,22 @@ Las respuestas de nuestros entrevistados evidencian que sería beneficioso y út
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 600px; height: auto;"><br><br>
 </div>
 
 La mayoría de los intercambiadores realiza trueques con regularidad. Este dato subraya la demanda existente de una plataforma que pueda gestionar estos intercambios de manera más eficiente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -1730,27 +1604,27 @@ Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Per
 **Análisis por medio de herramientas estadísticas:**
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
 </div>
 
 La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
@@ -1771,7 +1645,7 @@ Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donació
 ### Análisis General para Ambos Segmentos
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
@@ -1782,7 +1656,7 @@ En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción e
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
 </div>
 
 Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
@@ -1807,20 +1681,18 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
+![User Persona 1](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 <br><br>
 
 <b>Usuario Donador</b><br>
 
 <div align="center">
 
-![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
+![User Persona 2](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 <br><br>
 
 ### 2.3.2 User Task Matrix
@@ -1935,10 +1807,8 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
-</div>
-
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
+![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
+</div><br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1946,10 +1816,8 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
-</div>
-
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
+![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
+</div><br><br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -1959,23 +1827,15 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <div align="center">
 
-![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
-</div>
-
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
-
-<br><br>
+![Empathy Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
+</div><br><br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
-</div>
-
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
-
-<br><br>
+![Empathy Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
+</div><br><br>
 
 ### 2.3.5 As-Is Scenario Mapping
 
@@ -1986,20 +1846,19 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 
 <div align="center">
 
-![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
+![As-Is Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+
 <br><br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
+![As-Is Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
 
 
@@ -2043,20 +1902,19 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 
 <div align="center">
 
-![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
+![To-Be Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
+![To-Be Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+
 <br><br>
 
 
@@ -2482,7 +2340,7 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 <div align="center">
 
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+[![Product Backlog.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
 </div>
 
 
@@ -2497,22 +2355,19 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
-</div>
+[![Impact Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)]()
+</div><br><br>
 
-
-Enlace: [Impact Mappping en UXPRESSIA]()
 
 
 <b>Segmento Donadores</b><br>
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
-</div>
+[![Impact Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)]()
+</div><br><br>
 
 
-Enlace: [Impact Mapping en UXPRESSIA]()
 
 <br>
 
@@ -2532,14 +2387,14 @@ A continuación, se presentan las pautas generales para asegurar una presentaci�
 Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true">
  </div><br><br><br>
 
 **Branding:**
 El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
  </div><br><br><br>
 
 **Typography:**
@@ -2551,7 +2406,7 @@ La tipografía utilizada será Montserrat, que incluye las variantes Regular, Me
 
 <div align="center">
 
-[![Montserrat - Google fonts](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
+[![Montserrat - Google fonts](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
 </div><br>
 
 
@@ -2598,19 +2453,19 @@ Para la versión iOS de la aplicación CambiaZo, se han considerado los principi
 En cuanto a la **paleta de colores**, se mantiene el uso de amarillo (#FFE03C), blanco (#FFFFFF), negro (#000000) y blanco humo (#F8F7F4), garantizando una estética moderna y coherente con la identidad de la marca. Se aplican degradados sutiles para ofrecer una experiencia visual más inmersiva y alineada con las transiciones suaves de iOS.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete iOS">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete iOS">
 </div><br>
 
 La **tipografía Montserrat** continúa siendo el eje de nuestra identidad visual, utilizada en sus variantes Regular, Medium, Semi-Bold y Bold. Se adapta al sistema de texto dinámico de iOS, garantizando accesibilidad y legibilidad en todos los tamaños de pantalla.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat">
 </div><br>
 
 En términos de **espaciado y márgenes**, seguimos un enfoque basado en los estándares de Human Interface Guidelines. Se prioriza el uso de márgenes generosos y padding adecuados en botones y textos, optimizando la navegación táctil y la claridad visual.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="Espaciado ejemplo iOS">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="Espaciado ejemplo iOS">
 </div><br>
 
 El tono de comunicación mantiene su enfoque empático y directo, adaptándose al entorno amigable y limpio que caracteriza al sistema iOS. El diseño busca balancear funcionalidad y estilo, brindando una experiencia elegante y centrada en el usuario.
@@ -2622,19 +2477,19 @@ Para Android, nos apoyamos en los lineamientos de **Material Design**, los cuale
 La **paleta de colores** conserva los tonos característicos de la marca (amarillo, blanco, negro y blanco humo), con una implementación cuidadosa de degradados y contrastes, pensados para mantener una interfaz clara y enérgica en el ecosistema Android.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete Android">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete Android">
 </div><br>
 
 La **tipografía Montserrat**, reconocida por su claridad y versatilidad, se aplica en distintos pesos según el contexto (Regular, Medium, Semi-Bold y Bold), asegurando una jerarquía visual adecuada y una experiencia de lectura óptima.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat Android">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat Android">
 </div><br>
 
 En cuanto a los **espaciados**, adoptamos una estructura modular, utilizando márgenes y paddings que responden a las recomendaciones de Material Design. Esto incluye separación entre elementos para mejorar la navegación y botones suficientemente amplios para facilitar la interacción en pantallas táctiles.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="Espaciado ejemplo Android">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="Espaciado ejemplo Android">
 </div><br>
 
 El lenguaje visual y comunicacional mantiene un enfoque práctico y accesible, alineado con la naturaleza abierta y funcional del ecosistema Android. Buscamos que el usuario pueda moverse por la app de manera intuitiva y ágil, sin perder de vista los valores de nuestra marca.
@@ -2771,13 +2626,13 @@ Enlace: [Wireframe del Landing Page en Figma]()<br><br>
 **Landing Page**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
 </div><br><br>
 
 ### 4.3.2. Landing Page Mock-up
@@ -2789,13 +2644,13 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
 **Landing Page**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
 ## 4.4. Mobile Applications UX/UI Design
@@ -2804,7 +2659,7 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true"  alt="wireframes-appmovil">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true"  alt="wireframes-appmovil">
 </div><br><br>
 
 Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=JB6EPW2FwvDSD40F-1)<br><br>
@@ -2812,43 +2667,43 @@ Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm
 A continuación, mostramos los wireframes de nuestra aplicación móvil:<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="wireframes-1"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true"  alt="wireframes-2"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true"  alt="wireframes-3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="wireframes-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true"  alt="wireframes-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true"  alt="wireframes-3">
 </div><br>
 
 Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación móvil. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true"  alt="wireframes-4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true"  alt="wireframes-4">
 </div><br>
 
 La pantalla de inicio presenta las publicaciones de usuarios de manera organizada. Se incluirá una barra de búsqueda y categorías para facilitar la navegación, además de filtros personalizados.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true"  alt="wireframes-5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true"  alt="wireframes-5">
 </div><br>
 
 La pantalla de Producto muestra un artículo con detalles como precio, usuario publicador, descripción y ubicación para el intercambio, junto con un botón para iniciar el proceso. En la pantalla de Oferta, el usuario selecciona un solo artículo de su inventario para intercambiar, y confirma la oferta con un resumen visual del artículo propuesto y el deseado.<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-6.png?raw=true"  alt="wireframes-6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-6.png?raw=true"  alt="wireframes-6">
 </div><br>
 
 A través de la pantalla de Mis Artículos podrás publicar nuevos artículos, el formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true"  alt="wireframes-7">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true"  alt="wireframes-7">
 </div><br>
 
 Esta pantalla mostrará una lista de organizaciones benéficas afiliadas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="wireframes-8"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true"  alt="wireframes-9">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="wireframes-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true"  alt="wireframes-9">
 
 </div><br>
 
@@ -2861,7 +2716,7 @@ A continuación, se presentan los wireflows que competen a nuestros user goals.
 **User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-1.PNG?raw=true" alt="wireflow 1">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-1.PNG?raw=true" alt="wireflow 1">
 </div><br>
 
 Al entrar a la aplicación móvil, el usuario primero será recibido por una pantalla de inicio de sesión. Para continuar, deberá ingresar su correo y contraseña. Si el usuario ha olvidado la contraseña, podrá recuperarla mediante un correo de confirmación que incluirá un código de verificación. Solo después de iniciar sesión exitosamente, el usuario será redirigido a la pantalla principal, donde podrá ver todas las publicaciones de intercambios destacadas, incluidas aquellas que poseen un boost.<br><br>
@@ -2869,7 +2724,7 @@ Al entrar a la aplicación móvil, el usuario primero será recibido por una pan
 **User goal 2:** Como usuario, quiero poder revisar información detallada de las organizaciones benéficas que puedo apoyar.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-2.PNG?raw=true" alt="wireflow 2">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-2.PNG?raw=true" alt="wireflow 2">
 </div><br>
 El usuario entra a la aplicación móvil y se dirige a una de las opciones de la barra de navegación que se llama “Donaciones”, en ella podrá visualizar todas las organizaciones benéficas afiliadas a CambiaZo. Al clickear en una de estas, podrá visualizar información más detallada de la misma.<br><br>
 
@@ -2878,7 +2733,7 @@ El usuario entra a la aplicación móvil y se dirige a una de las opciones de la
 **User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-3.PNG?raw=true"  alt="wireflow 3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-3.PNG?raw=true"  alt="wireflow 3">
 </div><br>
 El usuario entra a la aplicación móvil y, desde la barra de navegación, selecciona la opción "Mi Perfil". Luego, desde su perfil, podrá acceder a la opción "Mi Suscripción", donde verá todas las suscripciones disponibles con información detallada. Al seleccionar una suscripción, será redirigido a una pasarela de pagos, y finalmente recibirá un pop-up de confirmación del proceso.<br><br>
 
@@ -2886,7 +2741,7 @@ El usuario entra a la aplicación móvil y, desde la barra de navegación, selec
 **User goal 4:** Como usuario quiero poder publicar mis artículos de una manera rápida y accesible.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-4.PNG?raw=true"  alt="wireflow 4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-4.PNG?raw=true"  alt="wireflow 4">
 </div><br>
 
 El usuario entra a la aplicación móvil y se dirige a la barra de navegación, donde selecciona la opción "Mis Artículos". Una vez dentro, encontrará un botón de "Publicar". Al presionarlo, se desplegará un formulario para que, con la sesión ya iniciada, el usuario pueda realizar su publicación de intercambio, incluyendo los datos necesarios y las fotos del artículo. Al finalizar, el usuario verá un pop-up con un mensaje de confirmación.<br><br>
@@ -2896,7 +2751,7 @@ El usuario entra a la aplicación móvil y se dirige a la barra de navegación, 
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-5.PNG?raw=true"  alt="wireflow 5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-5.PNG?raw=true"  alt="wireflow 5">
 </div><br>
 
 El usuario entra a la aplicación móvil y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una pantalla en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.<br>Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
@@ -2905,7 +2760,7 @@ El usuario entra a la aplicación móvil y clickea en algunos de los botones de 
 **User goal 6:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-6.PNG?raw=true"  alt="wireflow 6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-6.PNG?raw=true"  alt="wireflow 6">
 </div><br>
 
 Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Intercambiar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación. <br><br>
@@ -2914,7 +2769,7 @@ Una vez el usuario haya seleccionado la publicación de interés, puede darle cl
 **User goal 7:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-7.PNG?raw=true"  alt="wireflow 7">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-7.PNG?raw=true"  alt="wireflow 7">
 </div><br>
 
 Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de navegación, donde visualizarán todas sus publicaciones de articulos. Cada artículo tendrá un menú desplegable de tres puntos que les permitirá acceder a opciones para administrar sus publicaciones. Al seleccionar "Editar", se abrirá un formulario con los datos actuales del artículo, para que puedan realizar los cambios necesarios. Si eligen "Eliminar", aparecerá un mensaje de confirmación antes de proceder con la eliminación.<br><br>
@@ -2923,7 +2778,7 @@ Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de 
 **User goal 8:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true"  alt="wireflow 8">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true"  alt="wireflow 8">
 </div><br>
 
  Los usuarios podrán dirigirse a la sección "Mis Intercambios" desde la barra de navegación, donde visualizarán sus intercambios enviados, recibidos y aceptados. Al seleccionar una oferta en la sección de recibidos, verán los detalles de los artículos ofrecidos. Aquí podrán aceptar o rechazar la oferta mediante un menú con ambas opciones. Si eligen rechazar, se desplegará un mensaje de confirmación antes de proceder, y si aceptan, recibirán una notificación confirmando la aceptación del intercambio.<br><br>
@@ -2937,7 +2792,7 @@ Enlace: [Wireflows en LucidChart 2](https://lucid.app/lucidchart/ded0e94e-a2ae-4
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true"  alt="mockups-appmobile">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true"  alt="mockups-appmobile">
 </div><br><br>
 
 
@@ -2947,43 +2802,43 @@ Enlace: [Mock-up de la App Móvil en Figma](https://www.figma.com/design/thDm6YV
 A continuación, mostramos los mock-ups de nuestra aplicación móvil.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true"  alt="mockups-1"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true"  alt="mockups-2"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true"  alt="mockups-3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true"  alt="mockups-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true"  alt="mockups-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true"  alt="mockups-3">
 </div><br>
 
 Pantallas para el inicio de sesión, registro y cambio de contraseña en la aplicación móvil, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true"  alt="mockups-4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true"  alt="mockups-4">
 </div><br>
 
 La pantalla de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true"  alt="mockups-5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true"  alt="mockups-5">
 </div><br>
 
 La pantalla de producto muestra una imagen destacada del artículo y la información del vendedor, incluyendo una foto, nombre y calificación. La descripción del producto y un botón para proceder con la acción deseada se encuentran al final. En la pantalla de selección de oferta, se presenta un área para indicar lo que se ofrece a cambio, con una imagen del artículo y un botón para añadir la oferta. La pantalla de confirmación muestra las opciones de intercambio con imágenes de los productos y una flecha que las conecta, junto con un botón para finalizar el proceso. La última pantalla es una ventana emergente que confirma el envío de la oferta, con un botón para regresar. Todas las pantallas mantienen un diseño uniforme con una paleta de colores en amarillo y blanco, tipografía clara y un estilo moderno que prioriza la usabilidad y la experiencia del usuario.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true"  alt="mockups-6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true"  alt="mockups-6">
 </div><br>
 
 En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true"  alt="mockups-7">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true"  alt="mockups-7">
 </div><br>
 
 Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true"  alt="mockups-8"><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true"  alt="mockups-9">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true"  alt="mockups-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true"  alt="mockups-9">
 </div><br>
 
 La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo. En la parte superior, se muestra una foto circular del usuario, seguida de su nombre y calificación con estrellas. Debajo, se encuentran opciones para editar el perfil, revisar favoritos, ver reseñas y explorar planes de suscripción, con texto negro sobre un fondo blanco. Al final, hay un botón para cerrar sesión. La pantalla de edición de perfil conserva la foto circular y ofrece campos de texto claros para modificar la información personal. La sección de favoritos exhibe tarjetas de productos con imágenes, títulos y precios destacados. La pantalla de reseñas presenta calificaciones con estrellas amarillas y comentarios de usuarios. Finalmente, la pantalla de suscripción detalla los planes disponibles con precios y beneficios en un formato de lista fácil de leer. Todas las pantallas comparten una barra de estado negra en la parte superior y una navegación coherente con flechas de retorno, utilizando una paleta de colores en blanco y negro para una experiencia de usuario uniforme y moderna.<br><br>
@@ -2995,7 +2850,7 @@ A continuación, se presentan los diagramas de flujo de usuarios relacionados co
 **User Goal 1:** Como usuario, quiero ingresar a la aplicación móvil utilizando una cuenta.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.PNG?raw=true" alt="userflow 1">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.PNG?raw=true" alt="userflow 1">
 </div><br>
 
 El usuario abre la aplicación móvil. Se le presenta una pantalla para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si el inicio de sesión es exitoso, puede acceder a todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es dirigido a la pantalla de inicio de sesión.<br><br>
@@ -3004,7 +2859,7 @@ El usuario abre la aplicación móvil. Se le presenta una pantalla para iniciar 
 **User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.PNG?raw=true" alt="userflow 2">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.PNG?raw=true" alt="userflow 2">
 </div><br>
 
 El usuario se encuentra en la pantalla de inicio de la aplicación. Aquí puede visualizar los objetos publicados por otros usuarios. Al seleccionar un objeto, se abre una pantalla con detalles completos sobre la publicación. También puede explorar diferentes categorías de publicaciones desde la pantalla de inicio.<br><br>
@@ -3014,7 +2869,7 @@ El usuario se encuentra en la pantalla de inicio de la aplicación. Aquí puede 
 **User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="userflow 3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="userflow 3">
 </div><br><br>
 
 Desde la pantalla de Mis Artículos, el usuario selecciona la opción de publicar. Es dirigido a una pantalla donde puede crear una nueva publicación. Después de completar los detalles necesarios y confirmar la publicación, recibe un mensaje de confirmación y su publicación se muestra a todos los usuarios.<br><br>
@@ -3022,7 +2877,7 @@ Desde la pantalla de Mis Artículos, el usuario selecciona la opción de publica
 **User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.PNG?raw=true" alt="userflow 4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.PNG?raw=true" alt="userflow 4">
 </div><br><br>
 
 Al visualizar una publicación, el usuario presiona el botón "Intercambiar". Se le muestra una ventana con sus propios objetos publicados, y puede seleccionar uno para proponer un intercambio. Recibe un mensaje de agradecimiento por parte de la aplicación.<br><br>
@@ -3030,7 +2885,7 @@ Al visualizar una publicación, el usuario presiona el botón "Intercambiar". Se
 **User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.PNG?raw=true" alt="userflow 5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.PNG?raw=true" alt="userflow 5">
 </div><br><br>
 
 El usuario accede a las ofertas Recibidas desde la barra navegadora, donde selecciona Mis Intercambios, en esta sección encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
@@ -3039,7 +2894,7 @@ El usuario accede a las ofertas Recibidas desde la barra navegadora, donde selec
 **User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.PNG?raw=true" alt="userflow 6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.PNG?raw=true" alt="userflow 6">
 </div><br><br>
 
 Desde la pantalla de inicio, el usuario accede a la sección de donaciones. Aquí puede ver una lista de todas las ONGs disponibles. Al seleccionar una ONG, se abre una pantalla con información detallada sobre la misma.<br><br>
@@ -3048,7 +2903,7 @@ Desde la pantalla de inicio, el usuario accede a la sección de donaciones. Aqu�
 **User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.PNG?raw=true" alt="userflow 7">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.PNG?raw=true" alt="userflow 7">
 </div><br><br>
 
 Mientras visualiza una publicación, el usuario puede acceder al perfil del usuario que la publicó para ver más información sobre él en una pantalla dedicada.<br><br>
@@ -3057,7 +2912,7 @@ Mientras visualiza una publicación, el usuario puede acceder al perfil del usua
 **User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.PNG?raw=true" alt="userflow 8">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.PNG?raw=true" alt="userflow 8">
 </div><br><br>
 
 Desde la pantalla de Mi Perfil, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago integrada en la aplicación. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
@@ -3066,7 +2921,7 @@ Desde la pantalla de Mi Perfil, el usuario accede a la sección de membresías y
 **User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.PNG?raw=true" alt="userflow 9">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.PNG?raw=true" alt="userflow 9">
 </div><br><br>
 
 Desde la pantalla de inicio, el usuario accede a la sección "Mis artículos", donde puede ver todas sus publicaciones. Al tocar el menú de opciones (tres puntos) en cada artículo, puede elegir entre editar o eliminar la publicación. Al seleccionar "Eliminar", se le solicita confirmación antes de proceder. Si elige "Editar", se abre un formulario que permite modificar la información del artículo.<br><br>
@@ -3076,7 +2931,7 @@ Desde la pantalla de inicio, el usuario accede a la sección "Mis artículos", d
 **User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="userflow 10">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="userflow 10">
 </div><br><br>
 
 Desde la pantalla de inicio, el usuario accede a "Mi perfil" y selecciona la opción "Editar perfil". Aquí podrá cambiar su foto de perfil, datos personales o contraseña.<br><br>
@@ -3095,7 +2950,7 @@ Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-4
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
 </div><br><br>
 
 
@@ -3112,7 +2967,7 @@ Enlace: [Video Prototype de la App Móvil](https://upcedupe-my.sharepoint.com/:v
 Tiempo: 0:12
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
 </div><br>
 
 
@@ -3121,7 +2976,7 @@ Tiempo: 0:12
 Tiempo: 1:43
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
 </div><br>
 
 
@@ -3130,7 +2985,7 @@ Tiempo: 1:43
 Tiempo: 3:09
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
 </div><br><br>
 
 
@@ -3139,7 +2994,7 @@ Tiempo: 3:09
 Tiempo: 4:01
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
 </div><br><br>
 
 **User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
@@ -3147,7 +3002,7 @@ Tiempo: 4:01
 Tiempo: 4:51
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
 </div><br><br>
 
 
@@ -3156,7 +3011,7 @@ Tiempo: 4:51
 Tiempo: 6:21
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
 </div><br><br>
 
 
@@ -3166,7 +3021,7 @@ Tiempo: 6:21
   Tiempo: 7:01
 
   <div align="center">
-      <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
+      <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
   </div><br><br>
 
 
@@ -3176,7 +3031,7 @@ Tiempo: 6:21
 Tiempo: 7:27
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
 </div><br><br>
 
 
@@ -3187,7 +3042,7 @@ Tiempo: 7:27
 Tiempo: 8:17
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
 </div><br><br>
 
 
@@ -3197,7 +3052,7 @@ Tiempo: 8:17
 Tiempo: 8:56
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
 </div><br><br>
 
 ### 4.5.2. iOS Mobile Applications Prototyping
@@ -3205,7 +3060,7 @@ Tiempo: 8:56
 A continuación, se presenta el prototipo de la aplicación desarrollado para la plataforma **iOS**, basado en los mockups previamente diseñados y documentados. Este prototipo nos permite visualizar algunos de los flujos principales que se implementarán en el desarrollo nativo de iOS.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
 </div><br><br>
 
 Enlace: [Prototype de la App iOS en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=2072-8443&t=5bRt26YwwJvCmtfr-1)<br><br>
@@ -3218,70 +3073,70 @@ Enlace: [Video del Prototipo para iOS](https://upcedupe-my.sharepoint.com/:v:/g/
 Tiempo: 0:12
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
 </div><br>
 
 **User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
 Tiempo: 1:43
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
 </div><br>
 
 **User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
 Tiempo: 3:09
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
 </div><br><br>
 
 **User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
 Tiempo: 4:01
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
 </div><br><br>
 
 **User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptarla o rechazarla.<br><br>
 Tiempo: 4:51
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
 </div><br><br>
 
 **User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
 Tiempo: 6:21
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
 </div><br><br>
 
 **User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
 Tiempo: 7:01
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
 </div><br><br>
 
 **User Goal 8:** Como usuario, quiero tener la opción de pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
 Tiempo: 7:27
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
 </div><br><br>
 
 **User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
 Tiempo: 8:17
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
 </div><br><br>
 
 **User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
 Tiempo: 8:56
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
 </div><br><br>
 
 
@@ -3707,7 +3562,7 @@ En esta sección emplearemos el modelo C4 para crear la estructura de software, 
 Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, un Servicio de Pagos, y las ONG’s.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Contexto.png?raw=true" width="600px" alt="diagram context">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Contexto.png?raw=true" width="600px" alt="diagram context">
 </div><br>
 
 Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto)<br>
@@ -3718,7 +3573,7 @@ Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/9493
 En este diagrama de contenedores mostramos la arquitectura de CambiaZo, en la cual hemos identificado diferentes contenedores. Además se logra ver la interacción que tienen y cómo se conectan con los sistemas externos.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Contenedores.png?raw=true" width="600px" alt="diagram container">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Contenedores.png?raw=true" width="600px" alt="diagram container">
 </div><br>
 
 Enlace: [Diagrama de Contenedores en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores)<br><br>
@@ -3731,7 +3586,7 @@ En estos diagramas de componentes mostramos la arquitectura de las principales f
 **Componente Gestión de Usuarios**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-001.png?raw=true" width="600px" alt="diagram component 1">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-001.png?raw=true" width="600px" alt="diagram component 1">
 </div><br>
 
 Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-001)<br><br>
@@ -3739,7 +3594,7 @@ Enlace: [Diagrama de Componentes 1 en Structurizr](https://structurizr.com/share
 **Componente Intercambios/Trueques**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png?raw=true" width="600px" alt="diagram component 2">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png?raw=true" width="600px" alt="diagram component 2">
 </div><br>
 
 Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-002)<br><br>
@@ -3747,7 +3602,7 @@ Enlace: [Diagrama de Componentes 2 en Structurizr](https://structurizr.com/share
 **Componente Configuración y Ajustes**
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-003.png?raw=true" width="600px" alt="diagram component 3">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-003.png?raw=true" width="600px" alt="diagram component 3">
 </div><br>
 
 Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-003)<br><br>
@@ -3755,7 +3610,7 @@ Enlace: [Diagrama de Componentes 3 en Structurizr](https://structurizr.com/share
 
 **Componente Donaciones**
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-004.png?raw=true" width="600px" alt="diagram component 4">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-004.png?raw=true" width="600px" alt="diagram component 4">
 </div><br>
 
 Enlace: [Diagrama de Componentes 4 en Structurizr](https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Component-004)<br><br>
@@ -3769,7 +3624,7 @@ En la sección de Software Object-Oriented Design se exploran aspectos clave com
 Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/class-diagram.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/class-diagram.png?raw=true">
 </div><br>
 
 Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d7c7576a-837e-4e4b-86dc-ae903f4fdd40/edit?viewport_loc=-2282%2C-533%2C3096%2C1287%2C0_0&invitationId=inv_b3057c2c-0d68-4932-988f-920599058855)<br><br>
@@ -3888,7 +3743,7 @@ La relación entre usuarios y productos se maneja a través de la tabla reseñas
 Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/database-diagram.png?raw=true">
 </div><br>
 
 
@@ -3928,7 +3783,7 @@ En esta sección se detalla la configuración del entorno de desarrollo utilizad
 
 + **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
 
-  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br> https://github.com/TechZo-CC238-SW63 <br><br> 
+  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br> https://github.com/TechZo-1ASI0732-4453 <br><br> 
 
   + **Java:** Lenguaje de programación orientado a objetos, ampliamente utilizado para el desarrollo de aplicaciones robustas y escalables. Será el lenguaje principal para la implementación del backend, asegurando compatibilidad y rendimiento en nuestra aplicación móvil.<br>https://www.oracle.com/java/ <br><br>
 
@@ -3960,16 +3815,16 @@ En cuanto a nuestros Acceptance Test, hemos creado una nueva rama “backend/fea
 Para el repositorio del backend, hemos establecido ramas “feature/[TS a desarrollar]” para cada nueva historia técnica que deseamos implementar. Este enfoque modular y organizado asegura un desarrollo más eficiente y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una historia técnica, lo que facilita el control y seguimiento del progreso del proyecto.
 
 
-Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
+Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-backend.png?raw=true"  alt="Repositorio backend">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-backend.png?raw=true"  alt="Repositorio backend">
 </div><br>
 
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test  <br><br> 
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test  <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-acceptense-test.png?raw=true" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Source-Code-Management/repositorio-acceptense-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 ### 4.1.3 Source Code Style Guide & Conventions
@@ -4167,19 +4022,19 @@ Para desplegar nuestro backend hemos optado por usar Heroku, el cual brinda la p
 **1.  Ingresamos a Microsoft Azure, Creamos un servidor  y un Servicio Web**
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="backend deploy"><br><br>
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="backend deploy">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="backend deploy"><br><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="backend deploy">
 </div><br><br>
 
 **2.  Vinculamos nuestro repositorio del back-end con el Servicio creado en Azure a través de la extensión Github Actions y deployamos**
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend deploy">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend deploy">
 </div><br><br>
 
 **3.  Finalmente, tendremos el back-end deployado**
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
 </div><br><br>
 
 
@@ -4250,7 +4105,7 @@ El objetivo de este primer sprint es desarrollar una versión inicial de del bac
 Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/66f1f37d5cabf35cced3111a/ATTI0ee955ca28cdc5f5f929429cd25a04b914FF704C/cambiazo)<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Sprint-Planning1/Sprint1Trello.png?raw=true" alt="sprint">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Sprint-Planning1/Sprint1Trello.png?raw=true" alt="sprint">
 </div><br><br>
 
 <table>
@@ -4379,13 +4234,13 @@ Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoi
 Enlace al Swagger: [Cambiazo Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-4.png?raw=true" alt="backend" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-4.png?raw=true" alt="backend" >
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-5.png?raw=true" alt="backend" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-5.png?raw=true" alt="backend" >
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true" alt="backend" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-6.png?raw=true" alt="backend" >
 
 </div>
 
@@ -4405,11 +4260,11 @@ Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sp
 Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Backend y otro para los Acceptance Test de nuestra aplicación móvil.
 
   <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-7.png?raw=true">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-7.png?raw=true">
   </div><br><br>
 
   <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-8.png?raw=true">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-8.png?raw=true">
   </div><br><br>
 
 En ambos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
@@ -4417,7 +4272,7 @@ En ambos repositorios hemos adoptado la metodología GitFlow para gestionar rama
 Para ello, en el repositorio del backend hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las cuales implementamos los endpoints y métodos según los requerimientos que se evidencian en cada historia técnica.<br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-branches.png?raw=true" alt="branches">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-branches.png?raw=true" alt="branches">
   </div><br><br>
 
 <div align="center">
@@ -4436,18 +4291,18 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 En el repositorio de “Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, realizmos el merge hacia la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-network.png?raw=true">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-network.png?raw=true">
   </div><br>
 
 Finalmente utilizamos el App Service de Azure, en el cual vinculamos nuestra cuenta de GitHub y lo configuramos para que cada vez que se realice una modificación se actualice automáticamente.<br>
 Link: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/ <br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="bakend" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="bakend" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="bakend" ><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="bakend" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend" >
   </div><br><br>
 
 
@@ -4473,7 +4328,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
   + Backend
           <div align="center">
-        <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Insights/insights.PNG?raw=true" alt="contributor-evidence.">
+        <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Insights/insights.PNG?raw=true" alt="contributor-evidence.">
         </div>
 
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo del Backend.
@@ -4521,7 +4376,7 @@ Esta sección se enfoca en la planificación, organización, coordinación y con
 
 + **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
 
-  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. Facilita la colaboración y el seguimiento de cambios en el código.<br>https://github.com/TechZo-CC238-SW63<br><br> 
+  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. Facilita la colaboración y el seguimiento de cambios en el código.<br>https://github.com/TechZo-1ASI0732-4453<br><br> 
   
   +  **Kotlin:** Lenguaje de programación moderno y conciso utilizado principalmente para el desarrollo de aplicaciones móviles. Su interoperabilidad con Java y sus características avanzadas permiten una programación más eficiente y productiva.<br>https://kotlinlang.org/<br><br> 
   
@@ -4582,19 +4437,19 @@ En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/featur
 Además, para los repositorios de la landing page, aplicación web y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
 
 
-Repositorio GitHub de la Landing Page: https://github.com/TechZo-CC238-SW63/Landing-Page <br>
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0732-4453/Landing-Page <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
-Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-CC238-SW63/CambiazoApp <br>
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0732-4453/CambiazoApp <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-CC238-SW63/Acceptance-Test <br>
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
@@ -4613,7 +4468,7 @@ Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
 </div><br>
 
-Repositorio GitHub del backend: https://github.com/TechZo-CC238-SW63/Backend <br><br> 
+Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
@@ -5099,23 +4954,23 @@ En esta sección mostraremos los pasos que hemos realizado para poder desplegar 
 Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
 
 **1. Ingresamos a la página web de Netlify**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
 <br>
 
 **2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
 <br>
 
 **3. Seleccionamos el repositorio que queremos emplear**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
 <br>
 
 **4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
 <br>
 
 **5. Finalmente la Landing Page estaría disponible.**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
 
 Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
 
@@ -5313,16 +5168,24 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
 ### 5.2.3 Implemented Frontend-Web Application Evidence
 Evidencias visuales o funcionales que muestren el desarrollo del frontend web, como capturas, gifs, o enlaces.
 
-### 5.2.4 Implemented Native-Mobile Application Evidence
+
+### 5.2.4 Acuerdo de Servicio - SaaS
+Esta sección establece los derechos, obligaciones y restricciones aplicables a los usuarios
+de la plataforma, garantizando transparencia en el uso del servicio SaaS. Debe integrarse
+públicamente en la sección "Terms and Conditions" del website, cumpliendo con los
+criterios de claridad, accesibilidad y cumplimiento normativo.
+
+
+### 5.2.5 Implemented Native-Mobile Application Evidence
 Pruebas de implementación de la app móvil nativa desarrollada, con imágenes, videos o enlaces relevantes.
 
-### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6 Implemented RESTful API and/or Serverless Backend Evidence
 Evidencias del desarrollo del backend, ya sea con APIs RESTful o arquitecturas sin servidor.
 
-### 5.2.6 RESTful API documentation
+### 5.2.7 RESTful API documentation
 Documentación generada (OpenAPI/Swagger/Postman) que describe los endpoints del backend y su uso.
 
-### 5.2.7 Team Collaboration Insights
+### 5.2.8 Team Collaboration Insights
 Resumen de cómo el equipo trabajó colaborativamente, incluyendo uso de herramientas, reuniones, distribución de tareas y mejoras progresivas.
 
 ## 5.3 Video About-the-Product
@@ -5330,7 +5193,7 @@ Resumen de cómo el equipo trabajó colaborativamente, incluyendo uso de herrami
 Este video es una parte fundamental de nuestra estrategia para dar a conocer nuestra aplicación. Está dirigido a los visitantes de nuestra Landing Page que desean obtener información detallada y concisa sobre lo que ofrecemos, es por esto que usamos un lenguaje formal. En él, presentamos las principales características de la aplicación y como este puede ayudarte en tu día a día.
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
  </div>
 
 <br>
@@ -5360,7 +5223,7 @@ En resumen, estos capítulos han permitido establecer una base sólida para nues
 ## Video App Validation
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/app-validation.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/app-validation.png?raw=true">
  </div>
 
 
@@ -5369,7 +5232,7 @@ Enlace: [App Validation](https://youtu.be/DRN3mUdxJf8?si=NFZm-uI7STHyoLTz)
 ## Video About the Product
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
  </div>
 
 
@@ -5379,7 +5242,7 @@ Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
 ## Video About the Team
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-team.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-team.png?raw=true">
  </div>
 
 
@@ -5425,32 +5288,32 @@ Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
 
 + Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)<br><br>
 
-+ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-CC238-SW63)<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0732-4453)<br><br>
 
-+ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/report)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0732-4453/report)<br><br>
 
-+ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Backend)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0732-4453/Backend)<br><br>
 
-+ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Landing-Page)<br><br>
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0732-4453/Landing-Page)<br><br>
 
-+ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/CambiazoApp)<br><br>
++ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/TechZo-1ASI0732-4453/CambiazoApp)<br><br>
 
-+ Repositorio GitHub de los Acceptance Test: [Ver Repositorio](https://github.com/TechZo-CC238-SW63/Acceptance-Test)<br><br>
++ Repositorio GitHub de los Acceptance Test: [Ver Repositorio](https://github.com/TechZo-1ASI0732-4453/Acceptance-Test)<br><br>
 
 ## Needfinding Interviews
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/sebastianlobato_interview.png?raw=true">
  </div>
 
 
-Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz)
+Enlace: [Needfinding]( )
 
 
 ## Prototype Navigation
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/video-prototype.PNG?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/video-prototype.PNG?raw=true">
  </div>
 
 
@@ -5460,7 +5323,7 @@ Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal
 ## Execution Evidence for Sprint 1 - Backend
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-sprint-1.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-sprint-1.png?raw=true">
  </div>
 
 
@@ -5470,7 +5333,7 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 ## Execution Evidence for Sprint 1 - Product
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/product-sprint-1.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/product-sprint-1.png?raw=true">
  </div>
 
 
@@ -5480,7 +5343,7 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 ## Video de Exposición TP1
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tp1.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tp1.png?raw=true">
  </div>
 
 
@@ -5491,7 +5354,7 @@ Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/pers
 ## Execution Evidence for Sprint 2 - Product
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/product-sprint-2.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/product-sprint-2.png?raw=true">
  </div>
 
 
@@ -5501,7 +5364,7 @@ Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:
 ## Execution Evidence for Sprint 3 - Product
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/product-sprint-3.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/product-sprint-3.png?raw=true">
  </div>
 
 
@@ -5511,7 +5374,7 @@ Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:
 ## Execution Evidence for Sprint 4 - Product
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/product-sprint-4.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/product-sprint-4.png?raw=true">
  </div>
 
 
@@ -5521,7 +5384,7 @@ Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:
 ## Video de Exposición TF1
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/expo-tf1.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/expo-tf1.png?raw=true">
  </div>
 
 

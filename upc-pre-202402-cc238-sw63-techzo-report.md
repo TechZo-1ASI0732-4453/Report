@@ -4682,21 +4682,19 @@ Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
 
 ## Conclusiones y Recomendaciones
 
-# Proyecto de Startup Aplicado al Curso de Diseño de Experimentos en Ingeniería de Software
-
-## Capítulo I – Introducción
+### Capítulo I – Introducción
 
 Iniciamos nuestro proyecto con la formulación del experimento central: validar una hipótesis relacionada con una necesidad del mercado dentro del contexto de la Ingeniería de Software. Utilizamos el marco **Lean UX** como metodología estructurada para definir el problema de investigación, generando suposiciones basadas en observaciones previas y estableciendo hipótesis que guiaron el diseño experimental. El uso del *Lean UX Canvas* permitió al equipo definir variables clave, identificar factores y condiciones del entorno, y plantear objetivos de validación enfocados. Este enfoque estructurado facilitó la identificación de problemas reales del usuario, alineando el diseño del experimento con las necesidades del mercado y los objetivos de nuestra startup.
 
-## Capítulo II – Requirements Elicitation & Analysis
+### Capítulo II – Requirements Elicitation & Analysis
 
 En esta fase, ejecutamos un estudio cualitativo de necesidad utilizando **entrevistas semiestructuradas** y **observación directa**, métodos válidos dentro del diseño de experimentos exploratorios. El análisis competitivo complementó los datos, permitiéndonos identificar **variables independientes** (diferenciadores de mercado) y **dependientes** (percepción del usuario). Estos datos sirvieron para refinar nuestras hipótesis y establecer un plan experimental más sólido. La recolección ética de datos y la interpretación responsable de los mismos aseguraron la validez del experimento y la relevancia de los factores considerados, alineando nuestras decisiones con el impacto social y profesional de la ingeniería de software.
 
-## Capítulo III – Requirements Specification
+### Capítulo III – Requirements Specification
 
 Definimos la arquitectura del producto como parte del diseño experimental de la intervención tecnológica. Se diseñaron **interfaces controladas** (landing page y app móvil) y se estableció una **arquitectura de software modular** para facilitar pruebas por componente e integración. La estructura basada en el dominio permitió establecer unidades de prueba aisladas, facilitando la medición del rendimiento, usabilidad y escalabilidad como variables dependientes. Este diseño controlado del entorno experimental garantiza **replicabilidad**, **trazabilidad de resultados** y **validez interna** en el análisis de la solución propuesta.
 
-## Capítulo IV – Product Design
+### Capítulo IV – Product Design
 
 Durante esta etapa, se ejecutaron **sprints como ciclos de experimentación iterativa**, aplicando principios de diseño de experimentos en entornos controlados (desarrollo y staging). Cada sprint incluyó tareas definidas como **tratamientos** (features) con criterios de aceptación claramente establecidos (métricas de éxito). Se aplicaron pruebas automatizadas y evaluaciones funcionales, estableciendo **evidencia empírica** para la validación de nuestras hipótesis. La trazabilidad del código y la gestión de versiones aseguraron la consistencia de las condiciones del experimento, permitiendo juicios informados sobre el impacto de cada intervención.
 
@@ -4704,13 +4702,13 @@ Durante esta etapa, se ejecutaron **sprints como ciclos de experimentación iter
 
 Se desplegaron **versiones mínimas funcionales (MVP)** de la app y la landing page, evaluando su aceptación y funcionalidad mediante **métricas cuantitativas y cualitativas**: tasa de conversión, registros exitosos, tiempo de respuesta y feedback de usuarios. Este conjunto de datos constituyó la evidencia principal para validar (o refutar) las hipótesis del capítulo inicial. La interpretación responsable de estos resultados, con un enfoque ético y social, permitió **ajustes experimentales** y mejoras incrementales en el diseño. El control de variables externas y la consistencia del entorno de pruebas fortalecieron la **validez del experimento**, consolidando aprendizajes aplicables a contextos reales de la ingeniería de software.
 
-## Conclusión
+### Conclusión
 
 La estructura metodológica del proyecto ha estado guiada por principios de **diseño experimental**, integrando hipótesis, validación empírica y análisis reflexivo, asegurando resultados replicables y relevantes. Este enfoque permitió al equipo emitir **juicios técnicos y éticos fundamentados**, reconociendo el impacto de nuestras decisiones en entornos sociales, económicos y tecnológicos diversos. Cada etapa del proyecto fue una oportunidad para ejercitar la **capacidad crítica, la responsabilidad profesional** y la **conciencia del entorno**, logrando así una solución **técnicamente sólida y socialmente pertinente**, en línea con el **Student Outcome 4 del marco ABET**.
 
 
 
-## Video App Validation
+### Video App Validation
 
   <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/app-validation.png?raw=true">

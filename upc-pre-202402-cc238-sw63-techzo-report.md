@@ -42,43 +42,43 @@
 # Registro de Versiones
 <br>
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|1\.0|15/08/24|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
-|1\.1|15/08/24|Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
-|1\.1.1|19/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Solution Profile|
-|1\.1.2|19/08/24|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano </p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
-|1\.1.3|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
-|1\.2|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
-|1\.2.1|19/08/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó contenido relacionado con las Entrevistas|
-|1\.2.2|<p>21/08/24</p><p> </p>|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia |Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
-|1\.2.3|22/08/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
-|1\.2.4|22/08/24|Jeremy Joel Quispe Andia |Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
-|1\.2.5|24/08/24|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el As-is Scenario Mapping|
-|1\.2.6|24/08/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al To-be|
-|1\.2.7|25/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Epics, User Stories y Technical Stories|
-|1\.2.8|25/04/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Impact Mapping|
-|1\.2.9|25/04/24|<p>Mathias Andre Mendoza Carrion</p>|Se agregó contenido relacionado con el Product Backlog|
-|1\.3|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregaron los Objetivos SMART|
-|1\.4|26/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregaron las conclusiones y la bibliografía|
-|1\.5|26/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agregó el Student Outcome y la Tabla de Contenido|
-|2\.0|6/09/24|Jeremy Joel Quispe Andia e Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
-|2\.1|6/09/24|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con la Information Architecture|
-|2\.1.1|7/09/24|Ian Haziel Donato Santisteban Palomino |Se comenzó con Mobile Applications UX/UI Design|
-|2\.1.2|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Domain-Driven Software Architecture.|
-|2\.1.3|8/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Software Object-Oriented Design|
-|2\.1.4|9/09/24|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se comenzó con Landing Page UI Design.|
-|2\.1.5|13/09/24|Ian Haziel Donato Santisteban Palomino|Se terminó de agregar Mobile Applications UX/UI Design |
-|2\.1.6|13/09/24|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se terminó de agregar Landing Page UI Design.|
-|2\.2|13/09/24|Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Software Configuration Management.|
-|2\.2.1|14/09/24|Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Sprint Planning 1|
-|2\.2.2|14/09/24|Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Sprint Backlog|
-|2\.2.3|14/09/24|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion|Se agrego contenido relacionado al Development Evidence for Sprint Review. Y Testing Suite Evidence for Sprint Review|
-|2\.2.4|15/09/24|Joseph Alexis Huamani Mandujano y  Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review|
-|2\.2.5|15/09/24|Ian Haziel Donato Santisteban y Jeremy Joel Quispe Andia|Se agrego contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
-|2\.3|15/09/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia y Joseph Alexis Huamani Mandujano |Se agrego contenido relacionado al Student Outcome, Conclusiones y Anexo|
-|3\.0|23/09/2024|Ian Haziel Donato Santisteban Palomino |Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation|
-|4\.8|21/11/2024|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con Conclusiones y Anexos.|
+|1.0|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se agregó la estructura inicial del proyecto.|
+|1.1|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
+|1.1.1|20/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Solution Profile|
+|1.1.2|20/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1.1.3|20/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
+|1.2|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
+|1.2.1|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con las Entrevistas|
+|1.2.2|21/04/25|Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1.2.3|22/04/25|Joseph Alexis Huamani Mandujano, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con los User Persona y User Task Matrix|
+|1.2.4|22/04/25|Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
+|1.2.5|22/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el As-is Scenario Mapping|
+|1.2.6|23/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al To-be|
+|1.2.7|23/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los Epics, User Stories y Technical Stories|
+|1.2.8|23/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Impact Mapping|
+|1.2.9|23/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el Product Backlog|
+|1.3|24/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los Objetivos SMART|
+|1.4|24/04/25|Joseph Alexis Huamani Mandujano, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregaron las conclusiones y la bibliografía|
+|1.5|24/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó el Student Outcome y la Tabla de Contenido|
+|2.0|24/04/25|Jeremy Joel Quispe Andia, Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
+|2.1|24/04/25|Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con la Information Architecture|
+|2.1.1|24/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se comenzó con Mobile Applications UX/UI Design|
+|2.1.2|24/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Domain-Driven Software Architecture.|
+|2.1.3|24/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Object-Oriented Design|
+|2.1.4|25/04/25|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se comenzó con Landing Page UI Design.|
+|2.1.5|25/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se terminó de agregar Mobile Applications UX/UI Design |
+|2.1.6|25/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se terminó de agregar Landing Page UI Design.|
+|2.2|25/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Configuration Management.|
+|2.2.1|25/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Sprint Planning 1|
+|2.2.2|25/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Sprint Backlog|
+|2.2.3|25/04/25|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review|
+|2.2.4|25/04/25|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review|
+|2.2.5|25/04/25|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
+|2.3|25/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Student Outcome, Conclusiones y Anexo|
+|3.0|25/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation|
+|4.8|25/04/25|Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Conclusiones y Anexos.|
 
 <br><br>
 

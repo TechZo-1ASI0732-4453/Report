@@ -17,7 +17,7 @@
 ## Informe del Trabajo TB1
 ### Nombre del Startup: TechZo
 
-### Nombre del Producto: Aplicación Infórmática de Intercambioss de Productos Usados
+### Nombre del Producto: Aplicación Infórmática de Intercambios de Productos Usados
 ### Nombre Comercial: CambiaZo
 #### Relación de integrantes 
 | Integrante                  | Código         |

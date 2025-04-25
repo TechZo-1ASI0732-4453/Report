@@ -4969,15 +4969,16 @@ Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda
 <br>
 
 **3. Seleccionamos el repositorio que queremos emplear**
-<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.jpeg?raw=true"  alt="netlify"></div>
 <br>
 
 **4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
-<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.jpeg?raw=true"  alt="netlify"></div>
 <br>
 
+
 **5. Finalmente la Landing Page estaría disponible.**
-<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
+<div  align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="netlify" ></div><br>
 
 Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
 

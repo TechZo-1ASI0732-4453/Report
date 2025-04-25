@@ -190,7 +190,7 @@
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
-**ABET – EAC - Student Outcome 7**<br>
+**ABET – EAC - Student Outcome 4**<br>
 **Criterio:** La capacidad de reconocer responsabilidades éticas y profesionales en
 situaciones de ingeniería y hacer juicios informados, que deben considerar el
 impacto de las soluciones de ingeniería en contextos globales, económicos,
@@ -5141,13 +5141,16 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
 <br><br>
 
 ### 5.2.2 Implemented Landing Page Evidence
+Durante el Sprint 1, se completó y desplegó exitosamente la landing page del proyecto **CambiaZo**. Esta página presenta el modelo de negocio, integra una barra de navegación funcional, secciones informativas clave y un formulario de contacto operativo que permite a los usuarios dejar su información de manera efectiva.
 
-En el Sprint 1 se completó y desplegó exitosamente la landing page del proyecto. Esta incluye una barra de navegación funcional, las secciones previamente definidas y un formulario de contacto operativo que permite a los usuarios dejar su información. El sitio fue publicado correctamente y ya está accesible para los usuarios. Además, durante este proceso se implementó la metodología GitFlow, lo que permitió trabajar de forma organizada mediante ramas específicas para pruebas y actualizaciones sin afectar la rama principal del proyecto.
+El sitio fue desarrollado aplicando principios de *Responsive Web Design* para asegurar una experiencia de usuario óptima en dispositivos móviles, tabletas y computadoras de escritorio. Las pruebas de visualización en múltiples resoluciones confirmaron su correcto funcionamiento.
 
-A continuación, se presentan las imágenes de la landing page que muestran lo logrado en este Sprint 1:
+Asimismo, se implementó la metodología **GitFlow**, lo que permitió organizar eficientemente el trabajo del equipo mediante ramas específicas para desarrollo, pruebas y producción, asegurando la estabilidad de la rama principal.
 
+La landing page se encuentra publicada y accesible en el siguiente enlace:  
+🔗 [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
 
-Enlace: [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
+A continuación, se presentan las imágenes que evidencian los avances logrados durante este Sprint:
 
 <div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
@@ -5173,7 +5176,13 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
 
 
 ### 5.2.3 Implemented Frontend-Web Application Evidence
-Evidencias visuales o funcionales que muestren el desarrollo del frontend web, como capturas, gifs, o enlaces.
+Durante el Sprint 1, el enfoque del equipo se centró en la implementación y despliegue de la **Landing Page** y en los **servicios RESTful API** que conforman la capa backend de la solución. Por tal motivo, **no se realizó el desarrollo funcional del frontend de la aplicación web principal** en esta etapa.
+
+No obstante, se avanzó significativamente en el **prototipado de la interfaz de usuario** utilizando la herramienta **Figma**, lo que permitió definir la estructura visual, la distribución de los componentes y la navegación esperada dentro de la aplicación. Estos prototipos fueron presentados en una sección anterior del documento como parte de la planificación del producto.
+
+Gracias a este avance en el diseño, se encuentran sentadas las bases para iniciar el desarrollo del frontend en los próximos Sprints, asegurando coherencia entre la lógica de negocio implementada en la API y la experiencia de usuario planeada.
+
+Se estima que el desarrollo del **Frontend Web Application** comience en el **Sprint 2**, con la integración de funcionalidades clave como autenticación de usuarios, visualización de publicaciones y gestión de perfiles.
 
 
 ### 5.2.4 Acuerdo de Servicio - SaaS
@@ -5314,7 +5323,7 @@ Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
  </div>
 
 
-Enlace: [Needfinding]( )
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETvVZXVN-x9FkEDkb_E9cpUBbl0UYgt8J7QA3XiVn1SBPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IEi8AE)
 
 
 ## Prototype Navigation

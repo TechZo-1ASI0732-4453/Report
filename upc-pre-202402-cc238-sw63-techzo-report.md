@@ -4566,7 +4566,7 @@ El sitio fue desarrollado aplicando principios de *Responsive Web Design* para a
 Asimismo, se implementó la metodología **GitFlow**, lo que permitió organizar eficientemente el trabajo del equipo mediante ramas específicas para desarrollo, pruebas y producción, asegurando la estabilidad de la rama principal.
 
 La landing page se encuentra publicada y accesible en el siguiente enlace:  
-🔗 [Cambiazo Landing Page](https://cambiazo-website.netlify.app/)
+🔗 [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 
 A continuación, se presentan las imágenes que evidencian los avances logrados durante este Sprint:
 
@@ -4602,6 +4602,7 @@ Gracias a este avance en el diseño, se encuentran sentadas las bases para inici
 
 Se estima que el desarrollo del **Frontend Web Application** comience en el **Sprint 2**, con la integración de funcionalidades clave como autenticación de usuarios, visualización de publicaciones y gestión de perfiles.
 
+<br><br>
 
 ### 5.2.4 Acuerdo de Servicio - SaaS
 Con el objetivo de garantizar transparencia, protección del usuario y cumplimiento normativo, se ha definido un **Acuerdo de Servicio (SaaS)** que regula el uso de la plataforma **CambiaZo**, la cual ofrece un servicio digital diseñado para facilitar el intercambio y la donación de objetos a través de una aplicación móvil. Este servicio tiene como principal objetivo promover la economía circular y reducir el impacto ambiental mediante el fomento de la reutilización de productos.
@@ -4647,6 +4648,8 @@ Este acuerdo detalla los derechos, responsabilidades y restricciones aplicables 
 Este acuerdo forma parte esencial del entorno SaaS de **CambiaZo** y será accesible públicamente para su revisión y aceptación antes de utilizar la aplicación. Los usuarios deben aceptar los términos en su totalidad para poder acceder y utilizar las funcionalidades ofrecidas por la plataforma. 
 
 
+<br><br>
+
 ### 5.2.5 Implemented Native-Mobile Application Evidence
 Durante el Sprint 1, no se desarrolló aún la **aplicación móvil nativa** correspondiente a la solución. Sin embargo, se avanzó de manera significativa en el **prototipado de la app móvil** utilizando la herramienta **Figma**, lo cual permitió definir visualmente las pantallas principales, flujos de navegación, y componentes clave de la experiencia de usuario en dispositivos móviles.
 
@@ -4654,11 +4657,301 @@ El prototipo incluye vistas para el inicio de sesión, registro de usuarios, nav
 
 Estos prototipos han sido documentados y presentados previamente en una sección anterior, y constituyen la base para el desarrollo técnico que se iniciará en los próximos Sprints. Gracias a este trabajo previo, se espera que la implementación de la aplicación nativa se lleve a cabo de manera más ágil y alineada con los requerimientos del proyecto.
 
+<br><br>
+
 ### 5.2.6 Implemented RESTful API and/or Serverless Backend Evidence
-Evidencias del desarrollo del backend, ya sea con APIs RESTful o arquitecturas sin servidor.
+Durante el Sprint 1, se implementó y desplegó exitosamente el backend del proyecto **CambiaZo**, empleando una arquitectura RESTful basada en el framework Spring Boot. Esta solución constituye el núcleo tecnológico que soporta todos los procesos críticos del negocio digital, desde la autenticación de usuarios hasta la gestión completa de publicaciones, ofertas y suscripciones.
+
+El backend fue concebido desde su diseño con principios de **escalabilidad**, **seguridad** y **mantenibilidad**, asegurando una sólida interacción con la aplicación frontend y proporcionando acceso estructurado a los datos a través de una API RESTful. Además, todos los endpoints fueron documentados y puestos a prueba utilizando **Swagger UI** y **Postman** para garantizar la correcta exposición y consumo de los servicios.
+
+Asimismo, se aplicaron buenas prácticas en el desarrollo de servicios, como el patrón arquitectónico en tres capas (**Controller - Service - Repository**), autenticación segura mediante tokens **JWT**, cifrado de contraseñas, validación de datos y manejo global de excepciones.
+
+El backend se encuentra desplegado en **Microsoft Azure App Service**, asegurando alta disponibilidad, rendimiento y acceso remoto desde el frontend. Se conecta a una base de datos **MySQL Flexible Server**, también alojada en Azure, lo que permite una persistencia robusta y segura de la información.
+
+**Tecnologías y Arquitectura**
+- Lenguaje y Framework: **Java 17 con Spring Boot**
+- Base de Datos: **MySQL Flexible Server (Azure)**
+- Seguridad: **JWT** para autenticación
+- Documentación API: **Swagger (OpenAPI 3)**
+- Pruebas: **Postman** (manual), **JUnit** (unitarias)
+- Despliegue Cloud: **Microsoft Azure App Service**
+
+- **Arquitectura Lógica**
+  - **Controller Layer**: expone los endpoints y gestiona solicitudes HTTP
+  - **Service Layer**: contiene la lógica de negocio
+  - **Repository Layer**: se comunica con la base de datos mediante JPA
+
+<br><br>
+
+**Funcionalidades del Backend Implementadas**
+
+| **Entidad**            | **Método HTTP** | **Endpoint**                                      | **Descripción**                              | **Roles Permitidos**          |
+|------------------------|-----------------|--------------------------------------------------|----------------------------------------------|-------------------------------|
+| **Reviews**             | POST            | `/api/v2/reviews`                                | Crear una nueva reseña                       | Autenticado                   |
+|                        | GET             | `/api/v2/reviews/user-receptor/{userId}`         | Obtener reseñas por receptor de usuario      | Autenticado                   |
+|                        | GET             | `/api/v2/reviews/user-author/{userId}/exchange/{exchangeId}` | Obtener reseñas por autor y cambio           | Autenticado                   |
+|                        | GET             | `/api/v2/reviews/average-count/{userId}`         | Obtener promedio y cuenta de reseñas         | Autenticado                   |
+|                        | DELETE          | `/api/v2/reviews/delete/{reviewId}`              | Eliminar una reseña                          | Autenticado                   |
+| **Subscriptions**       | PUT             | `/api/v2/subscriptions/status/{subscriptionId}`  | Actualizar una suscripción                   | Autenticado                   |
+|                        | GET             | `/api/v2/subscriptions`                          | Obtener todas las suscripciones              | Autenticado                   |
+|                        | POST            | `/api/v2/subscriptions`                          | Crear una nueva suscripción                  | Autenticado                   |
+|                        | GET             | `/api/v2/subscriptions/{id}`                     | Obtener suscripción por ID                   | Autenticado                   |
+|                        | GET             | `/api/v2/subscriptions/user/{id}`                | Obtener suscripciones de un usuario          | Autenticado                   |
+| **Exchanges**           | PUT             | `/api/v2/exchanges/status/{exchangeId}`          | Actualizar el estado de un intercambio       | Autenticado                   |
+|                        | GET             | `/api/v2/exchanges`                              | Obtener todos los intercambios               | Autenticado                   |
+|                        | POST            | `/api/v2/exchanges`                              | Crear un nuevo intercambio                   | Autenticado                   |
+|                        | GET             | `/api/v2/exchanges/{exchangeId}`                 | Obtener intercambio por ID                   | Autenticado                   |
+|                        | GET             | `/api/v2/exchanges/userOwn/{userId}`             | Obtener intercambios propios de un usuario    | Autenticado                   |
+|                        | GET             | `/api/v2/exchanges/userChange/{userId}`          | Obtener intercambios realizados por un usuario | Autenticado                   |
+|                        | GET             | `/api/v2/exchanges/finished/{userId}`            | Obtener intercambios finalizados por usuario | Autenticado                   |
+|                        | DELETE          | `/api/v2/exchanges/delete/{exchangeId}`          | Eliminar un intercambio                      | Autenticado                   |
+| **Ongs**                | PUT             | `/api/v2/ongs/edit/{ongId}`                      | Actualizar ONG                               | Autenticado                   |
+|                        | GET             | `/api/v2/ongs`                                   | Obtener todas las ONGs                       | Autenticado                   |
+|                        | POST            | `/api/v2/ongs`                                   | Crear una nueva ONG                          | Autenticado                   |
+|                        | GET             | `/api/v2/ongs/{id}`                              | Obtener ONG por ID                           | Autenticado                   |
+|                        | GET             | `/api/v2/ongs/search/{letters}`                  | Buscar ONGs por letras                       | Autenticado                   |
+|                        | GET             | `/api/v2/ongs/category/{categoryId}`             | Obtener ONGs por categoría                   | Autenticado                   |
+|                        | DELETE          | `/api/v2/ongs/delete/{id}`                       | Eliminar una ONG                             | Autenticado                   |
+| **Account Number**      | POST            | `/api/v2/account-number`                         | Crear un nuevo número de cuenta              | Autenticado                   |
+|                        | GET             | `/api/v2/account-number/{id}`                    | Obtener número de cuenta por ID              | Autenticado                   |
+|                        | GET             | `/api/v2/account-number/ongs/{ongId}`            | Obtener todos los números de cuenta por ONG  | Autenticado                   |
+|                        | DELETE          | `/api/v2/account-number/delete/{id}`             | Eliminar número de cuenta                    | Autenticado                   |
+| **Favorite Products**   | POST            | `/api/v2/favorite-products`                      | Crear un nuevo producto favorito             | Autenticado                   |
+|                        | GET             | `/api/v2/favorite-products/{userId}`             | Obtener productos favoritos por usuario      | Autenticado                   |
+|                        | DELETE          | `/api/v2/favorite-products/delete/{userId}/{favoriteProductId}` | Eliminar un producto favorito de un usuario  | Autenticado                   |
+|                        | DELETE          | `/api/v2/favorite-products/delete/{favoriteProductId}` | Eliminar un producto favorito                | Autenticado                   |
+| **Projects**            | GET             | `/api/v2/projects`                               | Obtener todos los proyectos                  | Autenticado                   |
+|                        | POST            | `/api/v2/projects`                               | Crear un nuevo proyecto                      | Autenticado                   |
+|                        | GET             | `/api/v2/projects/{id}`                          | Obtener proyecto por ID                       | Autenticado                   |
+|                        | GET             | `/api/v2/projects/ongs/{ongId}`                  | Obtener proyectos por ID de ONG               | Autenticado                   |
+|                        | DELETE          | `/api/v2/projects/delete/{id}`                   | Eliminar un proyecto                         | Autenticado                   |
+| **Country**             | GET             | `/api/v2/countries`                              | Obtener todos los países                     | Autenticado                   |
+|                        | POST            | `/api/v2/countries`                              | Crear un nuevo país                          | Autenticado                   |
+|                        | GET             | `/api/v2/countries/{id}`                         | Obtener país por ID                          | Autenticado                   |
+| **Benefits**            | GET             | `/api/v2/benefits`                               | Obtener todos los beneficios                 | Autenticado                   |
+|                        | POST            | `/api/v2/benefits`                               | Crear un nuevo beneficio                     | Autenticado                   |
+|                        | GET             | `/api/v2/benefits/{id}`                          | Obtener beneficio por ID                     | Autenticado                   |
+| **Social Networks**     | GET             | `/api/v2/social-networks`                        | Obtener todas las redes sociales             | Autenticado                   |
+|                        | POST            | `/api/v2/social-networks`                        | Crear una nueva red social                   | Autenticado                   |
+|                        | GET             | `/api/v2/social-networks/{id}`                   | Obtener red social por ID                    | Autenticado                   |
+|                        | GET             | `/api/v2/social-networks/ongs/{id}`              | Obtener redes sociales por ONG               | Autenticado                   |
+|                        | DELETE          | `/api/v2/social-networks/delete/{id}`            | Eliminar red social por ID                   | Autenticado                   |
+| **Authentication**      | POST            | `/api/v2/authentication/sign-up`                 | Registrar un nuevo usuario                   | Público                       |
+|                        | POST            | `/api/v2/authentication/sign-in`                 | Iniciar sesión                               | Público                       |
+| **Plans**               | GET             | `/api/v2/plans`                                  | Obtener todos los planes                     | Autenticado                   |
+|                        | POST            | `/api/v2/plans`                                  | Crear un nuevo plan                          | Autenticado                   |
+|                        | GET             | `/api/v2/plans/{id}`                             | Obtener plan por ID                           | Autenticado                   |
+| **Product Category**    | GET             | `/api/v2/product-categories`                     | Obtener todas las categorías de productos    | Autenticado                   |
+|                        | POST            | `/api/v2/product-categories`                     | Crear una nueva categoría de productos       | Autenticado                   |
+|                        | GET             | `/api/v2/product-categories/{id}`                | Obtener categoría de producto por ID         | Autenticado                   |
+| **Products**            | PUT             | `/api/v2/products/edit/{productId}`              | Actualizar producto                          | Autenticado                   |
+|                        | GET             | `/api/v2/products`                               | Obtener todos los productos                  | Autenticado                   |
+|                        | POST            | `/api/v2/products`                               | Crear un nuevo producto                       | Autenticado                   |
+|                        | GET             | `/api/v2/products/{id}`                          | Obtener producto por ID                      | Autenticado                   |
+|                        | GET             | `/api/v2/products/user/{id}`                     | Obtener productos por usuario                | Autenticado                   |
+|                        | GET             | `/api/v2/products/product-category/{id}`         | Obtener productos por categoría              | Autenticado                   |
+|                        | DELETE          | `/api/v2/products/delete/{productId}`            | Eliminar un producto                          | Autenticado                   |
+| **Districts**           | GET             | `/api/v2/districts`                              | Obtener todos los distritos                  | Autenticado                   |
+|                        | POST            | `/api/v2/districts`                              | Crear un nuevo distrito                       | Autenticado                   |
+|                        | GET             | `/api/v2/districts/{id}`                         | Obtener distrito por ID                      | Autenticado                   |
+| **Roles**               | GET             | `/api/v2/roles`                                  | Obtener todos los roles                      | Autenticado                   |
+| **Users**               | PUT             | `/api/v2/users/edit/{userId}`                    | Editar usuario                               | Autenticado                   |
+|                        | PUT             | `/api/v2/users/edit/profile/{userId}`             | Editar perfil de usuario                     | Autenticado                   |
+|                        | PUT             | `/api/v2/users/edit/password/{username}`         | Editar contraseña                            | Autenticado                   |
+|                        | GET             | `/api/v2/users`                                  | Obtener todos los usuarios                   | Autenticado                   |
+|                        | GET             | `/api/v2/users/{userId}`                         | Obtener usuario por ID                       | Autenticado                   |
+|                        | GET             | `/api/v2/users/username/{username}`              | Obtener usuario por nombre de usuario        | Autenticado                   |
+|                        | GET             | `/api/v2/users/email/{email}`                    | Obtener usuario por correo electrónico       | Autenticado                   |
+|                        | DELETE          | `/api/v2/users/delete/{userId}`                  | Eliminar usuario                             | Autenticado                   |
+| **Departments**         | GET             | `/api/v2/departments`                            | Obtener todos los departamentos              | Autenticado                   |
+|                        | POST            | `/api/v2/departments`                            | Crear un nuevo departamento                  | Autenticado                   |
+|                        | GET             | `/api/v2/departments/{id}`                       | Obtener departamento por ID                  | Autenticado                   |
+| **CategoryOngs**        | PUT             | `/api/v2/category-ongs/edit/{id}`                | Actualizar categoría ONG                     | Autenticado                   |
+|                        | GET             | `/api/v2/category-ongs`                          | Obtener todas las categorías de ONGs         | Autenticado                   |
+|                        | POST            | `/api/v2/category-ongs`                          | Crear nueva categoría ONG                    | Autenticado                   |
+|                        | GET             | `/api/v2/category-ongs/{id}`                     | Obtener categoría ONG por ID                 | Autenticado                   |
+|                        | DELETE          | `/api/v2/category-ongs/delete/{id}`              | Eliminar categoría ONG por ID                | Autenticado                   |
+
+
+<br><br>
+
+**Despliegue en la Nube**<br>
+El backend fue desplegado exitosamente como aplicación web sobre **Microsoft Azure App Service**, siendo accesible en todo momento. La base de datos relacional está alojada en el servicio **Azure Database for MySQL**, permitiendo una persistencia segura y eficiente de la información.
+
+- **Enlace al backend API**: [https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net)
+- **Swagger API Docs**: [https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#)
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/azure_sqlserver.png?raw=true" alt="Deploy ServerSQL"><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/azure_backend.png?raw=true" alt="Deploy Backend"><br><br>
+</div>
+
+<br><br>
+
+A continuación, se presentan imágenes que evidencian el desarrollo y despliegue del backend durante el Sprint 1:
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_evidence.png?raw=true" alt="Deploy Backend"><br><br>
+</div>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Implemented-Restful-Api/backend_Evidence1.png?raw=true" alt="Deploy Backend"><br><br>
+</div>
+
+<br><br>
 
 ### 5.2.7 RESTful API documentation
-Documentación generada (OpenAPI/Swagger/Postman) que describe los endpoints del backend y su uso.
+La documentación de la API RESTful del backend del proyecto **CambiaZo** fue generada utilizando herramientas como **Swagger** (OpenAPI 3) y **Postman**. Esto garantiza que todos los desarrolladores puedan consultar y probar fácilmente los endpoints expuestos, además de facilitar la integración con el frontend.
+
+- **Swagger (OpenAPI 3)**: Se utilizó Swagger para generar una interfaz visual e interactiva que documenta todos los endpoints de la API. Esta herramienta proporciona detalles completos sobre cada endpoint, incluyendo el tipo de solicitud (GET, POST, PUT, DELETE), parámetros de entrada, ejemplos de respuestas y posibles errores. Swagger también permite probar los endpoints directamente desde su interfaz.
+
+  - **Enlace al Swagger UI**: [https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#)
+  
+- **Postman**: Además de Swagger, **Postman** se utilizó para realizar pruebas manuales de los endpoints.
+
+#### **Estructura de la documentación de la API:**
+
+#### 1. **Autenticación**
+Detalles sobre cómo los usuarios pueden autenticarse utilizando tokens JWT. Los tokens se generan a través del endpoint `/api/v2/authentication/sign-up` para registrarse y `/api/v2/authentication/sign-in` para iniciar sesión. Esta autenticación es necesaria para acceder a la mayoría de los endpoints.
+
+#### 2. **EndPoints**
+La documentación describe todos los endpoints disponibles, organizados por funcionalidad. Algunos ejemplos clave incluyen:
+
+- **Usuarios**
+  - **GET** `/api/v2/users/{userId}`: Obtiene la información de un usuario por su ID.
+  - **Ejemplo de solicitud:**
+    ```bash
+    GET /api/v2/users/4
+    ```
+  - **Respuesta:**
+    ```json
+    {
+      "id": 4,
+      "username": "ana.martinez@hotmail.com",
+      "name": "Ana Martínez",
+      "phoneNumber": "987654324",
+      "profilePicture": "https://media.istockphoto.com/id/682897825/es/foto/confident-businesswoman-over-gray-background.jpg?s=612x612&w=0&k=20&c=WSlpnPQfEqYL77qKRBZ49wbUd4Ey6rd1RB1HCNKOusQ=",
+      "createdAt": "2024-09-25T22:56:32.923+00:00",
+      "isActive": true,
+      "roles": ["ROLE_USER"]
+    }
+    ```
+
+- **Productos**
+  - **GET** `/api/v2/products/{id}`: Obtiene detalles de un producto específico.
+  - **Ejemplo de solicitud:**
+    ```bash
+    GET /api/v2/products/10
+    ```
+  - **Respuesta:**
+    ```json
+    {
+      "id": 10,
+      "name": "Smartwatch",
+      "description": "Smartwatch con monitor de actividad física y notificaciones inteligentes.",
+      "desiredObject": "Busco una cámara fotográfica semi-profesional.",
+      "price": 1100,
+      "image": "https://i.blogs.es/5d659a/wa/650_1200.jpeg",
+      "boost": false,
+      "available": true,
+      "user": {
+        "id": 4,
+        "username": "ana.martinez@hotmail.com",
+        "name": "Ana Martínez",
+        "phoneNumber": "987654324",
+        "profilePicture": "https://media.istockphoto.com/id/682897825/es/foto/confident-businesswoman-over-gray-background.jpg?s=612x612&w=0&k=20&c=WSlpnPQfEqYL77qKRBZ49wbUd4Ey6rd1RB1HCNKOusQ=",
+        "createdAt": "2024-09-25T22:56:32.923+00:00",
+        "isActive": true,
+        "roles": ["ROLE_USER"]
+      },
+      "productCategory": {
+        "id": 1,
+        "name": "Tecnología"
+      },
+      "location": {
+        "districtId": 167,
+        "districtName": "San Miguel",
+        "departmentId": 15,
+        "departmentName": "Lima",
+        "countryId": 1,
+        "countryName": "Perú"
+      },
+      "createdAt": "2024-09-25T23:53:03.000+00:00"
+    }
+    ```
+
+- **Intercambios**
+  - **GET** `/api/v2/exchanges/{exchangeId}`: Consulta un intercambio específico.
+  - **Ejemplo de solicitud:**
+    ```bash
+    GET /api/v2/exchanges/2
+    ```
+  - **Respuesta:**
+    ```json
+    {
+      "id": 2,
+      "productOwn": {
+        "id": 9,
+        "name": "Camiseta del Barcelona 2008",
+        "description": "Camiseta del Barcelona de la temporada 2008, dorsal 10",
+        "desiredObject": "Busco unos auriculares deportivos inalámbricos.",
+        "price": 500,
+        "image": "https://perufc.com/wp-content/uploads/2022/06/Barcelona-2008-2009-sextete-manga-corta.jpeg",
+        "boost": true,
+        "available": false
+      },
+      "productChange": {
+        "id": 38,
+        "name": "Altavoz Portátil JBL Go3",
+        "description": "Altavoz portátil JBL con conectividad Bluetooth y resistencia al agua.",
+        "desiredObject": "Busco unos auriculares con cancelación activa de ruido.",
+        "price": 130,
+        "image": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86amJs/16e51507-db6b-5a77-bb0d-6e7e0531ee20",
+        "boost": false,
+        "available": false
+      },
+      "userOwn": {
+        "id": 4,
+        "username": "ana.martinez@hotmail.com",
+        "name": "Ana Martínez",
+        "phoneNumber": "987654324",
+        "profilePicture": "https://media.istockphoto.com/id/682897825/es/foto/confident-businesswoman-over-gray-background.jpg?s=612x612&w=0&k=20&c=WSlpnPQfEqYL77qKRBZ49wbUd4Ey6rd1RB1HCNKOusQ=",
+        "roles": ["ROLE_USER"]
+      },
+      "userChange": {
+        "id": 8,
+        "username": "josephhm335@gmail.com",
+        "name": "Joseph Huamani",
+        "phoneNumber": "914514311",
+        "profilePicture": "https://www.nacionfutbol.com.pe/image/nacionfutbolcompe/image-f96b75b4-a4f4-11ee-a3be-7e0aa5da29dc-1703708255-hq.webp",
+        "roles": ["ROLE_ADMIN"]
+      },
+      "status": "Aceptado",
+      "exchangeDate": "2024-10-23"
+    }
+    ```
+
+#### 3. **Códigos de Error**
+Se incluyen detalles sobre los posibles códigos de error y qué significan. Ejemplo:
+  - `400 Bad Request`: Parámetros de solicitud incorrectos.
+  - `401 Unauthorized`: No se proporcionó un token válido o ha expirado.
+  - `404 Not Found`: El recurso solicitado no existe.
+
+#### 4. **Pruebas y Validación**
+Todas las pruebas de la API fueron realizadas tanto manualmente a través de **Postman** como automáticamente utilizando **Swagger**. Las pruebas incluyen casos de éxito y fallos, asegurando que los endpoints manejen correctamente diferentes escenarios.
+
+#### 5. **Autenticación y Seguridad**
+La autenticación en la API se maneja mediante **JWT**. Para interactuar con la mayoría de los endpoints, los desarrolladores deben incluir el token JWT en el encabezado de la solicitud bajo el parámetro `Authorization`. Ejemplo de solicitud con autenticación:
+
+```bash
+GET /api/v2/products/1
+Authorization: Bearer <JWT_Token>
+```
+
+<br><br>
 
 ### 5.2.8 Team Collaboration Insights
 Resumen de cómo el equipo trabajó colaborativamente, incluyendo uso de herramientas, reuniones, distribución de tareas y mejoras progresivas.
@@ -4760,7 +5053,7 @@ Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
 
 # Anexos
 
-+ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
++ Landing Page: [Ver Landing Page](https://cambiazo-site.netlify.app/)<br><br>
 
 + Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)<br><br>
 

@@ -2472,10 +2472,6 @@ La **tipografía Montserrat** continúa siendo el eje de nuestra identidad visua
 
 En términos de **espaciado y márgenes**, seguimos un enfoque basado en los estándares de Human Interface Guidelines. Se prioriza el uso de márgenes generosos y padding adecuados en botones y textos, optimizando la navegación táctil y la claridad visual.
 
-<div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="Espaciado ejemplo iOS">
-</div><br>
-
 El tono de comunicación mantiene su enfoque empático y directo, adaptándose al entorno amigable y limpio que caracteriza al sistema iOS. El diseño busca balancear funcionalidad y estilo, brindando una experiencia elegante y centrada en el usuario.
 
 #### 4.1.3.2. Android Mobile Style Guidelines
@@ -2495,10 +2491,6 @@ La **tipografía Montserrat**, reconocida por su claridad y versatilidad, se apl
 </div><br>
 
 En cuanto a los **espaciados**, adoptamos una estructura modular, utilizando márgenes y paddings que responden a las recomendaciones de Material Design. Esto incluye separación entre elementos para mejorar la navegación y botones suficientemente amplios para facilitar la interacción en pantallas táctiles.
-
-<div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="Espaciado ejemplo Android">
-</div><br>
 
 El lenguaje visual y comunicacional mantiene un enfoque práctico y accesible, alineado con la naturaleza abierta y funcional del ecosistema Android. Buscamos que el usuario pueda moverse por la app de manera intuitiva y ágil, sin perder de vista los valores de nuestra marca.
 

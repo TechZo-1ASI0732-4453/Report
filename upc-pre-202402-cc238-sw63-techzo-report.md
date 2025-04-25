@@ -4405,7 +4405,7 @@ Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utiliza
 
 ### 5.2.1 Sprint Backlogs
 
-El objetivo de este primer sprint es desarrollar una versión inicial de del backend, el cual será el encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, asegurando un funcionamiento eficiente y preparando la plataforma para futuras mejoras y funcionalidades avanzadas.
+El objetivo de este primer sprint fue desarrollar y completar por completo el backend de la aplicación, encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, garantizando un funcionamiento eficiente. Además, se finalizó el desarrollo de la landing page, estableciendo una base sólida para la presentación del proyecto y futuras funcionalidades avanzadas.
 
 Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4167d99/ATTI3148cf1d5398db1216af7f1c51dbd219F3CEDE32/techzo-cambiazo)<br><br>
 
@@ -4431,50 +4431,10 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
     <td>Assigned<br>to</td>
     <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
   </tr>
-  <tr>
-    <td rowspan="1">US01</td>
-    <td rowspan="1">Registro<br>de<br>usuario</td>
-    <td>WI-01</td>
-    <td>Sección<br>para<br>nuevos<br>usuarios</td>
-    <td>Implem<br>entación<br>de una<br>pantalla de<br>registro donde<br>nuevos usuarios<br>puedan sumarse<br>a CambiaZo.</td>
-    <td>6</td>
-    <td>Jeremy<br>Quispe</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">US03</td>
-    <td rowspan="1">Iniciar<br>sesión<br>en la<br>aplicación</td>
-    <td>WI-02</td>
-    <td>Pantalla<br>de<br>inicio<br>de<br>sesión</td>
-    <td>Se crea una<br>pantalla en<br>la cual el<br>usuario podrá<br>ingresar a la<br>aplicación cuando<br>introduzca el<br>correo con el<br>que creó su<br>cuenta y su<br>contraseña.</td>
-    <td>2</td>
-    <td>Mathias<br>Mendoza</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">US06</td>
-    <td rowspan="1">Filtrado<br>de<br>Objetos</td>
-    <td>WI-03</td>
-    <td>Implem<br>entación<br>de<br>un<br>filtro<br>de<br>búsqueda</td>
-    <td>Implementar<br>un filtro<br>de búsqueda<br>para que<br>los usuarios<br>puedan encontrar<br>de forma más<br>rápida los<br>objetos de su<br>interés.</td>
-    <td>10</td>
-    <td>Ian<br>Santisteban</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">US16</td>
-    <td rowspan="1">Visualización<br>de<br>objetos<br>disponibles<br>para<br>intercambio</td>
-    <td>WI-04</td>
-    <td>Listar<br>los<br>objetos<br>disponibles</td>
-    <td>Creación de<br>una sección<br>en la que<br>los usuarios<br>registrados<br>puedan ver<br>los objetos<br>por los que<br>pueden<br>realizar un<br>intercambio.</td>
-    <td>10</td>
-    <td>Joseph<br>Huamani</td>
-    <td>Done</td>
-  </tr>
     <tr>
     <td rowspan="1">US25</td>
     <td rowspan="1">Visualización de la Historia de la Startup<br></td>
-    <td>WI-05</td>
+    <td>WI-01</td>
     <td>Sección “¿Quiénes somos?”</td>
     <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
     <td>1</td>
@@ -4485,7 +4445,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
     <td rowspan="1">US26</td>
     <td rowspan="1">Visualizar las características clave de la aplicación
     </td>
-    <td>WI-06</td>
+    <td>WI-02</td>
     <td>Sección Características Principales
     </td>
     <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
@@ -4496,7 +4456,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   <tr>
     <td rowspan="1">US27</td>
     <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
-    <td>WI-07</td>
+    <td>WI-03</td>
     <td>Formulario de contacto</td>
     <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
     <td>5</td>
@@ -4506,7 +4466,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   <tr>
     <td rowspan="1">US28</td>
     <td rowspan="1">Acceder a la página principal de CambiaZo</td>
-    <td>WI-08</td>
+    <td>WI-04</td>
     <td>Conectar Landing Page con la Web</td>
     <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a la Web de CambiaZo.</td>
     <td>2</td>
@@ -4516,7 +4476,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   <tr>
     <td rowspan="1">US29</td>
     <td rowspan="1">Ver los planes y precios</td>
-    <td>WI-09</td>
+    <td>WI-05</td>
     <td>Sección de planes y precios</td>
     <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
     <td>3</td>
@@ -4526,27 +4486,57 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   <tr>
     <td rowspan="1">US30</td>
     <td rowspan="1">Navegación en la Landing Page</td>
-    <td>WI-10</td>
+    <td>WI-06</td>
     <td>Barra de Navegación</td>
     <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
     <td>3</td>
     <td>Sandro Quispesivana</td>
     <td>Done</td>
   </tr>
-    <tr>
+  <tr>
     <td rowspan="1">TS01</td>
     <td rowspan="1">API User</td>
-    <td>WI-11</td>
+    <td>WI-07</td>
     <td>Creación de la API de usuarios</td>
     <td>Se crea una API que permite el registro de usuarios dentro de la aplicación web. </td>
     <td>8</td>
     <td>Sandro Quispesivana</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td rowspan="1">TS02</td>
+    <td rowspan="1">API Review</td>
+    <td>WI-08</td>
+    <td>Metodos CRUD para reseñas</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
+    <td>10</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS03</td>
+    <td rowspan="1">API Ongs</td>
+    <td>WI-09</td>
+    <td>Metodos CRUD para ongs</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla Ongs y gestionar las Ongs de los usuarios.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API Memberships</td>
+    <td>WI-10</td>
+    <td>Metodos CRUD para membresías</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
+    <td>10</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
     <tr>
     <td rowspan="1">TS05</td>
     <td rowspan="1">API Object</td>
-    <td>WI-12</td>
+    <td>WI-11</td>
     <td>Creación de la API de productos </td>
     <td> Se crea una API que permite el registro de productos dentro de la aplicación web. </td>
     <td>8</td>
@@ -5034,16 +5024,6 @@ Se desplegaron **versiones mínimas funcionales (MVP)** de la app y la landing p
 La estructura metodológica del proyecto ha estado guiada por principios de **diseño experimental**, integrando hipótesis, validación empírica y análisis reflexivo, asegurando resultados replicables y relevantes. Este enfoque permitió al equipo emitir **juicios técnicos y éticos fundamentados**, reconociendo el impacto de nuestras decisiones en entornos sociales, económicos y tecnológicos diversos. Cada etapa del proyecto fue una oportunidad para ejercitar la **capacidad crítica, la responsabilidad profesional** y la **conciencia del entorno**, logrando así una solución **técnicamente sólida y socialmente pertinente**, en línea con el **Student Outcome 4 del marco ABET**.
 
 
-
-### Video App Validation
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/app-validation.png?raw=true">
- </div>
-
-
-Enlace: [App Validation](https://youtu.be/DRN3mUdxJf8?si=NFZm-uI7STHyoLTz)
-
 ## Video About the Product
 
   <div align="center">
@@ -5121,54 +5101,3 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022140
 
 
 Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)
-
-
-## Execution Evidence for Sprint 1 - Backend
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-IV/Software-Deployment-Evidence/backend-sprint-1.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EVe6ggHMJ5tGkl62nYxxWJsBKwGq7P0RSP_FJh2a8umSSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TePBOc)
-
-
-## Execution Evidence for Sprint 1 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/product-sprint-1.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
-
-
-## Execution Evidence for Sprint 2 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/product-sprint-2.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EfeRV4ADYJdAlSCmTxYqkfABx_yTC7bf8zHBAanqGrJUlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GxAORd)
-
-
-## Execution Evidence for Sprint 3 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/product-sprint-3.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ESMI2_GdUhhHu4sYMbP_4ikBzwXpXoiC7KI9TmGwYFA9xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4NyFTS)
-
-
-## Execution Evidence for Sprint 4 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/product-sprint-4.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EawBBbii9-pPspfOBkGKNDIBtEhPWg5lr0NyKrnMsu22TA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L1hN29)
-

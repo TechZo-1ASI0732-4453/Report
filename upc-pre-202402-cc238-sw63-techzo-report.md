@@ -4698,7 +4698,7 @@ Definimos la arquitectura del producto como parte del diseño experimental de la
 
 Durante esta etapa, se ejecutaron **sprints como ciclos de experimentación iterativa**, aplicando principios de diseño de experimentos en entornos controlados (desarrollo y staging). Cada sprint incluyó tareas definidas como **tratamientos** (features) con criterios de aceptación claramente establecidos (métricas de éxito). Se aplicaron pruebas automatizadas y evaluaciones funcionales, estableciendo **evidencia empírica** para la validación de nuestras hipótesis. La trazabilidad del código y la gestión de versiones aseguraron la consistencia de las condiciones del experimento, permitiendo juicios informados sobre el impacto de cada intervención.
 
-## Capítulo V – Product Implementation, Validation & Deployment
+### Capítulo V – Product Implementation, Validation & Deployment
 
 Se desplegaron **versiones mínimas funcionales (MVP)** de la app y la landing page, evaluando su aceptación y funcionalidad mediante **métricas cuantitativas y cualitativas**: tasa de conversión, registros exitosos, tiempo de respuesta y feedback de usuarios. Este conjunto de datos constituyó la evidencia principal para validar (o refutar) las hipótesis del capítulo inicial. La interpretación responsable de estos resultados, con un enfoque ético y social, permitió **ajustes experimentales** y mejoras incrementales en el diseño. El control de variables externas y la consistencia del entorno de pruebas fortalecieron la **validez del experimento**, consolidando aprendizajes aplicables a contextos reales de la ingeniería de software.
 

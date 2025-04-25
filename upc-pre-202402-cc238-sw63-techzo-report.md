@@ -17,7 +17,8 @@
 ## Informe del Trabajo TB1
 ### Nombre del Startup: TechZo
 
-### Nombre del Producto: CambiaZo
+### Nombre del Producto: Aplicación Infórmática de Intercambioss de Productos Usados
+### Nombre Comercial: CambiaZo
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
@@ -5265,17 +5266,32 @@ Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
 
 ## Conclusiones y Recomendaciones
 
-En el primer capítulo, desarrollamos la presentación de nuestra startup, donde detallamos su perfil, incluyendo la descripción de la empresa y los perfiles de los integrantes del equipo. Además, abordamos los antecedentes y la problemática que nuestra solución busca resolver. Utilizamos el proceso Lean UX para estructurar la definición del problema, lo que nos permitió plantear suposiciones, formular hipótesis y diseñar un Lean UX Canvas. Este enfoque fue clave para identificar claramente los desafíos y oportunidades, asegurando que nuestra solución esté alineada con las necesidades del mercado.
+# Proyecto de Startup Aplicado al Curso de Diseño de Experimentos en Ingeniería de Software
 
-En el segundo capítulo, nos centramos en el proceso de Needfinding, donde identificamos las necesidades del mercado. Realizamos un análisis competitivo, comparando nuestra startup con los principales competidores, y definimos estrategias y tácticas para diferenciarnos en el mercado. También llevamos a cabo entrevistas y observaciones con usuarios potenciales, lo que nos permitió comprender a fondo los problemas y expectativas de nuestros clientes, garantizando que nuestra solución no solo sea viable, sino también altamente deseada por el mercado objetivo.
+## Capítulo I – Introducción
 
-En el tercer capítulo, se estableció la arquitectura del producto con un enfoque centrado en el diseño coherente de interfaces, tanto para la página de aterrizaje como para las aplicaciones móviles, siguiendo pautas de estilo claras. Además, se implementó una arquitectura de la información eficiente, mediante sistemas de organización, etiquetado y navegación optimizados para mejorar la experiencia del usuario. En cuanto a la arquitectura del software, se diseñó una estructura basada en el dominio, utilizando diagramas contextuales, contenedores y componentes, lo que permitió una representación visual clara de los elementos clave del sistema, junto con un diseño de base de datos sólido.
+Iniciamos nuestro proyecto con la formulación del experimento central: validar una hipótesis relacionada con una necesidad del mercado dentro del contexto de la Ingeniería de Software. Utilizamos el marco **Lean UX** como metodología estructurada para definir el problema de investigación, generando suposiciones basadas en observaciones previas y estableciendo hipótesis que guiaron el diseño experimental. El uso del *Lean UX Canvas* permitió al equipo definir variables clave, identificar factores y condiciones del entorno, y plantear objetivos de validación enfocados. Este enfoque estructurado facilitó la identificación de problemas reales del usuario, alineando el diseño del experimento con las necesidades del mercado y los objetivos de nuestra startup.
 
-En el cuarto capítulo, se abarcó la implementación del backend, destacando la gestión adecuada de la configuración del software, con entornos de desarrollo y despliegue configurados de manera eficiente y una gestión cuidadosa del código fuente bajo pautas de estilo establecidas. A lo largo del desarrollo, se realizaron sprints con una planificación detallada, asegurando que cada entrega estuviera respaldada por pruebas automatizadas y evidencia de cumplimiento de los requisitos, garantizando así una implementación continua y de calidad que se adapta a las necesidades del proyecto.
+## Capítulo II – Requirements Elicitation & Analysis
 
-En el quinto capítulo, se abordó el desarollo de una primera versión de la aplicación móvil y de la landing page para ofrecer una experiencia de usuario intuitiva. Se aseguraron una navegación clara y accesible, así como secciones informativas sobre las características clave de la aplicación, precios y opciones de suscripción. Además, se desarrollaron las funcionalidades clave de la app móvil, como el registro de usuarios, el inicio de sesión y la visualización y filtrado de objetos disponibles para intercambio. Durante el proceso, se gestionaron cuidadosamente tanto los aspectos visuales como los de contenido, asegurando que el diseño reflejara los objetivos del proyecto. Asimismo, se realizaron pruebas continuas para verificar el correcto funcionamiento y cumplimiento de los requisitos, logrando una implementación efectiva alineada con las historias de usuario.
+En esta fase, ejecutamos un estudio cualitativo de necesidad utilizando **entrevistas semiestructuradas** y **observación directa**, métodos válidos dentro del diseño de experimentos exploratorios. El análisis competitivo complementó los datos, permitiéndonos identificar **variables independientes** (diferenciadores de mercado) y **dependientes** (percepción del usuario). Estos datos sirvieron para refinar nuestras hipótesis y establecer un plan experimental más sólido. La recolección ética de datos y la interpretación responsable de los mismos aseguraron la validez del experimento y la relevancia de los factores considerados, alineando nuestras decisiones con el impacto social y profesional de la ingeniería de software.
 
-En resumen, estos capítulos han permitido establecer una base sólida para nuestra startup, al combinar un análisis detallado de la problemática y el mercado con un enfoque estratégico de diferenciación. El proceso de presentación y Needfinding nos ha llevado a una comprensión integral de los desafíos y oportunidades, garantizando que nuestra solución no solo esté alineada con las necesidades del mercado, sino que también esté posicionada para destacarse entre los competidores. Asimismo, la implementación de la arquitectura del producto, con un diseño coherente de interfaces y una estructura sólida a nivel de software, asegura que la solución sea funcional, escalable y adaptable a las necesidades del usuario. La correcta gestión del backend, con entornos de desarrollo optimizados y un proceso de desarrollo ágil basado en sprints, ha permitido avanzar en la implementación de manera estructurada, garantizando que cada función esté debidamente validada y lista para su despliegue, sentando las bases para el éxito a largo plazo de nuestra startup.
+## Capítulo III – Requirements Specification
+
+Definimos la arquitectura del producto como parte del diseño experimental de la intervención tecnológica. Se diseñaron **interfaces controladas** (landing page y app móvil) y se estableció una **arquitectura de software modular** para facilitar pruebas por componente e integración. La estructura basada en el dominio permitió establecer unidades de prueba aisladas, facilitando la medición del rendimiento, usabilidad y escalabilidad como variables dependientes. Este diseño controlado del entorno experimental garantiza **replicabilidad**, **trazabilidad de resultados** y **validez interna** en el análisis de la solución propuesta.
+
+## Capítulo IV – Product Design
+
+Durante esta etapa, se ejecutaron **sprints como ciclos de experimentación iterativa**, aplicando principios de diseño de experimentos en entornos controlados (desarrollo y staging). Cada sprint incluyó tareas definidas como **tratamientos** (features) con criterios de aceptación claramente establecidos (métricas de éxito). Se aplicaron pruebas automatizadas y evaluaciones funcionales, estableciendo **evidencia empírica** para la validación de nuestras hipótesis. La trazabilidad del código y la gestión de versiones aseguraron la consistencia de las condiciones del experimento, permitiendo juicios informados sobre el impacto de cada intervención.
+
+## Capítulo V – Product Implementation, Validation & Deployment
+
+Se desplegaron **versiones mínimas funcionales (MVP)** de la app y la landing page, evaluando su aceptación y funcionalidad mediante **métricas cuantitativas y cualitativas**: tasa de conversión, registros exitosos, tiempo de respuesta y feedback de usuarios. Este conjunto de datos constituyó la evidencia principal para validar (o refutar) las hipótesis del capítulo inicial. La interpretación responsable de estos resultados, con un enfoque ético y social, permitió **ajustes experimentales** y mejoras incrementales en el diseño. El control de variables externas y la consistencia del entorno de pruebas fortalecieron la **validez del experimento**, consolidando aprendizajes aplicables a contextos reales de la ingeniería de software.
+
+## Conclusión
+
+La estructura metodológica del proyecto ha estado guiada por principios de **diseño experimental**, integrando hipótesis, validación empírica y análisis reflexivo, asegurando resultados replicables y relevantes. Este enfoque permitió al equipo emitir **juicios técnicos y éticos fundamentados**, reconociendo el impacto de nuestras decisiones en entornos sociales, económicos y tecnológicos diversos. Cada etapa del proyecto fue una oportunidad para ejercitar la **capacidad crítica, la responsabilidad profesional** y la **conciencia del entorno**, logrando así una solución **técnicamente sólida y socialmente pertinente**, en línea con el **Student Outcome 4 del marco ABET**.
+
 
 
 ## Video App Validation
@@ -5295,18 +5311,6 @@ Enlace: [App Validation](https://youtu.be/DRN3mUdxJf8?si=NFZm-uI7STHyoLTz)
 
 
 Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
-
-
-## Video About the Team
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-team.png?raw=true">
- </div>
-
-
-Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
-
-
 
 <div style="page-break-after: always;"></div>
 
@@ -5398,17 +5402,6 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
 Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
 
 
-## Video de Exposición TP1
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tp1.png?raw=true">
- </div>
-
-
-Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eez2_6PljytLnqWa_ob5Vg0BFm4G-jDTj1G9k1iZZPfTiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f0Ac6i)
-
-
-
 ## Execution Evidence for Sprint 2 - Product
 
   <div align="center">
@@ -5438,12 +5431,3 @@ Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:
 
 Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EawBBbii9-pPspfOBkGKNDIBtEhPWg5lr0NyKrnMsu22TA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L1hN29)
 
-
-## Video de Exposición TF1
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/expo-tf1.png?raw=true">
- </div>
-
-
-Enlace: [Video de Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaKkhjBeCG5HuMMr0edKzegBqXWP5sb7czx5SqlikdPTig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i9Fvv9)

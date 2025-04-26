@@ -82,7 +82,6 @@
 
 <br><br>
 
-
 <div style="page-break-after: always;"></div>
 
 # Contenido
@@ -275,7 +274,9 @@ sociales</td>
 <div style="page-break-after: always;"></div>
   
 # Capítulo I: Introducción
+
 ## 1.1 Startup Profile
+
 ### 1.1.1 Descripción de la Startup
 
 **Nombre:**  TechZo

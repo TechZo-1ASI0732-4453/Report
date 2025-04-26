@@ -946,7 +946,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/edugutierez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/edugutierez_interview.PNG?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
   </tr>
   <tr>
     <td>Link</td>

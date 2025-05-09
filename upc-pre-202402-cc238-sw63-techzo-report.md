@@ -14,7 +14,7 @@
 **Profesor:** Julio Manuel Noriega Melendez
 
 ----
-## Informe del Trabajo TB1
+## Informe del Trabajo TB2
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: Aplicación Informática de Intercambios de Productos Usados

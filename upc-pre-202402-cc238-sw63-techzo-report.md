@@ -5025,11 +5025,69 @@ Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
 ### 7.2.1. Tools and Practices
 ### 7.2.2. Stages Deployment Pipeline Components
 
+A continuación, se presentan las fases del pipeline de despliegue implementado en el proyecto Cambiazo. Cada una está orientada a asegurar una entrega continua, confiable y eficiente del software.
+
+1. Code commit: El proceso comienza cuando un desarrollador guarda y registra cambios en el repositorio de código. Esto permite llevar un control preciso de las modificaciones realizadas. La herramienta empleada para esta tarea es Git.
+
+2. Build: En esta etapa, se compila el código fuente y se generan los artefactos necesarios para su ejecución. También se ejecutan pruebas unitarias para detectar posibles errores introducidos con los nuevos cambios. La herramienta encargada de esta fase es Jenkins.
+
+3. Test: Se realizan pruebas automatizadas de distintos tipos (unitarias, de integración y funcionales) para verificar que el sistema funcione correctamente en distintos niveles. Algunas herramientas recomendadas para esta etapa son JUnit (pruebas unitarias), Postman (pruebas de integración) y Selenium (pruebas funcionales).
+
+4. Acceptance test: Aquí se valida que el producto cumpla con los requerimientos definidos por el cliente. Se utilizan pruebas de aceptación que simulan escenarios reales de uso. Cucumber es la herramienta elegida para esta actividad.
+
+5. Staging: En esta fase se despliega la aplicación en un entorno de staging, que simula el entorno de producción. Se realizan pruebas finales para asegurar la integración del sistema en su conjunto antes de la liberación oficial. Docker se usa para generar y gestionar este entorno.
+
+6. Production: Finalmente, la versión del software que ha superado todas las pruebas es desplegada en el entorno de producción, quedando disponible para los usuarios finales. La herramienta utilizada para la orquestación y el despliegue es Kubernetes.
+
 ## 7.3. Continuous Deployment
 
+La entrega continua es una práctica clave en el desarrollo de software actual, ya que permite automatizar la publicación de actualizaciones en el entorno de producción. En esta sección se detallan los procesos y herramientas utilizados para garantizar un flujo de trabajo ágil y confiable, facilitando despliegues rápidos, seguros y uniformes del software.
+
 ### 7.3.1. Tools and Practices
+
+GitHub Actions: Se emplea GitHub Actions para automatizar tanto la integración continua (CI) como el despliegue continuo (CD). Esta herramienta permite definir pipelines que gestionan eficientemente la compilación, pruebas y despliegue del código. Su integración directa con GitHub simplifica la configuración y garantiza que cada commit sea validado automáticamente y desplegado, siempre que supere las pruebas correspondientes.
+
+Docker: Utilizamos Docker para garantizar la uniformidad del entorno de ejecución, encapsulando la aplicación junto con sus dependencias en contenedores. Esto previene discrepancias entre entornos y asegura que el software se ejecute de forma coherente desde el desarrollo hasta la producción.
+
+Terraform: Terraform se encarga de la gestión de infraestructura como código, permitiendo definir y administrar recursos en la nube de manera programática y reproducible. Esto facilita la creación de entornos consistentes y el control automatizado sobre los recursos utilizados.
+
+SonarQube: La incorporación de SonarQube al pipeline CI/CD permite realizar análisis continuos de la calidad del código. Esto asegura el cumplimiento de estándares de desarrollo y ayuda a detectar errores o debilidades desde etapas tempranas del ciclo de vida del software.
+
+ESLint / Prettier: Estas herramientas se integran para mantener un código limpio, coherente y fácil de mantener en proyectos JavaScript y TypeScript. A través del pipeline de CI, se verifica automáticamente que el código siga las convenciones definidas y las mejores prácticas del equipo.
+
+La combinación de GitHub Actions, Docker, Terraform, SonarQube y herramientas de linting como ESLint y Prettier conforma un sistema de CI/CD sólido y automatizado. GitHub Actions orquesta el flujo de trabajo, Docker garantiza entornos consistentes, Terraform gestiona eficientemente la infraestructura, SonarQube refuerza la calidad del código, y ESLint/Prettier aseguran un estilo de programación estandarizado. En conjunto, estas herramientas optimizan el desarrollo y despliegue continuo del software de manera confiable.
+
 ### 7.3.2. Production Deployment Pipeline Components
 
+Despliegue en Railway y Netlify
+- Railway: Para el despliegue del backend, se utiliza Railway, una plataforma que permite gestionar servicios de servidor de forma sencilla y eficiente. Su facilidad de uso permite realizar implementaciones rápidas con una configuración mínima, ideal para entornos dinámicos.
+
+- Netlify: En el caso del frontend, Netlify es la herramienta elegida por su enfoque en la simplicidad y automatización. Ofrece despliegue continuo integrado, así como funcionalidades adicionales como formularios, autenticación y funciones serverless, que pueden aprovecharse según las necesidades del proyecto.
+
+
+Automatización con GitHub Actions
+- Pipeline Automatizado: Todo el flujo de integración y entrega continua (CI/CD) está coordinado mediante GitHub Actions, que gestiona de forma automatizada la compilación, pruebas y despliegue de la aplicación, asegurando consistencia y eficiencia.
+
+- Compatibilidad con Docker: GitHub Actions también se encarga de construir y desplegar imágenes Docker, garantizando entornos estandarizados desde desarrollo hasta producción.
+
+Pruebas Unitarias e Integración
+- Validación Continua: Se prioriza la ejecución constante de pruebas unitarias y de integración para asegurar el correcto funcionamiento de cada componente antes de ser desplegado.
+
+- Cobertura de Código: Se emplean herramientas de análisis de cobertura para verificar que todas las secciones críticas del código estén debidamente testeadas, reduciendo al mínimo la posibilidad de fallos en producción.
+
+Monitoreo con New Relic y Sentry
+- New Relic: Para monitorear el rendimiento del backend, se ha implementado New Relic, que proporciona métricas detalladas sobre la salud del sistema, tiempos de respuesta y uso de recursos.
+
+- Sentry: Tanto en frontend como en backend, Sentry permite el rastreo de errores en tiempo real, facilitando la identificación y corrección rápida de fallos.
+
+Control de Calidad con SonarQube
+- Auditoría de Código: SonarQube se integra al flujo CI/CD para realizar análisis estáticos del código de forma continua. Esta herramienta ayuda a mantener altos estándares de calidad y detectar problemas técnicos antes de que impacten en producción.
+
+Mejora Continua a través del Feedback
+- Ciclo de Retroalimentación: Se cuenta con un sistema de mejora continua basado en los reportes de herramientas de monitoreo y análisis. Esto permite detectar oportunidades de optimización y ajustar procesos de manera proactiva.
+
+Resumen del Pipeline de Producción para Cambiazo
+El proceso de despliegue en producción para el proyecto Cambiazo está estructurado para ser ágil, confiable y de alta calidad. Se utiliza Railway para gestionar el backend y Netlify para el frontend, apoyados por GitHub Actions para la automatización del pipeline CI/CD. Docker asegura entornos consistentes, mientras que las pruebas exhaustivas, junto con el monitoreo a través de New Relic y Sentry, garantizan estabilidad y rendimiento. SonarQube mantiene la calidad del código, y el sistema de retroalimentación permite una evolución continua. En conjunto, esta arquitectura proporciona un despliegue robusto, controlado y optimizado.
 
 <div style="page-break-after: always;"></div>
 

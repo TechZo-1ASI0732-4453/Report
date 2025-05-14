@@ -5424,7 +5424,7 @@ Implementamos las metodologías de Desarrollo Guiado por Comportamiento (BDD) y 
 
   <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Build&TestSuitePipelineComponents/ServiceUnitTest.png?raw=true" alt="ServiceUnitTest">
-  </div><br><br> Components
+  </div><br><br>
 
 ## 7.2. Continuous Delivery
 

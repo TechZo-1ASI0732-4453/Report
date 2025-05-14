@@ -5025,69 +5025,96 @@ Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
 ### 7.2.1. Tools and Practices
 ### 7.2.2. Stages Deployment Pipeline Components
 
-A continuación, se presentan las fases del pipeline de despliegue implementado en el proyecto Cambiazo. Cada una está orientada a asegurar una entrega continua, confiable y eficiente del software.
+A continuación, se presentan las fases del pipeline de despliegue implementado en el proyecto Cambiazo, utilizando un flujo de integración y entrega continua automatizado con GitHub Actions, desplegando el frontend en Netlify y el backend en Azure Web App, y utilizando Azure MySQL como base de datos. Este pipeline está diseñado para asegurar entregas continuas, confiables y eficientes.
 
-1. Code commit: El proceso comienza cuando un desarrollador guarda y registra cambios en el repositorio de código. Esto permite llevar un control preciso de las modificaciones realizadas. La herramienta empleada para esta tarea es Git.
 
-2. Build: En esta etapa, se compila el código fuente y se generan los artefactos necesarios para su ejecución. También se ejecutan pruebas unitarias para detectar posibles errores introducidos con los nuevos cambios. La herramienta encargada de esta fase es Jenkins.
+1. Code commit: El proceso comienza cuando un desarrollador realiza un commit en el repositorio Git. Esto desencadena automáticamente los flujos de trabajo definidos en GitHub Actions. Se garantiza así un control de versiones preciso y trazable.
 
-3. Test: Se realizan pruebas automatizadas de distintos tipos (unitarias, de integración y funcionales) para verificar que el sistema funcione correctamente en distintos niveles. Algunas herramientas recomendadas para esta etapa son JUnit (pruebas unitarias), Postman (pruebas de integración) y Selenium (pruebas funcionales).
+2. Build: En esta etapa, el código fuente se prepara para su despliegue. Se instalan dependencias y se compilan los artefactos necesarios para frontend y backend. Esta fase es gestionada por GitHub Actions, que ejecuta scripts personalizados definidos en el archivo .github/workflows.
 
-4. Acceptance test: Aquí se valida que el producto cumpla con los requerimientos definidos por el cliente. Se utilizan pruebas de aceptación que simulan escenarios reales de uso. Cucumber es la herramienta elegida para esta actividad.
+3. Test: Se ejecutan pruebas automatizadas para validar el correcto funcionamiento del sistema. En esta etapa se utilizan herramientas como:
+    - JUnit: framework principal para ejecutar pruebas unitarias en el backend Java.
+    - Mockito: biblioteca utilizada junto con JUnit para simular dependencias y realizar pruebas unitarias más precisas.
+    - Selenium: framework de pruebas automatizadas para validar la funcionalidad del sistema desde la perspectiva del usuario final mediante interacción con el navegador.
+    - Gherkin: lenguaje usado para definir los escenarios de prueba en lenguaje natural, que se integran con herramientas como Cucumber para automatizar pruebas de aceptación basadas en comportamiento (BDD).
+    
+    Estas pruebas se ejecutan automáticamente mediante GitHub Actions en cada push o pull request, asegurando que ningún cambio rompa funcionalidades existentes.
 
-5. Staging: En esta fase se despliega la aplicación en un entorno de staging, que simula el entorno de producción. Se realizan pruebas finales para asegurar la integración del sistema en su conjunto antes de la liberación oficial. Docker se usa para generar y gestionar este entorno.
+4. Acceptance test: Los escenarios de aceptación definidos en Gherkin son ejecutados mediante Cucumber. Estos simulan casos reales de uso definidos junto al cliente o stakeholders, permitiendo validar que la aplicación cumple con los requisitos funcionales esperados. Estas pruebas también forman parte del pipeline automatizado de GitHub Actions.
 
-6. Production: Finalmente, la versión del software que ha superado todas las pruebas es desplegada en el entorno de producción, quedando disponible para los usuarios finales. La herramienta utilizada para la orquestación y el despliegue es Kubernetes.
+5. Staging: Aunque se prescinde de un entorno de staging tradicional basado en Docker o Kubernetes, Netlify y Azure Web App permiten previsualizar cambios en ramas específicas antes de realizar el merge a producción. Esto permite validar la aplicación en un entorno casi idéntico al de producción.
+
+6. Production: Al aprobarse los cambios y hacer merge en la rama principal (por ejemplo, main o production), GitHub Actions automatiza el despliegue:
+
+- El frontend es desplegado automáticamente en Netlify, conectado al repositorio y configurado para activar el build y deploy en cada push.
+
+- El backend se despliega en Azure Web App, mediante una acción de GitHub que empuja los cambios directamente a Azure.
+
+- La aplicación se conecta a una base de datos Azure MySQL, previamente provisionada y configurada mediante variables de entorno seguras en los entornos respectivos.
 
 ## 7.3. Continuous Deployment
 
-La entrega continua es una práctica clave en el desarrollo de software actual, ya que permite automatizar la publicación de actualizaciones en el entorno de producción. En esta sección se detallan los procesos y herramientas utilizados para garantizar un flujo de trabajo ágil y confiable, facilitando despliegues rápidos, seguros y uniformes del software.
+La entrega continua es una pieza clave del proceso de desarrollo del proyecto Cambiazo. Mediante la automatización del flujo de trabajo con GitHub Actions, se asegura una publicación rápida, consistente y confiable del software.
 
 ### 7.3.1. Tools and Practices
 
-GitHub Actions: Se emplea GitHub Actions para automatizar tanto la integración continua (CI) como el despliegue continuo (CD). Esta herramienta permite definir pipelines que gestionan eficientemente la compilación, pruebas y despliegue del código. Su integración directa con GitHub simplifica la configuración y garantiza que cada commit sea validado automáticamente y desplegado, siempre que supere las pruebas correspondientes.
+GitHub Actions: Es la herramienta central para orquestar el pipeline CI/CD. Se encarga de automatizar la instalación de dependencias, compilación del código, ejecución de pruebas y despliegue tanto en Netlify como en Azure Web App. Su integración con GitHub simplifica el control del ciclo de vida del software.
 
-Docker: Utilizamos Docker para garantizar la uniformidad del entorno de ejecución, encapsulando la aplicación junto con sus dependencias en contenedores. Esto previene discrepancias entre entornos y asegura que el software se ejecute de forma coherente desde el desarrollo hasta la producción.
+Netlify: Encargado del despliegue del frontend. Su integración con GitHub permite la automatización completa del build y deploy en cada push a la rama configurada. También ofrece capacidades adicionales como redirecciones, manejo de formularios, autenticación y funciones serverless.
 
-Terraform: Terraform se encarga de la gestión de infraestructura como código, permitiendo definir y administrar recursos en la nube de manera programática y reproducible. Esto facilita la creación de entornos consistentes y el control automatizado sobre los recursos utilizados.
+Azure Web App: Plataforma en la que se ejecuta el backend. Está configurada para recibir automáticamente los artefactos construidos desde GitHub Actions, asegurando un flujo de despliegue continuo sin intervención manual.
 
-SonarQube: La incorporación de SonarQube al pipeline CI/CD permite realizar análisis continuos de la calidad del código. Esto asegura el cumplimiento de estándares de desarrollo y ayuda a detectar errores o debilidades desde etapas tempranas del ciclo de vida del software.
+Azure MySQL: Servicio gestionado de base de datos utilizado para almacenar la información de la aplicación. Se conecta de manera segura con el backend a través de cadenas de conexión gestionadas mediante variables de entorno.
 
-ESLint / Prettier: Estas herramientas se integran para mantener un código limpio, coherente y fácil de mantener en proyectos JavaScript y TypeScript. A través del pipeline de CI, se verifica automáticamente que el código siga las convenciones definidas y las mejores prácticas del equipo.
+Pruebas Unitarias e Integración
+- JUnit y Mockito aseguran una cobertura adecuada de pruebas unitarias y validación de componentes individuales en el backend.
+- Selenium permite la automatización de pruebas funcionales para simular interacciones de usuario en frontend y backend, ejecutándose dentro del pipeline CI/CD.
+- Gherkin + Cucumber se usan para pruebas de aceptación automatizadas, facilitando la validación de requisitos desde la perspectiva del usuario final.
 
-La combinación de GitHub Actions, Docker, Terraform, SonarQube y herramientas de linting como ESLint y Prettier conforma un sistema de CI/CD sólido y automatizado. GitHub Actions orquesta el flujo de trabajo, Docker garantiza entornos consistentes, Terraform gestiona eficientemente la infraestructura, SonarQube refuerza la calidad del código, y ESLint/Prettier aseguran un estilo de programación estandarizado. En conjunto, estas herramientas optimizan el desarrollo y despliegue continuo del software de manera confiable.
 
 ### 7.3.2. Production Deployment Pipeline Components
 
-Despliegue en Railway y Netlify
-- Railway: Para el despliegue del backend, se utiliza Railway, una plataforma que permite gestionar servicios de servidor de forma sencilla y eficiente. Su facilidad de uso permite realizar implementaciones rápidas con una configuración mínima, ideal para entornos dinámicos.
+Despliegue en Azure Web App y Netlify
+- Azure Web App: El backend de Cambiazo se despliega automáticamente en Azure Web App, un servicio PaaS que permite ejecutar aplicaciones web sin gestionar infraestructura. La integración con GitHub Actions permite realizar implementaciones automáticas en cada push a la rama principal, asegurando un flujo continuo de entrega. La aplicación se conecta a una base de datos Azure MySQL, configurada mediante variables de entorno seguras.
 
-- Netlify: En el caso del frontend, Netlify es la herramienta elegida por su enfoque en la simplicidad y automatización. Ofrece despliegue continuo integrado, así como funcionalidades adicionales como formularios, autenticación y funciones serverless, que pueden aprovecharse según las necesidades del proyecto.
+- Netlify: El frontend se aloja en Netlify, plataforma que permite despliegues automáticos conectados directamente al repositorio de GitHub. Netlify realiza el build y deploy automáticamente en cada commit a la rama principal. Ofrece además capacidades adicionales como rutas personalizadas, funciones serverless y vista previa de ramas.
 
 
 Automatización con GitHub Actions
-- Pipeline Automatizado: Todo el flujo de integración y entrega continua (CI/CD) está coordinado mediante GitHub Actions, que gestiona de forma automatizada la compilación, pruebas y despliegue de la aplicación, asegurando consistencia y eficiencia.
+- Pipeline Automatizado: Todo el proceso CI/CD está coordinado mediante GitHub Actions, que automatiza los siguientes pasos:
+  - Instalación de dependencias
+  - Ejecución de pruebas (unitarias, integración, aceptación)
+  - Despliegue del frontend en Netlify
+  - Despliegue del backend en Azure Web App
 
-- Compatibilidad con Docker: GitHub Actions también se encarga de construir y desplegar imágenes Docker, garantizando entornos estandarizados desde desarrollo hasta producción.
+- Entorno Reproducible y Versionado: Aunque no se utiliza Docker en producción, GitHub Actions garantiza entornos limpios y consistentes en cada ejecución, mediante acciones configuradas que controlan cada paso del pipeline.
 
-Pruebas Unitarias e Integración
-- Validación Continua: Se prioriza la ejecución constante de pruebas unitarias y de integración para asegurar el correcto funcionamiento de cada componente antes de ser desplegado.
+Pruebas Unitarias, de Integración y de Aceptación
+- Validación Continua: Se prioriza la ejecución constante de pruebas automatizadas en cada commit o pull request. Esto incluye:
+  - JUnit + Mockito: Para pruebas unitarias del backend Java, validando lógica de negocio y comportamientos aislados.
+  - Selenium: Para pruebas funcionales que simulan interacción de usuario, ejecutadas automáticamente en entornos de staging o con headless browsers.
+  - Gherkin + Cucumber: Para pruebas de aceptación automatizadas basadas en BDD (Behavior Driven Development), validando requisitos del negocio escritos en lenguaje natural.
+- Cobertura de Código: Se integran herramientas de análisis de cobertura en el pipeline (por ejemplo, JaCoCo para Java), permitiendo verificar que las áreas críticas estén suficientemente testeadas antes de autorizar el despliegue.
 
-- Cobertura de Código: Se emplean herramientas de análisis de cobertura para verificar que todas las secciones críticas del código estén debidamente testeadas, reduciendo al mínimo la posibilidad de fallos en producción.
+Monitoreo con Sentry y Azure Monitor
+- Sentry: Permite rastrear errores tanto en el frontend como en el backend en tiempo real. Se integra con los entornos de producción para alertar rápidamente ante fallos o comportamientos inesperados, facilitando la resolución proactiva.
 
-Monitoreo con New Relic y Sentry
-- New Relic: Para monitorear el rendimiento del backend, se ha implementado New Relic, que proporciona métricas detalladas sobre la salud del sistema, tiempos de respuesta y uso de recursos.
-
-- Sentry: Tanto en frontend como en backend, Sentry permite el rastreo de errores en tiempo real, facilitando la identificación y corrección rápida de fallos.
+- Azure Monitor / Application Insights: Se utilizan para el backend desplegado en Azure. Proveen métricas detalladas sobre uso de recursos, disponibilidad, tiempos de respuesta y fallos, ofreciendo una visión completa del rendimiento del sistema.
 
 Control de Calidad con SonarQube
-- Auditoría de Código: SonarQube se integra al flujo CI/CD para realizar análisis estáticos del código de forma continua. Esta herramienta ayuda a mantener altos estándares de calidad y detectar problemas técnicos antes de que impacten en producción.
+- Análisis Estático de Código: SonarQube (o su versión cloud, SonarCloud) se integra en el pipeline para evaluar la calidad del código fuente, detectar bugs, vulnerabilidades y code smells. Esta auditoría continua refuerza la calidad técnica del proyecto.
 
 Mejora Continua a través del Feedback
-- Ciclo de Retroalimentación: Se cuenta con un sistema de mejora continua basado en los reportes de herramientas de monitoreo y análisis. Esto permite detectar oportunidades de optimización y ajustar procesos de manera proactiva.
+- Los reportes de herramientas como Sentry, Azure Monitor y SonarQube alimentan un ciclo de retroalimentación constante.
+
+- Esta información se analiza periódicamente para:
+  - Optimizar rendimiento
+  - Corregir errores recurrentes
+  - Mejorar la cobertura de pruebas
+  - Refinar procesos de despliegue
 
 Resumen del Pipeline de Producción para Cambiazo
-El proceso de despliegue en producción para el proyecto Cambiazo está estructurado para ser ágil, confiable y de alta calidad. Se utiliza Railway para gestionar el backend y Netlify para el frontend, apoyados por GitHub Actions para la automatización del pipeline CI/CD. Docker asegura entornos consistentes, mientras que las pruebas exhaustivas, junto con el monitoreo a través de New Relic y Sentry, garantizan estabilidad y rendimiento. SonarQube mantiene la calidad del código, y el sistema de retroalimentación permite una evolución continua. En conjunto, esta arquitectura proporciona un despliegue robusto, controlado y optimizado.
+El pipeline de despliegue en producción para Cambiazo está diseñado para ser ágil, confiable y automatizado. Utiliza GitHub Actions como núcleo del CI/CD, desplegando el frontend en Netlify y el backend en Azure Web App, conectado a una base de datos Azure MySQL. Las pruebas con JUnit, Mockito, Selenium y Gherkin/Cucumber, junto con herramientas de monitoreo y análisis como Sentry, Azure Monitor y SonarQube, garantizan una entrega de software segura y de alta calidad. Este enfoque permite evolucionar el sistema de forma continua, minimizando riesgos e incrementando la eficiencia del desarrollo.
 
 <div style="page-break-after: always;"></div>
 
@@ -5114,6 +5141,15 @@ Durante esta etapa, se ejecutaron **sprints como ciclos de experimentación iter
 ### Capítulo V – Product Implementation, Validation & Deployment
 
 Se desplegaron **versiones mínimas funcionales (MVP)** de la app y la landing page, evaluando su aceptación y funcionalidad mediante **métricas cuantitativas y cualitativas**: tasa de conversión, registros exitosos, tiempo de respuesta y feedback de usuarios. Este conjunto de datos constituyó la evidencia principal para validar (o refutar) las hipótesis del capítulo inicial. La interpretación responsable de estos resultados, con un enfoque ético y social, permitió **ajustes experimentales** y mejoras incrementales en el diseño. El control de variables externas y la consistencia del entorno de pruebas fortalecieron la **validez del experimento**, consolidando aprendizajes aplicables a contextos reales de la ingeniería de software.
+
+### Capítulo VI – Product Verification & Validation
+
+Durante esta etapa, se implementaron **baterías de pruebas automatizadas** para validar el comportamiento y la robustez del sistema. Se diseñaron **pruebas unitarias** sobre entidades clave del dominio, asegurando la corrección lógica y la integridad de las funciones básicas. A nivel de integración, se testearon flujos críticos entre módulos, evaluando la coherencia y consistencia de los datos. Se aplicó el enfoque de **Behavior-Driven Development (BDD)** para garantizar que los requisitos funcionales se reflejaran en escenarios de prueba comprensibles por todos los actores del proyecto. Las **pruebas de sistema** fueron ejecutadas en entornos controlados, reproduciendo situaciones reales de uso, lo cual permitió identificar posibles fallos en condiciones extremas o límites. Este proceso consolidó un marco de validación riguroso, fundamentado en evidencia empírica, que respalda la **calidad del producto**, fortalece la **validez externa** del experimento y permite una evaluación confiable de su desempeño en condiciones reales.
+
+### Capítulo VII – DevOps Practices
+
+Se implementaron **prácticas de integración, entrega y despliegue continuos** mediante un pipeline automatizado con GitHub Actions, asegurando un flujo de desarrollo ágil, confiable y reproducible. Este pipeline orquesta la construcción, prueba y despliegue del frontend (Netlify) y backend (Azure Web App), conectado a una base de datos en Azure MySQL. Durante la fase de **Continuous Integration**, se automatizó la compilación del código, ejecución de pruebas (unitarias con JUnit/Mockito, funcionales con Selenium, y de aceptación con Gherkin+Cucumber), validando cada cambio desde el commit hasta el pull request. Esto garantizó la estabilidad del sistema en todo momento. En la fase de **Continuous Delivery**, se configuraron entornos de previsualización en Netlify y Azure que replican condiciones de producción, permitiendo validar nuevas funcionalidades antes del merge definitivo. Esta estrategia facilitó un control riguroso sobre la calidad del software sin interrumpir el servicio. Finalmente, mediante **Continuous Deployment**, los cambios aprobados se desplegaron automáticamente en producción, manteniendo consistencia y trazabilidad. Herramientas como **Sentry**, **Azure Monitor** y **SonarQube** ofrecieron retroalimentación continua sobre errores, rendimiento y calidad del código, permitiendo una mejora constante basada en evidencia técnica. Esta infraestructura consolidó una cultura de DevOps enfocada en la **automatización**, **observabilidad** y **entregas incrementales de valor**.
+
 
 ### Conclusión
 

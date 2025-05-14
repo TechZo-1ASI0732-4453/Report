@@ -4990,6 +4990,275 @@ Enlace: [Video About-the-Product](https://youtu.be/2fL6Q_v7sGk)
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests
 
+Esta sección presenta las pruebas fundamentales realizadas sobre el sistema central de la aplicación, enfocadas en validar las funcionalidades críticas como el registro de usuarios, la gestión de productos, los intercambios, las reseñas y la autenticación. Las pruebas se ejecutaron utilizando Selenium, una herramienta de automatización que permitió simular la interacción de los usuarios con la interfaz de forma realista. Esto garantizó que los distintos flujos funcionen correctamente desde el punto de vista del usuario final y que los componentes estén correctamente integrados, asegurando así una experiencia fluida, segura y alineada con los requisitos definidos en las historias de usuario.
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us01.png?raw=true" alt="US01">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us02.png?raw=true" alt="US02">
+ </div><br><br>
+ 
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us03.png?raw=true" alt="US03">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us04.png?raw=true" alt="US04">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us05.png?raw=true" alt="US05">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us06.png?raw=true" alt="US06">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US07**|Visualización de ONGs registradas |Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us07.png?raw=true" alt="US07">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us08.png?raw=true" alt="US08">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us09.png?raw=true" alt="US09">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US10**|Visualización de artículos publicados para intercambio|Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us10.png?raw=true" alt="US10">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US11**|Realización de una oferta de intercambio|Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us11.png?raw=true" alt="US11">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us12.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us13.png?raw=true" alt="US13">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us14.png?raw=true" alt="US14">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US15**|Gestión de intercambios|Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us15.png?raw=true" alt="US15">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US16**|Visualización de objetos disponibles para intercambio|Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us16.png?raw=true" alt="US16">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us17.png?raw=true" alt="US17">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US18**|Aceptar o Rechazar un Intercambio|Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us18.png?raw=true" alt="US18">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US19**|Ver la información detallada de un producto publicado|Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us19.png?raw=true" alt="US19">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us20.png?raw=true" alt="US20">
+ </div><br><br>
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us21.png?raw=true" alt="US21">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us22.png?raw=true" alt="US22">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US23**|Gestionar mis favoritos en la aplicación|Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us23.png?raw=true" alt="US23">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us24.png?raw=true" alt="US24">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US25**|Visualización de la Historia de la Startup|Como usuario visitante, quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us25.png?raw=true" alt="US25">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us26.png?raw=true" alt="US26">
+ </div><br><br>
+
+
+ |**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us27.png?raw=true" alt="US27">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US28**|Descargar la aplicación de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us28.png?raw=true" alt="US28">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us29.png?raw=true" alt="US29">
+ </div><br><br>
+
+
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
+|**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-VI/Testing/CoreSystem/us30.png?raw=true" alt="US30">
+ </div><br><br>
+
+
 # Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration

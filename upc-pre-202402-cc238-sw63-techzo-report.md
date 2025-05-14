@@ -5101,11 +5101,8 @@ Monitoreo con Sentry y Azure Monitor
 
 - Azure Monitor / Application Insights: Se utilizan para el backend desplegado en Azure. Proveen métricas detalladas sobre uso de recursos, disponibilidad, tiempos de respuesta y fallos, ofreciendo una visión completa del rendimiento del sistema.
 
-Control de Calidad con SonarQube
-- Análisis Estático de Código: SonarQube (o su versión cloud, SonarCloud) se integra en el pipeline para evaluar la calidad del código fuente, detectar bugs, vulnerabilidades y code smells. Esta auditoría continua refuerza la calidad técnica del proyecto.
-
 Mejora Continua a través del Feedback
-- Los reportes de herramientas como Sentry, Azure Monitor y SonarQube alimentan un ciclo de retroalimentación constante.
+- Los reportes de herramientas como Sentry y Azure Monitor alimentan un ciclo de retroalimentación constante.
 
 - Esta información se analiza periódicamente para:
   - Optimizar rendimiento
@@ -5114,7 +5111,7 @@ Mejora Continua a través del Feedback
   - Refinar procesos de despliegue
 
 Resumen del Pipeline de Producción para Cambiazo
-El pipeline de despliegue en producción para Cambiazo está diseñado para ser ágil, confiable y automatizado. Utiliza GitHub Actions como núcleo del CI/CD, desplegando el frontend en Netlify y el backend en Azure Web App, conectado a una base de datos Azure MySQL. Las pruebas con JUnit, Mockito, Selenium y Gherkin/Cucumber, junto con herramientas de monitoreo y análisis como Sentry, Azure Monitor y SonarQube, garantizan una entrega de software segura y de alta calidad. Este enfoque permite evolucionar el sistema de forma continua, minimizando riesgos e incrementando la eficiencia del desarrollo.
+El pipeline de despliegue en producción para Cambiazo está diseñado para ser ágil, confiable y automatizado. Utiliza GitHub Actions como núcleo del CI/CD, desplegando el frontend en Netlify y el backend en Azure Web App, conectado a una base de datos Azure MySQL. Las pruebas con JUnit, Mockito, Selenium y Gherkin/Cucumber, junto con herramientas de monitoreo y análisis como Sentry y Azure Monitor, garantizan una entrega de software segura y de alta calidad. Este enfoque permite evolucionar el sistema de forma continua, minimizando riesgos e incrementando la eficiencia del desarrollo.
 
 <div style="page-break-after: always;"></div>
 
@@ -5148,7 +5145,7 @@ Durante esta etapa, se implementaron **baterías de pruebas automatizadas** para
 
 ### Capítulo VII – DevOps Practices
 
-Se implementaron **prácticas de integración, entrega y despliegue continuos** mediante un pipeline automatizado con GitHub Actions, asegurando un flujo de desarrollo ágil, confiable y reproducible. Este pipeline orquesta la construcción, prueba y despliegue del frontend (Netlify) y backend (Azure Web App), conectado a una base de datos en Azure MySQL. Durante la fase de **Continuous Integration**, se automatizó la compilación del código, ejecución de pruebas (unitarias con JUnit/Mockito, funcionales con Selenium, y de aceptación con Gherkin+Cucumber), validando cada cambio desde el commit hasta el pull request. Esto garantizó la estabilidad del sistema en todo momento. En la fase de **Continuous Delivery**, se configuraron entornos de previsualización en Netlify y Azure que replican condiciones de producción, permitiendo validar nuevas funcionalidades antes del merge definitivo. Esta estrategia facilitó un control riguroso sobre la calidad del software sin interrumpir el servicio. Finalmente, mediante **Continuous Deployment**, los cambios aprobados se desplegaron automáticamente en producción, manteniendo consistencia y trazabilidad. Herramientas como **Sentry**, **Azure Monitor** y **SonarQube** ofrecieron retroalimentación continua sobre errores, rendimiento y calidad del código, permitiendo una mejora constante basada en evidencia técnica. Esta infraestructura consolidó una cultura de DevOps enfocada en la **automatización**, **observabilidad** y **entregas incrementales de valor**.
+Se implementaron **prácticas de integración, entrega y despliegue continuos** mediante un pipeline automatizado con GitHub Actions, asegurando un flujo de desarrollo ágil, confiable y reproducible. Este pipeline orquesta la construcción, prueba y despliegue del frontend (Netlify) y backend (Azure Web App), conectado a una base de datos en Azure MySQL. Durante la fase de **Continuous Integration**, se automatizó la compilación del código, ejecución de pruebas (unitarias con JUnit/Mockito, funcionales con Selenium, y de aceptación con Gherkin+Cucumber), validando cada cambio desde el commit hasta el pull request. Esto garantizó la estabilidad del sistema en todo momento. En la fase de **Continuous Delivery**, se configuraron entornos de previsualización en Netlify y Azure que replican condiciones de producción, permitiendo validar nuevas funcionalidades antes del merge definitivo. Esta estrategia facilitó un control riguroso sobre la calidad del software sin interrumpir el servicio. Finalmente, mediante **Continuous Deployment**, los cambios aprobados se desplegaron automáticamente en producción, manteniendo consistencia y trazabilidad. Herramientas como **Sentry** y **Azure Monitor** ofrecieron retroalimentación continua sobre errores, rendimiento y calidad del código, permitiendo una mejora constante basada en evidencia técnica. Esta infraestructura consolidó una cultura de DevOps enfocada en la **automatización**, **observabilidad** y **entregas incrementales de valor**.
 
 
 ### Conclusión

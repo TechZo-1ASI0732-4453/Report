@@ -5404,7 +5404,27 @@ Esta sección presenta las pruebas fundamentales realizadas sobre el sistema cen
 ## 7.1. Continuous Integration
 
 ### 7.1.1. Tools and Practices
+
+En el campo del desarrollo y testing de software, resulta fundamental disponer de herramientas y metodologías que garanticen tanto la calidad del código como la eficiencia del equipo. En nuestros flujos de trabajo, utilizamos diversas herramientas que mejoran tanto el desarrollo como la verificación de la funcionalidad y el comportamiento esperado de las aplicaciones. Estas herramientas cubren diferentes etapas del ciclo de desarrollo de software, desde la codificación hasta la ejecución de tests y la automatización de procesos. 
+
+Implementamos las metodologías de Desarrollo Guiado por Comportamiento (BDD) y Desarrollo Guiado por Pruebas (TDD) para garantizar que nuestras soluciones satisfagan los requisitos del cliente mientras mantienen elevados estándares técnicos. Entre las principales herramientas que empleamos se encuentran:
+
+|**Herramienta**|**Tipo**|**Descripción**|**Propósito**|
+|------|----------|---------------|-------|
+|**J Unit**|Herramienta para pruebas (TDD)|Es un programa que ayuda a probar pequeñas partes de aplicaciones en Java.|Hace más fácil crear y ejecutar pruebas para asegurarse de que las funciones de los componentes funcionen como deberían.|
+|**Mockito**|Herramienta de simulaciones (TDD)|Permite crear versiones simuladas de otros componentes para hacer pruebas sin usar las versiones reales.|Imitar cómo se comportan objetos externos, lo cual es útil para hacer pruebas de forma efectiva.|
+|**Cucumber**|Herramienta de BDD|Ayuda a desarrollar programas centrándose en el comportamiento, usando un lenguaje simple llamado Gherkin para escribir ejemplos que todos entienden.|Crea y prueba ejemplos basados en cómo debería comportarse el sistema, asegurando que el desarrollo esté alineado con lo que necesita el negocio.|
+
+
 ### 7.1.2. Build & Test Suite Pipeline Components
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Build&TestSuitePipelineComponents/ControllerIntegrationTest.png?raw=true" alt="ControllerIntegrationTest">
+ </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Build&TestSuitePipelineComponents/ServiceUnitTest.png?raw=true" alt="ServiceUnitTest">
+  </div><br><br> Components
 
 ## 7.2. Continuous Delivery
 

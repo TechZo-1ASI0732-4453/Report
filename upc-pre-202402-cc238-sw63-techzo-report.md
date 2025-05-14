@@ -5127,6 +5127,44 @@ XXX Controller Tests
 ### 6.1.3. Core Behavior-Driven Development
 Las pruebas Behavior-Driven Development (BDD) permiten definir el comportamiento esperado del sistema desde la perspectiva del usuario, utilizando un lenguaje natural y estructurado. A través de archivos .feature, se describen escenarios que validan funcionalidades clave, facilitando la colaboración entre desarrolladores, testers y otros stakeholders. Esta técnica asegura que el software cumpla con los requisitos funcionales definidos y mantenga una comunicación clara en todo el equipo de desarrollo.
 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/general.png?raw=true" alt="Core General">
+ </div><br><br>
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core12.png?raw=true" alt="US12">
+ </div><br><br>
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core13.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core15.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core16.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core17.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core19.png?raw=true" alt="US12">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core22.png?raw=true" alt="US12">
+ </div><br><br>
+
+
 
 ### 6.1.4. Core System Tests
 
@@ -5239,7 +5277,8 @@ Esta sección presenta las pruebas fundamentales realizadas sobre el sistema cen
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreSystem/us12.png?raw=true" alt="US12">
  </div><br><br>
 
-
+|**ID**|**Nombre**|**Descripción**|
+|------|----------|---------------|
 |**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|
 
   <div align="center">

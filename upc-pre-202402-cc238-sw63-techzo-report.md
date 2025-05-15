@@ -44,41 +44,8 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|1.0|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se agregó la estructura inicial del proyecto.|
-|1.1|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
-|1.1.1|20/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Solution Profile|
-|1.1.2|20/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
-|1.1.3|20/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
-|1.2|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
-|1.2.1|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con las Entrevistas|
-|1.2.2|21/04/25|Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
-|1.2.3|22/04/25|Joseph Alexis Huamani Mandujano, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con los User Persona y User Task Matrix|
-|1.2.4|22/04/25|Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
-|1.2.5|22/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el As-is Scenario Mapping|
-|1.2.6|23/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al To-be|
-|1.2.7|23/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los Epics, User Stories y Technical Stories|
-|1.2.8|23/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Impact Mapping|
-|1.2.9|23/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con el Product Backlog|
-|1.3|24/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregaron los Objetivos SMART|
-|1.4|24/04/25|Joseph Alexis Huamani Mandujano, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregaron las conclusiones y la bibliografía|
-|1.5|24/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó el Student Outcome y la Tabla de Contenido|
-|2.0|24/04/25|Jeremy Joel Quispe Andia, Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se inició el Capítulo III: Arquitectura y se agregó contenido relacionado con los Style Guidelines|
-|2.1|24/04/25|Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con la Information Architecture|
-|2.1.1|24/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se comenzó con Mobile Applications UX/UI Design|
-|2.1.2|24/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Domain-Driven Software Architecture.|
-|2.1.3|24/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Object-Oriented Design|
-|2.1.4|25/04/25|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se comenzó con Landing Page UI Design.|
-|2.1.5|25/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se terminó de agregar Mobile Applications UX/UI Design |
-|2.1.6|25/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se terminó de agregar Landing Page UI Design.|
-|2.2|25/04/25|Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Configuration Management.|
-|2.2.1|25/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Sprint Planning 1|
-|2.2.2|25/04/25|Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Sprint Backlog|
-|2.2.3|25/04/25|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia, Mathias Andre Mendoza Carrion, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review|
-|2.2.4|25/04/25|Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review|
-|2.2.5|25/04/25|Ian Haziel Donato Santisteban Palomino, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint|
-|2.3|25/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado al Student Outcome, Conclusiones y Anexo|
-|3.0|25/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres|Se agregó la tabla de contenido para Capítulo V: Product Implementation & Validation|
-|4.8|25/04/25|Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Claudio Sandro Quispesivana Torres|Se agregó contenido relacionado con Conclusiones y Anexos.|
+|TB1|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Product Design y Capítulo V: Product Implementation, Validation & Deployment|
+|TP1|14/05/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Verification & Validation y Capítulo VII: DevOps Practices|
 
 <br><br>
 
@@ -231,24 +198,34 @@ software</td>
       <td colspan="3" align = "justify">
       <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
-      <p>Asumí un rol participativo en la definición del problema y en la formulación de hipótesis que sirvieron como base para el desarrollo del producto. Durante este proceso, reflexioné sobre la responsabilidad profesional que implica diseñar soluciones que impactan directamente en las personas. Me aseguré de mantener un enfoque ético al validar ideas y enfoques, teniendo siempre presente la importancia de tomar decisiones informadas y justas para el equipo y los usuarios.
-
-</p> 
+      <p>Asumí un rol participativo en la definición del problema y en la formulación de hipótesis que sirvieron como base para el desarrollo del producto. Durante este proceso, reflexioné sobre la responsabilidad profesional que implica diseñar soluciones que impactan directamente en las personas. Me aseguré de mantener un enfoque ético al validar ideas y enfoques, teniendo siempre presente la importancia de tomar decisiones informadas y justas para el equipo y los usuarios.</p> 
+      <b>TP</b> 
+      <p>Me enfoqué en definir los criterios de aceptación desde la perspectiva del usuario utilizando el enfoque BDD (Behavior-Driven Development), lo cual implicó asumir una responsabilidad ética al interpretar correctamente sus necesidades. Esto permitió diseñar pruebas que validaran comportamientos reales del sistema, garantizando que nuestras soluciones fueran coherentes con las expectativas de los usuarios. Además, en el desarrollo del pipeline de pruebas y construcción, prioricé la transparencia y trazabilidad en cada fase para asegurar entregables confiables y éticos.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Me involucré de manera activa en las tareas de investigación y análisis de los usuarios, donde fue fundamental mantener una postura ética y respetuosa en la recolección y uso de la información. A lo largo del proyecto, mostré responsabilidad profesional al tomar decisiones orientadas a resolver problemas reales, buscando siempre que las soluciones tuvieran un sustento claro y beneficiaran al usuario final. Fomenté dentro del equipo una actitud de compromiso y respeto con los objetivos del proyecto.</p>
+    <b>TP</b> 
+    <p>Durante esta entrega, asumí la tarea de implementar pruebas de integración que permitieran validar cómo interactúan los diferentes componentes del sistema. Esto implicó asumir un compromiso ético con la calidad del software, al evitar errores que puedan comprometer la experiencia del usuario. También seleccioné herramientas de CI que promovieran la automatización responsable del proyecto, fomentando prácticas que garanticen resultados reproducibles y decisiones basadas en evidencia técnica.</p> 
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Colaboré de manera constante en la coordinación de tareas y toma de decisiones, procurando mantener una cultura de trabajo en equipo donde la ética profesional fuera un pilar fundamental. Promoví la comunicación clara y el respeto por los tiempos y aportes de todos, lo cual fue clave para tomar decisiones responsables en el diseño y validación de las propuestas. En cada etapa, busqué que nuestras acciones tuvieran coherencia con los valores del proyecto.</p>
+    <b>TP</b> 
+    <p>Fui responsable de las pruebas de sistema, asegurándome de que el producto cumpliera con los requisitos funcionales y no funcionales definidos previamente. Esta tarea exigió un compromiso ético para no omitir validaciones críticas. También coordiné la configuración de los entornos por etapas en el pipeline de despliegue, buscando garantizar una transición progresiva y segura hacia la producción. Esto implicó decisiones responsables para minimizar impactos negativos hacia los usuarios.</p> 
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Durante la elaboración del producto, participé activamente en la priorización de requerimientos y planificación de entregables. Me aseguré de que las decisiones que tomábamos estuvieran respaldadas por las necesidades reales de los usuarios y no por supuestos o tendencias pasajeras. Asumí con responsabilidad el impacto que nuestras decisiones podían tener, tanto en el resultado final como en la experiencia del usuario, guiándome por principios éticos y profesionales.</p>
+    <b>TP</b> 
+    <p>Me enfoqué en el diseño e implementación de pruebas unitarias para las entidades principales del sistema. Esto supuso una responsabilidad ética al garantizar que cada módulo individual funcione correctamente, evitando efectos colaterales que afecten al conjunto. En paralelo, contribuí en la definición de herramientas de Continuous Delivery, seleccionando aquellas que ofrecieran mayor confiabilidad y trazabilidad, facilitando decisiones técnicas acordes con nuestras responsabilidades profesionales.</p> 
     <h3>Claudio Sandro Quispesivana Torres</h3>
     <b>TB1</b>
     <p>En las tareas relacionadas al diseño colaborativo del producto, incluyendo base de datos y desarrollo de interfaces, actué con responsabilidad y conciencia profesional, asegurándome de que cada decisión respondiera a necesidades reales y no generara problemas éticos ni técnicos en el futuro. Promoví un enfoque reflexivo dentro del equipo para que el desarrollo del producto se realizara con un compromiso ético constante y orientado al beneficio del usuario.</p>
+    <b>TP</b> 
+    <p>Aporté en la ejecución de pruebas de integración con un enfoque orientado a prevenir fallos en la interacción entre componentes. Este trabajo me llevó a reflexionar sobre la importancia de anticipar errores antes de llegar al usuario final, reforzando así mi compromiso profesional. Además, participé en la definición de buenas prácticas para el despliegue continuo, enfocándome en herramientas que prioricen la estabilidad, seguridad y trazabilidad de las entregas.</p> 
     <td colspan="3">
     <b>TB1</b>
     <p>Al finalizar este primer tramo del proyecto, nuestro equipo ha demostrado una clara conciencia sobre la responsabilidad ética y profesional que implica el desarrollo de soluciones de software. A lo largo de las actividades realizadas, desde la definición del problema hasta las decisiones tomadas durante la propuesta de valor, cada integrante ha mostrado un compromiso genuino por actuar con integridad, transparencia y respeto hacia los usuarios y hacia el trabajo colaborativo. Este enfoque responsable ha sido clave para construir una base sólida que garantice no solo la calidad técnica del producto, sino también su pertinencia social y su viabilidad en contextos reales. El haber abordado cada etapa con ética profesional ha fortalecido la confianza entre nosotros y con los objetivos del proyecto, reafirmando que las buenas prácticas y la reflexión crítica son esenciales para nuestro crecimiento como futuros ingenieros de software.</p>
+    <b>TP</b>
+    <p>En esta fase del proyecto, asumimos con responsabilidad ética y profesional la implementación de pruebas y prácticas DevOps como parte fundamental del proceso de desarrollo. Nos comprometimos a garantizar la calidad del producto mediante pruebas unitarias, de integración y de sistema que no solo verificaran el funcionamiento correcto, sino que también protegieran a los usuarios de posibles fallos. Además, reflexionamos sobre la importancia de automatizar procesos con transparencia, confiabilidad y trazabilidad, reconociendo que cada decisión técnica conlleva una responsabilidad hacia quienes utilizan el software. La ética estuvo presente en cada etapa al promover la colaboración, documentar adecuadamente nuestras acciones y tomar decisiones justas que favorezcan al equipo y a los usuarios finales. Esta entrega fortaleció nuestra conciencia profesional sobre el impacto que tiene nuestro trabajo, no solo a nivel técnico, sino también humano.</p>
   </td>
     </tr>
     <tr>
@@ -262,22 +239,34 @@ sociales</td>
       <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
     <p>Aporté activamente en la evaluación crítica de nuestras decisiones, buscando que cada elección técnica también respondiera a criterios de sostenibilidad, accesibilidad y viabilidad. Analizamos las condiciones en las que nuestros usuarios podrían interactuar con el producto, considerando incluso limitaciones económicas o sociales, y ajustamos nuestras propuestas para asegurar que fueran realmente útiles y aplicables. Esta reflexión nos ayudó a tomar decisiones más informadas y con mayor conciencia del entorno.</p>
+        <b>TP</b> 
+    <p>Durante el diseño de nuestras pruebas de integración, cuestioné cómo el sistema respondería en entornos con restricciones económicas o tecnológicas. Ajustamos nuestras decisiones para que los módulos pudieran desplegarse de forma modular y escalonada. Además, al evaluar herramientas para despliegue continuo, procuré que fueran compatibles con entornos en la nube de bajo costo, fomentando una implementación sostenible y adaptable a distintas realidades globales y locales.</p> 
       <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante el desarrollo del proyecto, participé en el análisis de los usuarios y sus entornos, considerando los distintos factores que podían influir en el uso y adopción de nuestra solución. Junto con mi equipo, tomamos decisiones con una mirada amplia, reflexionando sobre cómo nuestras propuestas podrían generar un impacto positivo no solo en el usuario inmediato, sino también en un contexto social más amplio. Este enfoque permitió construir una solución más equilibrada y responsable.</p>
+    <b>TP</b> 
+    <p>Reflexioné sobre cómo nuestros escenarios de pruebas basados en comportamientos debían ser representativos del contexto real de nuestros usuarios. Para ello, analizamos condiciones de uso en comunidades con acceso limitado a tecnología moderna y adaptamos nuestras validaciones para mantener la funcionalidad bajo esas condiciones. Además, en la construcción del pipeline, me aseguré de que las herramientas seleccionadas fueran accesibles y de bajo costo, considerando la posibilidad de replicar este modelo en organizaciones con recursos reducidos.</p> 
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Me enfoqué en mantener una perspectiva amplia al momento de diseñar las propuestas del equipo. Analizamos el impacto que podía tener nuestro producto en diferentes contextos, ajustando decisiones para adaptarnos a realidades diversas y evitar exclusiones. Esta postura nos permitió tomar decisiones más conscientes, buscando que nuestro trabajo fuera no solo funcional, sino también socialmente útil y económicamente viable para los usuarios a los que apuntábamos.</p>
+    <b>TP</b> 
+    <p>Evalué cómo nuestras decisiones técnicas influían en el mantenimiento y escalabilidad del sistema, particularmente en contextos con infraestructura limitada. Al diseñar pruebas de integración, prioricé que estas fueran eficientes y reutilizables, para reducir el consumo de recursos en futuras iteraciones. En cuanto a herramientas de integración continua, optamos por aquellas de código abierto, reconociendo su valor en entornos con restricciones económicas y su potencial para fomentar el acceso a tecnología sostenible.</p> 
       <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Contribuí en la toma de decisiones considerando los recursos con los que contábamos y los posibles escenarios en los que se utilizaría el producto. Evaluamos qué tan sostenibles y adaptables eran nuestras soluciones y tomamos decisiones equilibradas entre lo técnico y lo social. Este análisis nos permitió anticipar posibles consecuencias y asegurarnos de que el impacto de nuestro producto fuera positivo en distintos niveles.</p>
+    <b>TP</b> 
+    <p>En el diseño de pruebas de sistema, consideré cómo estas validaciones asegurarían un producto accesible y robusto para usuarios con diversas condiciones sociales y tecnológicas. Analicé el impacto que podría tener un fallo en entornos con conectividad limitada o infraestructura deficiente. Asimismo, al diseñar el pipeline de despliegue por etapas, busqué una estrategia que permitiera un avance controlado y que minimizara riesgos para las comunidades donde se implementaría el sistema.</p> 
     <h3>Claudio Sandro Quispesivana Torres</h3>
     <b>TB1</b>
     <p>Durante la construcción de las distintas partes del producto, mantuvimos como equipo una mirada reflexiva sobre el entorno donde se aplicaría. Aporté en discusiones donde evaluamos cómo nuestras decisiones podían tener efectos a nivel social, económico e incluso ambiental. Esta perspectiva nos permitió desarrollar una solución más inclusiva, adaptada a contextos reales y con un impacto duradero, más allá del cumplimiento técnico.</p>
+    <b>TP</b> 
+    <p>En la implementación de pruebas unitarias, consideré cómo la validación detallada de nuestras entidades fundamentales podía contribuir a un producto más estable y duradero. Pensamos en el largo plazo, con miras a minimizar el desperdicio de recursos por correcciones futuras. En paralelo, al proponer herramientas de delivery continuo, privilegié aquellas que promueven automatización eficiente y reducen la necesidad de intervención constante, permitiendo a equipos con menor capacidad técnica mantener el sistema operativo y actualizado.</p> 
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>A lo largo de este primer hito, nuestro equipo ha consolidado una mirada crítica y reflexiva al momento de tomar decisiones técnicas, considerando en todo momento los impactos potenciales de nuestras soluciones en diferentes contextos. Hemos aprendido a analizar no solo los aspectos funcionales del producto, sino también cómo este puede influir en las personas, en los entornos sociales y económicos, y en la sostenibilidad de su implementación. Esta capacidad de emitir juicios informados nos ha permitido construir propuestas más inclusivas y adaptadas a realidades diversas, incrementando el valor del producto desde una perspectiva humana y contextual. El ejercicio constante de evaluar consecuencias y ajustar decisiones ha sido fundamental para desarrollar una solución equilibrada y responsable, reforzando nuestro compromiso con un desarrollo de software que genere un impacto positivo y duradero.</p>
+    <b>TP</b>
+    <p>Durante esta etapa del proyecto, nuestro equipo adoptó un enfoque consciente al implementar prácticas de testing y DevOps, evaluando constantemente el impacto que estas decisiones técnicas podían tener más allá del producto en sí. Al diseñar suites de prueba y pipelines de despliegue, consideramos variables como la sostenibilidad, la accesibilidad tecnológica y la viabilidad económica, especialmente en contextos donde los recursos son limitados. Priorizamos herramientas abiertas y prácticas escalables que puedan ser replicadas en entornos diversos, promoviendo así una ingeniería de software más equitativa. Esta reflexión nos permitió anticipar desafíos sociales y técnicos, y ajustar nuestras soluciones para que sean resilientes, accesibles y responsables, fortaleciendo nuestro compromiso con un desarrollo tecnológico consciente del entorno global y local.</p>
   </td>
     </tr>
   </tbody>
@@ -4392,10 +4381,10 @@ Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utiliza
 
 El objetivo de este primer sprint fue desarrollar y completar por completo el backend de la aplicación, encargado de gestionar datos clave como los objetos de intercambio, productos favoritos, suscripciones y reseñas, garantizando un funcionamiento eficiente. Además, se finalizó el desarrollo de la landing page, estableciendo una base sólida para la presentación del proyecto y futuras funcionalidades avanzadas.
 
-Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4167d99/ATTI3148cf1d5398db1216af7f1c51dbd219F3CEDE32/techzo-cambiazo)<br><br>
+Enlace: [Sprints Backlogs Trello](https://trello.com/invite/b/68253f6b5a6b20fec48a9604/ATTIb8b2ae680b376e13193cf896e7e49970C1F19E6C/cambiazo-diseno)<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprints.png?raw=true" alt="sprints">
 </div><br><br>
 
 **Sprint 1 - Backend**
@@ -5571,25 +5560,6 @@ Exchange Controller Tests
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/controller1.png?raw=true" alt="Controller Tests">
  </div><br><br>
 
-XXX Controller Tests
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/controller2.png?raw=true" alt="Controller Tests">
- </div><br><br>
-
-XXX Controller Tests
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/controller3.png?raw=true" alt="Controller Tests">
- </div><br><br>
-
-XXX Controller Tests
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/controller4.png?raw=true" alt="Controller Tests">
- </div><br><br>
-
-
 ### 6.1.3. Core Behavior-Driven Development
 Las pruebas Behavior-Driven Development (BDD) permiten definir el comportamiento esperado del sistema desde la perspectiva del usuario, utilizando un lenguaje natural y estructurado. A través de archivos .feature, se describen escenarios que validan funcionalidades clave, facilitando la colaboración entre desarrolladores, testers y otros stakeholders. Esta técnica asegura que el software cumpla con los requisitos funcionales definidos y mantenga una comunicación clara en todo el equipo de desarrollo.
 
@@ -5629,7 +5599,6 @@ Las pruebas Behavior-Driven Development (BDD) permiten definir el comportamiento
    <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core22.png?raw=true" alt="US22">
  </div><br><br>
-
 
 
 ### 6.1.4. Core System Tests
@@ -5934,7 +5903,6 @@ Esta sección describe los componentes encargados de compilar el proyecto y ejec
   </div><br><br>
 
 ## 7.2. Continuous Delivery
-
 ### 7.2.1. Tools and Practices
 
 En el contexto de **Continuous Delivery**, se emplean herramientas y metodologías que permiten automatizar todas las etapas del ciclo de desarrollo y entrega, exceptuando el despliegue final en producción, que queda bajo control manual. Esto permite garantizar que el software esté siempre en un estado desplegable, manteniendo a la vez una capa de revisión y validación humana antes de su liberación definitiva.
@@ -6132,7 +6100,9 @@ Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
 
 + Landing Page: [Ver Landing Page](https://cambiazo-site.netlify.app/)<br><br>
 
-+ Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)<br><br>
++ Aplicación Web: [Ver Aplicación Web](https://cambia-zo.netlify.app/home)<br><br>
+
++ Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#)<br><br>
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0732-4453)<br><br>
 

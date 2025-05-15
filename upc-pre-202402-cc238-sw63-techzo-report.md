@@ -4534,7 +4534,7 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
 <br><br>
 
 ### 5.2.2 Implemented Landing Page Evidence
-Durante el Sprint 1, se completó y desplegó exitosamente la landing page del proyecto **CambiaZo**. Esta página presenta el modelo de negocio, integra una barra de navegación funcional, secciones informativas clave y un formulario de contacto operativo que permite a los usuarios dejar su información de manera efectiva.
+Durante el desarrollo de los Sprints, se completó y desplegó exitosamente la landing page del proyecto **CambiaZo**. Esta página presenta el modelo de negocio, integra una barra de navegación funcional, secciones informativas clave y un formulario de contacto operativo que permite a los usuarios dejar su información de manera efectiva.
 
 El sitio fue desarrollado aplicando principios de *Responsive Web Design* para asegurar una experiencia de usuario óptima en dispositivos móviles, tabletas y computadoras de escritorio. Las pruebas de visualización en múltiples resoluciones confirmaron su correcto funcionamiento.
 
@@ -4569,13 +4569,46 @@ A continuación, se presentan las imágenes que evidencian los avances logrados 
 
 
 ### 5.2.3 Implemented Frontend-Web Application Evidence
-Durante el Sprint 1, el enfoque del equipo se centró en la implementación y despliegue de la **Landing Page** y en los **servicios RESTful API** que conforman la capa backend de la solución. Por tal motivo, **no se realizó el desarrollo funcional del frontend de la aplicación web principal** en esta etapa.
+Durante los sprints del proyecto, el equipo logró implementar completamente la aplicación web frontend, incorporando todas las funcionalidades clave relacionadas con el intercambio y la donación de objetos.
 
-No obstante, se avanzó significativamente en el **prototipado de la interfaz de usuario** utilizando la herramienta **Figma**, lo que permitió definir la estructura visual, la distribución de los componentes y la navegación esperada dentro de la aplicación. Estos prototipos fueron presentados en una sección anterior del documento como parte de la planificación del producto.
+Se desarrollaron interfaces intuitivas y responsivas que permiten a los usuarios navegar por las publicaciones disponibles, realizar ofertas de intercambio, donar artículos a organizaciones registradas y gestionar sus perfiles personales. Además, se integraron componentes para la autenticación de usuarios, la visualización de reseñas y la gestión de favoritos, asegurando una experiencia de usuario completa y coherente con los objetivos planteados.
 
-Gracias a este avance en el diseño, se encuentran sentadas las bases para iniciar el desarrollo del frontend en los próximos Sprints, asegurando coherencia entre la lógica de negocio implementada en la API y la experiencia de usuario planeada.
+El desarrollo del frontend se realizó en estrecha coordinación con los servicios de la API RESTful previamente construida, garantizando una interacción fluida entre la lógica de negocio y la interfaz gráfica. La implementación fue guiada por los prototipos diseñados en Figma, asegurando que la estructura visual y la experiencia de usuario planificada se mantuvieran durante toda la ejecución.
 
-Se estima que el desarrollo del **Frontend Web Application** comience en el **Sprint 2**, con la integración de funcionalidades clave como autenticación de usuarios, visualización de publicaciones y gestión de perfiles.
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front1.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front2.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front4.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front5.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front6.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front7.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front8.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front9.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front10.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front101.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front11.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front12.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front13.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front14.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front15.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front16.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front17.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front18.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front19.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front20.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front21.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front22.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front23.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front24.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front25.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front26.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front27.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front28.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front29.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front30.png?raw=true" alt="app web"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front31.png?raw=true" alt="app web"><br>
+</div>
 
 <br><br>
 
@@ -5099,7 +5132,7 @@ Review Service Tests
 ### 6.1.2. Core Integration Tests
 Las pruebas de integración del núcleo del sistema están orientadas a validar que los controladores interactúen correctamente con otros componentes clave, como servicios, repositorios y bases de datos. Estas pruebas permiten asegurar que las rutas y operaciones definidas respondan como se espera, tanto en escenarios exitosos como en condiciones de error. Al verificar la coordinación entre los distintos módulos del backend, se mejora la solidez de la aplicación, se garantiza una adecuada gestión de errores mediante códigos de estado precisos, y se contribuye al desarrollo de un sistema confiable, mantenible y alineado con buenas prácticas de arquitectura.
 
-XXX Controller Tests
+Exchange Controller Tests
 
   <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/controller1.png?raw=true" alt="Controller Tests">

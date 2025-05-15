@@ -5132,36 +5132,36 @@ Las pruebas Behavior-Driven Development (BDD) permiten definir el comportamiento
  </div><br><br>
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core12.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core12.png?raw=true" alt="US12">
  </div><br><br>
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core13.png?raw=true" alt="US12">
- </div><br><br>
-
-
-   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core15.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core13.png?raw=true" alt="US13">
  </div><br><br>
 
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core16.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core15.png?raw=true" alt="US15">
  </div><br><br>
 
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core17.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core16.png?raw=true" alt="US16">
  </div><br><br>
 
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core19.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core17.png?raw=true" alt="US17">
  </div><br><br>
 
 
    <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreIntegration/core22.png?raw=true" alt="US12">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core19.png?raw=true" alt="US19">
+ </div><br><br>
+
+
+   <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Testing/CoreBehavior/core22.png?raw=true" alt="US22">
  </div><br><br>
 
 
@@ -5456,6 +5456,8 @@ Implementamos las metodologías de Desarrollo Guiado por Comportamiento (BDD) y 
 
 
 ### 7.1.2. Build & Test Suite Pipeline Components
+Esta sección describe los componentes encargados de compilar el proyecto y ejecutar las pruebas automatizadas, asegurando que el código sea funcional y estable antes de ser desplegado.
+
 
   <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Build&TestSuitePipelineComponents/ControllerIntegrationTest.png?raw=true" alt="ControllerIntegrationTest">

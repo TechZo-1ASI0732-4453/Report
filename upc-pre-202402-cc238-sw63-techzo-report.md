@@ -4398,6 +4398,81 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprint1-Trello.png?raw=true" alt="sprint 1">
 </div><br><br>
 
+**Sprint 1 - Backend**
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API User</td>
+    <td>WI-01</td>
+    <td>Metodos CRUD para Usuarios</td>
+    <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
+    <td>10</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS02</td>
+    <td rowspan="1">API Exchanges</td>
+    <td>WI-04</td>
+    <td>Metodos CRUD para Intercambios</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de intercambios, permitiendo a los usuarios manejar y organizar sus intercambios segun sus necesidades.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS03</td>
+    <td rowspan="1">API ONGs</td>
+    <td>WI-02</td>
+    <td>Metodos CRUD para ongs</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla Ongs y gestionar las Ongs de los usuarios.</td>
+    <td>10</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS02</td>
+    <td rowspan="1">API Review</td>
+    <td>WI-02</td>
+    <td>Metodos CRUD para reseñas</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
+    <td>10</td>
+    <td>Sandro Quispesivana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS05</td>
+    <td rowspan="1">API Memberships</td>
+    <td>WI-05</td>
+    <td>Metodos CRUD para membresias</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
+    <td>10</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+</tr>
+</tbody>
+</table>
+
+**Sprint 1 - Product**
+
 <table>
 <thead>
   <tr>
@@ -4416,120 +4491,428 @@ Enlace: [Sprint Backlog 1 Trello](https://trello.com/invite/b/680ab573e244983ab4
     <td>Assigned<br>to</td>
     <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
   </tr>
-    <tr>
-    <td rowspan="1">US25</td>
-    <td rowspan="1">Visualización de la Historia de la Startup<br></td>
+  <tr>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registro<br>de<br>usuario</td>
     <td>WI-01</td>
-    <td>Sección “¿Quiénes somos?”</td>
-    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
-    <td>1</td>
-    <td>Sandro Quispesivana</td>
+    <td>Sección<br>para<br>nuevos<br>usuarios</td>
+    <td>Implem<br>entación<br>de una<br>pantalla de<br>registro donde<br>nuevos usuarios<br>puedan sumarse<br>a CambiaZo.</td>
+    <td>6</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US03</td>
+    <td rowspan="1">Iniciar<br>sesión<br>en la<br>aplicación</td>
+    <td>WI-02</td>
+    <td>Pantalla<br>de<br>inicio<br>de<br>sesión</td>
+    <td>Se crea una<br>pantalla en<br>la cual el<br>usuario podrá<br>ingresar a la<br>aplicación cuando<br>introduzca el<br>correo con el<br>que creó su<br>cuenta y su<br>contraseña.</td>
+    <td>2</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US06</td>
+    <td rowspan="1">Filtrado<br>de<br>Objetos</td>
+    <td>WI-03</td>
+    <td>Implem<br>entación<br>de<br>un<br>filtro<br>de<br>búsqueda</td>
+    <td>Implementar<br>un filtro<br>de búsqueda<br>para que<br>los usuarios<br>puedan encontrar<br>de forma más<br>rápida los<br>objetos de su<br>interés.</td>
+    <td>10</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US16</td>
+    <td rowspan="1">Visualización<br>de<br>objetos<br>disponibles<br>para<br>intercambio</td>
+    <td>WI-04</td>
+    <td>Listar<br>los<br>objetos<br>disponibles</td>
+    <td>Creación de<br>una sección<br>en la que<br>los usuarios<br>registrados<br>puedan ver<br>los objetos<br>por los que<br>pueden<br>realizar un<br>intercambio.</td>
+    <td>10</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US25</td>
+    <td rowspan="1">Visualización<br>de la<br>Historia<br>de la<br>Startup</td>
+    <td>WI-05</td>
+    <td>Sección<br>“¿Quiénes<br>somos?”</td>
+    <td>Implementación<br>de la<br>sección<br>“¿Quiénes<br>somos?”<br>y las<br>redes<br>sociales y<br>datos de<br>contacto en<br>el footer.</td>
+    <td>2</td>
+    <td>Sandro<br>Quispesivana</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US26</td>
-    <td rowspan="1">Visualizar las características clave de la aplicación
-    </td>
-    <td>WI-02</td>
-    <td>Sección Características Principales
-    </td>
-    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
-    <td>2</td>
-    <td>Mathias Mendoza</td>
+    <td rowspan="1">Visualizar<br>las<br>características<br>clave<br>de la<br>aplicación</td>
+    <td>WI-06</td>
+    <td>Sección<br>Caracte<br>rísticas<br>Principales</td>
+    <td>Desarrollo<br>de la<br>sección donde<br>se pueden<br>visualizar todas<br>las características<br>principales de<br>CambiaZo y<br>conocer lo que<br>puede realizar<br>dentro de<br>esta.</td>
+    <td>4</td>
+    <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US27</td>
-    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
-    <td>WI-03</td>
-    <td>Formulario de contacto</td>
-    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
-    <td>5</td>
-    <td>Ian Santisteban</td>
+    <td rowspan="1">Acceder<br>a un<br>formulario<br>para llenar<br>mis datos<br>de contacto<br>y recibir<br>noticias<br>relacionadas<br>con CambiaZo</td>
+    <td>WI-07</td>
+    <td>Formulario<br>de<br>contacto</td>
+    <td>Desarrollo<br>del formulario<br>para que<br>los usuarios<br>llenen sus<br>datos de<br>contacto y<br>puedan recibir<br>noticias<br>relacionadas<br>con CambiaZo.</td>
+    <td>10</td>
+    <td>Ian<br>Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US28</td>
-    <td rowspan="1">Acceder a la página principal de CambiaZo</td>
-    <td>WI-04</td>
-    <td>Conectar Landing Page con la Web</td>
-    <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a la Web de CambiaZo.</td>
-    <td>2</td>
-    <td>Joseph Huamani</td>
+    <td rowspan="1">Descargar<br>la aplicación<br>de<br>CambiaZo</td>
+    <td>WI-08</td>
+    <td>Redireccionar<br>a<br>Google<br>Play<br>Store</td>
+    <td>Implementación<br>de botones<br>que sirvan<br>para<br>redire<br>ccionar<br>a los<br>usuarios de<br>la Landing<br>Page a<br>Google Play<br>Store para<br>que descarguen<br>la aplicación.</td>
+    <td>4</td>
+    <td>Joseph<br>Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US29</td>
-    <td rowspan="1">Ver los planes y precios</td>
-    <td>WI-05</td>
-    <td>Sección de planes y precios</td>
-    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
-    <td>3</td>
-    <td>Jeremy Quispe</td>
+    <td rowspan="1">Ver<br>los<br>planes<br>y<br>precios</td>
+    <td>WI-09</td>
+    <td>Sección<br>de<br>planes<br>y<br>precios</td>
+    <td>Desarrollo<br>de la<br>sección de<br>planes,<br>donde<br>aparezcan<br>los precios<br>de cada<br>plan y lo<br>que incluye<br>cada uno.</td>
+    <td>6</td>
+    <td>Jeremy<br>Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US30</td>
-    <td rowspan="1">Navegación en la Landing Page</td>
-    <td>WI-06</td>
-    <td>Barra de Navegación</td>
-    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
-    <td>3</td>
-    <td>Sandro Quispesivana</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">TS01</td>
-    <td rowspan="1">API User</td>
-    <td>WI-07</td>
-    <td>Creación de la API de usuarios</td>
-    <td>Se crea una API que permite el registro de usuarios dentro de la aplicación web. </td>
-    <td>8</td>
-    <td>Sandro Quispesivana</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">TS02</td>
-    <td rowspan="1">API Review</td>
-    <td>WI-08</td>
-    <td>Metodos CRUD para reseñas</td>
-    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla reseñas y gestionar las opiniones de los usuarios.</td>
-    <td>10</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">TS03</td>
-    <td rowspan="1">API Ongs</td>
-    <td>WI-09</td>
-    <td>Metodos CRUD para ongs</td>
-    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para manejar los datos de la tabla Ongs y gestionar las Ongs de los usuarios.</td>
-    <td>10</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="1">TS01</td>
-    <td rowspan="1">API Memberships</td>
+    <td rowspan="1">Navegación<br>en la<br>Landing<br>Page</td>
     <td>WI-10</td>
-    <td>Metodos CRUD para membresías</td>
-    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de membresías, permitiendo a los usuarios suscribirse a diferentes planes.</td>
-    <td>10</td>
-    <td>Mathias Mendoza</td>
-    <td>Done</td>
-  </tr>
-    <tr>
-    <td rowspan="1">TS05</td>
-    <td rowspan="1">API Object</td>
-    <td>WI-11</td>
-    <td>Creación de la API de productos </td>
-    <td> Se crea una API que permite el registro de productos dentro de la aplicación web. </td>
-    <td>8</td>
-    <td>Joseph Huamani</td>
+    <td>Barra<br>de<br>Navegación</td>
+    <td>Implementación<br>de una<br>barra de<br>navegación<br>para que<br>el usuario<br>pueda<br>desplazarse<br>más rápido<br>dentro de<br>la Landing<br>Page.</td>
+    <td>6</td>
+    <td>Mathias<br>Mendoza</td>
     <td>Done</td>
   </tr>
 </tbody>
 </table>
+
+**Sprint 2 - Product**
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation<br>(Hours)</td>
+    <td>Assigned<br>to</td>
+    <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US02</td>
+    <td rowspan="1">Editar<br>perfil<br>del<br>usuario</td>
+    <td>WI-01</td>
+    <td>Sección<br>de<br>perfil</td>
+    <td>Implementación de una pantalla que permita a los usuarios editar su información de perfil.</td>
+    <td>4</td>
+    <td>Sandro<br>Quispesivana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US05</td>
+    <td rowspan="1">Cerrar<br>sesión</td>
+    <td>WI-02</td>
+    <td>Funcionalidad<br>de<br>cerrar<br>sesión</td>
+    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
+    <td>2</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US10</td>
+    <td rowspan="1">Visualización<br>de<br>artículos<br>publicados<br>para<br>intercambio</td>
+    <td>WI-03</td>
+    <td>Listar<br>artículos<br>publicados</td>
+    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
+    <td>4</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US11</td>
+    <td rowspan="1">Realización<br>de<br>una<br>oferta<br>de<br>intercambio</td>
+    <td>WI-04</td>
+    <td>Funcionalidad<br>de<br>oferta<br>de<br>intercambio</td>
+    <td>Implementar la opción para que los usuarios realicen ofertas de intercambio.</td>
+    <td>6</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US12</td>
+    <td rowspan="1">Crear<br>publicación<br>de<br>intercambio</td>
+    <td>WI-05</td>
+    <td>Pantalla<br>de<br>creación<br>de<br>publicación</td>
+    <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
+    <td>10</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US14</td>
+    <td rowspan="1">Eliminar<br>publicación<br>de<br>intercambio</td>
+    <td>WI-06</td>
+    <td>Funcionalidad<br>de<br>eliminación<br>de<br>publicación</td>
+    <td>Implementar la opción para que los usuarios eliminen sus publicaciones.</td>
+    <td>4</td>
+    <td>Mathias<br>Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US15</td>
+    <td rowspan="1">Gestión<br>de<br>intercambios</td>
+    <td>WI-07</td>
+    <td>Funcionalidad<br>de<br>gestión<br>de<br>intercambios</td>
+    <td>Desarrollar la funcionalidad para gestionar los intercambios realizados.</td>
+    <td>6</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US17</td>
+    <td rowspan="1">Visualizar el<br>perfil del<br>usuario que<br>publique un<br> producto	</td>
+    <td>WI-08</td>
+    <td>Funcionalidad<br>de<br>vizualizar<br>perfil</td>
+    <td>Implementar la opción para que los usuarios vean los perfiles de los demas usuarios.</td>
+    <td>6</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US18</td>
+    <td rowspan="1">Aceptar<br>o<br>rechazar<br>un<br>intercambio</td>
+    <td>WI-09</td>
+    <td>Funcionalidad<br>de<br>aceptar<br>o<br>rechazar</td>
+    <td>Desarrollar la opción para que los usuarios acepten o rechacen los intercambios.</td>
+    <td>6</td>
+    <td>Sandro<br>Quispesivana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US19</td>
+    <td rowspan="1">Ver la<br>información<br>detallada<br>de un<br>producto<br>publicado</td>
+    <td>WI-10</td>
+    <td>Funcionalidad<br>de<br>detalles<br>del<br>producto</td>
+    <td>Implementar la opción para que los usuarios vean información detallada de un producto.</td>
+    <td>10</td>
+    <td>Jeremy<br>Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US23</td>
+    <td rowspan="1">Gestionar<br>mis<br>favoritos<br>en la<br>aplicación</td>
+    <td>WI-11</td>
+    <td>Funcionalidad<br>de<br>favoritos</td>
+    <td>Implementar la opción para que los usuarios gestionen sus artículos favoritos.</td>
+    <td>6</td>
+    <td>Joseph<br>Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US24</td>
+    <td rowspan="1">Ver<br>reseñas<br>recibidas</td>
+    <td>WI-12</td>
+    <td>Funcionalidad<br>de<br>reseñas</td>
+    <td>Implementar la opción para que los usuarios vean las reseñas que han recibido.</td>
+    <td>6</td>
+    <td>Ian<br>Santisteban</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
+**Sprint 3 - Product**
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estim<br>ation<br>(Hours)</td>
+      <td>Assigned<br>to</td>
+      <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US04</td>
+      <td rowspan="1">Cambiar<br>Contraseña</td>
+      <td>WI-01</td>
+      <td>Funcionalidad<br>de<br>cambiar<br>contraseña</td>
+      <td>Implementación de la opción para que los usuarios cambien su contraseña.</td>
+      <td>4</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US08</td>
+      <td rowspan="1">Brindar<br>reseña<br>sobre<br>Intercambiador</td>
+      <td>WI-02</td>
+      <td>Funcionalidad<br>de<br>reseñas</td>
+      <td>Permitir a los usuarios dejar una reseña sobre su experiencia con el intercambiador.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US09</td>
+      <td rowspan="1">Eliminación<br>de cuenta</td>
+      <td>WI-03</td>
+      <td>Funcionalidad<br>de<br>eliminar<br>cuenta</td>
+      <td>Permitir a los usuarios eliminar su cuenta y datos de forma permanente.</td>
+      <td>6</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US13</td>
+      <td rowspan="1">Editar<br>publicación<br>de intercambio</td>
+      <td>WI-04</td>
+      <td>Funcionalidad<br>de editar<br>publicación</td>
+      <td>Permitir a los usuarios editar una publicación existente.</td>
+      <td>6</td>
+      <td>Jeremy<br>Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US20</td>
+      <td rowspan="1">Adquirir<br>suscripción<br>premium</td>
+      <td>WI-05</td>
+      <td>Funcionalidad<br>de adquirir<br>suscripción</td>
+      <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
+      <td>16</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US21</td>
+      <td rowspan="1">Cancelar<br>suscripción</td>
+      <td>WI-06</td>
+      <td>Funcionalidad<br>de cancelar<br>suscripción</td>
+      <td>Permitir a los usuarios cancelar su suscripción premium en cualquier momento.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+**Sprint 4 - Product**
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estim<br>ation<br>(Hours)</td>
+      <td>Assigned<br>to</td>
+      <td>Status<br>(To-do /<br>InProcess /<br>ToReview /<br>Done)</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US01</td>
+      <td rowspan="1">Registro<br>de usuario</td>
+      <td>WI-01</td>
+      <td>Diferenciación<br>de tipo de<br>registro</td>
+      <td>Implementar una validación en el proceso de registro para marcar si la cuenta es con Google o con correo tradicional, almacenando esta información para personalizar la experiencia del usuario.</td>
+      <td>6</td>
+      <td>Joseph<br>Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US02</td>
+      <td rowspan="1">Editar<br>perfil del usuario</td>
+      <td>WI-02</td>
+      <td>Edición de<br>perfil para Google</td>
+      <td>Evitar la edición del correo en caso de que la cuenta esté vinculada con Google, asegurando la consistencia de los datos.</td>
+      <td>4</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US03</td>
+      <td rowspan="1">Iniciar<br>sesión</td>
+      <td>WI-03</td>
+      <td>Inicio de sesión<br>con Google</td>
+      <td>Integrar la opción para iniciar sesión con Google y almacenar los detalles de la cuenta en caché para acceso rápido.</td>
+      <td>2</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US04</td>
+      <td rowspan="1">Cambiar<br>Contraseña</td>
+      <td>WI-04</td>
+      <td>Validación de<br>cambio de contraseña</td>
+      <td>Mostrar mensajes de error si las contraseñas ingresadas no coinciden o si algún campo está vacío durante el cambio de contraseña.</td>
+      <td>4</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US12</td>
+      <td rowspan="1">Crear<br>publicación de intercambio</td>
+      <td>WI-05</td>
+      <td>Popup de límite<br>de publicaciones</td>
+      <td>Mostrar un popup informando al usuario cuando se ha alcanzado el máximo de publicaciones permitidas.</td>
+      <td>10</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US16</td>
+      <td rowspan="1">Visualización<br>de objetos disponibles</td>
+      <td>WI-06</td>
+      <td>Mensajes informativos<br>de objetos disponibles</td>
+      <td>Mostrar mensajes cuando no haya objetos disponibles, como "No hay artículos publicados" para indicar al usuario el estado de la sección.</td>
+      <td>10</td>
+      <td>Ian<br>Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="1">US18</td>
+      <td rowspan="1">Aceptar o<br>Rechazar un intercambio</td>
+      <td>WI-07</td>
+      <td>Actualización<br>de visualización de intercambio</td>
+      <td>Actualizar la visualización de intercambio cuando un usuario acepte o rechace una oferta, asegurando la consistencia en la interfaz de usuario.</td>
+      <td>6</td>
+      <td>Mathias<br>Mendoza</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <br><br>
 
@@ -4574,6 +4957,9 @@ Durante los sprints del proyecto, el equipo logró implementar completamente la 
 Se desarrollaron interfaces intuitivas y responsivas que permiten a los usuarios navegar por las publicaciones disponibles, realizar ofertas de intercambio, donar artículos a organizaciones registradas y gestionar sus perfiles personales. Además, se integraron componentes para la autenticación de usuarios, la visualización de reseñas y la gestión de favoritos, asegurando una experiencia de usuario completa y coherente con los objetivos planteados.
 
 El desarrollo del frontend se realizó en estrecha coordinación con los servicios de la API RESTful previamente construida, garantizando una interacción fluida entre la lógica de negocio y la interfaz gráfica. La implementación fue guiada por los prototipos diseñados en Figma, asegurando que la estructura visual y la experiencia de usuario planificada se mantuvieran durante toda la ejecución.
+
+La aplicación web se encuentra publicada y accesible en el siguiente enlace:  
+🔗 [Cambiazo Web App](https://cambia-zo.netlify.app/home)
 
 <div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Implemented-Frontend/front1.png?raw=true" alt="app web"><br>
@@ -4659,11 +5045,58 @@ Este acuerdo forma parte esencial del entorno SaaS de **CambiaZo** y será acces
 <br><br>
 
 ### 5.2.5 Implemented Native-Mobile Application Evidence
-Durante el Sprint 1, no se desarrolló aún la **aplicación móvil nativa** correspondiente a la solución. Sin embargo, se avanzó de manera significativa en el **prototipado de la app móvil** utilizando la herramienta **Figma**, lo cual permitió definir visualmente las pantallas principales, flujos de navegación, y componentes clave de la experiencia de usuario en dispositivos móviles.
+Durante los Sprints del proyecto, se logró desarrollar e implementar por completo la aplicación móvil nativa, cumpliendo con las funcionalidades clave definidas para la solución. La app integra de manera efectiva las características relacionadas con el intercambio y la donación de objetos, permitiendo a los usuarios registrarse, iniciar sesión, explorar publicaciones, visualizar detalles de los productos y realizar ofertas de intercambio o donación.
 
-El prototipo incluye vistas para el inicio de sesión, registro de usuarios, navegación por publicaciones, visualización de detalles y funciones principales relacionadas con el intercambio y donación de productos.
+Además, se incluyeron vistas para la gestión de perfil, favoritos, reseñas, y la interacción con ONG’s, asegurando una experiencia de usuario coherente y fluida en dispositivos móviles.
 
-Estos prototipos han sido documentados y presentados previamente en una sección anterior, y constituyen la base para el desarrollo técnico que se iniciará en los próximos Sprints. Gracias a este trabajo previo, se espera que la implementación de la aplicación nativa se lleve a cabo de manera más ágil y alineada con los requerimientos del proyecto.
+Este desarrollo fue acompañado por pruebas funcionales continuas durante los sprints, garantizando el cumplimiento de los requisitos establecidos y la alineación con los flujos definidos previamente en los prototipos elaborados en Figma. La aplicación nativa se encuentra lista para ser validada en un entorno real de usuarios y continuar su evolución en próximos ciclos de mejora.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app 1"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app 2"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app 3"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app 4"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app 5"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app 6"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-0.png?raw=true" alt="mobile app 0"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-1.png?raw=true" alt="mobile app 1"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app 2"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app 3"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app 4"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app 5"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app 6"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-7.png?raw=true" alt="mobile app 7"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-8.png?raw=true" alt="mobile app 8"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-9.png?raw=true" alt="mobile app 9"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-10.png?raw=true" alt="mobile app 10"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-11.png?raw=true" alt="mobile app 11"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-12.png?raw=true" alt="mobile app 12"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-13.png?raw=true" alt="mobile app 13"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-14.png?raw=true" alt="mobile app 14"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-15.png?raw=true" alt="mobile app 15"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-16.png?raw=true" alt="mobile app 16"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-17.png?raw=true" alt="mobile app 17"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-18.png?raw=true" alt="mobile app 18"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-19.png?raw=true" alt="mobile app 19"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-20.png?raw=true" alt="mobile app 20"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-21.png?raw=true" alt="mobile app 21"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-22.png?raw=true" alt="mobile app 22"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-23.png?raw=true" alt="mobile app 23"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-24.png?raw=true" alt="mobile app 24"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-25.png?raw=true" alt="mobile app 25"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-26.png?raw=true" alt="mobile app 26"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-27.png?raw=true" alt="mobile app 27"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-28.png?raw=true" alt="mobile app 28"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-29.png?raw=true" alt="mobile app 29"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-30.png?raw=true" alt="mobile app 30"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-31.png?raw=true" alt="mobile app 31"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-32.png?raw=true" alt="mobile app 32"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-33.png?raw=true" alt="mobile app 33"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-34.png?raw=true" alt="mobile app 34"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-35.png?raw=true" alt="mobile app 35"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-36.png?raw=true" alt="mobile app 36"><br>
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-V/Sprint-2/Execution-Evidence/mobile-app-37.png?raw=true" alt="mobile app 37"><br>
+</div>
 
 <br><br>
 
@@ -4677,7 +5110,7 @@ Asimismo, se aplicaron buenas prácticas en el desarrollo de servicios, como el 
 El backend se encuentra desplegado en **Microsoft Azure App Service**, asegurando alta disponibilidad, rendimiento y acceso remoto desde el frontend. Se conecta a una base de datos **MySQL Flexible Server**, también alojada en Azure, lo que permite una persistencia robusta y segura de la información.
 
 **Tecnologías y Arquitectura**
-- Lenguaje y Framework: **Java 17 con Spring Boot**
+- Lenguaje y Framework: **Java 21 con Spring Boot**
 - Base de Datos: **MySQL Flexible Server (Azure)**
 - Seguridad: **JWT** para autenticación
 - Documentación API: **Swagger (OpenAPI 3)**

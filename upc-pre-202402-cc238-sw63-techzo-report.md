@@ -5936,6 +5936,26 @@ Esta sección describe los componentes encargados de compilar el proyecto y ejec
 ## 7.2. Continuous Delivery
 
 ### 7.2.1. Tools and Practices
+
+En el contexto de **Continuous Delivery**, se emplean herramientas y metodologías que permiten automatizar todas las etapas del ciclo de desarrollo y entrega, exceptuando el despliegue final en producción, que queda bajo control manual. Esto permite garantizar que el software esté siempre en un estado desplegable, manteniendo a la vez una capa de revisión y validación humana antes de su liberación definitiva.
+
+**Herramientas utilizadas:**
+
+| **Herramienta**     | **Tipo**             | **Descripción**                                                                 | **Propósito**                                                                 |
+|---------------------|----------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **GitHub Actions**  | Orquestador CI/CD    | Automatiza la construcción, prueba y entrega del software desde cada commit o pull request. | Permite definir flujos de trabajo donde el despliegue a producción requiere una aprobación manual. |
+| **Trello**          | Gestión de aprobaciones | Herramienta colaborativa usada para organizar y visualizar el estado de cada versión o release. | Facilita la gestión del proceso de aprobación antes del despliegue en producción, asignando tareas y revisiones a los responsables correspondientes. |
+
+**Prácticas implementadas:**
+
+- **Feature Branching y Merge Requests**: Cada nueva funcionalidad se desarrolla en una rama separada. Al aprobar el merge, el código pasa por validaciones automáticas antes de integrarse a la rama principal, pero el despliegue a producción no ocurre de forma inmediata ni automática.
+
+- **Validación en Staging**: Los cambios se prueban en un entorno *staging* controlado (proporcionado por servicios como Netlify o Azure Web App), que simula el entorno de producción. Esto permite realizar pruebas adicionales o recibir retroalimentación antes de proceder con el despliegue final.
+
+- **Despliegue Semiautomático**: Aunque el pipeline automatiza todo el flujo técnico (compilación, pruebas, integración), el paso final de despliegue requiere una acción manual, como la aprobación de un pull request, confirmación en GitHub Actions o aprobación documentada en Trello.
+
+- **Aprobación Manual**: Esta etapa garantiza que al menos una persona del equipo revise y apruebe explícitamente la liberación, brindando un control adicional sobre la calidad y el momento del despliegue.
+
 ### 7.2.2. Stages Deployment Pipeline Components
 
 A continuación, se presentan las fases del pipeline de despliegue implementado en el proyecto Cambiazo, utilizando un flujo de integración y entrega continua automatizado con GitHub Actions, desplegando el frontend en Netlify y el backend en Azure Web App, y utilizando Azure MySQL como base de datos. Este pipeline está diseñado para asegurar entregas continuas, confiables y eficientes.

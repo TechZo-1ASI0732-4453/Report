@@ -5873,6 +5873,661 @@ Esta sección presenta las pruebas fundamentales realizadas sobre el sistema cen
  </div><br><br>
 
 
+
+## 6.2. Static testing & Verification
+
+### 6.2.1. Static Code Analysis
+El análisis estático de código es una técnica fundamental para detectar problemas potenciales en el software sin necesidad de ejecutarlo. A través de esta práctica, se garantiza un mayor control sobre la calidad y estructura del código, promoviendo un desarrollo más confiable y mantenible desde las primeras fases del proyecto.
+
+Durante el desarrollo, se aplicaron principios clave de codificación y herramientas que facilitaron la verificación automatizada del código fuente. Esto permitió detectar errores comunes, inconsistencias en el estilo y posibles vulnerabilidades, así como asegurar el cumplimiento de buenas prácticas técnicas en todos los componentes del sistema.
+
+#### 6.2.1.1. Coding standard & Code conventions
+Se definieron y aplicaron convenciones específicas para asegurar que el código sea legible, coherente y mantenible.
+
+- **Java (Spring Boot):**
+  - **Nombramiento coherente:**
+    - **Clases:** `PascalCase`, nombres representativos según su rol (e.g., `UserController`, `ReviewService`, `CreateUserUseCase`).
+    - **Métodos y variables:** `camelCase`, verbos para métodos (`getUserById`), sustantivos para variables (`userRepository`).
+    - **Constantes:** `MAYUSCULAS_CON_GUIONES` (`MAX_REVIEW_LENGTH`).
+    - **Paquetes:** minúsculas, organizados por capa y contexto (`com.cambiazo.membership.domain`).
+
+  - **Buenas prácticas en Spring Boot:**
+    - Uso correcto de anotaciones (`@RestController`, `@Service`, `@Entity`).
+    - Inyección de dependencias por constructor.
+    - Manejo de errores centralizado con `@ControllerAdvice` y excepciones personalizadas.
+    - Uso de DTOs para separar el modelo de dominio de la capa de presentación.
+
+- **TypeScript (Angular):**
+  - **Nombramiento coherente:**
+    - **Componentes y servicios:** `PascalCase` (e.g., `UserComponent`, `ReviewService`).
+    - **Variables y métodos:** `camelCase` (`fetchReviews`, `reviewList`).
+    - **Constantes:** `MAYUSCULAS_CON_GUIONES` (`DEFAULT_TIMEOUT_MS`).
+    - **Rutas y carpetas:** minúsculas, separadas por módulo o funcionalidad (`/reviews`, `/users`).
+
+  - **Buenas prácticas en Angular:**
+    - Separación de lógica y presentación (uso de servicios para lógica de negocio).
+    - Tipado estricto con interfaces (`IUser`, `IReview`).
+    - Modularización clara (uso de `NgModules`).
+    - Uso correcto de `@Input`, `@Output` y gestión de estados.
+
+- **Enfoques aplicados:**
+
+    - **Domain-Driven Design (DDD):**  
+    Se estructuró el dominio del sistema según los principios de DDD, definiendo entidades, agregados, repositorios y servicios de dominio claramente diferenciados. Esto permitió modelar el negocio de forma más precisa, manteniendo la lógica de dominio aislada y cohesiva.
+
+    - **Clean Architecture:**  
+    El proyecto se organizó en capas bien definidas (controladores, casos de uso, dominio e infraestructura), desacoplando las dependencias externas de la lógica de negocio. Esta separación facilitó la escalabilidad, testabilidad y mantenibilidad del sistema.
+
+    - **Clean Code:**  
+    Se priorizó la escritura de código claro, autoexplicativo y modular. Las funciones se diseñaron con una única responsabilidad, se evitó la duplicación de lógica y se limitaron los comentarios innecesarios. El código fue formateado automáticamente y mantenido consistente mediante convenciones claras.
+
+
+
+- **Herramientas aplicadas:**
+
+    - **SonarQube:** Herramienta principal de análisis estático, integrada al proceso de CI/CD. Se utilizó para evaluar complejidad, duplicación, mantenibilidad, cobertura de pruebas y vulnerabilidades tanto en el backend como en el frontend. Garantizó el cumplimiento de estándares de codificación específicos de cada lenguaje y promovió buenas prácticas de desarrollo en todo el sistema.
+
+    - **Lighthouse:** Aplicado para auditar la calidad de la interfaz web, midiendo rendimiento, accesibilidad y buenas prácticas en la aplicación Angular.
+
+    - **Selenium IDE:** Utilizado para la automatización de pruebas E2E (end-to-end), simulando la interacción del usuario con el sistema para validar funcionalidades clave.
+
+    - **Jenkins:** Herramienta de integración continua encargada de orquestar la ejecución automática de pruebas, análisis estático con SonarQube y procesos de despliegue continuo.
+
+#### 6.2.1.2. Code Quality & Code Security
+La calidad y seguridad del código fueron aspectos priorizados durante todo el ciclo de desarrollo. Se aplicaron controles automatizados y revisiones manuales para asegurar que el software no solo funcione correctamente, sino que sea robusto, mantenible y libre de vulnerabilidades comunes.
+
+Para ello, se abordaron dos frentes clave:
+
+- **Calidad de Código (Code Quality):**
+  - Se implementaron estándares de codificación claros y consistentes en todos los módulos del sistema.
+  - El uso de SonarQube permitió monitorear métricas clave como:
+    - **Complejidad ciclomática:** para evitar métodos con lógica excesivamente ramificada.
+    - **Duplicación de código:** para promover la reutilización y reducir el mantenimiento.
+    - **Mantenibilidad:** para identificar "code smells" que dificultan la evolución del sistema.
+    - **Cobertura de pruebas:** asegurando que la lógica crítica esté validada mediante testing automatizado.
+  - Se reforzó la estructura modular, desacoplada y con responsabilidades bien definidas, en línea con los principios de *Clean Architecture* y *DDD*.
+
+- **Seguridad del Código (Code Security):**
+  - Se analizaron vulnerabilidades de seguridad estáticas usando SonarQube (por ejemplo, inyecciones, manejo inseguro de datos o exposición de información sensible).
+  - Se evitó el uso de funciones inseguras o APIs desactualizadas tanto en Java como en TypeScript.
+  - Se implementaron controles de validación y sanitización de entradas desde las capas de presentación hasta el dominio.
+  - Se aplicaron buenas prácticas de manejo de excepciones, control de errores y gestión de credenciales mediante variables de entorno.
+
+Dado el enfoque en la calidad y la seguridad, **SonarQube** fue integrado al flujo de trabajo de CI/CD, permitiendo realizar análisis automáticos en cada cambio relevante del repositorio. Esto fomentó una cultura de mejora continua, donde los desarrolladores recibieron retroalimentación inmediata sobre la calidad técnica del código, corrigiendo problemas antes de llegar a etapas avanzadas del desarrollo y evitando la propagación de errores estructurales o de seguridad.
+
+### 6.2.2. Reviews
+Las revisiones de código son un proceso clave para asegurar la calidad técnica, la coherencia del desarrollo y el cumplimiento de los estándares definidos. Este proceso se aplicó de forma sistemática durante todo el desarrollo, tanto de manera automática como manual.
+
+#### Tipos de Revisiones:
+
+- **Revisión de Código por Pares:**  
+  Se implementó una política de revisión entre miembros del equipo antes de aceptar cualquier cambio significativo. Cada desarrollador debía revisar el trabajo de otro, garantizando comprensión, claridad y cumplimiento de las convenciones establecidas.
+
+- **Revisión Formal a través de Pull Requests (PR):**  
+  Todo cambio debía ser subido a través de un Pull Request hacia la rama de desarrollo principal (`develop`). Los PRs incluyeron una descripción clara de los cambios y sus motivaciones, así como enlaces a las tareas relacionadas. Al menos un integrante del equipo debía aprobar cada PR antes de su integración.
+
+- **Revisión Automática con SonarQube:**  
+  Se integró SonarQube en el pipeline de CI/CD para realizar análisis estáticos del código en cada PR. Esto permitió detectar automáticamente problemas como code smells, duplicación, baja cobertura de pruebas o potenciales vulnerabilidades antes de aceptar los cambios.
+
+#### Proceso de Revisión:
+
+- **Creación de Pull Requests:**  
+  Los cambios se organizaban por funcionalidades (`feature/sprint-*`) y eran integrados a `develop` mediante PRs con contexto técnico claro.
+
+- **Checklist de Revisión:**  
+  Las revisiones consideraron aspectos clave como:
+  - Claridad y legibilidad del código.
+  - Correcto uso de convenciones de nomenclatura.
+  - Adecuada organización por capas según Clean Architecture.
+  - Pruebas automáticas implementadas y ejecutadas.
+  - Manejo de errores y validación de entradas.
+  - Ausencia de código innecesario, duplicado o sin usar.
+
+- **Comentarios y Feedback:**  
+  Se promovió una cultura de feedback constructivo. Los revisores realizaban observaciones directamente sobre las líneas de código del PR, y los autores debían responder y corregir lo indicado antes de su aprobación.
+
+- **Aprobación y Merge:**  
+  Ningún PR podía fusionarse sin al menos una aprobación. Solo después de que el análisis de SonarQube estuviera limpio y se hubieran resuelto todos los comentarios, el PR era aprobado y fusionado.
+
+#### Criterios de Aceptación:
+
+- **Calidad y Seguridad del Código:**  
+  El código debía pasar las validaciones de SonarQube sin errores críticos y cumplir con los principios de Clean Code.
+
+- **Cobertura de Pruebas:**  
+  Se exigía que el nuevo código incluyera pruebas unitarias o de integración pertinentes. Aunque no se fijó un porcentaje mínimo estricto, se priorizó que las funcionalidades clave estén debidamente cubiertas.
+
+#### Frecuencia de Revisiones:
+
+Las revisiones de código se realizaron de forma continua durante todo el desarrollo, especialmente al final de cada sprint. Esto evitó acumulación técnica, facilitó la identificación temprana de errores y mantuvo un flujo de trabajo ordenado y colaborativo.
+
+## 6.3. Validation Interviews
+
+En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación.
+
+
+### 6.3.1 Diseño de Entrevistas
+
+**Preguntas generales**
+
+* ¿Cuál es su nombre completo?
+* ¿Qué edad tiene?
+* ¿A qué se dedica?
+* ¿En qué distrito reside?
+<br><br>
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Preguntas Específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación?
+2. ¿Cuál considera que es la parte más importante de la landing page y nuestra aplicación? ¿Por qué?
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación ¿Qué cambiaría o añadiría?
+4. ¿Cree que la solución presentada facilitará la realización de trueques y que brindará una mayor confianza a los usuarios? ¿Por qué?
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+6. Sobre la aplicación, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+7. ¿Usted utilizaría la aplicación para realizar trueques? ¿Por qué?
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+**Preguntas Específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación?
+2. ¿Cuál considera que es la parte más importante de la landing page y nuestra aplicación? ¿Por qué?
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación ¿Qué cambiaría o añadiría?
+4. ¿Cree que la solución presentada contribuirá al aumento de donaciones en el país? ¿Por qué?
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+6. Sobre la aplicación, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+7. ¿Usted utilizaría la aplicación para realizar donaciones? ¿Por qué?
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Erick Maycol</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Huallullo Cirineo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Quispe</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 20:24 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Nelson Elías</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Serrano</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathías Andre Mendoza Carrión</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Nelson Elías Serrano"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>20:25 min - 32:03 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Saúl David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Díaz Suárez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meet</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Saúl Díaz Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>32:04 min - 48:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
+        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
+        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu Orlando</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vasquez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="entrevista-edu-gutierrez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>38:42 min - 53:18 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Edu resalta el diseño atractivo y sencillo de CambiaZo, destacando la clara disposición de las opciones y la integración eficaz con ONGs para promover la economía circular. Sin embargo, sugiere mejorar algunos aspectos, como la visibilidad de los botones de acceso a ciertas funciones, que podrían destacarse más. También propone añadir testimonios de usuarios para reforzar la confianza en la plataforma, así como optimizar la velocidad de carga de la app. En cuanto a los perfiles, recomienda ofrecer más opciones de personalización para que los usuarios puedan adaptarlos a sus necesidades. Además, sugiere la incorporación de validaciones de identidad y la implementación de opciones para realizar transacciones protegidas, lo cual podría aumentar la confianza de los usuarios en el sistema. Otra recomendación es organizar eventos comunitarios que ayuden a fortalecer la conexión entre los usuarios y generar una mayor interacción. A pesar de estas sugerencias, Edu ve un gran potencial en la app, pero enfatiza la importancia de mejorar la seguridad, los filtros y la experiencia de usuario para asegurar su éxito a largo plazo.</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ian Joaquín</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Sánchez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>27 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Saúl Díaz Sánchez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>53:19 min - 70:07 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Ian Sánchez, un profesional en tecnología, compartió su opinión sobre la aplicación móvil y la landing page. Ian mencionó que la interfaz de la aplicación es atractiva, pero sugirió mejorar la experiencia del usuario añadiendo una sección de preguntas frecuentes para reducir los tiempos de espera y un tutorial paso a paso para facilitar el uso a usuarios menos experimentados. Además, resaltó la importancia de proteger la privacidad de los datos de los usuarios, sugiriendo medidas de seguridad adicionales como respaldos ante posibles hackeos. También propuso incluir un sistema para detectar bots y eventos comunitarios, como descuentos en envíos, para incentivar la participación. Aunque consideró que la aplicación es buena, Ian destacó que sería valioso seguir perfeccionando la plataforma, especialmente en lo que respecta a la seguridad y el cumplimiento de estándares de desarrollo. </td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Junior</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valero Medina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Discord y Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td> Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>70:07 min - 73:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista con Luis Junior Valero Medina, un joven de 19 años que estudia ingeniería de sistemas, evaluó positivamente la landing page de CambiaZo, destacando su atractivo diseño y la buena organización de la información. Resaltó la claridad con la que se explica el propósito y funcionamiento del intercambio. Además, consideró que la aplicación web tiene una apariencia moderna e intuitiva, y valoró especialmente la funcionalidad de filtrado de objetos. Sugirió la inclusión de testimonios de usuarios y una opción de chat en tiempo real para mejorar la confianza y la comunicación entre los usuarios. Luis cree que la plataforma facilita los trueques de manera segura y eficiente, y la recomendaría a amigos y familiares por su capacidad de promover el aprovechamiento de recursos.</td>
+  </tr>
+</tbody>
+</table><br>
+
+**Segmento Donadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora y Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista Hernan Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>73:41 min - 78:45 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En esta ocasión tuvimos la oportunidad de entrevistar a Hernán Morales, un usuario que representa nuestro segmento objetivo de Donadores, para recopilar opiniones sobre nuestra landing page y nuestra aplicación web. Hernán nos comentó que tanto la landing page como la aplicación web diseño, una buena estructura organizada y buena información. Además, destacó que ambas plataformas funcionan correctamente, especialmente en lo que respecta a los intercambios y las donaciones. Hernán nos comenta que la aplicación web está bastante completa en cuanto a diseño y funcionalidad y que no haría muchos cambios, solo agregar un poco de animación. Hernan, expresó que esta solución podría incrementar el número de donaciones en el país ya que es intuitiva y fácil de usar, además que tanto la landing page como la aplicación web cumplen con su propósito. Finalmente, afirmó que estaría dispuesto a utilizar la aplicación web para donar y compartirla con sus amigos y familiares.</td>
+  </tr>
+</tbody>
+</table>
+<colgroup>
+</colgroup>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista Arturo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>78:45 min - 83:57 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista, Arturo Adriansen Flores, estudiante de 19 años, comparte su perspectiva sobre la experiencia con "Cambiazo", una plataforma que facilita donaciones a ONGs. Arturo explica que su interés por la filantropía lo lleva a donar regularmente ropa y víveres a organizaciones sin fines de lucro, y destaca el placer que encuentra en poder impactar positivamente la vida de los demás a través de esta actividad. Al evaluar la landing page y la aplicación web de "Cambiazo", Arturo elogió la coherencia con la marca en el uso de colores, así como la funcionalidad y facilidad de uso que ofrecen ambas plataformas. Resalta la importancia de las reseñas de usuarios en la landing page y la interactividad de la sección de donaciones en la aplicación web, especialmente por la inclusión de información detallada sobre cada ONG y la opción de búsqueda amigable. Además, Arturo sugiere una posible mejora en la reducción de la cantidad de información en la landing page para una mejor experiencia móvil. En cuanto al impacto de "Cambiazo" en las donaciones del país, Arturo cree firmemente que la plataforma contribuirá positivamente debido a su facilidad de uso y la amigabilidad de su interfaz, especialmente el filtro de búsqueda de ONGs. Considera que tanto la landing page como la aplicación web cumplen su función persuasiva y de registro de usuarios, destacando la estética atractiva y la combinación de colores coherente. Arturo asegura que él mismo usaría la aplicación para realizar donaciones debido a su comodidad y confiabilidad, y recomendaría "Cambiazo" a amigos y familiares no solo para donar, sino también para realizar intercambios, destacando la utilidad de la plataforma para ambas actividades.</td>
+  </tr>
+</tbody>
+</table>
+<br>
+<br>
+
 # Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration
@@ -6048,6 +6703,7 @@ Durante esta etapa, se implementaron **baterías de pruebas automatizadas** para
 ### Capítulo VII – DevOps Practices
 
 Se implementaron **prácticas de integración, entrega y despliegue continuos** mediante un pipeline automatizado con GitHub Actions, asegurando un flujo de desarrollo ágil, confiable y reproducible. Este pipeline orquesta la construcción, prueba y despliegue del frontend (Netlify) y backend (Azure Web App), conectado a una base de datos en Azure MySQL. Durante la fase de **Continuous Integration**, se automatizó la compilación del código, ejecución de pruebas (unitarias con JUnit/Mockito, funcionales con Selenium, y de aceptación con Gherkin+Cucumber), validando cada cambio desde el commit hasta el pull request. Esto garantizó la estabilidad del sistema en todo momento. En la fase de **Continuous Delivery**, se configuraron entornos de previsualización en Netlify y Azure que replican condiciones de producción, permitiendo validar nuevas funcionalidades antes del merge definitivo. Esta estrategia facilitó un control riguroso sobre la calidad del software sin interrumpir el servicio. Finalmente, mediante **Continuous Deployment**, los cambios aprobados se desplegaron automáticamente en producción, manteniendo consistencia y trazabilidad. Herramientas como **Sentry** y **Azure Monitor** ofrecieron retroalimentación continua sobre errores, rendimiento y calidad del código, permitiendo una mejora constante basada en evidencia técnica. Esta infraestructura consolidó una cultura de DevOps enfocada en la **automatización**, **observabilidad** y **entregas incrementales de valor**.
+
 
 
 ### Conclusión

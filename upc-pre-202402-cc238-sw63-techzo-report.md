@@ -6528,6 +6528,268 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 <br>
 <br>
 
+### 6.3.3. Evaluaciones según heurísticas.
+
+<br><div align="center">
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability - Inclusive Design - Information Architecture**
+
+</div><br>
+
+**Site o App a evaluar:**
+CambiaZo
+<br>
+
+**TAREAS A EVALUAR:**
+
+1. **Registro e Inicio de Sesión**
+   - Evaluar la facilidad de completar el registro como nuevo usuario.
+   - Verificar la claridad de los mensajes de error durante el registro o inicio de sesión fallido.
+   - Probar el proceso de recuperación de contraseña.
+
+2. **Navegación General en la Aplicación**
+   - Comprobar la facilidad de navegación a través del menú principal.
+   - Evaluar la estructura de la información para encontrar secciones como “Mi Perfil”, “Publicaciones”, “Intercambios”, etc.
+   - Verificar si el usuario puede orientarse fácilmente dentro de la app.
+
+3. **Creación de una Publicación**
+   - Probar el proceso de creación de una publicación para intercambio, desde seleccionar categoría hasta subir fotos y agregar descripción.
+   - Evaluar la comprensión de los campos requeridos y la claridad de las instrucciones.
+
+4. **Búsqueda y Filtrado de Artículos**
+   - Evaluar la efectividad del motor de búsqueda para encontrar artículos específicos.
+   - Probar los filtros de búsqueda (categoría, estado del artículo, ubicación, etc.) y verificar su comprensión y facilidad de uso.
+   - Verificar si hay un botón claro para “Borrar filtros”.
+
+5. **Interacción con Otras Publicaciones**
+   - Evaluar la facilidad para ver los detalles de una publicación (imágenes, descripción, condiciones de intercambio).
+   - Probar el envío de ofertas de intercambio y mensajes directos al propietario del artículo.
+
+6. **Gestión de Suscripciones o Compras**
+   - Probar el proceso de suscripción o compra de productos o servicios dentro de la app.
+   - Verificar la facilidad para gestionar la suscripción o compra, como cambiar planes o cancelar suscripciones.
+   - Evaluar la claridad de los mensajes sobre el estado de la suscripción o compra (confirmación, errores, etc.).
+
+7. **Gestión de Intercambios**
+   - Probar la facilidad para ver el estado de los intercambios activos.
+   - Evaluar la claridad del proceso para aceptar o rechazar ofertas de intercambio.
+   - Comprobar si el usuario entiende cómo finalizar un intercambio exitoso.
+
+8. **Personalización del Perfil de Usuario**
+   - Evaluar la facilidad para editar información del perfil (nombre, foto de perfil, ubicación).
+   - Probar las opciones de personalización, como cambiar al modo oscuro.
+
+9. **Feedback del Usuario**
+   - Evaluar la presencia y accesibilidad de opciones para dejar feedback sobre la experiencia o reportar problemas.
+
+10. **Experiencia General en Diferentes Dispositivos**
+    - Probar la consistencia y usabilidad de la app en diferentes dispositivos (móviles, tablets).
+    - Evaluar si la interfaz es responsiva y si se adapta adecuadamente al tamaño de la pantalla.
+
+
+<br><br>
+
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| - | - |
+|**1**|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+<br><br>
+
+
+**TABLA DE RESUMEN:**
+
+
+| **N** | **Problema** | **Escala de severidad** | **Heurística/Principio violada(o)** |
+|:------:|:-------------:|:----------------------:|:---------------------------------:|
+| 1 | Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 2 | No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida. | 2 (Problema menor) | Usabilidad: Estética y diseño minimalista |
+| 3 | No se muestra un mensaje cuando no hay productos disponibles para mostrar. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 4 | En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 5 | En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 6 | En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+
+
+<br><br>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
+**Problema 1: Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando el usuario intenta cambiar su contraseña y las contraseñas no coinciden, la aplicación no muestra un mensaje claro indicando el error. Esto puede generar frustración, ya que el usuario no sabe qué ha salido mal, lo que podría llevar a múltiples intentos sin éxito hasta que se descubra la causa del problema.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-1.png?raw=true" alt="Problema 1"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un mensaje de error claro y específico que indique que las contraseñas no coinciden y que debe asegurarse de que ambas contraseñas coincidan antes de proceder.
+
+<br><br>
+
+
+**Problema 2: No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad: Estética y diseño minimalista
+
+Problema:
+
+Al cargar las publicaciones, no se muestra un "skeleton loading", lo que puede dar la sensación de que la aplicación está congelada o no responde mientras se cargan los datos. Este vacío puede generar incertidumbre en el usuario sobre si la app está trabajando correctamente.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-2.png?raw=true" alt="Problema 2"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un "skeleton loading" para mostrar que la aplicación está trabajando en la carga de las publicaciones, mejorando la experiencia del usuario.
+
+<br><br>
+
+
+**Problema 3: No se muestra un mensaje cuando no hay productos disponibles para mostrar.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando no hay productos disponibles en la sección correspondiente, no se muestra ningún mensaje informativo que indique que no hay productos disponibles en ese momento. Esto puede confundir al usuario, quien podría pensar que hay un error o que la función no está funcionando.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-3.png?raw=true" alt="Problema 3"></div>
+
+<br>
+
+Recomendación:
+
+Incluir un mensaje claro que informe al usuario que no hay productos disponibles en ese momento, como "No hay productos disponibles en esta categoría."
+
+<br><br>
+
+
+**Problema 4: En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Artículos", si no hay publicaciones realizadas por el usuario, no se muestra ningún mensaje informando que no hay artículos disponibles. El usuario se queda con una pantalla vacía y no sabe si es un error o si no ha subido artículos.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-4.png?raw=true" alt="Problema 4"></div>
+
+
+<br>
+
+Recomendación:
+
+Agregar un mensaje que diga "No tienes artículos publicados" para indicar al usuario que la falta de contenido es intencional y no un error.
+
+<br><br>
+
+
+**Problema 5: En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Si el usuario no tiene productos guardados en la sección "Favoritos", la pantalla aparece vacía sin ningún mensaje explicativo. Esto puede generar confusión o inquietud, ya que el usuario no sabe si algo ha fallado o si simplemente no ha guardado artículos aún.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-5.png?raw=true" alt="Problema 5"></div>
+
+
+<br>
+
+Recomendación:
+
+Mostrar un mensaje que indique "No has guardado ningún artículo en favoritos aún" para dejar claro al usuario el estado de la sección.
+
+<br><br>
+
+
+**Problema 6: En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Reseñas", si no hay reseñas disponibles, no se muestra ningún mensaje informativo. Esto podría causar confusión, ya que el usuario no sabe si hay un problema con la sección o si simplemente no ha recibido reseñas.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-6.png?raw=true" alt="Problema 6"></div>
+
+<br>
+
+Recomendación:
+
+Añadir un mensaje informativo como "Aún no has recibido reseñas" para aclarar la situación al usuario.
+
+
+<br><br>
+
+
+A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación móvil:
+
+| **Heurística** | **Descripción** |
+| :-: | :-: |
+| **Usabilidad** | La navegación en la aplicación es intuitiva, permitiendo que los usuarios se deslicen fácilmente por las pantallas sin esfuerzo. Todas las opciones clave se encuentran a la vista y son accesibles con solo unos pocos toques. Esto asegura que los usuarios puedan encontrar rápidamente lo que buscan, como la posibilidad de ver publicaciones o gestionar su perfil, sin perderse en un mar de opciones. Además, las transiciones entre pantallas son suaves, lo que contribuye a una experiencia continua y agradable. |
+| **Accesibilidad** | La interfaz se adapta de manera óptima a distintos tamaños de pantalla, garantizando que los elementos clave sean visibles y utilizables en dispositivos tanto pequeños como grandes. Los colores, fuentes y botones son lo suficientemente grandes para que puedan ser fácilmente seleccionados con el toque de un dedo, asegurando que usuarios con diferentes capacidades físicas puedan interactuar sin dificultades. También, los textos se presentan de forma legible, con suficiente contraste para ser fácilmente leídos bajo diferentes condiciones de luz. |
+| **Libertad y control por parte del usuario** | Los usuarios tienen un control total sobre su experiencia, ya que pueden moverse libremente entre las distintas secciones de la aplicación en cualquier momento. Si desean retroceder o cancelar una acción, siempre existe una opción para hacerlo sin consecuencias irreversibles. Además, los usuarios pueden elegir el contenido que desean ver primero y ajustar la visualización de acuerdo con sus preferencias, brindándoles la flexibilidad de personalizar su interacción sin estar sujetos a un flujo rígido de navegación. |
+| **Consistencia entre el sistema y el mundo real** | La aplicación emplea íconos y elementos visuales que siguen convenciones ampliamente reconocidas, como símbolos de "inicio", "búsqueda" y "perfil", lo cual facilita la familiarización de los usuarios con la interfaz. Estos elementos visuales son intuitivos y evocan acciones que los usuarios están acostumbrados a realizar en otros entornos digitales, como realizar búsquedas o gestionar configuraciones personales, lo que reduce la curva de aprendizaje. |
+| **Diseño estético y minimalista** | La aplicación presenta un diseño limpio y organizado, donde los elementos no se sobrecargan visualmente. Cada pantalla se centra en una acción o función específica, eliminando distracciones innecesarias. Esto no solo facilita la navegación, sino que también permite que el usuario se concentre en lo que realmente necesita hacer. Los iconos, tipografía y paleta de colores están cuidadosamente seleccionados para garantizar que la interfaz no solo sea funcional, sino también visualmente agradable. |
+| **Consistencia y estándares** | La aplicación sigue patrones de diseño establecidos que son familiares para los usuarios de aplicaciones móviles. Esto asegura que las interacciones sean consistentes en todas las pantallas, desde la presentación de opciones hasta la respuesta a las acciones del usuario. Los botones, campos de entrada y otras interacciones siguen convenciones estándar, lo que permite que los usuarios naveguen con confianza sin necesidad de aprender nuevas reglas o comportamientos específicos para cada pantalla. |
+| **Prevención de errores** | La aplicación está diseñada para reducir las posibilidades de error mediante retroalimentación clara y mensajes preventivos. Si un usuario intenta realizar una acción sin completar los campos requeridos o realiza una selección incorrecta, la aplicación informa de manera clara lo que debe corregirse. Además, los botones de acción ofrecen una retroalimentación visual para confirmar que se ha realizado una selección, y las opciones para deshacer acciones son fácilmente accesibles para que los usuarios puedan rectificar cualquier error. |
+| **Flexibilidad y eficiencia de uso** | La aplicación ofrece opciones para personalizar la experiencia del usuario de acuerdo con sus preferencias. Los usuarios experimentados pueden acceder rápidamente a las funciones avanzadas sin tener que navegar a través de pantallas adicionales, mientras que los nuevos usuarios se benefician de un recorrido sencillo que les permite familiarizarse con las funciones esenciales. La estructura flexible permite a los usuarios explorar la aplicación de la manera que mejor se ajuste a sus necesidades y rutinas, optimizando su flujo de trabajo dentro de la app. |
+
+
+<br>
+
+## Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría realizada
+
+#### 6.4.1.1. Información del grupo auditado
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditor
+
+#### 6.4.2.2. Cronograma de auditoría recibida
+
+#### 6.4.2.3. Contenido de auditoría recibida
+
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
+
 # Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration

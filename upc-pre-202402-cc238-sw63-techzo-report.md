@@ -14,7 +14,7 @@
 **Profesor:** Julio Manuel Noriega Melendez
 
 ----
-## Informe del Trabajo TP
+## Informe del Trabajo TB2
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: Aplicación Informática de Intercambios de Productos Usados
@@ -31,7 +31,7 @@
 </div>
 
 
-<br><div align="center"><h3>Mayo 2025</h3></div><br>
+<br><div align="center"><h3>Junio 2025</h3></div><br>
 
 
 
@@ -46,6 +46,7 @@
 | - | - | - | - |
 |TB1|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Product Design y Capítulo V: Product Implementation, Validation & Deployment|
 |TP1|14/05/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Verification & Validation y Capítulo VII: DevOps Practices|
+|TB2|16/06/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Verification & Validation, Capítulo VII: DevOps Practices y Capítulo VIII: Experiment-Driven Development |
 
 <br><br>
 
@@ -67,6 +68,7 @@
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+
 - [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -82,11 +84,13 @@
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Product Backlog](#33-product-backlog)
   - [3.4. Impact Mapping](#34-impact-mapping)
+
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -126,6 +130,7 @@
     - [4.9.2. Class Dictionary](#492-class-dictionary)
   - [4.10. Database Design](#410-database-design)
     - [4.10.1. Relational/Non-Relational Database Diagram](#4101-relationalnon-relational-database-diagram)
+
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -142,22 +147,67 @@
     - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
     - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
   - [5.3 Video About-the-Product](#53-video-about-the-product)
-- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
-  - [6.1. Testing Suites & Validation](#61-testing-suites--validation)
-    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
-    - [6.1.2. Core Integration Tests](#612-core-integration-tests)
-    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
-    - [6.1.4. Core System Tests](#614-core-system-tests)
-- [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
-  - [7.1. Continuous Integration](#71-continuous-integration)
-    - [7.1.1. Tools and Practices](#711-tools-and-practices)
-    - [7.1.2. Build & Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)
-  - [7.2. Continuous Delivery](#72-continuous-delivery)
-    - [7.2.1. Tools and Practices](#721-tools-and-practices)
-    - [7.2.2. Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components)
-  - [7.3. Continuous Deployment](#73-continuous-deployment)
-    - [7.3.1. Tools and Practices](#731-tools-and-practices)
-    - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
+
+- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)  
+  - [6.1. Testing Suites & Validation](#61-testing-suites--validation)  
+    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)  
+    - [6.1.2. Core Integration Tests](#612-core-integration-tests)  
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)  
+    - [6.1.4. Core System Tests](#614-core-system-tests)  
+  - [6.2. Static testing & Verification](#62-static-testing--verification)  
+    - [6.2.1. Static Code Analysis](#621-static-code-analysis)  
+      - [6.2.1.1. Coding standard & Code conventions](#6211-coding-standard--code-conventions)  
+      - [6.2.1.2. Code Quality & Code Security](#6212-code-quality--code-security)  
+    - [6.2.2. Reviews](#622-reviews)  
+  - [6.3. Validation Interviews](#63-validation-interviews)  
+    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)  
+    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)  
+    - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)  
+  - [6.4. Auditoría de Experiencias de Usuario](#64-auditoría-de-experiencias-de-usuario)  
+    - [6.4.1. Auditoría realizada](#641-auditoría-realizada)  
+      - [6.4.1.1. Información del grupo auditado](#6411-información-del-grupo-auditado)  
+      - [6.4.1.2. Cronograma de auditoría realizada](#6412-cronograma-de-auditoría-realizada)  
+      - [6.4.1.3. Contenido de auditoría realizada](#6413-contenido-de-auditoría-realizada)  
+    - [6.4.2. Auditoría recibida](#642-auditoría-recibida)  
+      - [6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor)  
+      - [6.4.2.2. Cronograma de auditoría recibida](#6422-cronograma-de-auditoría-recibida)  
+      - [6.4.2.3. Contenido de auditoría recibida](#6423-contenido-de-auditoría-recibida)  
+      - [6.4.2.4. Resumen de modificaciones para subsanar hallazgos](#6424-resumen-de-modificaciones-para-subsanar-hallazgos)  
+
+- [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)  
+  - [7.1. Continuous Integration](#71-continuous-integration)  
+    - [7.1.1. Tools and Practices](#711-tools-and-practices)  
+    - [7.1.2. Build & Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)  
+  - [7.2. Continuous Delivery](#72-continuous-delivery)  
+    - [7.2.1. Tools and Practices](#721-tools-and-practices)  
+    - [7.2.2. Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components)  
+  - [7.3. Continuous Deployment](#73-continuous-deployment)  
+    - [7.3.1. Tools and Practices](#731-tools-and-practices)  
+    - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)  
+  - [7.4. Continuous Monitoring](#74-continuous-monitoring)  
+    - [7.4.1. Tools and Practices](#741-tools-and-practices)  
+    - [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components)  
+    - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)  
+    - [7.4.4. Notification Pipeline Components](#744-notification-pipeline-components)  
+
+- [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)  
+  - [8.1. Experiment Planning](#81-experiment-planning)  
+    - [8.1.1. As-Is Summary](#811-as-is-summary)  
+    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)  
+    - [8.1.3. Experiment-Ready Questions](#813-experiment-ready-questions)  
+    - [8.1.4. Question Backlog](#814-question-backlog)  
+    - [8.1.5. Experiment Cards](#815-experiment-cards)  
+  - [8.2. Experiment Design](#82-experiment-design)  
+    - [8.2.1. Hypotheses](#821-hypotheses)  
+    - [8.2.2. Measures](#822-measures)  
+    - [8.2.3. Conditions](#823-conditions)  
+    - [8.2.4. Scale Calculations and Decisions](#824-scale-calculations-and-decisions)  
+    - [8.2.5. Methods Selection](#825-methods-selection)  
+    - [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection](#826-data-analytics-goals-kpis-and-metrics-selection)  
+    - [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan)  
+  - [8.3. Experimentation](#83-experimentation)  
+    - [8.3.1. To-Be User Stories](#831-to-be-user-stories)  
+    - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)

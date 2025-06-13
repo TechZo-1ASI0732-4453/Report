@@ -6775,9 +6775,33 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 #### 6.4.1.1. Información del grupo auditado
 
+- Nombre del responsable de auditoría:
+-	Especialización:
+-	Fecha de auditoría:
+-	Herramientas utilizadas:
+  - 
+
+
 #### 6.4.1.2. Cronograma de auditoría realizada
 
+La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cronograma:
+
+
+| Fecha | Actividad | Responsable |
+| ----- | --------- | ----------- |
+|       |           |             |
+
+
 #### 6.4.1.3. Contenido de auditoría realizada
+
+
+
+| #   | Problema | Escala de servidad | Heurística/Principio violado(a) |
+| --- | -------- | ------------------ | ------------------------------- |
+|     |          |                    |                                 |
+
+**Capturas de las vistas**
+
 
 ### 6.4.2. Auditoría recibida
 

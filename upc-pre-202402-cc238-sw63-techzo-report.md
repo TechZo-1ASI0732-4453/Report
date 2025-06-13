@@ -6775,11 +6775,13 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 #### 6.4.1.1. Información del grupo auditado
 
-- Nombre del responsable de auditoría:
--	Especialización:
--	Fecha de auditoría:
--	Herramientas utilizadas:
-  - 
+- Nombre del responsable de auditoría: TechZo
+-	Especialización: Expertos en diseño de experiencia de usuario (UX), pruebas de usabilidad y desarrollo de software.
+-	Fecha de auditoría: 12/06/2025
+- Herramientas utilizadas:
+  - Navegador web (Google Chrome)
+  - Análisis de prototipos y capturas de pantalla
+  - Documentación del proyecto (README.md)
 
 
 #### 6.4.1.2. Cronograma de auditoría realizada
@@ -6789,18 +6791,27 @@ La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cron
 
 | Fecha | Actividad | Responsable |
 | ----- | --------- | ----------- |
-|       |           |             |
+|   10/06/2025    |   Revisión de las vistas principales de la plataforma (suscripción, scooters, historial, pagos, creación/edición)        |    Claudio Sandro Quispesivana Torres         |
+| 11/06/2025 |  Evaluación heurística y análisis de problemas de usabilidad en los flujos principales | Jeremy Joel Quispe Andia |
+| 12/06/2025 | Elaboración del informe de auditoría y recomendaciones de mejora | Joseph Alexis Huamani Mandujano| 
 
 
 #### 6.4.1.3. Contenido de auditoría realizada
 
 
+| #   | Problema                                                                                                                                        | Escala de servidad | Heurística/Principio violado(a)                           |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------- |
+| 1   | El botón "Cancelar" y "Borrar" en los popups de confirmación tienen colores similares a los de acción principal, lo que puede causar confusión. | 3                  | Prevención de errores, Reconocer antes que recordar       |
+| 2   | En la vista de suscripción, no se explica claramente qué incluye cada plan ni hay un enlace a más detalles.                                     | 2                  | Ayuda y documentación, Visibilidad del estado del sistema |
+| 3   | En la vista de creación/edición de scooter, no hay validación visible para los campos obligatorios.                                             | 3                  | Prevención de errores, Control y libertad del usuario     |
+| 4   | El mensaje "Tus datos no podrán se recuperados" tiene un error gramatical ("se" en vez de "ser").                                               | 1                  | Ayuda y documentación, Estándares y consistencia          |
+| 5   | No hay retroalimentación visual clara tras realizar acciones como editar o eliminar scooter/cuenta.                                             | 3                  | Visibilidad del estado del sistema                        |
+| 6   | El botón "Ver detalle" no indica claramente qué información adicional se mostrará.                                                              | 2                  | Visibilidad del estado del sistema                        |
+| 7   | No hay confirmación visual tras eliminar historial o scooter, lo que puede generar incertidumbre.                                               | 3                  | Visibilidad del estado del sistema                        |
+| 8   | El botón "Cancelar" en los popups de pago puede ser ambiguo, ya que no se especifica si cancela el pago o la operación completa.                | 2                  | Prevención de errores, Control y libertad del usuario     |
+| 9   | No hay accesibilidad evidente (por ejemplo, no se observa contraste suficiente en algunos textos sobre fondo lila).                             | 3                  | Accesibilidad, Estándares y consistencia                  |
+| 10  | El botón "Buscar Scooter" no indica si hay un filtro aplicado o si la búsqueda es global.                                                       | 2                  | Visibilidad del estado del sistema                        |
 
-| #   | Problema | Escala de servidad | Heurística/Principio violado(a) |
-| --- | -------- | ------------------ | ------------------------------- |
-|     |          |                    |                                 |
-
-**Capturas de las vistas**
 
 
 ### 6.4.2. Auditoría recibida

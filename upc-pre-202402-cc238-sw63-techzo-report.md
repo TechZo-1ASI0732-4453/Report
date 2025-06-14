@@ -6906,6 +6906,18 @@ La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cron
 
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
+| #  | Problema | Subsanación |
+|----|----------|-------------|
+| 1  | Intuitividad del formulario de publicación de objetos (instrucciones claras, divisiones, subtítulos, campos destacados). | Añadir instrucciones claras, dividir el formulario en secciones con subtítulos y destacar los campos obligatorios para mejorar la comprensión del usuario. |
+| 2  | Consistencia en la paleta de colores (amarillo y blanco) y tipografía en todas las pantallas. | Unificar la paleta de colores y tipografía en todas las vistas para mantener coherencia visual y mejorar la experiencia de usuario. |
+| 3  | Efectividad de la búsqueda y filtrado de organizaciones benéficas. | Optimizar el sistema de búsqueda con autocompletado y mejorar los filtros por nombre, localidad y categoría para facilitar el acceso a resultados relevantes. |
+| 4  | Claridad en la pantalla de selección de oferta y confirmación. | Incorporar imágenes representativas, etiquetas claras y flechas de conexión visual entre las opciones para guiar mejor al usuario. |
+| 5  | Organización visual y legibilidad de las publicaciones en la pantalla de inicio. | Mejorar el espaciado, usar tipografía adecuada y añadir sombreado o tarjetas para una presentación más legible y atractiva. |
+| 6  | Claridad en los mensajes de éxito/error tras acciones clave. | Implementar mensajes de retroalimentación más detallados y específicos en acciones como login, registro y publicación para informar claramente al usuario. |
+| 7  | Falta de feedback visual al interactuar con elementos clicables. | Aplicar efectos visuales (cambio de color, animación de presión) en botones y enlaces para confirmar la interacción del usuario. |
+| 8  | Gestión de errores y validación de campos en formularios. | Añadir validación en tiempo real y mensajes específicos por campo para informar al usuario de errores antes de enviar el formulario. |
+| 9  | Ausencia de información de privacidad o seguridad en login/registro. | Incluir mensajes o enlaces sobre la política de privacidad y protección de datos para generar confianza en el usuario. |
+| 10 | Navegación entre secciones principales poco intuitiva. | Incorporar una barra de navegación clara con íconos y texto, así como una opción de "volver atrás" visible en todas las vistas. |
 
 
 # Capítulo VII: DevOps Practices

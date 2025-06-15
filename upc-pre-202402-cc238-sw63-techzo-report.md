@@ -7062,6 +7062,276 @@ Resumen del Pipeline de Producción para Cambiazo
 El pipeline de despliegue en producción para Cambiazo está diseñado para ser ágil, confiable y automatizado. Utiliza GitHub Actions como núcleo del CI/CD, desplegando el frontend en Netlify y el backend en Azure Web App, conectado a una base de datos Azure MySQL. Las pruebas con JUnit, Mockito, Selenium y Gherkin/Cucumber, junto con herramientas de monitoreo y análisis como Sentry y Azure Monitor, garantizan una entrega de software segura y de alta calidad. Este enfoque permite evolucionar el sistema de forma continua, minimizando riesgos e incrementando la eficiencia del desarrollo.
 
 
+## 7.4. Continuous Monitoring
+
+### 7.4.1. Tools and Practices
+### 7.4.2. Monitoring Pipeline Components
+### 7.4.3. Alerting Pipeline Components
+### 7.4.4. Notification Pipeline Components
+
+# Capítulo VIII: Experiment-Driven Development
+
+## 8.1. Experiment Planning
+
+### 8.1.1. As-Is Summary
+
+El intercambio y la donación de bienes en Perú se realizan hoy de manera fragmentada a través de grupos de WhatsApp, Facebook y otras redes sociales, sin un canal único que concentre publicaciones, búsquedas y coordinación. Los usuarios gestionan perfiles, envían ofertas y acuerdan entregas de forma manual, lo que genera altos tiempos de respuesta y frecuentes malentendidos. Para las donaciones, cada usuario debe trasladar sus objetos a puntos de recolección físicos y carece de confirmación fiable de que el beneficiario haya recibido realmente la donación.
+
+**Problemas identificados:**
+- **Fragmentación de canales:** múltiples grupos y conversaciones dispersas dificultan encontrar coincidencias y realizar seguimientos.
+- **Seguridad y confianza:** no existen mecanismos formales de verificación de identidad ni de reputación, lo que incrementa el riesgo de estafas.
+- **Carga logística:** la entrega de donaciones depende de la disponibilidad y voluntad del donador para desplazarse, sin opción de recolección programada.
+- **Alcance limitado:** al no ofrecer traducciones ni personalización, la iniciativa se restringe al público hispanohablante y a usuarios conocedores de esas redes.
+
+**Objetivos de mejora:**
+- **Centralizar la plataforma:** construir una aplicación web y móvil única para intercambios y donaciones, con búsqueda unificada y gestión de publicaciones.
+- **Fortalecer la confianza:** implementar verificación de identidad, sistema de calificaciones y reseñas para reputación de usuarios.
+- **Optimizar la logística:** ofrecer programación de recolección y rastreo en tiempo real de las donaciones.
+- **Expandir la audiencia:** incorporar traducciones (inglés, chino) y opciones de personalización para llegar a un público más diverso.
+
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+**Assumptions:**
+- Los usuarios valorarán una plataforma única que centralice intercambios y donaciones, reduciendo la fragmentación actual.
+- Un sistema de reputación (calificaciones y reseñas) aumentará la confianza y disminuirá el riesgo de fraudes.
+- La opción de programar la recolección de donaciones facilitará la logística y hará el proceso más atractivo para los donadores.
+- Las suscripciones premium con “boost” diario de publicaciones generarán suficiente valor percibido para justificar un pago mensual.
+- Las alianzas con ONGs y organizaciones locales elevarán la credibilidad y el alcance de la aplicación.
+
+**Knowledge Gaps:**
+- Disposición a pagar: ¿qué porcentaje de usuarios aceptaría suscribirse a un plan de S/. X mensuales?
+- Costos y tiempos de recolección: ¿cuál es el precio óptimo y la frecuencia adecuada para un servicio de pickup programado en Lima?
+- Preferencias de filtrado: ¿qué criterios (categoría, ubicación, estado del objeto) son más valorados al buscar intercambios?
+- Alcance multilingüe: ¿qué proporción de la audiencia potencial requerirá inglés o chino, y con qué nivel de calidad?
+- Efectividad de las ONG partner: ¿cómo impacta la visibilidad de ONGs aliadas en la confianza y uso de la plataforma?
+
+**Ideas:**
+- Realizar encuestas y entrevistas a usuarios piloto para validar la disposición a pagar y los criterios de filtrado.
+- Desarrollar un MVP de recolección programada y medir su adopción en un barrio de Lima.
+- Implementar un test A/B del “boost” premium para evaluar su efecto en la tasa de intercambio exitoso.
+- Organizar un programa piloto con una o dos ONGs locales para probar el flujo completo de donación y seguimiento.
+- Crear prototipos de la interfaz en español, inglés y chino, y recoger feedback sobre la calidad de la traducción.
+
+**Claims:**
+- Centralizar el intercambio y la donación en CambiaZo reducirá el tiempo de coordinación de transacciones en al menos un 30 %.
+- El sistema de reputación disminuirá las quejas por fraudes en un 50 % durante el primer trimestre tras el lanzamiento.
+- La función de pickup programado aumentará la frecuencia de donaciones mensuales en un 20 %.
+- El “boost” diario para suscriptores premium incrementará en un 25 % la visibilidad de sus publicaciones y, por ende, la tasa de éxito de intercambios.
+- Las alianzas con ONGs contribuirán a un aumento del 15 % en la base de usuarios activos durante los primeros seis meses.
+
+### 8.1.3. Experiment-Ready Questions
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Pregunta</th>
+      <th>Confianza</th>
+      <th>Riesgo</th>
+      <th>Impacto</th>
+      <th>Interés</th>
+      <th>Puntaje Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+      <td>7 – Muchos usuarios reportan lentitud y desorden con los métodos actuales.</td>
+      <td>2 – Bajo riesgo técnico y de adopción, la implementación es directa.</td>
+      <td>8 – Podría mejorar significativamente la eficiencia de coordinación.</td>
+      <td>7 – Alta relevancia para usuarios frecuentes que buscan organizar mejor sus intercambios.</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+      <td>8 – Es una práctica común en plataformas exitosas como MercadoLibre y Airbnb.</td>
+      <td>3 – Riesgo medio por la necesidad de evitar abusos o manipulaciones.</td>
+      <td>8 – Incrementa la percepción de seguridad y reduce conflictos entre usuarios.</td>
+      <td>7 – Muy deseado por los usuarios entrevistados, especialmente nuevos.</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+      <td>6 – Lógica basada en conveniencia, aunque requiere validación local.</td>
+      <td>4 – Riesgo logístico por costos y coordinación de rutas.</td>
+      <td>7 – Elimina fricciones clave como la falta de movilidad o tiempo.</td>
+      <td>6 – Interés moderado con potencial de adopción entre usuarios ocupados.</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+      <td>5 – Requiere validación con encuestas y pruebas A/B.</td>
+      <td>5 – Riesgo medio si no se percibe valor suficiente en el servicio.</td>
+      <td>6 – Puede contribuir a la sostenibilidad financiera de la plataforma.</td>
+      <td>6 – Interés condicionado a la utilidad percibida de los beneficios.</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+      <td>6 – Funcionalidad común en marketplaces como OLX o Facebook Marketplace.</td>
+      <td>3 – Riesgo bajo, ya que es técnica y comercialmente viable.</td>
+      <td>6 – Incentiva a usuarios activos y mejora la rotación de publicaciones.</td>
+      <td>5 – Relevante para usuarios frecuentes con artículos destacados.</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
+      <td>7 – Las ONGs generan confianza y credibilidad entre la comunidad.</td>
+      <td>3 – Bajo riesgo si se establecen alianzas estratégicas bien definidas.</td>
+      <td>6 – Fortalece el aspecto solidario y reputacional de la plataforma.</td>
+      <td>6 – Alta afinidad con usuarios comprometidos socialmente.</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
+      <td>4 – Falta de datos concretos sobre usuarios que lo requieren.</td>
+      <td>2 – Bajo riesgo inicial; puede explorarse con un prototipo.</td>
+      <td>5 – Impacto limitado al nicho de usuarios extranjeros.</td>
+      <td>4 – Interés bajo-moderado en esta etapa del desarrollo.</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
+      <td>6 – Basado en funcionalidades estándar de búsqueda en otras apps.</td>
+      <td>2 – Bajo riesgo técnico y de implementación.</td>
+      <td>7 – Aumenta la eficiencia y precisión en la búsqueda de artículos.</td>
+      <td>6 – Prioridad alta para usuarios activos que buscan intercambios específicos.</td>
+      <td>21</td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
+
+### 8.1.4. Question Backlog
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Prioridad (1,2,3,5,8)</th>
+      <th>Pregunta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
+
+### 8.1.5. Experiment Cards
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td></tr>
+  <tr><th>Why</th><td>Los sistemas de reputación son ampliamente utilizados en plataformas exitosas como MercadoLibre y Airbnb, y ayudan a establecer confianza entre usuarios al proporcionar referencias transparentes.</td></tr>
+  <tr><th>What</th><td>Implementar un sistema donde los usuarios puedan dejar calificaciones y comentarios después de un intercambio, incluyendo un historial visible de reseñas en los perfiles.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que el 70% de los nuevos usuarios reporten una mayor confianza al interactuar con perfiles que tienen calificaciones positivas.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td></tr>
+  <tr><th>Why</th><td>Los usuarios reportan desorden y lentitud al coordinar por aplicaciones externas. Unificar el proceso puede reducir el tiempo y aumentar la efectividad del intercambio.</td></tr>
+  <tr><th>What</th><td>Desarrollar un sistema interno de mensajes, notificaciones y seguimiento dentro de la plataforma para centralizar la coordinación.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera una reducción del 40% en el tiempo de coordinación de intercambios comparado con métodos externos.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td></tr>
+  <tr><th>Why</th><td>Muchos usuarios no pueden movilizarse fácilmente. La recolección programada elimina esa fricción, facilitando la participación de personas ocupadas o sin transporte.</td></tr>
+  <tr><th>What</th><td>Habilitar un sistema donde los usuarios seleccionen horarios disponibles para que un recolector autorizado pase por sus donaciones.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera un aumento del 30% en el número de donaciones mensuales luego de implementar este sistema.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td></tr>
+  <tr><th>Why</th><td>Las ONGs otorgan legitimidad y confianza al proceso, lo cual puede atraer a más personas interesadas en donar con un respaldo social visible.</td></tr>
+  <tr><th>What</th><td>Establecer convenios con ONGs reconocidas para que validen y respalden las donaciones realizadas a través de la plataforma.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera un incremento del 20% en el registro de nuevos usuarios provenientes de campañas de ONGs colaboradoras.</td></tr>
+</table><br><br>
+
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td></tr>
+  <tr><th>Why</th><td>Una suscripción puede generar ingresos sostenibles, pero debe justificarse ofreciendo ventajas claras como mayor visibilidad y prioridad en intercambios.</td></tr>
+  <tr><th>What</th><td>Diseñar un modelo de suscripción con beneficios tangibles como aumento de visibilidad, prioridad en búsquedas y analítica de publicaciones.</td></tr>
+  <tr><th>Hypothesis</th><td>Se estima que al menos el 10% de los usuarios activos adoptarán el plan de suscripción dentro de los tres primeros meses de lanzamiento.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td></tr>
+  <tr><th>Why</th><td>Los usuarios buscan eficiencia al encontrar productos específicos. Filtros avanzados agilizan el proceso y evitan frustración por resultados irrelevantes.</td></tr>
+  <tr><th>What</th><td>Agregar filtros de búsqueda por categorías (ropa, juguetes, etc.), estado del producto (nuevo, usado) y ubicación geográfica.</td></tr>
+  <tr><th>Hypothesis</th><td>Se proyecta una mejora del 35% en la tasa de coincidencia entre búsqueda y artículos seleccionados.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td></tr>
+  <tr><th>Why</th><td>El boost es una práctica común en plataformas de anuncios y mejora la exposición de publicaciones clave, incentivando la rotación de productos.</td></tr>
+  <tr><th>What</th><td>Incluir una función que permita al usuario destacar su publicación durante un tiempo limitado, mostrando prioridad en los listados.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que los artículos con boost tengan un 50% más de probabilidades de concretar un intercambio.</td></tr>
+</table><br><br>
+
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td></tr>
+  <tr><th>Why</th><td>Al habilitar otros idiomas, se facilita el acceso a personas extranjeras, ampliando el alcance y potencial uso internacional de la aplicación.</td></tr>
+  <tr><th>What</th><td>Traducir la interfaz principal al inglés y al chino con opción de selección automática según la configuración del dispositivo.</td></tr>
+  <tr><th>Hypothesis</th><td>Se estima un aumento del 15% en usuarios no hispanohablantes durante los primeros seis meses tras el lanzamiento de la versión multilingüe.</td></tr>
+</table><br><br>
+
+
+
+
+
+
+
+### 8.2.4. Scale Calculations and Decisions
+### 8.2.5. Methods Selection
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+### 8.2.7. Web and Mobile Tracking Plan
+
+## 8.3. Experimentation
+
+### 8.3.1. To-Be User Stories
+### 8.3.2. To-Be Product Backlog
+
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

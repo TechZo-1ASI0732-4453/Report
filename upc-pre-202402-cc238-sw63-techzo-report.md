@@ -7140,7 +7140,34 @@ Complementando estas herramientas, **Prometheus** y **Grafana** permiten visuali
 
 
 ### 7.4.3. Alerting Pipeline Components
+
+### 7.4.3. Alerting Pipeline Components
+
+En *CambiaZo*, el sistema de alertas está diseñado para detectar fallos o comportamientos anómalos tanto en el frontend Angular como en el backend Spring Boot. Utilizando herramientas como **Prometheus Alertmanager** y **Grafana**, se configuran umbrales críticos (como uso excesivo de CPU, latencia superior a 500 ms o errores 5xx en endpoints clave) que disparan notificaciones inmediatas a través de canales como Slack o correo electrónico, permitiendo una respuesta rápida ante incidentes.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/prometheus.png?raw=true" alt="prometheus">
+</div><br><br>
+
+Además, se integran alertas desde **Postman Monitors**, que informan si alguno de los flujos automatizados falla (por ejemplo, crear una oferta o aceptar una donación). De manera complementaria, **Sentry** y **Datadog RUM** notifican errores en tiempo real del lado del cliente, como caídas de JavaScript o problemas de navegación, ayudando a identificar fallos específicos en la experiencia de usuario que requieren atención inmediata.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/sentry.png?raw=true" alt="sentry">
+</div><br><br>
+
 ### 7.4.4. Notification Pipeline Components
+
+En *CambiaZo*, el pipeline de notificaciones garantiza que tanto los administradores como los usuarios finales estén informados en tiempo real sobre eventos relevantes del sistema. Para ello, se utilizan servicios como **Firebase Cloud Messaging (FCM)**, que permite enviar notificaciones push a la app móvil cuando, por ejemplo, una solicitud de donación ha sido aceptada o una oferta ha sido respondida. Estas alertas mejoran la experiencia del usuario al mantenerlo conectado con la actividad de su cuenta.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/firebase_cloud.png?raw=true" alt="firebase_cloud">
+</div><br><br>
+
+Desde el lado administrativo, se configura la notificación automática de eventos críticos mediante integraciones con **Slack** o **Jenkins**, alimentadas por los sistemas de monitoreo y alertas (Prometheus, Postman, Sentry). Esto permite que el equipo técnico reciba notificaciones instantáneas ante caídas, errores o anomalías detectadas, y pueda actuar de inmediato para asegurar la continuidad del servicio.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/jenkins.png?raw=true" alt="firebase_cloud">
+</div><br><br>
 
 # Capítulo VIII: Experiment-Driven Development
 

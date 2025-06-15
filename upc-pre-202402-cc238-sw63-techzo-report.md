@@ -7073,6 +7073,10 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
   - Medir tiempos de respuesta, throughput y uso de CPU/memoria en el servidor.
   - Repetir las mismas simulaciones contra el build estático de Angular servido por Nginx para detectar cuellos de botella en el frontend.
 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/apache-jmeter.png?raw=true" alt="jmeter">
+ </div><br><br>
+
 - **Monitoreo de aplicación y experiencia de usuario**
   - **Spring Boot Actuator + Micrometer → Prometheus & Grafana**  
     Exponer métricas de JVM (heap, GC), latencia por endpoint, tasas de error y contadores de transacciones; visualizar dashboards y configurar alertas (por ejemplo, latencia > 500 ms).  
@@ -7081,11 +7085,19 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
   - **Google Analytics (o Matomo)**  
     Recopilar flujos de usuario, eventos de interacción y métricas de usabilidad (tiempo en pantalla, tasa de rebote) para optimizar la interfaz.
 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/google-analytics.png?raw=true" alt="analytics">
+ </div><br><br>
+
 - **Supervisión de APIs internas y externas**
   - **Postman Monitors**  
     Programar colecciones que validen diariamente los flujos críticos (autenticación, crear publicación, solicitud de donación) y notifiquen ante fallos.
   - **Pingdom / Uptime Robot**  
     Comprobar la disponibilidad y el tiempo de respuesta de la URL pública del backend y del frontend desde múltiples ubicaciones geográficas.
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/postman.png?raw=true" alt="postman">
+ </div><br><br>
 
 - **Logging centralizado y trazas distribuidas**
   - **ELK Stack (Elasticsearch, Logstash, Kibana)**  
@@ -7093,11 +7105,19 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
   - **Zipkin / Jaeger**  
     Propagar trazas entre componentes para diagnosticar latencias en llamadas internas y flujos de negocio complejos.
 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/zipkin.png?raw=true" alt="zipkin">
+ </div><br><br>
+
 - **Auditorías de calidad y rendimiento web**
   - **Google Lighthouse**  
     Auditar accesibilidad, SEO, performance y mejores prácticas en cada release del frontend.
   - **SonarQube**  
     Analizar la calidad de código Java y TypeScript, detectar vulnerabilidades, “code smells” y deuda técnica.
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/sonarqube.png?raw=true" alt="sonarqube">
+ </div><br><br>
 
 ### 7.4.2. Monitoring Pipeline Components
 ### 7.4.3. Alerting Pipeline Components

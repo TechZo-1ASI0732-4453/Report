@@ -7121,6 +7121,24 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
 </div><br><br>
 
 ### 7.4.2. Monitoring Pipeline Components
+
+Un pipeline de monitoreo constante en *CambiaZo* asegura que tanto la plataforma web como la app móvil mantengan un rendimiento óptimo y una experiencia fluida para sus usuarios. Este pipeline incluye etapas clave: recopilación de métricas, almacenamiento centralizado, análisis automático y visualización en tiempo real para la toma de decisiones.
+
+Herramientas como **Google Lighthouse** y **Postman Monitors** son esenciales en este proceso. Lighthouse permite realizar auditorías completas sobre el frontend de Angular, evaluando criterios como accesibilidad, SEO, rendimiento y buenas prácticas. Estos reportes permiten identificar mejoras en la interfaz, como tiempos de carga lentos, malas jerarquías semánticas o uso ineficiente de recursos estáticos.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/lighthouse.png?raw=true" alt="sonarqube">
+</div><br><br>
+
+Por otro lado, **Postman Monitors** ejecuta de forma periódica flujos críticos del backend desarrollado en Spring Boot, como el inicio de sesión, la publicación de productos o las solicitudes de donación. Esto permite detectar fallos antes de que impacten a los usuarios reales, garantizando así la fiabilidad del sistema.
+
+Complementando estas herramientas, **Prometheus** y **Grafana** permiten visualizar el uso de CPU, la latencia por endpoint, y detectar posibles cuellos de botella en las APIs. Además, soluciones como **Sentry** y **Google Analytics** capturan errores en tiempo real, flujos de navegación y métricas de comportamiento que ayudan a optimizar la experiencia general en *CambiaZo*.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/grafana.png?raw=true" alt="grafana">
+</div><br><br>
+
+
 ### 7.4.3. Alerting Pipeline Components
 ### 7.4.4. Notification Pipeline Components
 

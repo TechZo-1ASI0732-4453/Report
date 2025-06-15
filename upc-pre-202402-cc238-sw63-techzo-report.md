@@ -6091,6 +6091,9 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 7. ¿Usted utilizaría la aplicación para realizar donaciones? ¿Por qué?
 8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
 
+
+### 6.3.2. Registro de Entrevistas
+
 **Segmento Intercambiadores**<br>
 
 <table>
@@ -6136,11 +6139,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src=""></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/erick-maycol-evidence.png?raw=true"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6196,11 +6199,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Nelson Elías Serrano"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6256,11 +6259,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Saúl Díaz Evidence"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6319,11 +6322,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="entrevista-edu-gutierrez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6379,11 +6382,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Saúl Díaz Sánchez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-ian.png?raw=true" alt="Ian Díaz Sánchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6438,11 +6441,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src=""></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_junior.png?raw=true"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6500,11 +6503,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista Hernan Morales"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_hernan.png?raw=true" alt="Entrevista Hernan Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -6559,11 +6562,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista Arturo"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_arturo.png?raw=true" alt="Entrevista Arturo"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -6575,7 +6578,6 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
 </tbody>
 </table>
-<br>
 <br>
 
 ### 6.3.3. Evaluaciones según heurísticas.

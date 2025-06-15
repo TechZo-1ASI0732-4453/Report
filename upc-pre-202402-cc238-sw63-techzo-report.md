@@ -7315,8 +7315,315 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
   <tr><th>Hypothesis</th><td>Se estima un aumento del 15% en usuarios no hispanohablantes durante los primeros seis meses tras el lanzamiento de la versión multilingüe.</td></tr>
 </table><br><br>
 
+## 8.2. Experiment Design
+
+### 8.2.1. Hypotheses
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 1</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Los sistemas de calificaciones y comentarios mejoran la percepción de seguridad al proporcionar referencias previas de otros usuarios, aumentando la confianza y promoviendo interacciones más seguras.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La implementación de un sistema de calificaciones y reseñas aumentará la confianza del usuario en al menos un 70%, especialmente en los perfiles con puntuaciones altas.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>La inclusión de calificaciones y reseñas no tendrá un efecto significativo sobre la percepción de confianza entre los usuarios.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 2</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>La dispersión en herramientas externas ralentiza y desordena la coordinación. Una plataforma unificada puede centralizar y agilizar los intercambios.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Una plataforma unificada reducirá en al menos un 40% el tiempo de coordinación promedio entre usuarios.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>El uso de una plataforma unificada no reducirá significativamente el tiempo de coordinación respecto a métodos actuales.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 3</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Muchas personas desean donar pero no pueden movilizarse o no tienen tiempo. Un sistema de recojo a domicilio reduciría esta barrera.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La recolección programada aumentará la tasa de donaciones en al menos un 30% en zonas con alta densidad poblacional.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>La recolección programada no tendrá un impacto significativo en la tasa de donaciones.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 4</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Algunos usuarios valoran la visibilidad de sus publicaciones y podrían pagar por beneficios exclusivos si perciben un retorno significativo.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Al menos el 10% de los usuarios activos estarán dispuestos a pagar una suscripción si incluye boosts, estadísticas y acceso anticipado.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>Los usuarios no estarán dispuestos a pagar por una suscripción, sin importar los beneficios ofrecidos.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 5</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Las publicaciones destacadas tienden a tener mayor alcance. Un boost diario aumentará la exposición de los artículos publicados.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Las publicaciones con boost recibirán un 50% más de visualizaciones y tendrán un 30% más de éxito en el intercambio que aquellas sin boost.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>El boost diario no afectará significativamente la visibilidad ni el éxito de los intercambios.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 6</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>La validación por ONGs puede generar confianza, incentivar la participación y atraer usuarios comprometidos con causas sociales.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Las alianzas con ONGs aumentarán la base de usuarios activos en al menos un 25% en el primer trimestre posterior a la implementación.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>Las alianzas con ONGs no influirán en el crecimiento de la base de usuarios activos.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 7</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>El acceso multilingüe puede atraer usuarios extranjeros o bilingües y mejorar su experiencia, eliminando barreras idiomáticas.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>Las versiones multilingües no tendrán un efecto significativo sobre la experiencia ni el uso por parte de usuarios no hispanohablantes.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 8</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Los filtros permiten encontrar artículos específicos con mayor precisión, reduciendo la frustración y mejorando la eficiencia de búsqueda.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>El uso de filtros mejorará en al menos un 35% la velocidad promedio de búsqueda y aumentará la satisfacción del usuario en un 25%.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>La implementación de filtros no tendrá impacto relevante en la experiencia de búsqueda.</td></tr>
+</table><br><br>
 
 
+### 8.2.2. Measures
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Evaluar la percepción de confianza mediante encuestas antes y después de implementar el sistema de calificaciones. Medir también la frecuencia de interacción con perfiles bien calificados y el número de intercambios exitosos atribuidos a usuarios con buena reputación.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Comparar el tiempo promedio desde la oferta hasta la confirmación del intercambio antes y después de usar la plataforma unificada. Se incluirán registros de tiempo y encuestas de percepción sobre facilidad de coordinación.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Monitorear el número de donaciones realizadas semanalmente antes y después de habilitar el sistema de recolección. Incluir una encuesta para medir la percepción de conveniencia del servicio entre los donadores.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Registrar el porcentaje de usuarios que se suscriben durante el primer mes de la funcionalidad y realizar encuestas para conocer el valor percibido de los beneficios incluidos. Analizar también el impacto en la visibilidad de las publicaciones de los suscriptores.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Medir el número de visualizaciones, clics y propuestas de intercambio recibidas por publicaciones con y sin boost. Calcular el ratio de conversión a intercambio exitoso para cada tipo.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Comparar el crecimiento de nuevos usuarios y la tasa de retención antes y después del anuncio de alianzas. Incluir una encuesta donde se pregunte si la validación por parte de ONGs influyó en su decisión de usar la app.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Analizar el incremento en registros y actividad por parte de usuarios con idioma configurado distinto al español. Recoger retroalimentación directa mediante encuestas multilingües sobre usabilidad y comprensión de la interfaz.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Medir el tiempo promedio que toma encontrar un artículo usando filtros frente a búsquedas sin filtros. Aplicar encuestas para determinar si los usuarios encuentran más fácilmente lo que buscan con la nueva funcionalidad.</td>
+  </tr>
+</table>
+
+
+### 8.2.3. Conditions
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>La confianza del usuario aumentará en un 25% tras implementar el sistema de calificaciones, evaluado mediante encuestas y tasa de finalización de intercambios.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No se observará un cambio significativo en la confianza del usuario después de introducir el sistema de calificaciones.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>El tiempo promedio de coordinación disminuirá en un 30% al utilizar la plataforma unificada, medido en registros de actividad.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>El tiempo de coordinación permanecerá igual o disminuirá de forma insignificante respecto a los métodos actuales.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>La cantidad de donaciones aumentará al menos en un 35% luego de activar la recolección programada.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No se registrará un incremento notable en el número de donaciones después de habilitar la recolección programada.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Al menos el 15% de los usuarios activos adquirirán una suscripción mensual al ver valor en los beneficios exclusivos.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>El porcentaje de usuarios dispuestos a pagar será menor al 5%, indicando bajo interés en la suscripción.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Las publicaciones con boost recibirán al menos un 40% más de visualizaciones y un 25% más de propuestas de intercambio.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No se observarán diferencias significativas entre publicaciones con boost y las regulares.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>El número de usuarios nuevos y activos crecerá en al menos un 20% tras la formalización de alianzas con ONGs.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>La tasa de crecimiento de usuarios se mantendrá constante o variará mínimamente después de establecer las alianzas.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>La participación de usuarios no hispanohablantes aumentará en un 30% gracias a las versiones multilingües.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No se detectará una mejora significativa en la participación de usuarios de otros idiomas tras implementar traducciones.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Los usuarios encontrarán productos deseados en un 40% menos de tiempo y reportarán mayor satisfacción con el sistema de filtros.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>El tiempo de búsqueda y la satisfacción no cambiarán significativamente tras la introducción de filtros.</td>
+  </tr>
+</table>
 
 
 

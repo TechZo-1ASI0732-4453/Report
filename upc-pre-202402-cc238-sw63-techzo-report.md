@@ -7067,6 +7067,38 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
 ## 7.4. Continuous Monitoring
 
 ### 7.4.1. Tools and Practices
+
+- **Pruebas de carga y estrés (JMeter / Gatling)**
+  - Definir escenarios que simulen cientos o miles de usuarios concurrentes contra los endpoints REST de Spring Boot (login, búsquedas, ofertas, donaciones).
+  - Medir tiempos de respuesta, throughput y uso de CPU/memoria en el servidor.
+  - Repetir las mismas simulaciones contra el build estático de Angular servido por Nginx para detectar cuellos de botella en el frontend.
+
+- **Monitoreo de aplicación y experiencia de usuario**
+  - **Spring Boot Actuator + Micrometer → Prometheus & Grafana**  
+    Exponer métricas de JVM (heap, GC), latencia por endpoint, tasas de error y contadores de transacciones; visualizar dashboards y configurar alertas (por ejemplo, latencia > 500 ms).  
+  - **Real User Monitoring (Datadog RUM o Sentry Performance)**  
+    Integrar el SDK en Angular para capturar tiempos de carga de páginas, errores JavaScript y rutas de navegación del usuario.  
+  - **Google Analytics (o Matomo)**  
+    Recopilar flujos de usuario, eventos de interacción y métricas de usabilidad (tiempo en pantalla, tasa de rebote) para optimizar la interfaz.
+
+- **Supervisión de APIs internas y externas**
+  - **Postman Monitors**  
+    Programar colecciones que validen diariamente los flujos críticos (autenticación, crear publicación, solicitud de donación) y notifiquen ante fallos.
+  - **Pingdom / Uptime Robot**  
+    Comprobar la disponibilidad y el tiempo de respuesta de la URL pública del backend y del frontend desde múltiples ubicaciones geográficas.
+
+- **Logging centralizado y trazas distribuidas**
+  - **ELK Stack (Elasticsearch, Logstash, Kibana)**  
+    Centralizar logs JSON de Spring Boot y errores de Angular; facilitar búsquedas por correlación de petición.
+  - **Zipkin / Jaeger**  
+    Propagar trazas entre componentes para diagnosticar latencias en llamadas internas y flujos de negocio complejos.
+
+- **Auditorías de calidad y rendimiento web**
+  - **Google Lighthouse**  
+    Auditar accesibilidad, SEO, performance y mejores prácticas en cada release del frontend.
+  - **SonarQube**  
+    Analizar la calidad de código Java y TypeScript, detectar vulnerabilidades, “code smells” y deuda técnica.
+
 ### 7.4.2. Monitoring Pipeline Components
 ### 7.4.3. Alerting Pipeline Components
 ### 7.4.4. Notification Pipeline Components

@@ -7861,6 +7861,48 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
 </table>
 
 
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+
+
+### 8.2.7. Web and Mobile Tracking Plan
+
+En Cambiazo, nuestro objetivo principal es optimizar y monitorear de manera continua la aplicación web y móvil para facilitar los intercambios entre usuarios, así como promover la participación activa dentro de la plataforma y fomentar la solidaridad mediante donaciones a ONGs. Este plan de seguimiento nos permitirá evaluar de forma efectiva las mejoras implementadas, garantizando una experiencia fluida, segura y alineada con los valores del proyecto.
+
+El monitoreo de funcionalidades clave y experimentales se realizará en dos fases:
+
+#### 1. Implementación Inicial
+Durante esta etapa, se desplegarán funcionalidades como el registro de objetos, solicitudes de intercambio, lista de favoritos, visualización de perfiles y la sección de donaciones a ONGs, donde los usuarios podrán ofrecer objetos para ser donados directamente a organizaciones sociales. En paralelo, se recopilarán datos iniciales que servirán como línea base para futuras evaluaciones.
+
+#### Recolección de Datos:
+
+- Métricas de Uso: Número de usuarios activos (diarios y mensuales), duración promedio de sesión, objetos publicados, intercambios solicitados/completados y donaciones realizadas a ONGs.
+
+- Interacciones de Usuario: Registro de eventos clave como clics en botones de "intercambiar", "donar a ONG", visitas a perfiles de ONGs, y navegación por las distintas secciones de la app.
+
+- Feedback de Usuarios: Encuestas dentro de la app y formularios externos recogerán opiniones sobre la facilidad de uso, percepción de impacto social, utilidad de la sección de donaciones, y funcionalidad general de la plataforma.
+
+#### Análisis Comparativo:
+
+- Se contrastarán las métricas obtenidas con aquellas de versiones anteriores (sin la sección de ONGs) para evaluar el impacto de la reintroducción de esta funcionalidad en la experiencia general de los usuarios.
+
+#### 2. Seguimiento Continuo
+Una vez completada la implementación inicial, se establecerá un proceso permanente de monitoreo para identificar tendencias de uso, evaluar la efectividad de cada módulo (incluido el de donaciones), y aplicar mejoras continuas.
+
+#### Recolección de Datos:
+
+- Métricas en Tiempo Real: Se usarán herramientas como Firebase Analytics para monitorear eventos en vivo, detectar posibles errores o caídas, y observar flujos de navegación clave, como el de publicación de donaciones.
+
+- Segmentación de Usuarios: Se agruparán usuarios según sus comportamientos (donadores frecuentes, receptores, intercambiadores activos, nuevos usuarios, etc.) para entender mejor los diferentes perfiles de interacción.
+
+- Tasa de Retención: Se evaluará qué tan bien la app mantiene usuarios comprometidos, midiendo la retención después de ciertos periodos (Día 1, Día 7, Día 30) especialmente después de usar funciones como "intercambio" o "donar".
+
+#### Evaluación y Ajustes:
+
+- Informes Periódicos: Se elaborarán informes mensuales con análisis detallados, recomendaciones de mejora y hallazgos específicos respecto al uso de la sección de ONGs.
+
+- Iteración Basada en Datos: La toma de decisiones será guiada por los datos recopilados y el feedback constante de los usuarios, asegurando que Cambiazo no solo sea funcional, sino también socialmente relevante y alineado con los valores de sostenibilidad y solidaridad.
+
+Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercambio, sino también como un facilitador de impacto social positivo, manteniendo su evolución centrada en los usuarios y las comunidades que la utilizan.
 
 ## 8.3. Experimentation
 

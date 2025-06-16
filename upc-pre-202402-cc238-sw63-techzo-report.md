@@ -7816,6 +7816,51 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
 
 </table>
 
+### 8.2.5. Methods Selection
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Herramienta</th>
+      <th>Google Analytics</th>
+      <th>Catchpoint</th>
+      <th>RedLine13</th>
+      <th>Lighthouse</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Precio</th>
+      <td>Plan gratuito/créditos sin costo</td>
+      <td>Modelo basado en suscripción, con versiones de prueba</td>
+      <td>Gratuito con restricciones</td>
+      <td>Plan sin costo, disponible para ejecución local</td>
+    </tr>
+    <tr>
+      <th>Capacidad de Análisis</th>
+      <td>Análisis completo de métricas e información del comportamiento del usuario</td>
+      <td>Seguimiento detallado de rendimiento y experiencia del usuario desde distintas ubicaciones</td>
+      <td>Análisis enfocado a pruebas de carga y optimización de aplicaciones</td>
+      <td>Análisis centrado en la experiencia del usuario, con métricas fundamentales de rendimiento y usabilidad</td>
+    </tr>
+    <tr>
+      <th>Sencillez</th>
+      <td>Aprendizaje simple de las métricas</td>
+      <td>Interfaz avanzada pero detallada y completa</td>
+      <td>Información específica y resumida sobre rendimiento</td>
+      <td>Información condensada en valores clave que destacan aspectos de la aplicación</td>
+    </tr>
+    <tr>
+      <th>Ventajas</th>
+      <td>Excelente capacidad de generación de reportes y amplia integración con otros servicios</td>
+      <td>Análisis en tiempo real desde diversas ubicaciones y dispositivos, ideal para empresas con usuarios globales</td>
+      <td>Simulación de tráfico y pruebas de rendimiento bajo condiciones de carga</td>
+      <td>Evaluación de usabilidad, rendimiento y diseño con métricas claras para optimizar la experiencia del usuario</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## 8.3. Experimentation
 

@@ -7729,9 +7729,93 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 
 ### 8.2.4. Scale Calculations and Decisions
-### 8.2.5. Methods Selection
-### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
-### 8.2.7. Web and Mobile Tracking Plan
+
+Esta metodología emplea indicadores cuantitativos para determinar la validez de las hipótesis planteadas en un proyecto. Cada hipótesis se vincula con un parámetro de rendimiento específico: se clasifica como óptimo cuando el indicador logra completamente la meta establecida, satisfactorio cuando se sitúa entre el umbral mínimo y el óptimo, y problemático si permanece bajo el umbral mínimo, lo que demanda una reevaluación. Se establece un nivel sobresaliente cuando el resultado excede el valor óptimo en un 25% o superior, señalando un logro excepcional. Esta metodología facilita la toma de decisiones basadas en datos para confirmar o modificar las hipótesis del proyecto.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th rowspan="2">Scale Calculation</th>
+      <th rowspan="2">Decision</th>
+      <th colspan="4">Factor</th>
+    </tr>
+    <tr>
+      <th>Desfavorable</td>
+      <th>Aceptable</td>
+      <th>Ideal</td>
+      <th>Excelente</td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Creemos que la implementación de un sistema de calificaciones y reseñas aumentará la confianza del usuario en al menos un 70%, especialmente en los perfiles con puntuaciones altas. Sabremos que esto es cierto cuando observemos un aumento del 25% en la confianza mediante encuestas y mayor tasa de finalización de intercambios.</td>
+      <td>Implementar un sistema de reputación basado en calificaciones y comentarios que proporcione referencias previas de otros usuarios, aumentando la confianza y promoviendo interacciones más seguras.</td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que una plataforma unificada reducirá en al menos un 40% el tiempo de coordinación promedio entre usuarios. Sabremos que esto es cierto cuando el tiempo promedio disminuya en un 30% según registros de actividad.</td>
+      <td>Desarrollar una plataforma centralizada que agilice los intercambios y reduzca la dispersión en herramientas externas como WhatsApp y Facebook.</td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que la recolección programada aumentará la tasa de donaciones en al menos un 30% en zonas con alta densidad poblacional. Sabremos que esto es cierto cuando la cantidad de donaciones aumente al menos en un 35%.</td>
+      <td>Implementar un sistema de recojo a domicilio que reduzca las barreras para personas que desean donar pero no pueden movilizarse o no tienen tiempo.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>Creemos que al menos el 10% de los usuarios activos estarán dispuestos a pagar una suscripción si incluye boosts, estadísticas y acceso anticipado. Sabremos que esto es cierto cuando al menos el 15% adquiera una suscripción mensual.</td>
+      <td>Ofrecer beneficios exclusivos mediante suscripción que proporcionen valor significativo en visibilidad y funcionalidades avanzadas.</td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que las publicaciones con boost recibirán un 50% más de visualizaciones y tendrán un 30% más de éxito en el intercambio que aquellas sin boost. Sabremos que esto es cierto cuando reciban al menos un 40% más de visualizaciones y un 25% más de propuestas.</td>
+      <td>Implementar un sistema de boost diario que aumente la exposición y el alcance de los artículos publicados en la plataforma.</td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que las alianzas con ONGs aumentarán la base de usuarios activos en al menos un 25% en el primer trimestre posterior a la implementación. Sabremos que esto es cierto cuando el crecimiento sea de al menos un 20%.</td>
+      <td>Establecer alianzas estratégicas con ONGs para validar donaciones, generar confianza e incentivar la participación de usuarios comprometidos con causas sociales.</td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que la inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%. Sabremos que esto es cierto cuando la participación aumente en un 30%.</td>
+      <td>Desarrollar versiones multilingües que eliminen barreras idiomáticas y atraigan usuarios extranjeros o bilingües, mejorando su experiencia en la plataforma.</td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que el uso de filtros mejorará en al menos un 35% la velocidad promedio de búsqueda y aumentará la satisfacción del usuario en un 25%. Sabremos que esto es cierto cuando los usuarios encuentren productos en un 40% menos de tiempo.</td>
+      <td>Implementar filtros por categoría, estado y ubicación que permitan encontrar artículos específicos con mayor precisión, reduciendo la frustración y mejorando la eficiencia.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+    </tr>
+  </tbody>
+
+</table>
+
 
 ## 8.3. Experimentation
 

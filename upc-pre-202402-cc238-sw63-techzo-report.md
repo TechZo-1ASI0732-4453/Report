@@ -7989,7 +7989,66 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 
 ### 8.3.2. To-Be Product Backlog
 
-
+<table border="1" cellpadding="8" cellspacing="0" style="width: 100% !important; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>UA01</td>
+      <td>Sistema de calificaciones y reseñas</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>UA02</td>
+      <td>Plataforma de coordinación unificada</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>UA08</td>
+      <td>Filtros de búsqueda avanzados</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>UA03</td>
+      <td>Sistema de recolección programada</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>UA06</td>
+      <td>Alianzas con ONGs para validación</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>UA04</td>
+      <td>Suscripción premium con boost</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>UA05</td>
+      <td>Sistema de boost para publicaciones</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>UA07</td>
+      <td>Versiones multilingües</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
 
 <div style="page-break-after: always;"></div>
 

@@ -7907,7 +7907,88 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 ## 8.3. Experimentation
 
 ### 8.3.1. To-Be User Stories
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relación con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>UA01</th>
+      <td>Sistema de calificaciones y reseñas</td>
+      <td>Como usuario de Cambiazo, quiero poder calificar y dejar reseñas de otros usuarios después de un intercambio para generar confianza en la plataforma.</td>
+      <td><b>Escenario 1: Calificar usuario después del intercambio</b><br/>Given he completado un intercambio exitoso con otro usuario.<br/><br/>When accedo a la sección "Mi historial".<br/>And selecciono el intercambio realizado.<br/><br/>Then puedo calificar al usuario del 1 al 5 estrellas y dejar una reseña opcional.<br/>And la calificación se guarda y es visible en el perfil del usuario calificado.<br/><br/>
+      <b>Escenario 2: Ver reputación de usuario</b><br/>Given estoy viendo el perfil de un usuario.<br/><br/>When accedo a su información de perfil.<br/><br/>Then puedo ver su calificación promedio, número de intercambios y reseñas recibidas.<br/>And puedo leer las reseñas específicas dejadas por otros usuarios.
+      </td>
+      <td>E01</td>
+    </tr>
+    <tr>
+      <th>UA02</th>
+      <td>Plataforma de coordinación unificada</td>
+      <td>Como usuario de Cambiazo, quiero coordinar todos mis intercambios directamente en la plataforma sin necesidad de usar WhatsApp o Facebook para agilizar el proceso.</td>
+      <td><b>Escenario 1: Enviar propuesta de intercambio</b><br/>Given estoy viendo una publicación que me interesa.<br/><br/>When hago clic en "Proponer intercambio".<br/><br/>Then puedo seleccionar uno de mis objetos publicados y enviar una propuesta con mensaje opcional.<br/>And el propietario recibe una notificación de la propuesta.<br/><br/><b>Escenario 2: Gestionar propuestas recibidas</b><br/>Given he recibido propuestas de intercambio.<br/><br/>When accedo a "Mis propuestas".<br/><br/>Then puedo ver todas las propuestas con detalles del objeto ofrecido.<br/>And puedo aceptar, rechazar o hacer una contrapropuesta.
+      </td>
+      <td>E02</td>
+    </tr>
+    <tr>
+      <th>UA03</th>
+      <td>Sistema de recolección programada</td>
+      <td>Como usuario donador, quiero programar la recolección de mis objetos donados para que los recojan en mi domicilio sin tener que trasladarme.</td>
+      <td><b>Escenario 1: Programar recolección de donación</b><br/>Given quiero donar objetos a una ONG.<br/><br/>When selecciono "Donar a ONG" en una publicación.<br/><br/>Then puedo elegir fecha y hora preferida para la recolección.<br/>And proporciono mi dirección y detalles adicionales.<br/>And recibo confirmación de la programación.<br/><br/><b>Escenario 2: Seguimiento de recolección</b><br/>Given he programado una recolección.<br/><br/>When accedo a "Mis donaciones".<br/><br/>Then puedo ver el estado de la recolección (programada, en camino, completada).<br/>And recibo notificaciones de actualización del estado.
+      </td>
+      <td>E03</td>
+    </tr>
+    <tr>
+      <th>UA04</th>
+      <td>Suscripción premium con boost</td>
+      <td>Como usuario activo de Cambiazo, quiero suscribirme a un plan premium para obtener beneficios como boost de publicaciones y estadísticas avanzadas.</td>
+      <td><b>Escenario 1: Suscribirse al plan premium</b><br/>Given estoy en la sección "Mi cuenta".<br/><br/>When selecciono "Actualizar a Premium".<br/><br/>Then puedo ver los beneficios incluidos y el precio mensual.<br/>And puedo completar el pago de forma segura.<br/>And mi cuenta se actualiza a premium inmediatamente.<br/><br/><b>Escenario 2: Usar boost en publicaciones</b><br/>Given tengo una suscripción premium activa.<br/><br/>When publico un objeto o edito una publicación existente.<br/><br/>Then puedo activar el "boost diario" para mayor visibilidad.<br/>And mi publicación aparece destacada en los resultados de búsqueda.
+      </td>
+      <td>E04</td>
+    </tr>
+    <tr>
+      <th>UA05</th>
+      <td>Sistema de boost para publicaciones</td>
+      <td>Como usuario premium, quiero usar boost en mis publicaciones para que tengan mayor visibilidad y más posibilidades de intercambio exitoso.</td>
+      <td><b>Escenario 1: Aplicar boost a publicación</b><br/>Given tengo una suscripción premium.<br/><br/>When estoy creando o editando una publicación.<br/><br/>Then puedo activar el boost diario disponible.<br/>And mi publicación se marca como "destacada".<br/>And aparece en las primeras posiciones de búsqueda.<br/><br/><b>Escenario 2: Ver estadísticas de boost</b><br/>Given he usado boost en mis publicaciones.<br/><br/>When accedo a "Mis estadísticas".<br/><br/>Then puedo ver métricas como visualizaciones adicionales y propuestas recibidas.<br/>And puedo comparar el rendimiento con y sin boost.
+      </td>
+      <td>E05</td>
+    </tr>
+    <tr>
+      <th>UA06</th>
+      <td>Alianzas con ONGs para validación</td>
+      <td>Como usuario de Cambiazo, quiero ver qué ONGs están aliadas con la plataforma para tener confianza al hacer donaciones.</td>
+      <td><b>Escenario 1: Ver ONGs aliadas</b><br/>Given estoy en la sección "Donar".<br/><br/>When exploro las opciones de donación.<br/><br/>Then puedo ver una lista de ONGs verificadas y aliadas.<br/>And cada ONG muestra su información, misión y certificaciones.<br/><br/><b>Escenario 2: Donar a ONG verificada</b><br/>Given selecciono una ONG aliada.<br/><br/>When elijo objetos para donar.<br/><br/>Then puedo ver que la donación será validada por la ONG.<br/>And recibo un certificado digital de mi donación.
+      </td>
+      <td>E06</td>
+    </tr>
+    <tr>
+      <th>UA07</th>
+      <td>Versiones multilingües</td>
+      <td>Como usuario no hispanohablante, quiero usar Cambiazo en mi idioma (inglés o chino) para entender mejor todas las funcionalidades.</td>
+      <td><b>Escenario 1: Cambiar idioma de la aplicación</b><br/>Given estoy en cualquier sección de la aplicación.<br/><br/>When accedo al menú de configuración.<br/><br/>Then puedo seleccionar entre español, inglés y chino.<br/>And toda la interfaz se traduce al idioma seleccionado.<br/><br/><b>Escenario 2: Contenido traducido</b><br/>Given he cambiado el idioma de la aplicación.<br/><br/>When navego por diferentes secciones.<br/><br/>Then todos los textos, botones y mensajes están en el idioma seleccionado.<br/>And las publicaciones de otros usuarios muestran opción de traducción automática.
+      </td>
+      <td>E07</td>
+    </tr>
+    <tr>
+      <th>UA08</th>
+      <td>Filtros de búsqueda avanzados</td>
+      <td>Como usuario de Cambiazo, quiero filtrar las publicaciones por categoría, estado del objeto y ubicación para encontrar exactamente lo que busco.</td>
+      <td><b>Escenario 1: Aplicar filtros de búsqueda</b><br/>Given estoy en la página principal de publicaciones.<br/><br/>When hago clic en "Filtros".<br/><br/>Then puedo seleccionar categoría (ropa, electrónicos, libros, etc.).<br/>And puedo filtrar por estado (nuevo, como nuevo, usado).<br/>And puedo establecer un radio de distancia desde mi ubicación.<br/><br/><b>Escenario 2: Búsqueda con múltiples filtros</b><br/>Given he aplicado varios filtros.<br/><br/>When hago clic en "Aplicar filtros".<br/><br/>Then veo solo las publicaciones que cumplen todos los criterios.<br/>And puedo guardar esta combinación de filtros como favorita.
+      </td>
+      <td>E08</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 8.3.2. To-Be Product Backlog
+
 
 
 <div style="page-break-after: always;"></div>

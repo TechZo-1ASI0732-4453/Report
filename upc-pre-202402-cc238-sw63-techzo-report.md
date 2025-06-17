@@ -7863,7 +7863,27 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
 
+Se realizaron pruebas de rendimiento, accesibilidad y mejores prácticas con LightHouse en nuestra aplicación CambiaZo para evaluar el desempeño y realizar optimizaciones que mejoren la experiencia del usuario. A continuación, evidencias de las pruebas realizadas para ambos segmentos objetivos (Intercambiadores y Donadores):
 
+#### Intercambiadores:
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse1.png?raw=true" alt="sonarqube" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse2.png?raw=true" alt="sonarqube" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse3.png?raw=true" alt="sonarqube" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse4.png?raw=true" alt="sonarqube" width="600">
+</div><br><br>
+
+#### Donadores:
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse1Donadores.png?raw=true" alt="sonarqube" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/DataAnalytics/lighthouse2Donadores.png?raw=true" alt="sonarqube" width="600">
+</div><br><br>
+
+Los resultados de Lighthouse muestran que CambiaZo mantiene un excelente nivel de accesibilidad con puntuaciones superiores a 90, lo cual es fundamental para garantizar una experiencia inclusiva para todos los usuarios. Sin embargo, identificamos oportunidades de mejora en las métricas de Performance y SEO, donde algunos tests arrojaron puntuaciones de 77 y 79, indicando la necesidad de optimizar tiempos de carga y prácticas de SEO.
+
+Estas métricas nos proporcionan una línea base sólida para medir el impacto de nuestras futuras implementaciones experimentales, especialmente las relacionadas con el sistema de boost, filtros de búsqueda y versiones multilingües. Los datos obtenidos nos permitirán validar nuestras hipótesis sobre la mejora en la experiencia del usuario y tomar decisiones informadas para optimizar el rendimiento de la plataforma.
 
 ### 8.2.7. Web and Mobile Tracking Plan
 

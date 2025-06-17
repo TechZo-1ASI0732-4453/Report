@@ -7864,6 +7864,7 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
 
 
+
 ### 8.2.7. Web and Mobile Tracking Plan
 
 En Cambiazo, nuestro objetivo principal es optimizar y monitorear de manera continua la aplicación web y móvil para facilitar los intercambios entre usuarios, así como promover la participación activa dentro de la plataforma y fomentar la solidaridad mediante donaciones a ONGs. Este plan de seguimiento nos permitirá evaluar de forma efectiva las mejoras implementadas, garantizando una experiencia fluida, segura y alineada con los valores del proyecto.

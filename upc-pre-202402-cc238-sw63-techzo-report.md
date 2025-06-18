@@ -250,32 +250,44 @@ software</td>
       <b>TB1</b> 
       <p>Asumí un rol participativo en la definición del problema y en la formulación de hipótesis que sirvieron como base para el desarrollo del producto. Durante este proceso, reflexioné sobre la responsabilidad profesional que implica diseñar soluciones que impactan directamente en las personas. Me aseguré de mantener un enfoque ético al validar ideas y enfoques, teniendo siempre presente la importancia de tomar decisiones informadas y justas para el equipo y los usuarios.</p> 
       <b>TP</b> 
-      <p>Me enfoqué en definir los criterios de aceptación desde la perspectiva del usuario utilizando el enfoque BDD (Behavior-Driven Development), lo cual implicó asumir una responsabilidad ética al interpretar correctamente sus necesidades. Esto permitió diseñar pruebas que validaran comportamientos reales del sistema, garantizando que nuestras soluciones fueran coherentes con las expectativas de los usuarios. Además, en el desarrollo del pipeline de pruebas y construcción, prioricé la transparencia y trazabilidad en cada fase para asegurar entregables confiables y éticos.</p> 
+      <p>Me enfoqué en definir los criterios de aceptación desde la perspectiva del usuario utilizando el enfoque BDD (Behavior-Driven Development), lo cual implicó asumir una responsabilidad ética al interpretar correctamente sus necesidades. Esto permitió diseñar pruebas que validaran comportamientos reales del sistema, garantizando que nuestras soluciones fueran coherentes con las expectativas de los usuarios. Además, en el desarrollo del pipeline de pruebas y construcción, prioricé la transparencia y trazabilidad en cada fase para asegurar entregables confiables y éticos.</p>
+      <b>TB2</b>
+      <p>Me centré en liderar la implementación de pruebas de unidad e integración para las entidades principales del sistema, asegurando que cada componente funcionara de manera correcta y segura. Asumí la responsabilidad ética de prevenir errores que pudieran afectar a los usuarios, priorizando la calidad y robustez del código. Además, participé activamente en la revisión de estándares de codificación y seguridad, donde promovimos prácticas responsables y sostenibles que consideraran la mantenibilidad del sistema en diferentes contextos de uso.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Me involucré de manera activa en las tareas de investigación y análisis de los usuarios, donde fue fundamental mantener una postura ética y respetuosa en la recolección y uso de la información. A lo largo del proyecto, mostré responsabilidad profesional al tomar decisiones orientadas a resolver problemas reales, buscando siempre que las soluciones tuvieran un sustento claro y beneficiaran al usuario final. Fomenté dentro del equipo una actitud de compromiso y respeto con los objetivos del proyecto.</p>
     <b>TP</b> 
-    <p>Durante esta entrega, asumí la tarea de implementar pruebas de integración que permitieran validar cómo interactúan los diferentes componentes del sistema. Esto implicó asumir un compromiso ético con la calidad del software, al evitar errores que puedan comprometer la experiencia del usuario. También seleccioné herramientas de CI que promovieran la automatización responsable del proyecto, fomentando prácticas que garanticen resultados reproducibles y decisiones basadas en evidencia técnica.</p> 
+    <p>Durante esta entrega, asumí la tarea de implementar pruebas de integración que permitieran validar cómo interactúan los diferentes componentes del sistema. Esto implicó asumir un compromiso ético con la calidad del software, al evitar errores que puedan comprometer la experiencia del usuario. También seleccioné herramientas de CI que promovieran la automatización responsable del proyecto, fomentando prácticas que garanticen resultados reproducibles y decisiones basadas en evidencia técnica.</p>
+    <b>TB2</b>
+    <p>Fui responsable de coordinar la auditoría de experiencia de usuario, lo cual implicó una evaluación empática y ética del impacto de nuestra solución en las personas. Este ejercicio me permitió reflexionar sobre cómo decisiones técnicas pueden influir en la accesibilidad y satisfacción de usuarios reales. Al analizar y responder a los hallazgos de otros grupos, ejercí un juicio informado que tuvo como objetivo mejorar la inclusión, usabilidad y sostenibilidad del producto, elevando la calidad desde una perspectiva social.</p> 
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Colaboré de manera constante en la coordinación de tareas y toma de decisiones, procurando mantener una cultura de trabajo en equipo donde la ética profesional fuera un pilar fundamental. Promoví la comunicación clara y el respeto por los tiempos y aportes de todos, lo cual fue clave para tomar decisiones responsables en el diseño y validación de las propuestas. En cada etapa, busqué que nuestras acciones tuvieran coherencia con los valores del proyecto.</p>
     <b>TP</b> 
-    <p>Fui responsable de las pruebas de sistema, asegurándome de que el producto cumpliera con los requisitos funcionales y no funcionales definidos previamente. Esta tarea exigió un compromiso ético para no omitir validaciones críticas. También coordiné la configuración de los entornos por etapas en el pipeline de despliegue, buscando garantizar una transición progresiva y segura hacia la producción. Esto implicó decisiones responsables para minimizar impactos negativos hacia los usuarios.</p> 
+    <p>Fui responsable de las pruebas de sistema, asegurándome de que el producto cumpliera con los requisitos funcionales y no funcionales definidos previamente. Esta tarea exigió un compromiso ético para no omitir validaciones críticas. También coordiné la configuración de los entornos por etapas en el pipeline de despliegue, buscando garantizar una transición progresiva y segura hacia la producción. Esto implicó decisiones responsables para minimizar impactos negativos hacia los usuarios.</p>
+    <b>TB2</b>
+    <p>Estuve a cargo del diseño y ejecución de entrevistas de validación, donde procuré interpretar con precisión las necesidades de los usuarios y transformar esas voces en mejoras tangibles. Reconocí la importancia de asumir una actitud ética al representar fielmente sus expectativas, garantizando que el producto no solo funcionara técnicamente, sino que también respondiera de forma adecuada a contextos reales y humanos. Esta responsabilidad se tradujo en un mayor compromiso con el desarrollo de soluciones socialmente responsables.</p> 
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Durante la elaboración del producto, participé activamente en la priorización de requerimientos y planificación de entregables. Me aseguré de que las decisiones que tomábamos estuvieran respaldadas por las necesidades reales de los usuarios y no por supuestos o tendencias pasajeras. Asumí con responsabilidad el impacto que nuestras decisiones podían tener, tanto en el resultado final como en la experiencia del usuario, guiándome por principios éticos y profesionales.</p>
     <b>TP</b> 
-    <p>Me enfoqué en el diseño e implementación de pruebas unitarias para las entidades principales del sistema. Esto supuso una responsabilidad ética al garantizar que cada módulo individual funcione correctamente, evitando efectos colaterales que afecten al conjunto. En paralelo, contribuí en la definición de herramientas de Continuous Delivery, seleccionando aquellas que ofrecieran mayor confiabilidad y trazabilidad, facilitando decisiones técnicas acordes con nuestras responsabilidades profesionales.</p> 
+    <p>Me enfoqué en el diseño e implementación de pruebas unitarias para las entidades principales del sistema. Esto supuso una responsabilidad ética al garantizar que cada módulo individual funcione correctamente, evitando efectos colaterales que afecten al conjunto. En paralelo, contribuí en la definición de herramientas de Continuous Delivery, seleccionando aquellas que ofrecieran mayor confiabilidad y trazabilidad, facilitando decisiones técnicas acordes con nuestras responsabilidades profesionales.</p>
+    <b>TB2</b>
+    <p>Participé en la configuración e implementación de las prácticas de integración y entrega continua. Durante este proceso, prioricé herramientas open source y configuraciones eficientes que redujeran el uso excesivo de recursos, pensando en la sostenibilidad y en facilitar la adopción del producto por equipos con recursos limitados. Esta elección técnica se basó en una reflexión ética sobre la equidad tecnológica, buscando construir soluciones accesibles, transparentes y adaptables a distintos entornos económicos y sociales.</p> 
     <h3>Claudio Sandro Quispesivana Torres</h3>
     <b>TB1</b>
     <p>En las tareas relacionadas al diseño colaborativo del producto, incluyendo base de datos y desarrollo de interfaces, actué con responsabilidad y conciencia profesional, asegurándome de que cada decisión respondiera a necesidades reales y no generara problemas éticos ni técnicos en el futuro. Promoví un enfoque reflexivo dentro del equipo para que el desarrollo del producto se realizara con un compromiso ético constante y orientado al beneficio del usuario.</p>
     <b>TP</b> 
-    <p>Aporté en la ejecución de pruebas de integración con un enfoque orientado a prevenir fallos en la interacción entre componentes. Este trabajo me llevó a reflexionar sobre la importancia de anticipar errores antes de llegar al usuario final, reforzando así mi compromiso profesional. Además, participé en la definición de buenas prácticas para el despliegue continuo, enfocándome en herramientas que prioricen la estabilidad, seguridad y trazabilidad de las entregas.</p> 
+    <p>Aporté en la ejecución de pruebas de integración con un enfoque orientado a prevenir fallos en la interacción entre componentes. Este trabajo me llevó a reflexionar sobre la importancia de anticipar errores antes de llegar al usuario final, reforzando así mi compromiso profesional. Además, participé en la definición de buenas prácticas para el despliegue continuo, enfocándome en herramientas que prioricen la estabilidad, seguridad y trazabilidad de las entregas.</p>
+    <b>TB2</b>
+    <p>Mi principal responsabilidad fue planificar y ejecutar los experimentos de desarrollo orientado a hipótesis. Al definir métricas, condiciones y KPIs, asumí un rol profesional en la toma de decisiones informadas, considerando el impacto que ciertos cambios podían tener en el comportamiento del sistema y en la experiencia de los usuarios. Este enfoque basado en evidencia me permitió reflexionar sobre cómo una evaluación rigurosa y responsable contribuye a una ingeniería más consciente y centrada en el bienestar de las personas.</p> 
     <td colspan="3">
     <b>TB1</b>
     <p>Al finalizar este primer tramo del proyecto, nuestro equipo ha demostrado una clara conciencia sobre la responsabilidad ética y profesional que implica el desarrollo de soluciones de software. A lo largo de las actividades realizadas, desde la definición del problema hasta las decisiones tomadas durante la propuesta de valor, cada integrante ha mostrado un compromiso genuino por actuar con integridad, transparencia y respeto hacia los usuarios y hacia el trabajo colaborativo. Este enfoque responsable ha sido clave para construir una base sólida que garantice no solo la calidad técnica del producto, sino también su pertinencia social y su viabilidad en contextos reales. El haber abordado cada etapa con ética profesional ha fortalecido la confianza entre nosotros y con los objetivos del proyecto, reafirmando que las buenas prácticas y la reflexión crítica son esenciales para nuestro crecimiento como futuros ingenieros de software.</p>
     <b>TP</b>
     <p>En esta fase del proyecto, asumimos con responsabilidad ética y profesional la implementación de pruebas y prácticas DevOps como parte fundamental del proceso de desarrollo. Nos comprometimos a garantizar la calidad del producto mediante pruebas unitarias, de integración y de sistema que no solo verificaran el funcionamiento correcto, sino que también protegieran a los usuarios de posibles fallos. Además, reflexionamos sobre la importancia de automatizar procesos con transparencia, confiabilidad y trazabilidad, reconociendo que cada decisión técnica conlleva una responsabilidad hacia quienes utilizan el software. La ética estuvo presente en cada etapa al promover la colaboración, documentar adecuadamente nuestras acciones y tomar decisiones justas que favorezcan al equipo y a los usuarios finales. Esta entrega fortaleció nuestra conciencia profesional sobre el impacto que tiene nuestro trabajo, no solo a nivel técnico, sino también humano.</p>
+    <b>TB2</b>
+    <p>A lo largo de esta etapa del proyecto, nuestro equipo asumió con responsabilidad ética y profesional cada una de las decisiones tomadas durante las fases de verificación, validación, DevOps y experimentación. Más allá del cumplimiento técnico, nos esforzamos por comprender el impacto de nuestras soluciones en contextos diversos, evaluando no solo la funcionalidad, sino también la sostenibilidad, accesibilidad y equidad de nuestras propuestas. Esta conciencia nos permitió ajustar continuamente el rumbo del desarrollo, reafirmando nuestro compromiso con una ingeniería de software centrada en el ser humano y en la mejora del entorno social, económico y ambiental donde se implementará nuestra solución. Asimismo, promovimos la colaboración activa entre los miembros del equipo para tomar decisiones informadas de manera conjunta. Esta dinámica fortaleció nuestra capacidad crítica y reafirmó nuestra responsabilidad como futuros profesionales conscientes de su impacto.</p>
   </td>
     </tr>
     <tr>
@@ -290,33 +302,45 @@ sociales</td>
     <b>TB1</b>
     <p>Aporté activamente en la evaluación crítica de nuestras decisiones, buscando que cada elección técnica también respondiera a criterios de sostenibilidad, accesibilidad y viabilidad. Analizamos las condiciones en las que nuestros usuarios podrían interactuar con el producto, considerando incluso limitaciones económicas o sociales, y ajustamos nuestras propuestas para asegurar que fueran realmente útiles y aplicables. Esta reflexión nos ayudó a tomar decisiones más informadas y con mayor conciencia del entorno.</p>
         <b>TP</b> 
-    <p>Durante el diseño de nuestras pruebas de integración, cuestioné cómo el sistema respondería en entornos con restricciones económicas o tecnológicas. Ajustamos nuestras decisiones para que los módulos pudieran desplegarse de forma modular y escalonada. Además, al evaluar herramientas para despliegue continuo, procuré que fueran compatibles con entornos en la nube de bajo costo, fomentando una implementación sostenible y adaptable a distintas realidades globales y locales.</p> 
+    <p>Durante el diseño de nuestras pruebas de integración, cuestioné cómo el sistema respondería en entornos con restricciones económicas o tecnológicas. Ajustamos nuestras decisiones para que los módulos pudieran desplegarse de forma modular y escalonada. Además, al evaluar herramientas para despliegue continuo, procuré que fueran compatibles con entornos en la nube de bajo costo, fomentando una implementación sostenible y adaptable a distintas realidades globales y locales.</p>
+    <b>TB2</b>
+    <p>Durante el diseño de las pipelines de integración y despliegue, prioricé herramientas de código abierto que pudieran implementarse en distintos entornos sin necesidad de infraestructura costosa. Esta elección buscó reducir barreras económicas y aumentar la accesibilidad del sistema, especialmente para organizaciones con recursos limitados. Cada decisión se basó en la evaluación de impacto y sostenibilidad, manteniendo una mirada global y responsable.</p> 
       <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Durante el desarrollo del proyecto, participé en el análisis de los usuarios y sus entornos, considerando los distintos factores que podían influir en el uso y adopción de nuestra solución. Junto con mi equipo, tomamos decisiones con una mirada amplia, reflexionando sobre cómo nuestras propuestas podrían generar un impacto positivo no solo en el usuario inmediato, sino también en un contexto social más amplio. Este enfoque permitió construir una solución más equilibrada y responsable.</p>
     <b>TP</b> 
-    <p>Reflexioné sobre cómo nuestros escenarios de pruebas basados en comportamientos debían ser representativos del contexto real de nuestros usuarios. Para ello, analizamos condiciones de uso en comunidades con acceso limitado a tecnología moderna y adaptamos nuestras validaciones para mantener la funcionalidad bajo esas condiciones. Además, en la construcción del pipeline, me aseguré de que las herramientas seleccionadas fueran accesibles y de bajo costo, considerando la posibilidad de replicar este modelo en organizaciones con recursos reducidos.</p> 
+    <p>Reflexioné sobre cómo nuestros escenarios de pruebas basados en comportamientos debían ser representativos del contexto real de nuestros usuarios. Para ello, analizamos condiciones de uso en comunidades con acceso limitado a tecnología moderna y adaptamos nuestras validaciones para mantener la funcionalidad bajo esas condiciones. Además, en la construcción del pipeline, me aseguré de que las herramientas seleccionadas fueran accesibles y de bajo costo, considerando la posibilidad de replicar este modelo en organizaciones con recursos reducidos.</p>
+    <b>TB2</b>
+    <p>Mi participación en el desarrollo de pruebas automatizadas y análisis estático se centró en garantizar no solo la calidad del código, sino también su mantenimiento a largo plazo. Consideré cómo el uso eficiente de recursos y la prevención de errores tempranos podían reducir el consumo innecesario de energía y tiempo en futuras fases, alineando el desarrollo con una visión ambientalmente consciente.</p> 
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Me enfoqué en mantener una perspectiva amplia al momento de diseñar las propuestas del equipo. Analizamos el impacto que podía tener nuestro producto en diferentes contextos, ajustando decisiones para adaptarnos a realidades diversas y evitar exclusiones. Esta postura nos permitió tomar decisiones más conscientes, buscando que nuestro trabajo fuera no solo funcional, sino también socialmente útil y económicamente viable para los usuarios a los que apuntábamos.</p>
     <b>TP</b> 
     <p>Evalué cómo nuestras decisiones técnicas influían en el mantenimiento y escalabilidad del sistema, particularmente en contextos con infraestructura limitada. Al diseñar pruebas de integración, prioricé que estas fueran eficientes y reutilizables, para reducir el consumo de recursos en futuras iteraciones. En cuanto a herramientas de integración continua, optamos por aquellas de código abierto, reconociendo su valor en entornos con restricciones económicas y su potencial para fomentar el acceso a tecnología sostenible.</p> 
+    <b>TB2</b>
+    <p>Al coordinar entrevistas de validación con usuarios reales, me aseguré de incorporar puntos de vista diversos que representaran distintos contextos sociales. Esto me permitió adaptar las soluciones a necesidades específicas y emitir juicios mejor informados sobre la dirección del diseño, promoviendo así un software más inclusivo y sensible al entorno cultural y económico de sus usuarios potenciales.</p>
       <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Contribuí en la toma de decisiones considerando los recursos con los que contábamos y los posibles escenarios en los que se utilizaría el producto. Evaluamos qué tan sostenibles y adaptables eran nuestras soluciones y tomamos decisiones equilibradas entre lo técnico y lo social. Este análisis nos permitió anticipar posibles consecuencias y asegurarnos de que el impacto de nuestro producto fuera positivo en distintos niveles.</p>
     <b>TP</b> 
     <p>En el diseño de pruebas de sistema, consideré cómo estas validaciones asegurarían un producto accesible y robusto para usuarios con diversas condiciones sociales y tecnológicas. Analicé el impacto que podría tener un fallo en entornos con conectividad limitada o infraestructura deficiente. Asimismo, al diseñar el pipeline de despliegue por etapas, busqué una estrategia que permitiera un avance controlado y que minimizara riesgos para las comunidades donde se implementaría el sistema.</p> 
+    <b>TB2</b>
+    <p>En la auditoría de experiencias de usuario, evalué no solo la funcionalidad, sino también la capacidad del producto para generar un impacto positivo en la calidad de vida de sus usuarios. Me esforcé por traducir los hallazgos en mejoras que fueran sostenibles y relevantes socialmente, fomentando así una ingeniería que trasciende lo técnico y se orienta al bienestar colectivo.</p>
     <h3>Claudio Sandro Quispesivana Torres</h3>
     <b>TB1</b>
     <p>Durante la construcción de las distintas partes del producto, mantuvimos como equipo una mirada reflexiva sobre el entorno donde se aplicaría. Aporté en discusiones donde evaluamos cómo nuestras decisiones podían tener efectos a nivel social, económico e incluso ambiental. Esta perspectiva nos permitió desarrollar una solución más inclusiva, adaptada a contextos reales y con un impacto duradero, más allá del cumplimiento técnico.</p>
     <b>TP</b> 
     <p>En la implementación de pruebas unitarias, consideré cómo la validación detallada de nuestras entidades fundamentales podía contribuir a un producto más estable y duradero. Pensamos en el largo plazo, con miras a minimizar el desperdicio de recursos por correcciones futuras. En paralelo, al proponer herramientas de delivery continuo, privilegié aquellas que promueven automatización eficiente y reducen la necesidad de intervención constante, permitiendo a equipos con menor capacidad técnica mantener el sistema operativo y actualizado.</p> 
+    <b>TB2</b>
+    <p>Durante el diseño de los experimentos, propuse hipótesis que consideraran cómo los cambios afectarían no solo la eficiencia del sistema, sino también su adaptabilidad en distintos mercados y regiones. Emití juicios fundamentados que contemplaron variables económicas y culturales, ayudando a construir un producto más resiliente y con potencial de impacto global.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>A lo largo de este primer hito, nuestro equipo ha consolidado una mirada crítica y reflexiva al momento de tomar decisiones técnicas, considerando en todo momento los impactos potenciales de nuestras soluciones en diferentes contextos. Hemos aprendido a analizar no solo los aspectos funcionales del producto, sino también cómo este puede influir en las personas, en los entornos sociales y económicos, y en la sostenibilidad de su implementación. Esta capacidad de emitir juicios informados nos ha permitido construir propuestas más inclusivas y adaptadas a realidades diversas, incrementando el valor del producto desde una perspectiva humana y contextual. El ejercicio constante de evaluar consecuencias y ajustar decisiones ha sido fundamental para desarrollar una solución equilibrada y responsable, reforzando nuestro compromiso con un desarrollo de software que genere un impacto positivo y duradero.</p>
     <b>TP</b>
     <p>Durante esta etapa del proyecto, nuestro equipo adoptó un enfoque consciente al implementar prácticas de testing y DevOps, evaluando constantemente el impacto que estas decisiones técnicas podían tener más allá del producto en sí. Al diseñar suites de prueba y pipelines de despliegue, consideramos variables como la sostenibilidad, la accesibilidad tecnológica y la viabilidad económica, especialmente en contextos donde los recursos son limitados. Priorizamos herramientas abiertas y prácticas escalables que puedan ser replicadas en entornos diversos, promoviendo así una ingeniería de software más equitativa. Esta reflexión nos permitió anticipar desafíos sociales y técnicos, y ajustar nuestras soluciones para que sean resilientes, accesibles y responsables, fortaleciendo nuestro compromiso con un desarrollo tecnológico consciente del entorno global y local.</p>
+    <b>TB2</b>
+    <p>A lo largo de este proceso, cada integrante del equipo asumió la responsabilidad de tomar decisiones informadas, considerando el impacto de nuestras soluciones en realidades diversas. Nuestras acciones —desde las pruebas y validaciones hasta el diseño experimental y despliegue— estuvieron guiadas por una mirada crítica hacia los entornos sociales, económicos, globales y ambientales donde nuestro producto podría operar. Este enfoque integral nos permitió construir no solo un sistema funcional, sino también una propuesta tecnológicamente viable, sostenible y sensible al contexto en el que busca generar valor. Además, el constante ejercicio de reflexión nos permitió anticipar posibles consecuencias no deseadas y adoptar medidas preventivas. Esta práctica fortaleció nuestro criterio profesional y nuestra conciencia sobre el rol transformador de la ingeniería de software en la sociedad.</p>
   </td>
     </tr>
   </tbody>
@@ -6821,7 +6845,7 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 <br>
 
-## Auditoría de Experiencias de Usuario
+## 6.4 Auditoría de Experiencias de Usuario
 
 ### 6.4.1. Auditoría realizada
 
@@ -7067,7 +7091,6 @@ El pipeline de despliegue en producción para Cambiazo está diseñado para ser 
 ## 7.4. Continuous Monitoring
 
 ### 7.4.1. Tools and Practices
-### 7.4.1. Tools and Practices
 
 **Pruebas de carga y estrés (JMeter / Gatling)**
   - Definir escenarios que simulen cientos o miles de usuarios concurrentes contra los endpoints REST de Spring Boot (login, búsquedas, ofertas, donaciones).
@@ -7138,8 +7161,6 @@ Complementando estas herramientas, **Prometheus** y **Grafana** permiten visuali
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VII/Continous-Monitoring/grafana.png?raw=true" alt="grafana">
 </div><br><br>
 
-
-### 7.4.3. Alerting Pipeline Components
 
 ### 7.4.3. Alerting Pipeline Components
 
@@ -8106,6 +8127,10 @@ Durante esta etapa, se implementaron **baterías de pruebas automatizadas** para
 Se implementaron **prácticas de integración, entrega y despliegue continuos** mediante un pipeline automatizado con GitHub Actions, asegurando un flujo de desarrollo ágil, confiable y reproducible. Este pipeline orquesta la construcción, prueba y despliegue del frontend (Netlify) y backend (Azure Web App), conectado a una base de datos en Azure MySQL. Durante la fase de **Continuous Integration**, se automatizó la compilación del código, ejecución de pruebas (unitarias con JUnit/Mockito, funcionales con Selenium, y de aceptación con Gherkin+Cucumber), validando cada cambio desde el commit hasta el pull request. Esto garantizó la estabilidad del sistema en todo momento. En la fase de **Continuous Delivery**, se configuraron entornos de previsualización en Netlify y Azure que replican condiciones de producción, permitiendo validar nuevas funcionalidades antes del merge definitivo. Esta estrategia facilitó un control riguroso sobre la calidad del software sin interrumpir el servicio. Finalmente, mediante **Continuous Deployment**, los cambios aprobados se desplegaron automáticamente en producción, manteniendo consistencia y trazabilidad. Herramientas como **Sentry** y **Azure Monitor** ofrecieron retroalimentación continua sobre errores, rendimiento y calidad del código, permitiendo una mejora constante basada en evidencia técnica. Esta infraestructura consolidó una cultura de DevOps enfocada en la **automatización**, **observabilidad** y **entregas incrementales de valor**.
 
 
+### Capítulo VIII – Experiment-Driven Development
+
+En el Capítulo VIII se consolidó un enfoque riguroso de desarrollo impulsado por la experimentación, estructurado en tres fases: planificación, diseño y ejecución. Se partió de un análisis del estado actual (*As-Is*) y se identificaron suposiciones, vacíos de conocimiento e hipótesis clave, las cuales se tradujeron en preguntas listas para probar mediante un backlog priorizado y *experiment cards*. Luego, se diseñaron experimentos con hipótesis comprobables, métricas relevantes, condiciones de prueba bien definidas, selección de métodos adecuados y un plan de seguimiento en plataformas web y móviles. Este diseño incorporó cálculos de escala y KPIs para garantizar la validez de los resultados. Finalmente, se ejecutaron experimentos con nuevas historias de usuario y un backlog ajustado, lo que permitió tomar decisiones informadas basadas en evidencia. Este proceso fortaleció la capacidad del equipo para aprender de forma estructurada, reducir riesgos e innovar de manera validada en contextos inciertos.
+
 
 ### Conclusión
 
@@ -8191,3 +8216,14 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022140
 
 
 Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)
+
+
+## Validation Interview
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/erick-maycol-evidence.png?raw=true">
+ </div>
+
+
+Enlace: [Validation Interview](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+

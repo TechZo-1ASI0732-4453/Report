@@ -7214,31 +7214,65 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 **Assumptions:**
 - Los usuarios valorarán una plataforma única que centralice intercambios y donaciones, reduciendo la fragmentación actual.
-- Un sistema de reputación (calificaciones y reseñas) aumentará la confianza y disminuirá el riesgo de fraudes.
-- La opción de programar la recolección de donaciones facilitará la logística y hará el proceso más atractivo para los donadores.
-- Las suscripciones premium con “boost” diario de publicaciones generarán suficiente valor percibido para justificar un pago mensual.
-- Las alianzas con ONGs y organizaciones locales elevarán la credibilidad y el alcance de la aplicación.
+
+- Un sistema de reputación basado en estrellas será más intuitivo y comprensible que solo números, mejorando la confianza en los perfiles.
+
+- Las notificaciones por correo sobre propuestas e intercambios pactados mejorarán la comunicación y reducirán el riesgo de omisiones.
+
+- Mostrar mensajes de carga durante procesos críticos como publicar o eliminar artículos evitará la incertidumbre y mejorará la percepción de fluidez.
+
+- Las publicaciones destacadas en la vista general aumentarán la visibilidad y la probabilidad de interacción.
+
+- Compartir publicaciones o perfiles mediante enlaces facilitará la difusión y atraerá nuevos usuarios a la plataforma.
+
+- La implementación de filtros (categoría, estado, ubicación) mejorará la experiencia de búsqueda y reducirá el tiempo para encontrar coincidencias.
+
+- Las versiones multilingües en inglés y chino permitirán expandir la audiencia a personas no hispanohablantes.
 
 **Knowledge Gaps:**
-- Disposición a pagar: ¿qué porcentaje de usuarios aceptaría suscribirse a un plan de S/. X mensuales?
-- Costos y tiempos de recolección: ¿cuál es el precio óptimo y la frecuencia adecuada para un servicio de pickup programado en Lima?
-- Preferencias de filtrado: ¿qué criterios (categoría, ubicación, estado del objeto) son más valorados al buscar intercambios?
-- Alcance multilingüe: ¿qué proporción de la audiencia potencial requerirá inglés o chino, y con qué nivel de calidad?
-- Efectividad de las ONG partner: ¿cómo impacta la visibilidad de ONGs aliadas en la confianza y uso de la plataforma?
+- ¿Qué tan útiles perciben los usuarios las notificaciones por correo en comparación con las notificaciones dentro de la app?
+
+- ¿Qué porcentaje de usuarios considera útil o tranquilizante un mensaje de carga mientras se realiza una acción como publicar o - eliminar?
+
+- ¿Qué representación visual (estrellas vs. números) permite una mejor interpretación de la reputación de un usuario?
+
+- ¿Qué impacto tienen las publicaciones destacadas en el número de clics y visualizaciones?
+
+- ¿Cuántos usuarios comparten publicaciones o perfiles, y cuál es el efecto de esto en el tráfico y las interacciones?
+
+- ¿Cuáles son los filtros más valorados (categoría, estado, ubicación) por los usuarios al buscar un artículo?
+
+- ¿Qué proporción de usuarios potenciales necesitará acceso a la plataforma en inglés o chino, y cómo evalúan la calidad de la - traducción?
 
 **Ideas:**
-- Realizar encuestas y entrevistas a usuarios piloto para validar la disposición a pagar y los criterios de filtrado.
-- Desarrollar un MVP de recolección programada y medir su adopción en un barrio de Lima.
-- Implementar un test A/B del “boost” premium para evaluar su efecto en la tasa de intercambio exitoso.
-- Organizar un programa piloto con una o dos ONGs locales para probar el flujo completo de donación y seguimiento.
-- Crear prototipos de la interfaz en español, inglés y chino, y recoger feedback sobre la calidad de la traducción.
+- Realizar pruebas A/B con mensajes de carga vs. sin mensaje para medir percepción de usabilidad y errores repetidos.
+
+- Habilitar notificaciones por correo para propuestas y acuerdos, y medir el tiempo promedio de respuesta.
+
+- Comparar calificaciones visuales con estrellas frente a solo números en pruebas de comprensión rápida.
+
+- Probar visualmente el sistema de destacados y registrar diferencias en métricas de interacción.
+
+- Activar botones de “compartir por enlace” y analizar el impacto en visitas y nuevos registros.
+
+- Implementar filtros de búsqueda en prototipos y evaluar su uso mediante pruebas de tareas específicas.
+
+- Desplegar prototipos multilingües y recopilar feedback de usabilidad y comprensión en inglés y chino.
 
 **Claims:**
-- Centralizar el intercambio y la donación en CambiaZo reducirá el tiempo de coordinación de transacciones en al menos un 30 %.
-- El sistema de reputación disminuirá las quejas por fraudes en un 50 % durante el primer trimestre tras el lanzamiento.
-- La función de pickup programado aumentará la frecuencia de donaciones mensuales en un 20 %.
-- El “boost” diario para suscriptores premium incrementará en un 25 % la visibilidad de sus publicaciones y, por ende, la tasa de éxito de intercambios.
-- Las alianzas con ONGs contribuirán a un aumento del 15 % en la base de usuarios activos durante los primeros seis meses.
+- Las notificaciones por correo reducirán en un 40 % el tiempo promedio de respuesta a propuestas de intercambio.                        
+
+- Los mensajes de carga reducirán en al menos un 30 % los abandonos durante la publicación o eliminación de artículos.
+
+- Representar las calificaciones con estrellas mejorará la comprensión en al menos un 70 % de los usuarios.
+
+- Las publicaciones destacadas generarán un 35 % más de clics e interacciones.
+
+- Compartir publicaciones o perfiles mediante enlaces aumentará en un 25 % las visitas externas e interacciones con esos contenidos.
+
+- La inclusión de filtros de búsqueda reducirá el tiempo de localización de artículos en un 40 %.
+
+- Las versiones multilingües aumentarán el alcance de usuarios no hispanohablantes en un 20 % durante los primeros meses de lanzamiento.
 
 ### 8.1.3. Experiment-Ready Questions
 
@@ -7255,72 +7289,71 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
   </thead>
   <tbody>
     <tr>
-      <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
-      <td>7 – Muchos usuarios reportan lentitud y desorden con los métodos actuales.</td>
-      <td>2 – Bajo riesgo técnico y de adopción, la implementación es directa.</td>
-      <td>8 – Podría mejorar significativamente la eficiencia de coordinación.</td>
-      <td>7 – Alta relevancia para usuarios frecuentes que buscan organizar mejor sus intercambios.</td>
-      <td>24</td>
+      <td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio?</td>
+      <td>8 – Las notificaciones por correo son prácticas estándar que suelen mejorar la comunicación.</td>
+      <td>3 – Bajo riesgo técnico, pero requiere una buena configuración para evitar spam.</td>
+      <td>7 – Reduce tiempos de espera y mejora la tasa de respuesta.</td>
+      <td>7 – Alta demanda en entrevistas por usuarios que no revisan constantemente la app.</td>
+      <td>25</td>
     </tr>
     <tr>
-      <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
-      <td>8 – Es una práctica común en plataformas exitosas como MercadoLibre y Airbnb.</td>
-      <td>3 – Riesgo medio por la necesidad de evitar abusos o manipulaciones.</td>
-      <td>8 – Incrementa la percepción de seguridad y reduce conflictos entre usuarios.</td>
-      <td>7 – Muy deseado por los usuarios entrevistados, especialmente nuevos.</td>
-      <td>26</td>
+      <td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td>
+      <td>7 – Los usuarios valoran saber que su acción está en proceso.</td>
+      <td>2 – Riesgo técnico muy bajo; requiere solo ajustes visuales.</td>
+      <td>6 – Previene errores y mejora la percepción de estabilidad.</td>
+      <td>6 – Frecuente en entrevistas con usuarios impacientes o confundidos.</td>
+      <td>21</td>
     </tr>
     <tr>
-      <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
-      <td>6 – Lógica basada en conveniencia, aunque requiere validación local.</td>
-      <td>4 – Riesgo logístico por costos y coordinación de rutas.</td>
-      <td>7 – Elimina fricciones clave como la falta de movilidad o tiempo.</td>
-      <td>6 – Interés moderado con potencial de adopción entre usuarios ocupados.</td>
+      <td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td>
+      <td>8 – El uso de estrellas es un patrón común y bien entendido.</td>
+      <td>2 – Riesgo muy bajo al ser una mejora visual.</td>
+      <td>6 – Aumenta la claridad y la confianza en las calificaciones.</td>
+      <td>6 – Solicitado por usuarios que desean evaluar rápidamente perfiles.</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td>
+      <td>7 – Otras plataformas usan destacados para impulsar productos con éxito.</td>
+      <td>3 – Riesgo bajo; depende del diseño y curación del contenido.</td>
+      <td>7 – Mejora el descubrimiento de contenido útil o popular.</td>
+      <td>6 – Interés medio-alto por parte de usuarios activos.</td>
       <td>23</td>
     </tr>
     <tr>
-      <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
-      <td>5 – Requiere validación con encuestas y pruebas A/B.</td>
-      <td>5 – Riesgo medio si no se percibe valor suficiente en el servicio.</td>
-      <td>6 – Puede contribuir a la sostenibilidad financiera de la plataforma.</td>
-      <td>6 – Interés condicionado a la utilidad percibida de los beneficios.</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
-      <td>6 – Funcionalidad común en marketplaces como OLX o Facebook Marketplace.</td>
-      <td>3 – Riesgo bajo, ya que es técnica y comercialmente viable.</td>
-      <td>6 – Incentiva a usuarios activos y mejora la rotación de publicaciones.</td>
-      <td>5 – Relevante para usuarios frecuentes con artículos destacados.</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
-      <td>7 – Las ONGs generan confianza y credibilidad entre la comunidad.</td>
-      <td>3 – Bajo riesgo si se establecen alianzas estratégicas bien definidas.</td>
-      <td>6 – Fortalece el aspecto solidario y reputacional de la plataforma.</td>
-      <td>6 – Alta afinidad con usuarios comprometidos socialmente.</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
-      <td>4 – Falta de datos concretos sobre usuarios que lo requieren.</td>
-      <td>2 – Bajo riesgo inicial; puede explorarse con un prototipo.</td>
-      <td>5 – Impacto limitado al nicho de usuarios extranjeros.</td>
-      <td>4 – Interés bajo-moderado en esta etapa del desarrollo.</td>
-      <td>15</td>
+      <td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace?</td>
+      <td>6 – Compartir enlaces es una práctica común y efectiva.</td>
+      <td>2 – Muy bajo riesgo técnico y de adopción.</td>
+      <td>5 – Amplía el alcance de los productos fuera de la app.</td>
+      <td>5 – Solicitado por usuarios que desean compartir con amigos.</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
-      <td>6 – Basado en funcionalidades estándar de búsqueda en otras apps.</td>
-      <td>2 – Bajo riesgo técnico y de implementación.</td>
-      <td>7 – Aumenta la eficiencia y precisión en la búsqueda de artículos.</td>
-      <td>6 – Prioridad alta para usuarios activos que buscan intercambios específicos.</td>
-      <td>21</td>
+      <td>7 – Funcionalidad estándar en plataformas de búsqueda.</td>
+      <td>2 – Bajo riesgo técnico.</td>
+      <td>8 – Aumenta precisión y ahorro de tiempo al buscar productos.</td>
+      <td>7 – Alta prioridad según entrevistas con usuarios frecuentes.</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td>
+      <td>6 – Compartir perfiles agiliza recomendaciones y confianza.</td>
+      <td>2 – Riesgo bajo, siempre que se respete la privacidad del perfil.</td>
+      <td>5 – Aumenta la visibilidad y reputación de usuarios destacados.</td>
+      <td>5 – Interés moderado, especialmente en comunidades locales.</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td>
+      <td>4 – Aún no se ha validado el volumen de usuarios que lo necesiten.</td>
+      <td>3 – Riesgo bajo, pero requiere tiempo para una buena traducción.</td>
+      <td>5 – Puede facilitar la expansión internacional en el futuro.</td>
+      <td>4 – Interés actual bajo, pero con potencial de crecimiento.</td>
+      <td>16</td>
     </tr>
   </tbody>
 </table>
-<br><br>
 
 ### 8.1.4. Question Backlog
 
@@ -7531,7 +7564,7 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Aplicar encuestas breves después de la acción para conocer la utilidad percibida del mensaje de carga. Medir también la tasa de interrupciones durante las operaciones sin y con el mensaje.</td>
+    <td>Aplicar encuestas breves después de la acción para conocer la utilidad percibida del mensaje de carga. Medir también la tasa de interrupciones (abandono de página, reintentos, clics repetidos) durante las operaciones sin y con el mensaje.</td>
   </tr>
 </table>
 <br/>

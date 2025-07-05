@@ -7334,23 +7334,23 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
   <tbody>
     <tr>
       <td>8</td>
-      <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+      <td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio? (nuevo)</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+      <td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+      <td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
+      <td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+      <td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace? (nuevo)</td>
     </tr>
     <tr>
       <td>3</td>
@@ -7358,7 +7358,7 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
     </tr>
     <tr>
       <td>2</td>
-      <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+      <td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td>
     </tr>
     <tr>
       <td>1</td>
@@ -7372,43 +7372,45 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td></tr>
-  <tr><th>Why</th><td>Los sistemas de reputación son ampliamente utilizados en plataformas exitosas como MercadoLibre y Airbnb, y ayudan a establecer confianza entre usuarios al proporcionar referencias transparentes.</td></tr>
-  <tr><th>What</th><td>Implementar un sistema donde los usuarios puedan dejar calificaciones y comentarios después de un intercambio, incluyendo un historial visible de reseñas en los perfiles.</td></tr>
-  <tr><th>Hypothesis</th><td>Se espera que el 70% de los nuevos usuarios reporten una mayor confianza al interactuar con perfiles que tienen calificaciones positivas.</td></tr>
+  <tr><td colspan="2">¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio?</td></tr>
+  <tr><th>Why</th><td>Muchos usuarios no revisan la plataforma constantemente. Enviar correos les permite reaccionar a tiempo y no perder oportunidades de interacción.</td></tr>
+  <tr><th>What</th><td>Implementar notificaciones automáticas por correo al recibir propuestas o cuando se pacta un intercambio, incluyendo un enlace directo a la sección correspondiente.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera una mejora del 40% en la tasa de respuesta o cierre de intercambios gracias a la visibilidad inmediata mediante correo.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td></tr>
-  <tr><th>Why</th><td>Los usuarios reportan desorden y lentitud al coordinar por aplicaciones externas. Unificar el proceso puede reducir el tiempo y aumentar la efectividad del intercambio.</td></tr>
-  <tr><th>What</th><td>Desarrollar un sistema interno de mensajes, notificaciones y seguimiento dentro de la plataforma para centralizar la coordinación.</td></tr>
-  <tr><th>Hypothesis</th><td>Se espera una reducción del 40% en el tiempo de coordinación de intercambios comparado con métodos externos.</td></tr>
-</table><br><br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td></tr>
-  <tr><th>Why</th><td>Muchos usuarios no pueden movilizarse fácilmente. La recolección programada elimina esa fricción, facilitando la participación de personas ocupadas o sin transporte.</td></tr>
-  <tr><th>What</th><td>Habilitar un sistema donde los usuarios seleccionen horarios disponibles para que un recolector autorizado pase por sus donaciones.</td></tr>
-  <tr><th>Hypothesis</th><td>Se espera un aumento del 30% en el número de donaciones mensuales luego de implementar este sistema.</td></tr>
-</table><br><br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td></tr>
-  <tr><th>Why</th><td>Las ONGs otorgan legitimidad y confianza al proceso, lo cual puede atraer a más personas interesadas en donar con un respaldo social visible.</td></tr>
-  <tr><th>What</th><td>Establecer convenios con ONGs reconocidas para que validen y respalden las donaciones realizadas a través de la plataforma.</td></tr>
-  <tr><th>Hypothesis</th><td>Se espera un incremento del 20% en el registro de nuevos usuarios provenientes de campañas de ONGs colaboradoras.</td></tr>
-</table><br><br>
+  <tr><td colspan="2">¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td></tr>
+  <tr><th>Why</th><td>Cuando el sistema tarda en procesar una acción, los usuarios pueden pensar que no está funcionando. Un mensaje de carga reduce la incertidumbre y mejora la percepción de fluidez.</td></tr>
+  <tr><th>What</th><td>Mostrar una animación o mensaje que indique "Publicando..." o "Eliminando..." mientras se realiza la operación, antes de mostrar cualquier mensaje final o redirección.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que al menos el 80% de los usuarios consideren útil la inclusión del mensaje de carga, según encuestas de satisfacción post-interacción.</td></tr>
+</table>
+<br><br>
 
 
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td></tr>
-  <tr><th>Why</th><td>Una suscripción puede generar ingresos sostenibles, pero debe justificarse ofreciendo ventajas claras como mayor visibilidad y prioridad en intercambios.</td></tr>
-  <tr><th>What</th><td>Diseñar un modelo de suscripción con beneficios tangibles como aumento de visibilidad, prioridad en búsquedas y analítica de publicaciones.</td></tr>
-  <tr><th>Hypothesis</th><td>Se estima que al menos el 10% de los usuarios activos adoptarán el plan de suscripción dentro de los tres primeros meses de lanzamiento.</td></tr>
+  <tr><td colspan="2">¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td></tr>
+  <tr><th>Why</th><td>Los números pueden no ser tan interpretables a simple vista como las estrellas. Las representaciones visuales mejoran la comprensión inmediata.</td></tr>
+  <tr><th>What</th><td>Reemplazar o complementar la calificación numérica con una representación gráfica de estrellas en los perfiles y publicaciones.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que el 70% de los usuarios comprendan mejor las calificaciones al usar el nuevo formato visual, según pruebas A/B y encuestas.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td></tr>
+  <tr><th>Why</th><td>Los usuarios pueden perderse entre muchas publicaciones. Destacar artículos ayuda a priorizar los más recientes, populares o importantes.</td></tr>
+  <tr><th>What</th><td>Agregar una sección o etiqueta visual para artículos destacados en la vista principal del catálogo.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera un aumento del 35% en clics hacia publicaciones destacadas en comparación con el promedio de publicaciones estándar.</td></tr>
+</table><br><br>
+
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Question</th></tr>
+  <tr><td colspan="2">¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace?</td></tr>
+  <tr><th>Why</th><td>Compartir publicaciones fuera de la plataforma permite que los productos lleguen a más personas, lo que puede incrementar las visitas y potenciales intercambios.</td></tr>
+  <tr><th>What</th><td>Habilitar un botón “Compartir publicación” que genere un enlace público fácilmente copiable desde cada publicación.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que al menos el 30% de las publicaciones compartidas generen nuevas visitas desde enlaces externos.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="6" cellspacing="0">
@@ -7421,10 +7423,10 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Question</th></tr>
-  <tr><td colspan="2">¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td></tr>
-  <tr><th>Why</th><td>El boost es una práctica común en plataformas de anuncios y mejora la exposición de publicaciones clave, incentivando la rotación de productos.</td></tr>
-  <tr><th>What</th><td>Incluir una función que permita al usuario destacar su publicación durante un tiempo limitado, mostrando prioridad en los listados.</td></tr>
-  <tr><th>Hypothesis</th><td>Se espera que los artículos con boost tengan un 50% más de probabilidades de concretar un intercambio.</td></tr>
+  <tr><td colspan="2">¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td></tr>
+  <tr><th>Why</th><td>Poder compartir el perfil de un usuario facilita recomendaciones, coordinación y difusión, lo cual puede aumentar la confianza y la red de contactos.</td></tr>
+  <tr><th>What</th><td>Habilitar un botón “Compartir perfil” que genere un enlace accesible públicamente al perfil del usuario seleccionado.</td></tr>
+  <tr><th>Hypothesis</th><td>Se espera que el 25% de los perfiles compartidos generen nuevas interacciones dentro de la plataforma (visitas, mensajes o intercambios).</td></tr>
 </table><br><br>
 
 
@@ -7442,66 +7444,67 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 1</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>Los sistemas de calificaciones y comentarios mejoran la percepción de seguridad al proporcionar referencias previas de otros usuarios, aumentando la confianza y promoviendo interacciones más seguras.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>La implementación de un sistema de calificaciones y reseñas aumentará la confianza del usuario en al menos un 70%, especialmente en los perfiles con puntuaciones altas.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>La inclusión de calificaciones y reseñas no tendrá un efecto significativo sobre la percepción de confianza entre los usuarios.</td></tr>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>El correo electrónico permite alertar a los usuarios en tiempo real sobre eventos importantes, mejorando la tasa de respuesta y reduciendo el riesgo de perder oportunidades por falta de notificación.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La implementación de notificaciones por correo aumentará en al menos un 40% la tasa de respuesta o cierre de intercambios, al mantener a los usuarios informados de forma oportuna.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>El envío de correos electrónicos no tendrá un impacto significativo en la comunicación ni en la tasa de interacción entre usuarios.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 2</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>La dispersión en herramientas externas ralentiza y desordena la coordinación. Una plataforma unificada puede centralizar y agilizar los intercambios.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>Una plataforma unificada reducirá en al menos un 40% el tiempo de coordinación promedio entre usuarios.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>El uso de una plataforma unificada no reducirá significativamente el tiempo de coordinación respecto a métodos actuales.</td></tr>
-</table><br><br>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Mostrar mensajes de carga durante procesos críticos brinda mayor claridad al usuario, reduce la frustración y mejora la percepción de estabilidad del sistema.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>El 80% de los usuarios considerará que el mensaje de carga mejora su experiencia al interactuar con la plataforma, según encuestas posteriores a la acción.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>El mensaje de carga no tendrá un efecto significativo en la percepción de experiencia del usuario durante publicaciones o eliminaciones.</td></tr>
+</table>
+<br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 3</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>Muchas personas desean donar pero no pueden movilizarse o no tienen tiempo. Un sistema de recojo a domicilio reduciría esta barrera.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>La recolección programada aumentará la tasa de donaciones en al menos un 30% en zonas con alta densidad poblacional.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>La recolección programada no tendrá un impacto significativo en la tasa de donaciones.</td></tr>
+  <tr><td><strong>Question</strong></td><td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Las representaciones visuales son más intuitivas que los números. Mostrar estrellas facilitará la interpretación de calificaciones por parte de los usuarios.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>El uso de estrellas para representar calificaciones aumentará el entendimiento en al menos un 70%, según encuestas y pruebas A/B de comprensión rápida.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>El cambio de números a estrellas no mejorará significativamente la comprensión de las calificaciones.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 4</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>Algunos usuarios valoran la visibilidad de sus publicaciones y podrían pagar por beneficios exclusivos si perciben un retorno significativo.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>Al menos el 10% de los usuarios activos estarán dispuestos a pagar una suscripción si incluye boosts, estadísticas y acceso anticipado.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>Los usuarios no estarán dispuestos a pagar por una suscripción, sin importar los beneficios ofrecidos.</td></tr>
+  <tr><td><strong>Question</strong></td><td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Destacar visualmente algunas publicaciones en la vista general facilitará que los usuarios las noten, generando más interacciones y clics.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Las publicaciones destacadas recibirán al menos un 35% más de clics que las publicaciones no destacadas, según métricas de interacción.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>Destacar publicaciones no generará un aumento significativo en la cantidad de clics o interacciones.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 5</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>Las publicaciones destacadas tienden a tener mayor alcance. Un boost diario aumentará la exposición de los artículos publicados.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>Las publicaciones con boost recibirán un 50% más de visualizaciones y tendrán un 30% más de éxito en el intercambio que aquellas sin boost.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>El boost diario no afectará significativamente la visibilidad ni el éxito de los intercambios.</td></tr>
+  <tr><td><strong>Question</strong></td><td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Permitir compartir publicaciones mediante enlaces facilita la promoción de productos fuera de la plataforma, lo cual puede atraer nuevos usuarios y aumentar las visitas a productos.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>Se espera que al menos el 30% de las publicaciones compartidas generen nuevas visitas desde enlaces externos, mejorando la exposición de productos.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>La opción de compartir publicaciones mediante enlaces no generará un incremento significativo en visitas o visualizaciones.</td></tr>
 </table><br><br>
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr><th colspan="2">Pregunta 6</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>La validación por ONGs puede generar confianza, incentivar la participación y atraer usuarios comprometidos con causas sociales.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>Las alianzas con ONGs aumentarán la base de usuarios activos en al menos un 25% en el primer trimestre posterior a la implementación.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>Las alianzas con ONGs no influirán en el crecimiento de la base de usuarios activos.</td></tr>
-</table><br><br>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr><th colspan="2">Pregunta 7</th></tr>
-  <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td></tr>
-  <tr><td><strong>Belief</strong></td><td>El acceso multilingüe puede atraer usuarios extranjeros o bilingües y mejorar su experiencia, eliminando barreras idiomáticas.</td></tr>
-  <tr><td><strong>Hypothesis</strong></td><td>La inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%.</td></tr>
-  <tr><td><strong>Null Hypothesis</strong></td><td>Las versiones multilingües no tendrán un efecto significativo sobre la experiencia ni el uso por parte de usuarios no hispanohablantes.</td></tr>
-</table><br><br>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr><th colspan="2">Pregunta 8</th></tr>
   <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td></tr>
   <tr><td><strong>Belief</strong></td><td>Los filtros permiten encontrar artículos específicos con mayor precisión, reduciendo la frustración y mejorando la eficiencia de búsqueda.</td></tr>
   <tr><td><strong>Hypothesis</strong></td><td>El uso de filtros mejorará en al menos un 35% la velocidad promedio de búsqueda y aumentará la satisfacción del usuario en un 25%.</td></tr>
   <tr><td><strong>Null Hypothesis</strong></td><td>La implementación de filtros no tendrá impacto relevante en la experiencia de búsqueda.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 7</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>Poder compartir perfiles directamente simplifica la recomendación y conexión entre usuarios, lo cual puede aumentar las visitas a perfiles y fomentar la actividad.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La opción de compartir perfiles generará al menos un 25% de aumento en visitas o interacciones con dichos perfiles compartidos.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>La posibilidad de compartir perfiles mediante enlaces no generará un incremento significativo en interacciones o visitas.</td></tr>
+</table><br><br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="2">Pregunta 8</th></tr>
+  <tr><td><strong>Question</strong></td><td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td></tr>
+  <tr><td><strong>Belief</strong></td><td>El acceso multilingüe puede atraer usuarios extranjeros o bilingües y mejorar su experiencia, eliminando barreras idiomáticas.</td></tr>
+  <tr><td><strong>Hypothesis</strong></td><td>La inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%.</td></tr>
+  <tr><td><strong>Null Hypothesis</strong></td><td>Las versiones multilingües no tendrán un efecto significativo sobre la experiencia ni el uso por parte de usuarios no hispanohablantes.</td></tr>
 </table><br><br>
 
 
@@ -7510,11 +7513,37 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+    <td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio?</td>
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Evaluar la percepción de confianza mediante encuestas antes y después de implementar el sistema de calificaciones. Medir también la frecuencia de interacción con perfiles bien calificados y el número de intercambios exitosos atribuidos a usuarios con buena reputación.</td>
+    <td>Evaluar la tasa de respuesta a propuestas antes y después de implementar las notificaciones por correo. Complementar con encuestas sobre utilidad percibida y medir el tiempo promedio de reacción desde el evento hasta la respuesta del usuario.</td>
+  </tr>
+</table>
+
+<br/>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Aplicar encuestas breves después de la acción para conocer la utilidad percibida del mensaje de carga. Medir también la tasa de interrupciones durante las operaciones sin y con el mensaje.</td>
+  </tr>
+</table>
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td>
+  </tr>
+  <tr>
+    <th>Measure</th>
+    <td>Aplicar una prueba A/B donde algunos usuarios vean estrellas y otros solo números. Evaluar mediante encuestas cuál formato fue más comprensible. También medir la cantidad de usuarios que interactúan con perfiles según el formato mostrado.</td>
   </tr>
 </table>
 
@@ -7523,11 +7552,11 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
+    <td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td>
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Comparar el tiempo promedio desde la oferta hasta la confirmación del intercambio antes y después de usar la plataforma unificada. Se incluirán registros de tiempo y encuestas de percepción sobre facilidad de coordinación.</td>
+    <td>Comparar la cantidad de clics, visitas y tiempo promedio de visualización entre publicaciones destacadas y no destacadas. Analizar las métricas de interacción antes y después de implementar el sistema de destacados.</td>
   </tr>
 </table>
 
@@ -7536,11 +7565,11 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
+    <td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace?</td>
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Monitorear el número de donaciones realizadas semanalmente antes y después de habilitar el sistema de recolección. Incluir una encuesta para medir la percepción de conveniencia del servicio entre los donadores.</td>
+    <td>Monitorear la cantidad de publicaciones compartidas, clics en los enlaces generados y visitas únicas provenientes de dichos enlaces. Además, medir el número de interacciones iniciadas desde visitas externas.</td>
   </tr>
 </table>
 
@@ -7549,11 +7578,11 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
+    <td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td>
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Registrar el porcentaje de usuarios que se suscriben durante el primer mes de la funcionalidad y realizar encuestas para conocer el valor percibido de los beneficios incluidos. Analizar también el impacto en la visibilidad de las publicaciones de los suscriptores.</td>
+    <td>Monitorear la cantidad de perfiles compartidos, clics en enlaces compartidos y nuevas interacciones generadas a partir de estos accesos. Complementar con una encuesta que mida la utilidad percibida de esta funcionalidad por parte de los usuarios.</td>
   </tr>
 </table>
 
@@ -7562,24 +7591,11 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
+    <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
   </tr>
   <tr>
     <th>Measure</th>
-    <td>Medir el número de visualizaciones, clics y propuestas de intercambio recibidas por publicaciones con y sin boost. Calcular el ratio de conversión a intercambio exitoso para cada tipo.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
-  </tr>
-  <tr>
-    <th>Measure</th>
-    <td>Comparar el crecimiento de nuevos usuarios y la tasa de retención antes y después del anuncio de alianzas. Incluir una encuesta donde se pregunte si la validación por parte de ONGs influyó en su decisión de usar la app.</td>
+    <td>Medir el tiempo promedio que toma encontrar un artículo usando filtros frente a búsquedas sin filtros. Aplicar encuestas para determinar si los usuarios encuentran más fácilmente lo que buscan con la nueva funcionalidad.</td>
   </tr>
 </table>
 
@@ -7598,117 +7614,120 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 <br/>
 
+### 8.2.3. Conditions
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>La tasa de respuesta aumentará en al menos un 40% entre usuarios que reciban correos respecto a los que no, y el tiempo promedio de reacción será menor.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No se observará un aumento significativo en la tasa de respuesta ni en el tiempo de reacción de los usuarios que reciban correos.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Al menos el 80% de los usuarios reportará una experiencia más clara y fluida al ver el mensaje de carga, y se observará una reducción del 30% en acciones repetidas o abandonos.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>La percepción de experiencia del usuario no mejorará significativamente y se mantendrán tasas similares de clics repetidos o interrupciones.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>El 70% de los usuarios entenderá correctamente la calificación de un perfil tras ver el formato con estrellas, validado mediante prueba A/B.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>El formato de estrellas no mejorará significativamente la comprensión en comparación con el formato numérico.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Las publicaciones destacadas recibirán al menos un 35% más de clics que las publicaciones no destacadas, según registros de interacción.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>No habrá una diferencia significativa en el número de clics entre publicaciones destacadas y no destacadas.</td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Question</th>
+    <td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace?</td>
+  </tr>
+  <tr>
+    <th>Condición Experimental</th>
+    <td>Al menos el 30% de las publicaciones compartidas generarán visitas nuevas provenientes de enlaces externos, según los registros de tráfico y clics.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>Las publicaciones compartidas no generarán una diferencia significativa en el número de visitas respecto a publicaciones no compartidas.</td>
+  </tr>
+</table>
+
+<br/>
+
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
     <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
   </tr>
   <tr>
-    <th>Measure</th>
-    <td>Medir el tiempo promedio que toma encontrar un artículo usando filtros frente a búsquedas sin filtros. Aplicar encuestas para determinar si los usuarios encuentran más fácilmente lo que buscan con la nueva funcionalidad.</td>
+    <th>Condición Experimental</th>
+    <td>Los usuarios encontrarán productos deseados en un 40% menos de tiempo y reportarán mayor satisfacción con el sistema de filtros.</td>
+  </tr>
+  <tr>
+    <th>Condición de Control</th>
+    <td>El tiempo de búsqueda y la satisfacción no cambiarán significativamente tras la introducción de filtros.</td>
   </tr>
 </table>
-
-
-### 8.2.3. Conditions
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <th>Question</th>
-    <td>¿Aumentará la confianza de los usuarios un sistema de reputación basado en calificaciones y reseñas?</td>
+    <td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td>
   </tr>
   <tr>
     <th>Condición Experimental</th>
-    <td>La confianza del usuario aumentará en un 25% tras implementar el sistema de calificaciones, evaluado mediante encuestas y tasa de finalización de intercambios.</td>
+    <td>Los perfiles compartidos generarán al menos un 25% de incremento en visitas o interacciones en comparación con perfiles no compartidos.</td>
   </tr>
   <tr>
     <th>Condición de Control</th>
-    <td>No se observará un cambio significativo en la confianza del usuario después de introducir el sistema de calificaciones.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Reducirá el tiempo de coordinación una plataforma unificada frente a métodos actuales como WhatsApp y Facebook?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>El tiempo promedio de coordinación disminuirá en un 30% al utilizar la plataforma unificada, medido en registros de actividad.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>El tiempo de coordinación permanecerá igual o disminuirá de forma insignificante respecto a los métodos actuales.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Mejorará la tasa de donaciones con la implementación de un sistema de recolección programada?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>La cantidad de donaciones aumentará al menos en un 35% luego de activar la recolección programada.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>No se registrará un incremento notable en el número de donaciones después de habilitar la recolección programada.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Estarán dispuestos los usuarios a pagar una suscripción mensual por beneficios como el “boost” de publicaciones?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>Al menos el 15% de los usuarios activos adquirirán una suscripción mensual al ver valor en los beneficios exclusivos.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>El porcentaje de usuarios dispuestos a pagar será menor al 5%, indicando bajo interés en la suscripción.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Aumentará la visibilidad y éxito de intercambios al usar un “boost” diario en las publicaciones?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>Las publicaciones con boost recibirán al menos un 40% más de visualizaciones y un 25% más de propuestas de intercambio.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>No se observarán diferencias significativas entre publicaciones con boost y las regulares.</td>
-  </tr>
-</table>
-
-<br/>
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Aumentará la base de usuarios activos gracias a alianzas con ONGs que validen las donaciones?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>El número de usuarios nuevos y activos crecerá en al menos un 20% tras la formalización de alianzas con ONGs.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>La tasa de crecimiento de usuarios se mantendrá constante o variará mínimamente después de establecer las alianzas.</td>
+    <td>Los perfiles compartidos no registrarán un incremento notable en visitas o interacciones respecto a los perfiles no compartidos.</td>
   </tr>
 </table>
 
@@ -7731,24 +7750,6 @@ El intercambio y la donación de bienes en Perú se realizan hoy de manera fragm
 
 <br/>
 
-<table border="1" cellpadding="8" cellspacing="0">
-  <tr>
-    <th>Question</th>
-    <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td>
-  </tr>
-  <tr>
-    <th>Condición Experimental</th>
-    <td>Los usuarios encontrarán productos deseados en un 40% menos de tiempo y reportarán mayor satisfacción con el sistema de filtros.</td>
-  </tr>
-  <tr>
-    <th>Condición de Control</th>
-    <td>El tiempo de búsqueda y la satisfacción no cambiarán significativamente tras la introducción de filtros.</td>
-  </tr>
-</table>
-
-
-
-
 ### 8.2.4. Scale Calculations and Decisions
 
 Esta metodología emplea indicadores cuantitativos para determinar la validez de las hipótesis planteadas en un proyecto. Cada hipótesis se vincula con un parámetro de rendimiento específico: se clasifica como óptimo cuando el indicador logra completamente la meta establecida, satisfactorio cuando se sitúa entre el umbral mínimo y el óptimo, y problemático si permanece bajo el umbral mínimo, lo que demanda una reevaluación. Se establece un nivel sobresaliente cuando el resultado excede el valor óptimo en un 25% o superior, señalando un logro excepcional. Esta metodología facilita la toma de decisiones basadas en datos para confirmar o modificar las hipótesis del proyecto.
@@ -7770,56 +7771,32 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
 
   <tbody>
     <tr>
-      <td>Creemos que la implementación de un sistema de calificaciones y reseñas aumentará la confianza del usuario en al menos un 70%, especialmente en los perfiles con puntuaciones altas. Sabremos que esto es cierto cuando observemos un aumento del 25% en la confianza mediante encuestas y mayor tasa de finalización de intercambios.</td>
-      <td>Implementar un sistema de reputación basado en calificaciones y comentarios que proporcione referencias previas de otros usuarios, aumentando la confianza y promoviendo interacciones más seguras.</td>
-      <td></td>
-      <td></td>
-      <td>X</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creemos que una plataforma unificada reducirá en al menos un 40% el tiempo de coordinación promedio entre usuarios. Sabremos que esto es cierto cuando el tiempo promedio disminuya en un 30% según registros de actividad.</td>
-      <td>Desarrollar una plataforma centralizada que agilice los intercambios y reduzca la dispersión en herramientas externas como WhatsApp y Facebook.</td>
-      <td></td>
-      <td>X</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creemos que la recolección programada aumentará la tasa de donaciones en al menos un 30% en zonas con alta densidad poblacional. Sabremos que esto es cierto cuando la cantidad de donaciones aumente al menos en un 35%.</td>
-      <td>Implementar un sistema de recojo a domicilio que reduzca las barreras para personas que desean donar pero no pueden movilizarse o no tienen tiempo.</td>
+      <td>Creemos que enviar notificaciones por correo mejorará la comunicación entre usuarios, aumentando en al menos un 40% la tasa de respuesta y reduciendo el tiempo promedio de interacción. Sabremos que esto es cierto al comparar las métricas antes y después de implementarlas.</td>
+      <td>Enviar correos automáticos cuando se recibe una propuesta o se pacta un intercambio, para mantener informados a los usuarios de manera oportuna.</td>
       <td></td>
       <td></td>
       <td></td>
       <td>X</td>
     </tr>
     <tr>
-      <td>Creemos que al menos el 10% de los usuarios activos estarán dispuestos a pagar una suscripción si incluye boosts, estadísticas y acceso anticipado. Sabremos que esto es cierto cuando al menos el 15% adquiera una suscripción mensual.</td>
-      <td>Ofrecer beneficios exclusivos mediante suscripción que proporcionen valor significativo en visibilidad y funcionalidades avanzadas.</td>
-      <td></td>
-      <td>X</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Creemos que las publicaciones con boost recibirán un 50% más de visualizaciones y tendrán un 30% más de éxito en el intercambio que aquellas sin boost. Sabremos que esto es cierto cuando reciban al menos un 40% más de visualizaciones y un 25% más de propuestas.</td>
-      <td>Implementar un sistema de boost diario que aumente la exposición y el alcance de los artículos publicados en la plataforma.</td>
+      <td>Creemos que un mensaje de carga mejorará la experiencia del usuario al reducir la incertidumbre durante procesos de publicación o eliminación. Sabremos que esto es cierto cuando al menos el 80% de los usuarios lo considere útil y se reduzcan los clics repetidos o abandonos durante estas acciones.</td>
+      <td>Mostrar una animación o mensaje de carga mientras se procesa la acción, antes de redirigir o mostrar un resultado final.</td>
       <td></td>
       <td></td>
       <td>X</td>
       <td></td>
     </tr>
     <tr>
-      <td>Creemos que las alianzas con ONGs aumentarán la base de usuarios activos en al menos un 25% en el primer trimestre posterior a la implementación. Sabremos que esto es cierto cuando el crecimiento sea de al menos un 20%.</td>
-      <td>Establecer alianzas estratégicas con ONGs para validar donaciones, generar confianza e incentivar la participación de usuarios comprometidos con causas sociales.</td>
-      <td></td>
+      <td>Creemos que representar las calificaciones con estrellas aumentará el entendimiento en al menos un 70%. Sabremos que esto es cierto cuando los usuarios comprendan mejor las puntuaciones según pruebas A/B.</td>
+      <td>Cambiar el formato visual de calificaciones de números a estrellas para facilitar su interpretación.</td>
       <td></td>
       <td>X</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Creemos que la inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%. Sabremos que esto es cierto cuando la participación aumente en un 30%.</td>
-      <td>Desarrollar versiones multilingües que eliminen barreras idiomáticas y atraigan usuarios extranjeros o bilingües, mejorando su experiencia en la plataforma.</td>
+      <td>Creemos que las publicaciones destacadas recibirán al menos un 35% más de clics. Sabremos que esto es cierto cuando el sistema de destacados genere mayor interacción medida por clics y visitas.</td>
+      <td>Implementar sistema de destacados visuales para resaltar artículos relevantes en la vista general.</td>
       <td></td>
       <td>X</td>
       <td></td>
@@ -7832,6 +7809,30 @@ Esta metodología emplea indicadores cuantitativos para determinar la validez de
       <td></td>
       <td></td>
       <td>X</td>
+    </tr>
+    <tr>
+      <td>Creemos que permitir compartir publicaciones mediante enlace facilitará su difusión, generando al menos un 30% de nuevas visitas desde fuentes externas. Sabremos que esto es cierto cuando veamos un aumento medible en clics y tráfico externo en publicaciones compartidas.</td>
+      <td>Agregar un botón que genere un enlace público para compartir fácilmente publicaciones dentro y fuera de la plataforma.</td>
+      <td></td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que compartir perfiles por enlace aumentará las visitas o interacciones en al menos un 25%. Sabremos que esto es cierto cuando se observe un incremento en tráfico hacia perfiles compartidos.</td>
+      <td>Permitir compartir el perfil de un usuario mediante enlace para facilitar recomendaciones y conexiones dentro de la plataforma.</td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Creemos que la inclusión de versiones en inglés y chino incrementará el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20%. Sabremos que esto es cierto cuando la participación aumente en un 30%.</td>
+      <td>Desarrollar versiones multilingües que eliminen barreras idiomáticas y atraigan usuarios extranjeros o bilingües, mejorando su experiencia en la plataforma.</td>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 
@@ -7963,53 +7964,57 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   <tbody>
     <tr>
       <th>UA01</th>
-      <td>Sistema de calificaciones y reseñas</td>
-      <td>Como usuario de Cambiazo, quiero poder calificar y dejar reseñas de otros usuarios después de un intercambio para generar confianza en la plataforma.</td>
-      <td><b>Escenario 1: Calificar usuario después del intercambio</b><br/>Given he completado un intercambio exitoso con otro usuario.<br/><br/>When accedo a la sección "Mi historial".<br/>And selecciono el intercambio realizado.<br/><br/>Then puedo calificar al usuario del 1 al 5 estrellas y dejar una reseña opcional.<br/>And la calificación se guarda y es visible en el perfil del usuario calificado.<br/><br/>
-      <b>Escenario 2: Ver reputación de usuario</b><br/>Given estoy viendo el perfil de un usuario.<br/><br/>When accedo a su información de perfil.<br/><br/>Then puedo ver su calificación promedio, número de intercambios y reseñas recibidas.<br/>And puedo leer las reseñas específicas dejadas por otros usuarios.
-      </td>
-      <td>E01</td>
-    </tr>
-    <tr>
-      <th>UA02</th>
-      <td>Plataforma de coordinación unificada</td>
-      <td>Como usuario de Cambiazo, quiero coordinar todos mis intercambios directamente en la plataforma sin necesidad de usar WhatsApp o Facebook para agilizar el proceso.</td>
-      <td><b>Escenario 1: Enviar propuesta de intercambio</b><br/>Given estoy viendo una publicación que me interesa.<br/><br/>When hago clic en "Proponer intercambio".<br/><br/>Then puedo seleccionar uno de mis objetos publicados y enviar una propuesta con mensaje opcional.<br/>And el propietario recibe una notificación de la propuesta.<br/><br/><b>Escenario 2: Gestionar propuestas recibidas</b><br/>Given he recibido propuestas de intercambio.<br/><br/>When accedo a "Mis propuestas".<br/><br/>Then puedo ver todas las propuestas con detalles del objeto ofrecido.<br/>And puedo aceptar, rechazar o hacer una contrapropuesta.
-      </td>
-      <td>E02</td>
-    </tr>
-    <tr>
-      <th>UA03</th>
-      <td>Sistema de recolección programada</td>
-      <td>Como usuario donador, quiero programar la recolección de mis objetos donados para que los recojan en mi domicilio sin tener que trasladarme.</td>
-      <td><b>Escenario 1: Programar recolección de donación</b><br/>Given quiero donar objetos a una ONG.<br/><br/>When selecciono "Donar a ONG" en una publicación.<br/><br/>Then puedo elegir fecha y hora preferida para la recolección.<br/>And proporciono mi dirección y detalles adicionales.<br/>And recibo confirmación de la programación.<br/><br/><b>Escenario 2: Seguimiento de recolección</b><br/>Given he programado una recolección.<br/><br/>When accedo a "Mis donaciones".<br/><br/>Then puedo ver el estado de la recolección (programada, en camino, completada).<br/>And recibo notificaciones de actualización del estado.
-      </td>
-      <td>E03</td>
-    </tr>
-    <tr>
-      <th>UA04</th>
-      <td>Suscripción premium con boost</td>
-      <td>Como usuario activo de Cambiazo, quiero suscribirme a un plan premium para obtener beneficios como boost de publicaciones y estadísticas avanzadas.</td>
-      <td><b>Escenario 1: Suscribirse al plan premium</b><br/>Given estoy en la sección "Mi cuenta".<br/><br/>When selecciono "Actualizar a Premium".<br/><br/>Then puedo ver los beneficios incluidos y el precio mensual.<br/>And puedo completar el pago de forma segura.<br/>And mi cuenta se actualiza a premium inmediatamente.<br/><br/><b>Escenario 2: Usar boost en publicaciones</b><br/>Given tengo una suscripción premium activa.<br/><br/>When publico un objeto o edito una publicación existente.<br/><br/>Then puedo activar el "boost diario" para mayor visibilidad.<br/>And mi publicación aparece destacada en los resultados de búsqueda.
-      </td>
-      <td>E04</td>
-    </tr>
-    <tr>
-      <th>UA05</th>
-      <td>Sistema de boost para publicaciones</td>
-      <td>Como usuario premium, quiero usar boost en mis publicaciones para que tengan mayor visibilidad y más posibilidades de intercambio exitoso.</td>
-      <td><b>Escenario 1: Aplicar boost a publicación</b><br/>Given tengo una suscripción premium.<br/><br/>When estoy creando o editando una publicación.<br/><br/>Then puedo activar el boost diario disponible.<br/>And mi publicación se marca como "destacada".<br/>And aparece en las primeras posiciones de búsqueda.<br/><br/><b>Escenario 2: Ver estadísticas de boost</b><br/>Given he usado boost en mis publicaciones.<br/><br/>When accedo a "Mis estadísticas".<br/><br/>Then puedo ver métricas como visualizaciones adicionales y propuestas recibidas.<br/>And puedo comparar el rendimiento con y sin boost.
+      <td>Notificación por correo al recibir propuesta o acuerdo</td>
+      <td>Como usuario de CambiaZo, quiero recibir una notificación por correo electrónico cuando me envíen una propuesta o se pacte un intercambio, para mantenerme informado incluso si no estoy dentro de la plataforma.</td>
+      <td><b>Escenario 1: Notificación al recibir propuesta</b><br/>Given otro usuario me ha enviado una propuesta de intercambio.<br/><br/>When el sistema registra esta acción.<br/><br/>Then recibo un correo informándome sobre la nueva propuesta.<br/><br/>
+      <b>Escenario 2: Notificación al pactar un intercambio</b><br/>Given he pactado un intercambio con otro usuario.<br/><br/>When se confirma el acuerdo.<br/><br/>Then el sistema me envía un correo confirmando el pacto de intercambio.
       </td>
       <td>E05</td>
     </tr>
-    <tr>
+    <tr> 
+  <th>UA02</th>
+    <td>Mensaje de carga al publicar o eliminar artículo</td>
+    <td>Como usuario de CambiaZo, quiero ver un mensaje de carga mientras se publica o elimina un artículo, para tener mayor claridad de que el sistema está procesando mi acción.</td>
+    <td><b>Escenario 1: Publicación en proceso</b><br/>Given he completado los campos para publicar un artículo.<br/><br/>When hago clic en “Publicar”.<br/><br/>Then aparece un mensaje o animación indicando que la publicación está en curso.<br/><br/>
+    <b>Escenario 2: Eliminación en proceso</b><br/>Given deseo eliminar un artículo.<br/><br/>When confirmo la acción de eliminar.<br/><br/>Then el sistema muestra un mensaje de carga que indica que se está procesando la eliminación.
+    </td>
+    <td>5</td>
+  </tr>
+  <tr> 
+    <th>UA03</th>
+    <td>Visualización de calificaciones con estrellas</td>
+    <td>Como usuario de CambiaZo, quiero ver las calificaciones representadas con estrellas, para entender fácilmente la reputación de otros usuarios.</td><td><b>Escenario 1: Ver calificación promedio como estrellas</b><br/>Given estoy en el perfil de otro usuario.<br/><br/>When reviso su información.<br/><br/>Then veo su calificación promedio representada con estrellas grandes.<br/><br/>
+    <b>Escenario 2: Ver detalles de reseñas</b><br/>Given estoy explorando el perfil de un usuario.<br/><br/>When accedo a la sección de reseñas.<br/><br/>Then puedo ver comentarios y puntuaciones dejadas por otros usuarios.
+    </td>
+    <td>2</td>
+  </tr>
+  <tr> 
+    <th>UA04</th>
+    <td>Publicaciones destacadas</td>
+    <td>Como usuario de CambiaZo, quiero ver ciertos artículos destacados en la página principal, para encontrar más fácilmente contenido relevante o popular.</td>
+    <td><b>Escenario 1: Visualizar artículos destacados</b><br/>Given estoy navegando la vista general de productos.<br/><br/>When llego a la página principal.<br/><br/>Then veo una sección que muestra publicaciones destacadas con un diseño diferenciado.<br/><br/>
+    <b>Escenario 2: Filtro de destacados</b><br/>Given estoy buscando artículos.<br/><br/>When aplico el filtro de "Destacados".<br/><br/>Then solo se muestran artículos marcados como destacados.
+    </td>
+    <td>2</td>
+  </tr>
+  <tr> 
+    <th>UA05</th>
+    <td>Compartir publicaciones mediante enlace</td>
+    <td>Como usuario de CambiaZo, quiero poder compartir publicaciones mediante un enlace, para difundir fácilmente artículos de interés a otras personas.</td>
+    <td><b>Escenario 1: Obtener enlace de publicación</b><br/>Given estoy viendo una publicación.<br/><br/>When hago clic en el botón “Compartir”.<br/><br/>Then el sistema genera un enlace accesible que puedo copiar y enviar.<br/><br/>
+    <b>Escenario 2: Acceder a publicación compartida</b><br/>Given he recibido un enlace de una publicación.<br/><br/>When accedo al enlace desde un navegador.<br/><br/>Then visualizo la publicación en la plataforma sin necesidad de buscarla manualmente.
+    </td>
+    <td>5</td>
+  </tr>
+  <tr> 
       <th>UA06</th>
-      <td>Alianzas con ONGs para validación</td>
-      <td>Como usuario de Cambiazo, quiero ver qué ONGs están aliadas con la plataforma para tener confianza al hacer donaciones.</td>
-      <td><b>Escenario 1: Ver ONGs aliadas</b><br/>Given estoy en la sección "Donar".<br/><br/>When exploro las opciones de donación.<br/><br/>Then puedo ver una lista de ONGs verificadas y aliadas.<br/>And cada ONG muestra su información, misión y certificaciones.<br/><br/><b>Escenario 2: Donar a ONG verificada</b><br/>Given selecciono una ONG aliada.<br/><br/>When elijo objetos para donar.<br/><br/>Then puedo ver que la donación será validada por la ONG.<br/>And recibo un certificado digital de mi donación.
+      <td>Compartir perfil por enlace</td>
+      <td>Como usuario de CambiaZo, quiero poder compartir el perfil de otro usuario mediante un enlace, para recomendarlo fácilmente a otras personas.</td>
+      <td><b>Escenario 1: Obtener enlace de perfil</b><br/>Given estoy viendo el perfil de un usuario.<br/><br/>When hago clic en "Compartir perfil".<br/><br/>Then el sistema me genera un enlace que puedo copiar y enviar.<br/><br/>
+      <b>Escenario 2: Acceder a perfil compartido</b><br/>Given recibí un enlace al perfil de un usuario.<br/><br/>When hago clic en él.<br/><br/>Then puedo ver el perfil público del usuario compartido.
       </td>
-      <td>E06</td>
-    </tr>
+      <td>1</td>
+  </tr>
     <tr>
       <th>UA07</th>
       <td>Versiones multilingües</td>
@@ -8044,13 +8049,13 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <tr>
       <td>1</td>
       <td>UA01</td>
-      <td>Sistema de calificaciones y reseñas</td>
+      <td>Notificación por correo al recibir propuesta o acuerdo</td>
       <td>5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>UA02</td>
-      <td>Plataforma de coordinación unificada</td>
+      <td>Confirmación visual tras publicación o edición</td>
       <td>8</td>
     </tr>
     <tr>
@@ -8062,25 +8067,25 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <tr>
       <td>4</td>
       <td>UA03</td>
-      <td>Sistema de recolección programada</td>
+      <td>Visualización de calificaciones con estrellas</td>
       <td>5</td>
     </tr>
     <tr>
       <td>5</td>
       <td>UA06</td>
-      <td>Alianzas con ONGs para validación</td>
+      <td>Compartir perfil por enlace</td>
       <td>3</td>
     </tr>
     <tr>
       <td>6</td>
       <td>UA04</td>
-      <td>Suscripción premium con boost</td>
+      <td>Publicaciones destacadas</td>
       <td>5</td>
     </tr>
     <tr>
       <td>7</td>
       <td>UA05</td>
-      <td>Sistema de boost para publicaciones</td>
+      <td>Compartir publicaciones mediante enlace</td>
       <td>3</td>
     </tr>
     <tr>

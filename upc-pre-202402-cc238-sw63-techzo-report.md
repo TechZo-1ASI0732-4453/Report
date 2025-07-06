@@ -2106,7 +2106,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|<p><h4>**Escenario 1: Acceso a la ventana de suscripciones**</h4></p><p>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br>**Cuando** se dirige a la sección de configuración desde la versión web**,<br>Entonces** deberá acceder a su perfil y, dentro de este, en la sección de Detalles de perfil, encontrará una sección llamada “Mi membresía”**.**<br>**Y** al pulsar en esta sección, podrá ver los detalles de su suscripción.</p><p>**Cuando** accede a la versión mobile y entra a la sección de Mi suscripción**,<br>Entonces** podrá ver el estado de su suscripción actual y los detalles relacionados.</p><p><h4>**Escenario 2: Verificación de los detalles de la suscripción**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** revisa los detalles,<br>**Entonces** podrá visualizar la fecha de renovación**,<br>Y** si se encuentra en un plan.</p><p></p><p><h4>**Escenario 3: Proceder a la cancelación**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** ha decidido no continuar con la suscripción premium de CambiaZo,<br>**Entonces** podrá pulsar en el botón rojo que dice **“**Anular suscripción” desde la versión web en la sección Mi membresía dentro de Detalles de perfil**.<br>Y** así, la suscripción será cancelada y no se renovará hasta la próxima fecha de pago.</p><p>**Cuando** accede desde la versión mobile** a la sección Mi suscripción y selecciona Planes,<br>**Entonces** verá la opción de cambiar a Plan Lite, lo cual efectivamente cancela la suscripción premium y la coloca en un plan gratuito, eliminando los pagos mensuales.</p><p></p>|**EP01**|
 |**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|<p><h4>**Escenario 1: Acceso a la pestaña de ONG's**</h4></p><p>**Dado que** el usuario se encuentra en la pestaña principal,<br>**Cuando** pulsa sobre la etiqueta "ONG's",<br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación, tanto en la app móvil como en la web.</p><p><h4>**Escenario 2: Ver perfil de una ONG**</h4></p><p>**Dado** **que** el usuario se encuentra dentro de la pestaña "ONG'S",<br>**Cuando** pulsa sobre el recuadro que muestra el perfil de la ONG que desea visualizar,<br>**Entonces** aparecerán los datos y características completas de la ONG seleccionada, que incluyen el nombre, la imagen, la descripción (misión, visión y objetivos), el horario de atención, la ubicación, los datos de contacto (teléfono y correo electrónico), los proyectos realizados, y los enlaces a redes sociales y página web de la ONG.</p>|**EP03**|
 |**US23**|Gestionar mis favoritos en la aplicación|Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.|**Escenario 1: Ver objetos guardados como favoritos**<br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", <br>**Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br>**Escenario 2: Eliminar un objeto de mis favoritos**<br>**Dado que** estoy visualizando la lista de favoritos, <br>**Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, <br>**Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" Y podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. <br>**Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación.|**EP01**|
-|**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma.|**Escenario 1: Ver la calificación general y reseñas recibidas**<br>**Dado que** estoy en mi perfil,<br>**Cuando** selecciono la opción "Mis Reseñas", <br>**Entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña.|**EP01**|
+|**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma.|**Escenario 1: Ver la calificación general y reseñas recibidas**<br>**Dado que** estoy en mi perfil,<br>**Cuando** selecciono la opción "Mis Reseñas", <br>**Entonces** se me mostrará el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación  y el comentario de la reseña.|**EP01**|
 |**US25**|Visualización de la Historia de la Startup|Como usuario visitante**,** quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|<p><h4>**Escenario 1: Visualizar la historia de la startup**</h4></p><p>**Dado que** me encuentro en la landing page de CambiaZo,<br>**Cuando** accedo a la sección “¿Quiénes somos?”,<br>**Entonces** veré una breve presentación sobre la startup, que explica su propósito de promover el intercambio y la donación de objetos para fomentar un estilo de vida sostenible, junto a un video introductorio que refuerza esta visión.</p><p><h4>**Escenario 2: Conocer al equipo de CambiaZo**</h4></p><p>**Dado que** me encuentro en la sección “¿Quiénes somos?” de la landing page,<br>**Cuando** deslizo el carrusel o slider que aparece a continuación del video,<br>**Entonces** podré visualizar las fotos de los integrantes del equipo, junto con sus nombres y los roles o puestos que ocupan dentro del proyecto.</p>|**EP04**|
 |**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|<p><h4>**Escenario 1: Acceso a la sección de características**</h4></p><p>**Dado** que el usuario es un visitante en la página principal,<br>**Cuando** hace clic en el botón o enlace de "Características",<br>**Entonces** es redirigido a la sección "Descubre las ventajas de ser parte de nuestra comunidad".</p><p><h4>**Escenario 2: Visualización de beneficios principales**</h4></p><p>**Dado** que el usuario está en la sección de características,<br>**Cuando** visualiza el contenido inicial,<br>**Entonces** se le muestran dos opciones destacadas de Intercambios y Donaciones</p><p><h4>**Escenario 3: Exploración visual de productos intercambiables**</h4></p><p>**Dado** que el usuario ha explorado los beneficios iniciales,<br>**Cuando** hace scroll hacia abajo,<br>**Entonces** ve un carrusel o cuadrícula de imágenes con ejemplos de productos que puede intercambiar.</p><p>**Escenario 4: Conocimiento de valores diferenciales y características específicas**<br>**Dado** que el usuario continúa navegando la sección de características,<br>**Cuando** llega al bloque "Intercambios Sostenibles, Simplificados",<br>**Entonces** visualiza un mensaje que promueve la sostenibilidad mediante el intercambio, la donación y la conexión comunitaria,<br>**Y** también identifica las siguientes características: seguridad, artículos, comunidad, sostenible.</p><p><h4>**Escenario 5: Reconocimiento de alianzas solidarias**</h4></p><p>**Dado** que el usuario ha leído las características,<br>**Cuando** llega al bloque final de la sección,<br>**Entonces** puede visualizar logotipos o imágenes de las ONGs afiliadas que trabajan junto a la app, entendiendo su compromiso social.</p>|**EP04**|
 |**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Acceso al formulario de suscripción**<br>**Dado** que el usuario visitante hace clic en la opción "Contáctanos",<br>**Cuando** es redirigido a la sección "¡Únete a CambiaZo!" en la landing page,<br>**Entonces** puede visualizar un formulario con los campos requeridos para ingresar su nombre, apellido y correo electrónico, y un botón para suscribirse|**EP04**|
@@ -8002,7 +8002,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td><b>Escenario 1: Notificación al recibir propuesta</b><br/>Given otro usuario me ha enviado una propuesta de intercambio.<br/><br/>When el sistema registra esta acción.<br/><br/>Then recibo un correo informándome sobre la nueva propuesta.<br/><br/>
       <b>Escenario 2: Notificación al pactar un intercambio</b><br/>Given he pactado un intercambio con otro usuario.<br/><br/>When se confirma el acuerdo.<br/><br/>Then el sistema me envía un correo confirmando el pacto de intercambio.
       </td>
-      <td>E05</td>
+      <td>EP02</td>
     </tr>
     <tr> 
   <th>UA02</th>
@@ -8011,7 +8011,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <td><b>Escenario 1: Publicación en proceso</b><br/>Given he completado los campos para publicar un artículo.<br/><br/>When hago clic en “Publicar”.<br/><br/>Then aparece un mensaje o animación indicando que la publicación está en curso.<br/><br/>
     <b>Escenario 2: Eliminación en proceso</b><br/>Given deseo eliminar un artículo.<br/><br/>When confirmo la acción de eliminar.<br/><br/>Then el sistema muestra un mensaje de carga que indica que se está procesando la eliminación.
     </td>
-    <td>5</td>
+    <td>EP02</td>
   </tr>
   <tr> 
     <th>UA03</th>
@@ -8019,7 +8019,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <td>Como usuario de CambiaZo, quiero ver las calificaciones representadas con estrellas, para entender fácilmente la reputación de otros usuarios.</td><td><b>Escenario 1: Ver calificación promedio como estrellas</b><br/>Given estoy en el perfil de otro usuario.<br/><br/>When reviso su información.<br/><br/>Then veo su calificación promedio representada con estrellas grandes.<br/><br/>
     <b>Escenario 2: Ver detalles de reseñas</b><br/>Given estoy explorando el perfil de un usuario.<br/><br/>When accedo a la sección de reseñas.<br/><br/>Then puedo ver comentarios y puntuaciones dejadas por otros usuarios.
     </td>
-    <td>2</td>
+    <td>EP03</td>
   </tr>
   <tr> 
     <th>UA04</th>
@@ -8028,7 +8028,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <td><b>Escenario 1: Visualizar artículos destacados</b><br/>Given estoy navegando la vista general de productos.<br/><br/>When llego a la página principal.<br/><br/>Then veo una sección que muestra publicaciones destacadas con un diseño diferenciado.<br/><br/>
     <b>Escenario 2: Filtro de destacados</b><br/>Given estoy buscando artículos.<br/><br/>When aplico el filtro de "Destacados".<br/><br/>Then solo se muestran artículos marcados como destacados.
     </td>
-    <td>2</td>
+    <td>EP02</td>
   </tr>
   <tr> 
     <th>UA05</th>
@@ -8037,7 +8037,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
     <td><b>Escenario 1: Obtener enlace de publicación</b><br/>Given estoy viendo una publicación.<br/><br/>When hago clic en el botón “Compartir”.<br/><br/>Then el sistema genera un enlace accesible que puedo copiar y enviar.<br/><br/>
     <b>Escenario 2: Acceder a publicación compartida</b><br/>Given he recibido un enlace de una publicación.<br/><br/>When accedo al enlace desde un navegador.<br/><br/>Then visualizo la publicación en la plataforma sin necesidad de buscarla manualmente.
     </td>
-    <td>5</td>
+    <td>EP02</td>
   </tr>
   <tr> 
       <th>UA06</th>
@@ -8046,7 +8046,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td><b>Escenario 1: Obtener enlace de perfil</b><br/>Given estoy viendo el perfil de un usuario.<br/><br/>When hago clic en "Compartir perfil".<br/><br/>Then el sistema me genera un enlace que puedo copiar y enviar.<br/><br/>
       <b>Escenario 2: Acceder a perfil compartido</b><br/>Given recibí un enlace al perfil de un usuario.<br/><br/>When hago clic en él.<br/><br/>Then puedo ver el perfil público del usuario compartido.
       </td>
-      <td>1</td>
+      <td>EP03</td>
   </tr>
     <tr>
       <th>UA07</th>
@@ -8054,7 +8054,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>Como usuario no hispanohablante, quiero usar Cambiazo en mi idioma (inglés o chino) para entender mejor todas las funcionalidades.</td>
       <td><b>Escenario 1: Cambiar idioma de la aplicación</b><br/>Given estoy en cualquier sección de la aplicación.<br/><br/>When accedo al menú de configuración.<br/><br/>Then puedo seleccionar entre español, inglés y chino.<br/>And toda la interfaz se traduce al idioma seleccionado.<br/><br/><b>Escenario 2: Contenido traducido</b><br/>Given he cambiado el idioma de la aplicación.<br/><br/>When navego por diferentes secciones.<br/><br/>Then todos los textos, botones y mensajes están en el idioma seleccionado.<br/>And las publicaciones de otros usuarios muestran opción de traducción automática.
       </td>
-      <td>E07</td>
+      <td>EP01</td>
     </tr>
     <tr>
       <th>UA08</th>
@@ -8062,7 +8062,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>Como usuario de Cambiazo, quiero filtrar las publicaciones por categoría, estado del objeto y ubicación para encontrar exactamente lo que busco.</td>
       <td><b>Escenario 1: Aplicar filtros de búsqueda</b><br/>Given estoy en la página principal de publicaciones.<br/><br/>When hago clic en "Filtros".<br/><br/>Then puedo seleccionar categoría (ropa, electrónicos, libros, etc.).<br/>And puedo filtrar por estado (nuevo, como nuevo, usado).<br/>And puedo establecer un radio de distancia desde mi ubicación.<br/><br/><b>Escenario 2: Búsqueda con múltiples filtros</b><br/>Given he aplicado varios filtros.<br/><br/>When hago clic en "Aplicar filtros".<br/><br/>Then veo solo las publicaciones que cumplen todos los criterios.<br/>And puedo guardar esta combinación de filtros como favorita.
       </td>
-      <td>E08</td>
+      <td>EP02</td>
     </tr>
   </tbody>
 </table>
@@ -8089,37 +8089,37 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>2</td>
       <td>UA02</td>
       <td>Confirmación visual tras publicación o edición</td>
-      <td>8</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>3</td>
       <td>UA08</td>
       <td>Filtros de búsqueda avanzados</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>4</td>
       <td>UA03</td>
       <td>Visualización de calificaciones con estrellas</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>5</td>
       <td>UA06</td>
       <td>Compartir perfil por enlace</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>6</td>
       <td>UA04</td>
       <td>Publicaciones destacadas</td>
-      <td>5</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>7</td>
       <td>UA05</td>
       <td>Compartir publicaciones mediante enlace</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>8</td>
@@ -8162,7 +8162,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-02</td>
       <td>Activar notificaciones al recibir propuesta</td>
       <td>Detectar evento de nueva propuesta y disparar correo al destinatario.</td>
-      <td>1.5</td>
+      <td>2</td>
       <td>Joseph Huamani</td>
       <td>To-do</td>
     </tr>
@@ -8206,7 +8206,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-07</td>
       <td>Mostrar estrellas en sección de reseñas</td>
       <td>Representar cada reseña con estrellas visibles.</td>
-      <td>1</td>
+      <td>1.5</td>
       <td>Joseph Huamani</td>
       <td>To-do</td>
     </tr>
@@ -8214,17 +8214,17 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td rowspan="2">UA04</td>
       <td rowspan="2">Publicaciones destacadas</td>
       <td>WI-08</td>
-      <td>Añadir indicador visual de destacado</td>
-      <td>Agregar una etiqueta visual en artículos destacados dentro del listado general.</td>
-      <td>1.5</td>
+      <td>Mostrar indicador visual en publicaciones destacadas</td>
+      <td>Diseñar y colocar una etiqueta o ícono visible que identifique a los artículos destacados dentro del listado general.</td>
+      <td>0.4</td>
       <td>Mathias Mendoza</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>WI-09</td>
-      <td>Implementar filtro de destacados</td>
-      <td>Permitir filtrar publicaciones por "Destacados".</td>
-      <td>1</td>
+      <td>Aplicar filtro independiente para destacados</td>
+      <td>Implementar la opción para filtrar artículos destacados sin interferir con otros filtros activos.</td>
+      <td>0.6</td>
       <td>Mathias Mendoza</td>
       <td>To-do</td>
     </tr>
@@ -8242,7 +8242,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-11</td>
       <td>Cargar publicación desde enlace compartido</td>
       <td>Permitir acceder directamente a la publicación a través del enlace.</td>
-      <td>1</td>
+      <td>0.5</td>
       <td>Jeremy Quispe</td>
       <td>To-do</td>
     </tr>
@@ -8252,26 +8252,34 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-12</td>
       <td>Generar enlace del perfil de usuario</td>
       <td>Implementar función que permite copiar un enlace al perfil de un usuario.</td>
-      <td>1</td>
+      <td>2</td>
       <td>Joseph Huamani</td>
       <td>To-do</td>
     </tr>
     <tr>
-      <td rowspan="2">UA07</td>
-      <td rowspan="2">Versiones multilingües</td>
+      <td rowspan="3">UA07</td>
+      <td rowspan="3">Versiones multilingües</td>
       <td>WI-13</td>
       <td>Configurar selector de idioma</td>
-      <td>Agregar opción en configuración para elegir idioma de la app.</td>
-      <td>1.5</td>
+      <td>Agregar una opción en la sección de configuración que permita al usuario elegir entre español, inglés y chino.</td>
+      <td>3</td>
       <td>Ian Santisteban</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>WI-14</td>
       <td>Traducir interfaz al idioma seleccionado</td>
-      <td>Traducir textos e interfaz dinámica según idioma seleccionado.</td>
-      <td>2.5</td>
+      <td>Aplicar traducciones en todos los textos de la interfaz, incluyendo menús, botones, etiquetas y mensajes del sistema.</td>
+      <td>3.5</td>
       <td>Jeremy Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-15</td>
+      <td>Validar visualización y consistencia de idioma</td>
+      <td>Verificar que todos los componentes se actualicen correctamente al cambiar el idioma y que no queden textos sin traducir.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
       <td>To-do</td>
     </tr>
     <tr>
@@ -8280,7 +8288,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-15</td>
       <td>Crear panel de filtros avanzados</td>
       <td>Permitir seleccionar categoría, estado y ubicación.</td>
-      <td>2</td>
+      <td>1.5</td>
       <td>Mathias Mendoza</td>
       <td>To-do</td>
     </tr>
@@ -8288,7 +8296,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
       <td>WI-16</td>
       <td>Aplicar múltiples filtros en resultados</td>
       <td>Mostrar publicaciones que cumplen con todos los filtros seleccionados.</td>
-      <td>1.5</td>
+      <td>0.5</td>
       <td>Claudio  Quispesivana</td>
       <td>To-do</td>
     </tr>

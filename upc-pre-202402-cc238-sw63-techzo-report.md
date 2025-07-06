@@ -8299,6 +8299,34 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 #### 8.3.3.3. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.4. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 #### 8.3.3.6. Team Collaboration Insights
+### 8.3.4. To-Be Validation Interviews
+#### 8.3.4.1. Diseño de Entrevistas.
+
+1. ¿Cómo te ayudó la notificación por correo a mantenerte informado sobre propuestas o intercambios en la plataforma? 
+
+2. ¿Qué sensación te generó ver un mensaje o animación de carga al publicar o eliminar un artículo? ¿Te pareció útil o innecesario? 
+
+3. ¿Qué opinas de la visualización de las calificaciones con estrellas en los perfiles de usuario? ¿Te pareció fácil de interpretar? 
+
+4. ¿Qué diferencias notaste entre las publicaciones destacadas y las comunes? ¿Te motivaron más a explorarlas o no influyeron mucho? 
+
+5. ¿En qué situaciones decidiste compartir una publicación mediante enlace? ¿Qué te pareció ese proceso? 
+
+6. ¿Cómo fue la experiencia de la persona que recibió el enlace de una publicación? ¿Pudo visualizarla sin dificultades? 
+
+7. ¿En qué contexto usaste la opción de compartir el perfil de otro usuario? ¿Qué te motivó a hacerlo? 
+
+8. ¿Qué opinas sobre la posibilidad de recomendar perfiles de confianza mediante un enlace compartible? 
+
+9. ¿Qué tan clara y útil te pareció la traducción al cambiar el idioma de la aplicación? ¿Notaste algún texto sin traducir o poco claro? 
+
+10. ¿Cómo fue tu experiencia al aplicar múltiples filtros en la búsqueda de productos? ¿Te ayudó a encontrar lo que necesitabas con mayor facilidad? 
+
+11. Considerando todas las nuevas funcionalidades que probaste, ¿cuáles crees que tuvieron el mayor impacto positivo en tu experiencia como usuario y por qué?
+
+#### 8.3.4.2. Registro de Entrevistas.
+
+
 
 
 <div style="page-break-after: always;"></div>

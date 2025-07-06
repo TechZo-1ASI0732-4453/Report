@@ -8130,6 +8130,177 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   </tbody>
 </table>
 
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+#### 8.3.3.1. To-Be Sprint Backlogs
+
+<table>
+  <thead>
+    <tr>
+      <th>User Story</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Task Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">UA01</td>
+      <td rowspan="3">Notificación por correo al recibir propuesta o acuerdo</td>
+      <td>WI-01</td>
+      <td>Configurar servicio de envío de correos</td>
+      <td>Implementar integración con servicio SMTP para envío automático de correos ante eventos de propuesta o acuerdo.</td>
+      <td>2</td>
+      <td>Jeremy Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Activar notificaciones al recibir propuesta</td>
+      <td>Detectar evento de nueva propuesta y disparar correo al destinatario.</td>
+      <td>1.5</td>
+      <td>Joseph Huamani</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Enviar correo de confirmación al pactar intercambio</td>
+      <td>Detectar acuerdo finalizado y enviar email de confirmación al usuario.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA02</td>
+      <td rowspan="2">Mensaje de carga al publicar o eliminar artículo</td>
+      <td>WI-04</td>
+      <td>Agregar loader en acción de publicar</td>
+      <td>Mostrar spinner de carga mientras se envía la publicación.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-05</td>
+      <td>Agregar loader al eliminar artículo</td>
+      <td>Mostrar animación de proceso al eliminar artículo.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA03</td>
+      <td rowspan="2">Visualización de calificaciones con estrellas</td>
+      <td>WI-06</td>
+      <td>Mostrar estrellas en perfil de usuario</td>
+      <td>Convertir calificación promedio numérica a representación visual en estrellas.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-07</td>
+      <td>Mostrar estrellas en sección de reseñas</td>
+      <td>Representar cada reseña con estrellas visibles.</td>
+      <td>1</td>
+      <td>Joseph Huamani</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA04</td>
+      <td rowspan="2">Publicaciones destacadas</td>
+      <td>WI-08</td>
+      <td>Añadir indicador visual de destacado</td>
+      <td>Agregar una etiqueta visual en artículos destacados dentro del listado general.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-09</td>
+      <td>Implementar filtro de destacados</td>
+      <td>Permitir filtrar publicaciones por "Destacados".</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA05</td>
+      <td rowspan="2">Compartir publicaciones mediante enlace</td>
+      <td>WI-10</td>
+      <td>Generar enlace único para publicación</td>
+      <td>Crear funcionalidad que genera y copia un enlace único de cada publicación.</td>
+      <td>1.5</td>
+      <td>Claudio  Quispesivana</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-11</td>
+      <td>Cargar publicación desde enlace compartido</td>
+      <td>Permitir acceder directamente a la publicación a través del enlace.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>UA06</td>
+      <td>Compartir perfil por enlace</td>
+      <td>WI-12</td>
+      <td>Generar enlace del perfil de usuario</td>
+      <td>Implementar función que permite copiar un enlace al perfil de un usuario.</td>
+      <td>1</td>
+      <td>Joseph Huamani</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA07</td>
+      <td rowspan="2">Versiones multilingües</td>
+      <td>WI-13</td>
+      <td>Configurar selector de idioma</td>
+      <td>Agregar opción en configuración para elegir idioma de la app.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-14</td>
+      <td>Traducir interfaz al idioma seleccionado</td>
+      <td>Traducir textos e interfaz dinámica según idioma seleccionado.</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td rowspan="2">UA08</td>
+      <td rowspan="2">Filtros de búsqueda avanzados</td>
+      <td>WI-15</td>
+      <td>Crear panel de filtros avanzados</td>
+      <td>Permitir seleccionar categoría, estado y ubicación.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>WI-16</td>
+      <td>Aplicar múltiples filtros en resultados</td>
+      <td>Mostrar publicaciones que cumplen con todos los filtros seleccionados.</td>
+      <td>1.5</td>
+      <td>Claudio  Quispesivana</td>
+      <td>To-do</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence
+#### 8.3.3.3. Implemented To-Be Native-Mobile Application Evidence
+#### 8.3.3.4. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+#### 8.3.3.6. Team Collaboration Insights
+
+
 <div style="page-break-after: always;"></div>
 
 # Conclusiones

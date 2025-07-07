@@ -8434,7 +8434,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/Interviews/sebatianlobato_interview.png?raw=true"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Interviews/sebatianlobato_interview.png?raw=true"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -8494,7 +8494,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/Interviews/jhersonastuyauri_interview.png?raw=true" alt="Jherson Astuyauri"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Interviews/jhersonastuyauri_interview.png?raw=true" alt="Jherson Astuyauri"></div></td>
   </tr>
   <tr>
     <td>Link</td>

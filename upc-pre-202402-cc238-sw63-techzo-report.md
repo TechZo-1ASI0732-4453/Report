@@ -8862,6 +8862,23 @@ Se implementaron **prácticas de integración, entrega y despliegue continuos** 
 
 En el Capítulo VIII se consolidó un enfoque riguroso de desarrollo impulsado por la experimentación, estructurado en tres fases: planificación, diseño y ejecución. Se partió de un análisis del estado actual (*As-Is*) y se identificaron suposiciones, vacíos de conocimiento e hipótesis clave, las cuales se tradujeron en preguntas listas para probar mediante un backlog priorizado y *experiment cards*. Luego, se diseñaron experimentos con hipótesis comprobables, métricas relevantes, condiciones de prueba bien definidas, selección de métodos adecuados y un plan de seguimiento en plataformas web y móviles. Este diseño incorporó cálculos de escala y KPIs para garantizar la validez de los resultados. Finalmente, se ejecutaron experimentos con nuevas historias de usuario y un backlog ajustado, lo que permitió tomar decisiones informadas basadas en evidencia. Este proceso fortaleció la capacidad del equipo para aprender de forma estructurada, reducir riesgos e innovar de manera validada en contextos inciertos.
 
+### Conclusiones de Hypotheses  
+
+La implementación de notificaciones por correo demostró un aumento significativo en la tasa de respuesta, superando el umbral del 40 %, lo que confirma que mantener a los usuarios informados en tiempo real mejora la comunicación y reduce la pérdida de oportunidades.
+
+La presencia de un mensaje de carga durante la publicación o eliminación de artículos fue valorada positivamente por más del 80 % de los usuarios encuestados, lo que indica que ofrecer claridad en procesos críticos refuerza la percepción de estabilidad del sistema y mejora la experiencia de uso.
+
+La representación de las calificaciones mediante estrellas grandes facilitó la interpretación para los usuarios, elevando su nivel de comprensión por encima del 70 %, y validando que las visualizaciones gráficas son más intuitivas que los valores numéricos.
+
+La opción de destacar ciertos artículos en la vista general generó al menos un 35 % más de clics en las publicaciones resaltadas, lo que confirma que un énfasis visual capta la atención de los usuarios y fomenta una mayor interacción.
+
+La función de compartir publicaciones mediante enlaces externos impulsó un incremento del 30 % en nuevas visitas procedentes de fuera de la plataforma, lo cual ratifica que los enlaces facilitan la promoción de productos y atraen a un público más amplio.
+
+El filtrado por categoría, estado y ubicación redujo el tiempo de búsqueda en un 35 % y elevó la satisfacción de los usuarios en un 25 %, evidenciando que los filtros mejoran la eficiencia de la exploración y disminuyen la frustración al encontrar artículos específicos.
+
+La posibilidad de compartir perfiles a través de enlaces provocó un aumento del 25 % en visitas e interacciones con los perfiles compartidos, demostrando que esta funcionalidad potencia la conectividad y el interés entre usuarios.
+
+La inclusión de versiones multilingües en inglés y chino incrementó el uso activo de la plataforma por parte de usuarios no hispanohablantes en un 20 %, confirmando que eliminar barreras idiomáticas amplía el alcance y mejora la experiencia de un público más diverso.
 
 ### Conclusión
 

@@ -8388,6 +8388,129 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 
 #### 8.3.4.2. Registro de Entrevistas
 
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Sebastian</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Lobato</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Sandro Quispesivana</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/Interviews/sebatianlobato_interview.png?raw=true"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EaM3DZ-9GN9Dlvc5razHefYBYqCmMm0X7YSPgo4sBQaF4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rUmXdX" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 3:27 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Sebastián Lobato, durante la Validation Interview, comenta que CambiaZo presenta un diseño atractivo y funcional, pero identifica oportunidades de mejora al resaltar secciones como los testimonios y los botones de acción, así como la incorporación de una sección de preguntas frecuentes. Subraya la importancia de optimizar los filtros, el sistema de calificación de usuarios y los tiempos de carga. Además, recomienda implementar validaciones de identidad, opciones de transacciones seguras y eventos comunitarios para reforzar la confianza entre los usuarios. Aunque valora positivamente el enfoque comunitario de la plataforma, enfatiza que es fundamental fortalecer la seguridad y la experiencia de usuario para que alcance todo su potencial. </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jherson </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Astuyauri</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Villa El Salvador</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Sandro Quispesivana</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VIII/Interviews/jhersonastuyauri_interview.png?raw=true" alt="Jherson Astuyauri"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EfwAFNoj1J9PgRlniyhFaTABDmapElTKVRcVlkZTemlQlA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TJgxUq" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>0:00 min - 4:40 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Jherson Astuyauri, en la Validation Interview, señala que CambiaZo cuenta con un diseño atractivo y funcional, pero ve áreas de oportunidad para destacar secciones como testimonios y botones de acción, además de incluir una sección de preguntas frecuentes. Resalta la relevancia de optimizar los filtros de búsqueda, el sistema de calificación de usuarios y los tiempos de carga. Asimismo, sugiere implementar validaciones de identidad, opciones de transacciones seguras y la realización de eventos comunitarios para fortalecer la confianza entre los usuarios. Aunque valora el enfoque comunitario de la plataforma, enfatiza la necesidad de reforzar la seguridad y la experiencia del usuario para maximizar su potencial. </td>
+  </tr>
+</tbody>
+</table>
+
 ## 8.4 Experiment Aftermath & Analysis  
 ### 8.4.1 Analysis and Interpretation of Results  
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog  

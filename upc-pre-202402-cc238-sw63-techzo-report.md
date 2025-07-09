@@ -8575,14 +8575,146 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 
 ### 8.4.1 Analysis and Interpretation of Results  
 
+En el estudio realizado para evaluar la experiencia de usuario con la aplicación Cambiazo, se reformularon y estructuraron las preguntas originales de las entrevistas iniciales. El objetivo fue captar respuestas más claras y relevantes, permitiendo identificar con mayor precisión las percepciones, preferencias y necesidades de los participantes respecto a las funcionalidades clave del producto
+
+Preguntas Formuladas
+Se presentaron las siguientes preguntas a una muestra de 20 posibles clientes, quienes respondieron en base a su experiencia con Cambiazo:
+
+1. ¿Qué tan fácil le resulta encontrar artículos que desea intercambiar?
+    
+2. ¿Qué opina sobre la seguridad y confianza que le genera la plataforma?
+    
+3. ¿Le resulta clara la información de los productos publicados?
+    
+4. ¿Cómo calificaría la experiencia de comunicación con otros usuarios (chat de coordinación)?
+    
+5. ¿Qué tan útil considera la opción de donar artículos a organizaciones benéficas?
+    
+6. ¿Cómo evaluaría la facilidad de publicar un nuevo artículo para intercambio o donación?
+    
+7. ¿Qué opina sobre la organización y navegación dentro de la aplicación?
+    
+8. ¿Le gustaría que se agregaran más filtros de búsqueda? ¿Cuáles?
+    
+9. ¿Recomendaría CambiaZo a amigos o familiares? ¿Por qué?
+    
+10. ¿Qué mejoras sugiere para aumentar su confianza y satisfacción al realizar intercambios o donaciones?
+
+A continuación, se presentan los resultados obtenidos y su interpretación.
+
+Análisis de la Encuesta UX CambiaZo
+
+- Facilidad para encontrar artículos
+
+Distribución de respuestas:
+La mayoría de los usuarios calificó esta funcionalidad con 4 o 5 puntos. Esto indica que, en general, los usuarios encuentran relativamente sencillo ubicar productos para intercambiar, aunque existe un segmento menor con calificaciones de 3 que sugiere oportunidades para optimizar la búsqueda o mejorar los filtros disponibles.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_encontrar_articulos.png?raw=true" alt="grafica_facilidad_encontrar_articulos">
+</div></td>
+
+- Percepción de seguridad y confianza
+
+Distribución de respuestas:
+Más del 70% de los usuarios otorgaron calificaciones de 4 o 5 a la seguridad de la plataforma. Este resultado refleja que la confianza en las transacciones es uno de los puntos fuertes de CambiaZo, pero se debería mantener un monitoreo constante y reforzar los sistemas de verificación para prevenir intercambios injustos.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_seguridad_confianza.png?raw=true" alt="grafica_seguridad_confianza">
+</div></td>
+
+- Claridad de información en productos
+
+Distribución de respuestas:
+La mayoría calificó la claridad con valores entre 4 y 5. Sin embargo, un grupo pequeño otorgó puntuaciones de 3, lo que evidencia la necesidad de optimizar las descripciones y fotografías de los artículos publicados para garantizar la transparencia y reducir malentendidos.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_claridad_informacion_productos.png?raw=true" alt="grafica_claridad_informacion_productos">
+</div></td>
+
+- Experiencia con el chat de coordinación
+
+Distribución de respuestas:
+Las calificaciones se concentran en valores de 4 y 5, lo cual indica que la función de comunicación cumple con las expectativas. Aun así, algunos usuarios sugieren mejoras en la interfaz de mensajes para facilitar la coordinación de intercambios.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_experiencia_chat.png?raw=true" alt="grafica_experiencia_chat">
+</div></td>
+
+- Utilidad de la opción de donaciones
+
+Distribución de respuestas:
+El 100% de los participantes considera útil o muy útil la opción de donar artículos a organizaciones benéficas. Esto valida la relevancia de esta funcionalidad como valor agregado y sugiere que se debe continuar promocionando este aspecto solidario.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_utilidad_donaciones.png?raw=true" alt="grafica_utilidad_donaciones">
+</div></td>
+
+- Facilidad para publicar artículos
+
+Distribución de respuestas:
+Predominan puntuaciones de 4 y 5, demostrando que la mayoría encuentra sencilla la publicación de productos. Aun así, algunos usuarios calificaron con 3, lo que indica que podría mejorarse la guía paso a paso o la usabilidad del formulario de publicación.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_publicar.png?raw=true" alt="grafica_facilidad_publicar">
+</div></td>
+
+- Organización y navegación
+
+Distribución de respuestas:
+En promedio, los usuarios evalúan bien la organización interna de la app, con mayoría de respuestas en 4 y 5. Sin embargo, las sugerencias apuntan a mejorar la ubicación de categorías y filtros para optimizar la experiencia de navegación.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_organizacion_navegacion.png?raw=true" alt="grafica_organizacion_navegacion">
+</div></td>
+
+- Preferencia por más filtros
+
+Distribución de respuestas:
+Casi todos los usuarios (95%) respondieron que les gustaría tener más filtros de búsqueda. Entre las sugerencias destacan filtros por ubicación geográfica, estado del artículo y distancia, lo que evidencia una clara demanda para esta mejora.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_preferencia_filtros.png?raw=true" alt="grafica_preferencia_filtros">
+</div></td>
+
+- Nivel de recomendación
+
+Distribución de respuestas:
+El 100% de los participantes recomendaría CambiaZo a amigos o familiares. Esto refleja una alta satisfacción general con la plataforma y valida el potencial de crecimiento mediante recomendaciones boca a boca.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_nivel_recomendacion.png?raw=true" alt="grafica_nivel_recomendacion">
+</div></td>
+
+- Principales sugerencias de mejora
+
+Resumen de hallazgos:
+Entre las ideas más mencionadas están: incorporar más ONGs locales para donaciones, optimizar la velocidad del buscador, mejorar la verificación de usuarios y agregar filtros por ubicación y estado del producto. Estas mejoras pueden reforzar la confianza y la facilidad de uso.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_sugerencias_mejoras_1.png?raw=true" alt="grafica_sugerencias_mejoras">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_sugerencias_mejoras_2.png?raw=true" alt="grafica_sugerencias_mejoras">
+</div></td>
+
+
+Conclusión General del Análisis UX CambiaZo
+Los resultados de esta encuesta muestran que CambiaZo cuenta con una percepción positiva por parte de los usuarios, destacando especialmente la utilidad de la función de donaciones, la seguridad de la plataforma y la facilidad para encontrar y publicar artículos.
+
+Sin embargo, se identifican oportunidades de mejora en aspectos clave como la claridad de la información de los productos, la optimización del chat de coordinación y la incorporación de más filtros de búsqueda. Además, las sugerencias recibidas demuestran la importancia de fortalecer la verificación de usuarios y la inclusión de más ONGs locales para ampliar el impacto social.
+
+En conjunto, estos hallazgos confirman que la aplicación está alineada con las necesidades de quienes buscan intercambiar y donar bienes de forma responsable y sostenible. Mantener la escucha activa a la comunidad y priorizar mejoras basadas en estas observaciones permitirá reforzar la confianza y la satisfacción de los usuarios, consolidando a CambiaZo como una alternativa sólida para promover la economía circular en el país.
 
 
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog  
 
+
 ## 8.5 Continuous Learning  
+
 ### 8.5.1 Shareback Session Artifacts: Learning Workflow  
 
+
 ## 8.6 To-Be Software Platform Pre-launch  
+
+
 ### 8.6.1 About-the-Product Intro Video  
 
 

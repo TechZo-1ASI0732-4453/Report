@@ -8820,12 +8820,32 @@ En general, los usuarios calificaron entre 4 y 5 el impacto positivo de estas nu
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_encontrar_articulos.png?raw=true" alt="grafica_facilidad_encontrar_articulos">
 </div></td>
 
+Recomendaciones de los Usuarios
+A partir de los resultados de la encuesta UX, los usuarios destacaron como mejoras significativas:
+
+Notificaciones por correo y mensajes de carga: Son valoradas como útiles para mantenerse informados y para dar retroalimentación clara en acciones clave como publicar o eliminar artículos.
+
+Visualización de calificaciones y perfiles confiables: La interpretación de estrellas y la opción de compartir perfiles fortalecen la confianza entre usuarios.
+
+Publicaciones destacadas y opción de compartir enlaces: Motivan a explorar más productos y facilitan la difusión fuera de la plataforma.
+
+Traducciones multilingües: Los usuarios valoran la opción de cambiar el idioma a inglés o chino, pero sugieren seguir puliendo textos.
+
+Filtros de búsqueda avanzados: Son ampliamente solicitados para hacer más efectiva la localización de productos específicos.
+
+Estos hallazgos indican que la mayoría de las funcionalidades lanzadas aportaron valor, pero deben mantenerse en revisión para optimizar la experiencia general.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/recomendations.png?raw=true" alt="recomendations">
+</div></td>
+
 Conclusión General del Análisis UX CambiaZo
 Los resultados muestran que las nuevas funcionalidades —como las notificaciones, las publicaciones destacadas, la visualización de perfiles, los filtros de búsqueda y la traducción— fueron bien recibidas por la mayoría de los usuarios. La mayoría calificó su experiencia con valores altos y expresó confianza en compartir y recomendar la plataforma. Aún así, se identifican oportunidades para pulir detalles como la claridad de algunos textos y optimizar la experiencia de compartir perfiles y enlaces. En conjunto, CambiaZo consolida su propuesta como una plataforma útil, confiable y fácil de usar para intercambios y donaciones.
 
 
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog  
 
+<table border="1" cellpadding="8" cellspacing="0"> <thead> <tr> <th>Prioridad (1,2,3,5,8)</th> <th>Pregunta</th> </tr> </thead> <tbody> <tr> <td>5</td> <td>¿Mejorará la comunicación entre usuarios si se envía una notificación por correo al recibir una propuesta o pactar un intercambio? (nuevo)</td> </tr> <tr> <td>5</td> <td>¿Mejorará la experiencia del usuario al mostrar un mensaje de carga mientras se publica o elimina un artículo?</td> </tr> <tr> <td>5</td> <td>¿Aumentará el entendimiento de las calificaciones si se muestra el promedio con estrellas grandes en vez de solo números?</td> </tr> <tr> <td>5</td> <td>¿Aumentará la visibilidad de publicaciones relevantes si se permite destacar ciertos artículos en la vista general de productos?</td> </tr> <tr> <td>3</td> <td>¿Facilitará la difusión de productos si se permite compartir publicaciones mediante un enlace? (nuevo)</td> </tr> <tr> <td>3</td> <td>¿Mejorará la experiencia de búsqueda al incluir filtros por categoría, estado y ubicación?</td> </tr> <tr> <td>2</td> <td>¿Facilitará la interacción entre usuarios si se permite compartir el perfil de otro usuario mediante un enlace?</td> </tr> <tr> <td>1</td> <td>¿Mejorará la experiencia de usuarios no hispanohablantes con versiones multilingües (inglés, chino)?</td> </tr> </tbody> </table>
 
 ## 8.5 Continuous Learning  
 

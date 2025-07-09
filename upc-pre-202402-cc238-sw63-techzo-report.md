@@ -8480,11 +8480,11 @@ UA08 - Filtros de búsqueda avanzados
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
-<div align="center">
-  <img src="" alt="UA03 Evidence 2" width="600">
-</div><br>
-
 - En el Swagger implementamos el atributo rating que representa el promedio de calificaciones de intercambios.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Backend-Evidence/UA03-Evidence-2.png?raw=true" alt="UA03 Evidence 2" width="600">
+</div><br>
 
 #### 8.3.3.6. Team Collaboration Insights
 ### 8.3.4. To-Be Validation Interviews

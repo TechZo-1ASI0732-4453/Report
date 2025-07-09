@@ -8479,6 +8479,13 @@ UA08 - Filtros de búsqueda avanzados
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+<div align="center">
+  <img src="" alt="UA03 Evidence 2" width="600">
+</div><br>
+
+- En el Swagger implementamos el atributo rating que representa el promedio de calificaciones de intercambios.
+
 #### 8.3.3.6. Team Collaboration Insights
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas
@@ -8930,11 +8937,11 @@ Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
 
 # Anexos
 
-+ Landing Page: [Ver Landing Page](https://cambiazo-site.netlify.app/)<br><br>
++ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
 
 + Aplicación Web: [Ver Aplicación Web](https://cambia-zo.netlify.app/home)<br><br>
 
-+ Backend: [Ver Backend](https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#)<br><br>
++ Backend: [Ver Backend](https://cambiazo-techzo-gzdtcfcca4fxeaec.westus-01.azurewebsites.net/swagger-ui/index.html#)<br><br>
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0732-4453)<br><br>
 

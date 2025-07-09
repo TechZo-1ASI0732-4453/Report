@@ -8357,6 +8357,20 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 </table>
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+ UA07 - Versiones multilingües	
+
+ - En el header de la landing page, el usuario puede seleccionar el idioma (inglés o chino) a través del menú de cambio de idioma.
+
+ <div align="center">
+  <img src="" alt="UA01 Evidence 1" width="600">
+</div><br>
+
+ - Una vez seleccionado, toda la interfaz de la landing page se actualiza para mostrar los textos traducidos al idioma elegido.
+
+ <div align="center">
+  <img src="" alt="UA01 Evidence 1" width="600">
+</div><br>
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
 UA01 - Notificación por correo al recibir propuesta o acuerdo
@@ -8454,13 +8468,13 @@ UA08 - Filtros de búsqueda avanzados
 - En la página de Búsqueda, se pueden aplicar filtros como palabra clave, rango de precios y ubicación.
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA07-Evidence-1.png?raw=true" alt="UA08 Evidence 1" width="600">
+  <img src="" alt="UA08 Evidence 1" width="600">
 </div><br>
 
 - Tras llenar los campos y pulsar Buscar, se muestran solo los productos que cumplen con esos criterios.
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA07-Evidence-2.png?raw=true" alt="UA08 Evidence 2" width="600">
+  <img src="" alt="UA08 Evidence 2" width="600">
 </div><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence

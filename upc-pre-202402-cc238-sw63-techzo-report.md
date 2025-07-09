@@ -8953,6 +8953,8 @@ Enlace: https://docs.google.com/forms/d/e/1FAIpQLScCec2giP5ds6ESNDXkPmUVRzC7jTLz
 
 ### 8.6.1 About-the-Product Intro Video  
 
+El siguiente video subido a YouTube tiene como objetivo presentar CambiaZo, una plataforma que facilita el intercambio de objetos y servicios entre usuarios, fomentando el consumo responsable y la reutilización. Este contenido muestra cómo CambiaZo busca generar un impacto positivo, promoviendo prácticas sostenibles y creando una comunidad más conectada e informada, impulsando así el crecimiento de una economía colaborativa y solidaria.
+
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
  </div>

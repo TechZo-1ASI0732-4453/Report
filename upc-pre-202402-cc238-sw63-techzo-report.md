@@ -8438,7 +8438,7 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EaM3DZ-9GN9Dlvc5razHefYBYqCmMm0X7YSPgo4sBQaF4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rUmXdX" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EUaJgmETt_JBorcNXjbvP6cByg826XMIPoaZJzptir-Ttg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AebmzH" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -8498,11 +8498,11 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EfwAFNoj1J9PgRlniyhFaTABDmapElTKVRcVlkZTemlQlA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TJgxUq" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EUaJgmETt_JBorcNXjbvP6cByg826XMIPoaZJzptir-Ttg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AebmzH" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>0:00 min - 4:40 min</td>
+    <td>3:27 min - 8:07 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -8511,6 +8511,65 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jeremi </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Antonio</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Carabayllo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Sandro Quispesivana</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Interviews/jeremiantonio_interview.png?raw=true" alt="Jeremi Antonio"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EUaJgmETt_JBorcNXjbvP6cByg826XMIPoaZJzptir-Ttg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AebmzH" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>8:07 min - 12:01 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Jeremi Antonio, durante la Validation Interview, destaca que CambiaZo tiene un diseño atractivo y funcional, pero identifica oportunidades de mejora al dar mayor visibilidad a secciones como los testimonios y los botones de acción, así como añadir un apartado de preguntas frecuentes. También resalta la importancia de optimizar los filtros de búsqueda, el sistema de calificación de usuarios y los tiempos de carga. Además, recomienda implementar validaciones de identidad, opciones de transacciones seguras y la organización de eventos comunitarios para generar mayor confianza entre los usuarios. Aunque valora el enfoque comunitario de la plataforma, subraya la necesidad de reforzar la seguridad y mejorar la experiencia de usuario para que la propuesta alcance su máximo potencial. </td>
+  </tr>
+</tbody>
+</table>
 ## 8.4 Experiment Aftermath & Analysis  
 ### 8.4.1 Analysis and Interpretation of Results  
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog  

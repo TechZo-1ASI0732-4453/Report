@@ -8875,6 +8875,11 @@ Enlace: https://docs.google.com/forms/d/e/1FAIpQLScCec2giP5ds6ESNDXkPmUVRzC7jTLz
 
 ### 8.6.1 About-the-Product Intro Video  
 
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+ </div>
+
+Enlace: [About the Product]( https://www.youtube.com/watch?v=2fL6Q_v7sGk)
 
 <div style="page-break-after: always;"></div>
 
@@ -8920,22 +8925,6 @@ En el Capítulo VIII se consolidó un enfoque riguroso de desarrollo impulsado p
 
 La estructura metodológica del proyecto ha estado guiada por principios de **diseño experimental**, integrando hipótesis, validación empírica y análisis reflexivo, asegurando resultados replicables y relevantes. Este enfoque permitió al equipo emitir **juicios técnicos y éticos fundamentados**, reconociendo el impacto de nuestras decisiones en entornos sociales, económicos y tecnológicos diversos. Cada etapa del proyecto fue una oportunidad para ejercitar la **capacidad crítica, la responsabilidad profesional** y la **conciencia del entorno**, logrando así una solución **técnicamente sólida y socialmente pertinente**, en línea con el **Student Outcome 4 del marco ABET**.
 
-
-## Video About the Team
-
-
-
-
-## Video About the Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
- </div>
-
-
-Enlace: [About the Product](https://youtu.be/2fL6Q_v7sGk)
-
-<div style="page-break-after: always;"></div>
 
 # Bibliografía
   <br>

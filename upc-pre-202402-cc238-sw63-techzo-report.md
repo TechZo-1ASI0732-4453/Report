@@ -8358,6 +8358,111 @@ Con este enfoque, Cambiazo se posiciona no solo como una plataforma de intercamb
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+UA01 - Notificación por correo al recibir propuesta o acuerdo
+
+- Ingresamos a la sección Ofertas recibidas dentro de nuestro perfil.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA01-Evidence-1.png?raw=true" alt="UA01 Evidence 1" width="600">
+</div><br>
+
+- Aceptamos o rechazamos una de las ofertas registradas (en el ejemplo, se acepta la oferta).
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA01-Evidence-2.png?raw=true" alt="UA01 Evidence 2" width="600">
+</div><br>
+
+- Automáticamente, se envía un correo al otro usuario notificándole la acción realizada sobre la oferta.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA01-Evidence-3.png?raw=true" alt="UA01 Evidence 3" width="600">
+</div><br>
+
+UA02 - Mensaje de carga al publicar o eliminar artículo
+
+- En la sección Publicar, completamos los campos requeridos para crear un nuevo producto.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA02-Evidence-1.png?raw=true" alt="UA02 Evidence 1" width="600">
+</div><br>
+
+- Una vez completados seleccionamos el botón Publicar.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA02-Evidence-2.png?raw=true" alt="UA02 Evidence 2" width="600">
+</div><br>
+
+- Durante el proceso, el botón se desactiva y muestra un mensaje de carga.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA02-Evidence-3.png?raw=true" alt="UA02 Evidence 3" width="600">
+</div><br>
+
+- Al completarse, el botón vuelve a mostrar “Publicar” y el producto se crea exitosamente.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA02-Evidence-4.png?raw=true" alt="UA02 Evidence 4" width="600">
+</div><br>
+
+UA03 - Visualización de calificaciones con estrellas
+
+- En la sección Mis reseñas del perfil, se visualiza el promedio de las calificaciones mediante estrellas grandes.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA03-Evidence-1.png?raw=true" alt="UA03 Evidence 1" width="600">
+</div><br>
+
+UA04 - Publicaciones destacadas
+
+- En la página de inicio, dentro de Últimas publicaciones, algunos productos aparecen con una cinta o distintivo que los resalta como destacados.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA04-Evidence-1.png?raw=true" alt="UA04 Evidence 1" width="600">
+</div><br>
+
+UA05 - Compartir publicaciones mediante enlace
+
+- En el detalle de un producto, pulsamos el botón para copiar el enlace.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA05-Evidence-1.png?raw=true" alt="UA05 Evidence 1" width="600">
+</div><br>
+
+- Se muestra un mensaje confirmando que la URL se copió correctamente.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA05-Evidence-2.png?raw=true" alt="UA05 Evidence 2" width="600">
+</div><br>
+
+UA06 - Compartir perfil por enlace
+
+- Al visitar el perfil de otro usuario, seleccionamos el botón Compartir perfil.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA06-Evidence-1.png?raw=true" alt="UA06 Evidence 1" width="600">
+</div><br>
+
+- Aparece un mensaje confirmando que el enlace se copió con éxito.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA06-Evidence-2.png?raw=true" alt="UA06 Evidence 2" width="600">
+</div><br>
+
+UA07 - Filtros de búsqueda avanzados
+
+- En la página de Búsqueda, se pueden aplicar filtros como palabra clave, rango de precios y ubicación.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA07-Evidence-1.png?raw=true" alt="UA07 Evidence 1" width="600">
+</div><br>
+
+- Tras llenar los campos y pulsar Buscar, se muestran solo los productos que cumplen con esos criterios.
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/To-Be-Frontend-Evidence/UA07-Evidence-2.png?raw=true" alt="UA07 Evidence 2" width="600">
+</div><br>
+
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 #### 8.3.3.6. Team Collaboration Insights

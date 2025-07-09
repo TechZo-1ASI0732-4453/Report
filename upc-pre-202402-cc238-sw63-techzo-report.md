@@ -8851,6 +8851,24 @@ Los resultados muestran que las nuevas funcionalidades —como las notificacione
 
 ### 8.5.1 Shareback Session Artifacts: Learning Workflow  
 
+Figma (Prototipo):
+El prototipo interactivo creado en Figma representa de forma visual y funcional las soluciones planteadas, desarrolladas considerando los requerimientos y preferencias de los usuarios. Este recurso evidencia cómo el equipo realizó iteraciones y mejoras continuas en los elementos de la interfaz y la experiencia de usuario a lo largo del proceso de diseño.
+
+Enlace: https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?node-id=551-2488&p=f&t=asM2JqmUKiUy2JQq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=551%3A2488&show-proto-sidebar=1
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/SharebackSession/proto.png?raw=true" alt="proto">
+</div></td>
+
+Encuesta de Google Forms:
+Se empleó un formulario en Google Forms para reunir opiniones de los usuarios y contrastar las hipótesis definidas durante el proceso de diseño. Esta herramienta facilitó la recolección de información clave para analizar la experiencia de usuario y sustentar las decisiones aplicadas para optimizar la aplicación.
+
+Enlace: https://docs.google.com/forms/d/e/1FAIpQLScCec2giP5ds6ESNDXkPmUVRzC7jTLzh_iBEOjMCIZk5Ek0Dw/viewform?usp=dialog
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/SharebackSession/enlace.png?raw=true" alt="enlace">
+</div></td>
+
 
 ## 8.6 To-Be Software Platform Pre-launch  
 

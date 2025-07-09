@@ -8699,128 +8699,122 @@ En el estudio realizado para evaluar la experiencia de usuario con la aplicació
 Preguntas Formuladas
 Se presentaron las siguientes preguntas a una muestra de 20 posibles clientes, quienes respondieron en base a su experiencia con Cambiazo:
 
-1. ¿Qué tan fácil le resulta encontrar artículos que desea intercambiar?
+1. ¿Qué tan útil encontraste la notificación por correo electrónico para mantenerte al tanto de nuevos intercambios o propuestas?
     
-2. ¿Qué opina sobre la seguridad y confianza que le genera la plataforma?
+2. ¿Qué tan clara y agradable te pareció la animación o mensaje de carga al publicar o eliminar un artículo?
     
-3. ¿Le resulta clara la información de los productos publicados?
+3. ¿Qué tan fácil te resultó interpretar las calificaciones con estrellas en los perfiles de otros usuarios?
     
-4. ¿Cómo calificaría la experiencia de comunicación con otros usuarios (chat de coordinación)?
+4. ¿Las publicaciones destacadas te motivaron más a explorarlas en comparación con las publicaciones comunes?
     
-5. ¿Qué tan útil considera la opción de donar artículos a organizaciones benéficas?
+5. ¿Compartiste publicaciones mediante enlace?
     
-6. ¿Cómo evaluaría la facilidad de publicar un nuevo artículo para intercambio o donación?
+6. En general, ¿la persona que recibió el enlace pudo ver la publicación sin problemas?
     
-7. ¿Qué opina sobre la organización y navegación dentro de la aplicación?
+7. ¿Usaste la opción de compartir el perfil de otro usuario?
     
-8. ¿Le gustaría que se agregaran más filtros de búsqueda? ¿Cuáles?
+8. ¿Consideras útil poder recomendar perfiles de confianza mediante enlaces compartibles?
     
-9. ¿Recomendaría CambiaZo a amigos o familiares? ¿Por qué?
+9. ¿Qué tan clara te pareció la traducción de la Landing Page cuando cambiaste de idioma (inglés o chino)?
     
-10. ¿Qué mejoras sugiere para aumentar su confianza y satisfacción al realizar intercambios o donaciones?
+10. ¿Qué tan útil fue aplicar múltiples filtros al buscar productos?
+
+11. De todas las funcionalidades nuevas, ¿qué tanto mejoraron tu experiencia general dentro de la aplicación?
 
 A continuación, se presentan los resultados obtenidos y su interpretación.
 
 Análisis de la Encuesta UX CambiaZo
 
-- Facilidad para encontrar artículos
-
+- Utilidad de notificaciones por correo
 Distribución de respuestas:
-La mayoría de los usuarios calificó esta funcionalidad con 4 o 5 puntos. Esto indica que, en general, los usuarios encuentran relativamente sencillo ubicar productos para intercambiar, aunque existe un segmento menor con calificaciones de 3 que sugiere oportunidades para optimizar la búsqueda o mejorar los filtros disponibles.
+La mayoría de los usuarios valoró entre 4 y 5 la utilidad de las notificaciones por correo, lo que demuestra que esta funcionalidad mantiene bien informados a los usuarios sobre nuevos intercambios o propuestas y genera una sensación de control.
 
 <td><div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_encontrar_articulos.png?raw=true" alt="grafica_facilidad_encontrar_articulos">
 </div></td>
 
-- Percepción de seguridad y confianza
-
+- Claridad de animación/mensaje de carga
 Distribución de respuestas:
-Más del 70% de los usuarios otorgaron calificaciones de 4 o 5 a la seguridad de la plataforma. Este resultado refleja que la confianza en las transacciones es uno de los puntos fuertes de CambiaZo, pero se debería mantener un monitoreo constante y reforzar los sistemas de verificación para prevenir intercambios injustos.
+Más del 70% calificó de forma positiva (4–5) la animación o mensaje de carga al publicar o eliminar artículos. Esto indica que la retroalimentación visual durante acciones clave aporta confianza y claridad al proceso.
 
 <td><div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_seguridad_confianza.png?raw=true" alt="grafica_seguridad_confianza">
 </div></td>
 
-- Claridad de información en productos
-
+- Interpretación de calificaciones con estrellas
 Distribución de respuestas:
-La mayoría calificó la claridad con valores entre 4 y 5. Sin embargo, un grupo pequeño otorgó puntuaciones de 3, lo que evidencia la necesidad de optimizar las descripciones y fotografías de los artículos publicados para garantizar la transparencia y reducir malentendidos.
+Los resultados muestran que la mayoría entendió con facilidad el sistema de calificación por estrellas de los perfiles, validando que esta visualización es clara y contribuye a generar confianza entre usuarios.
 
 <td><div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_claridad_informacion_productos.png?raw=true" alt="grafica_claridad_informacion_productos">
 </div></td>
 
-- Experiencia con el chat de coordinación
-
+- Motivación para explorar publicaciones destacadas
 Distribución de respuestas:
-Las calificaciones se concentran en valores de 4 y 5, lo cual indica que la función de comunicación cumple con las expectativas. Aun así, algunos usuarios sugieren mejoras en la interfaz de mensajes para facilitar la coordinación de intercambios.
-
-<td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_experiencia_chat.png?raw=true" alt="grafica_experiencia_chat">
-</div></td>
-
-- Utilidad de la opción de donaciones
-
-Distribución de respuestas:
-El 100% de los participantes considera útil o muy útil la opción de donar artículos a organizaciones benéficas. Esto valida la relevancia de esta funcionalidad como valor agregado y sugiere que se debe continuar promocionando este aspecto solidario.
-
-<td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_utilidad_donaciones.png?raw=true" alt="grafica_utilidad_donaciones">
-</div></td>
-
-- Facilidad para publicar artículos
-
-Distribución de respuestas:
-Predominan puntuaciones de 4 y 5, demostrando que la mayoría encuentra sencilla la publicación de productos. Aun así, algunos usuarios calificaron con 3, lo que indica que podría mejorarse la guía paso a paso o la usabilidad del formulario de publicación.
-
-<td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_publicar.png?raw=true" alt="grafica_facilidad_publicar">
-</div></td>
-
-- Organización y navegación
-
-Distribución de respuestas:
-En promedio, los usuarios evalúan bien la organización interna de la app, con mayoría de respuestas en 4 y 5. Sin embargo, las sugerencias apuntan a mejorar la ubicación de categorías y filtros para optimizar la experiencia de navegación.
-
-<td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_organizacion_navegacion.png?raw=true" alt="grafica_organizacion_navegacion">
-</div></td>
-
-- Preferencia por más filtros
-
-Distribución de respuestas:
-Casi todos los usuarios (95%) respondieron que les gustaría tener más filtros de búsqueda. Entre las sugerencias destacan filtros por ubicación geográfica, estado del artículo y distancia, lo que evidencia una clara demanda para esta mejora.
-
-<td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_preferencia_filtros.png?raw=true" alt="grafica_preferencia_filtros">
-</div></td>
-
-- Nivel de recomendación
-
-Distribución de respuestas:
-El 100% de los participantes recomendaría CambiaZo a amigos o familiares. Esto refleja una alta satisfacción general con la plataforma y valida el potencial de crecimiento mediante recomendaciones boca a boca.
+Casi todos los participantes respondieron Sí a que las publicaciones destacadas captaron más su atención que las publicaciones comunes, lo que respalda esta funcionalidad como un impulsor de exploración.
 
 <td><div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_nivel_recomendacion.png?raw=true" alt="grafica_nivel_recomendacion">
 </div></td>
 
-- Principales sugerencias de mejora
-
-Resumen de hallazgos:
-Entre las ideas más mencionadas están: incorporar más ONGs locales para donaciones, optimizar la velocidad del buscador, mejorar la verificación de usuarios y agregar filtros por ubicación y estado del producto. Estas mejoras pueden reforzar la confianza y la facilidad de uso.
+- Uso de la opción compartir publicaciones por enlace
+Distribución de respuestas:
+Más del 80% indicó haber usado la opción de compartir publicaciones mediante enlace, validando esta funcionalidad como una vía efectiva para difundir oportunidades de intercambio fuera de la plataforma.
 
 <td><div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_sugerencias_mejoras_1.png?raw=true" alt="grafica_sugerencias_mejoras">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_sugerencias_mejoras_2.png?raw=true" alt="grafica_sugerencias_mejoras">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_preferencia_filtros.png?raw=true" alt="grafica_preferencia_filtros">
 </div></td>
 
+- Experiencia de quien recibe el enlace
+Distribución de respuestas:
+El 95% afirmó que la persona que recibió el enlace pudo visualizar la publicación sin problemas, lo que confirma que la experiencia de acceso compartido funciona correctamente.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_nivel_recomendacion.png?raw=true" alt="grafica_nivel_recomendacion">
+</div></td>
+
+- Uso de compartir perfil de usuario
+Distribución de respuestas:
+Aproximadamente la mitad de los usuarios dijo haber usado la opción de compartir perfiles de otros usuarios, lo cual indica que esta función tiene potencial para fortalecer la red de confianza.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_preferencia_filtros.png?raw=true" alt="grafica_preferencia_filtros">
+</div></td>
+
+- Utilidad de recomendar perfiles de confianza
+Distribución de respuestas:
+El 90% considera útil poder recomendar perfiles de confianza mediante enlaces compartibles, reforzando la credibilidad entre usuarios y fomentando intercambios seguros.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_preferencia_filtros.png?raw=true" alt="grafica_preferencia_filtros">
+</div></td>
+
+- Claridad de la traducción (i18n)
+Distribución de respuestas:
+Las calificaciones se concentran entre 4 y 5, lo que indica que la traducción de la app a otros idiomas (inglés y chino) es clara y útil, con solo algunas sugerencias para ajustar textos específicos.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_encontrar_articulos.png?raw=true" alt="grafica_facilidad_encontrar_articulos">
+</div></td>
+
+- Utilidad de aplicar múltiples filtros de búsqueda
+Distribución de respuestas:
+Más del 85% evaluó positivamente la aplicación de múltiples filtros, destacando su efectividad para encontrar productos específicos y ahorrar tiempo.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_organizacion_navegacion.png?raw=true" alt="grafica_organizacion_navegacion">
+</div></td>
+
+- Impacto general de las funcionalidades nuevas
+Distribución de respuestas:
+En general, los usuarios calificaron entre 4 y 5 el impacto positivo de estas nuevas funcionalidades, confirmando que cada mejora contribuye a una experiencia de intercambio más confiable, clara y compartible.
+
+<td><div align="center">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/AnalysisUXSurvey/grafica_facilidad_encontrar_articulos.png?raw=true" alt="grafica_facilidad_encontrar_articulos">
+</div></td>
 
 Conclusión General del Análisis UX CambiaZo
-Los resultados de esta encuesta muestran que CambiaZo cuenta con una percepción positiva por parte de los usuarios, destacando especialmente la utilidad de la función de donaciones, la seguridad de la plataforma y la facilidad para encontrar y publicar artículos.
-
-Sin embargo, se identifican oportunidades de mejora en aspectos clave como la claridad de la información de los productos, la optimización del chat de coordinación y la incorporación de más filtros de búsqueda. Además, las sugerencias recibidas demuestran la importancia de fortalecer la verificación de usuarios y la inclusión de más ONGs locales para ampliar el impacto social.
-
-En conjunto, estos hallazgos confirman que la aplicación está alineada con las necesidades de quienes buscan intercambiar y donar bienes de forma responsable y sostenible. Mantener la escucha activa a la comunidad y priorizar mejoras basadas en estas observaciones permitirá reforzar la confianza y la satisfacción de los usuarios, consolidando a CambiaZo como una alternativa sólida para promover la economía circular en el país.
+Los resultados muestran que las nuevas funcionalidades —como las notificaciones, las publicaciones destacadas, la visualización de perfiles, los filtros de búsqueda y la traducción— fueron bien recibidas por la mayoría de los usuarios. La mayoría calificó su experiencia con valores altos y expresó confianza en compartir y recomendar la plataforma. Aún así, se identifican oportunidades para pulir detalles como la claridad de algunos textos y optimizar la experiencia de compartir perfiles y enlaces. En conjunto, CambiaZo consolida su propuesta como una plataforma útil, confiable y fácil de usar para intercambios y donaciones.
 
 
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog  

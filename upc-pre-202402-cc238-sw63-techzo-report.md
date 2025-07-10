@@ -4503,7 +4503,7 @@ El objetivo de este primer sprint fue desarrollar y completar por completo el ba
 Enlace: [Sprints Backlogs Trello](https://trello.com/invite/b/68253f6b5a6b20fec48a9604/ATTIb8b2ae680b376e13193cf896e7e49970C1F19E6C/cambiazo-diseno)<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprints.png?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprints.png?raw=true" alt="sprints">
 </div><br><br>
 
 **Sprint 1 - Backend**
@@ -8565,6 +8565,28 @@ UA08 - Filtros de búsqueda avanzados
 </div><br>
 
 #### 8.3.3.6. Team Collaboration Insights
+
+
+**Report**
+<div align="center">
+  <img src="" alt="Report" width="600">
+</div><br>
+
+**Landing**
+<div align="center">
+  <img src="" alt="Landing" width="600">
+</div><br>
+
+**Backend**
+<div align="center">
+  <img src="" alt="Backend" width="600">
+</div><br>
+
+**Web Application**
+<div align="center">
+  <img src="" alt="Web Application" width="600">
+</div><br>
+
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas
 
@@ -8949,8 +8971,6 @@ Enlace: https://docs.google.com/forms/d/e/1FAIpQLScCec2giP5ds6ESNDXkPmUVRzC7jTLz
 
 
 ## 8.6 To-Be Software Platform Pre-launch  
-
-
 ### 8.6.1 About-the-Product Intro Video  
 
 El siguiente video subido a YouTube tiene como objetivo presentar CambiaZo, una plataforma que facilita el intercambio de objetos y servicios entre usuarios, fomentando el consumo responsable y la reutilización. Este contenido muestra cómo CambiaZo busca generar un impacto positivo, promoviendo prácticas sostenibles y creando una comunidad más conectada e informada, impulsando así el crecimiento de una economía colaborativa y solidaria.

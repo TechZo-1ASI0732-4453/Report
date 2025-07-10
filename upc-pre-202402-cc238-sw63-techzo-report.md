@@ -8569,22 +8569,22 @@ UA08 - Filtros de búsqueda avanzados
 
 **Report**
 <div align="center">
-  <img src="" alt="Report" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Team-Collaboration-Insights/report-insights.png?raw=true" alt="Report" width="600">
 </div><br>
 
 **Landing**
 <div align="center">
-  <img src="" alt="Landing" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Team-Collaboration-Insights/landing-insights.png?raw=true" alt="Landing" width="600">
 </div><br>
 
 **Backend**
 <div align="center">
-  <img src="" alt="Backend" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Team-Collaboration-Insights/backend-insights.png?raw=true" alt="Backend" width="600">
 </div><br>
 
 **Web Application**
 <div align="center">
-  <img src="" alt="Web Application" width="600">
+  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tf/Resources/Chapter-VIII/Team-Collaboration-Insights/web-insights.png?raw=true" alt="Web Application" width="600">
 </div><br>
 
 ### 8.3.4. To-Be Validation Interviews
